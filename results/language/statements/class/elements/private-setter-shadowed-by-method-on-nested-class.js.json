@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/language/statements/class/elements/private-setter-shadowed-by-method-on-nested-class.js:41\n\n","path":"test262/test/language/statements/class/elements/private-setter-shadowed-by-method-on-nested-class.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    [Jj]ava([Ss]cript)?(?=\\:)\n                       ^^^\nerror: look-around, including look-ahead and look-behind, is not supported\n    at test262/test/built-ins/RegExp/S15.10.2.8_A1_T4.js:15\n\n","path":"test262/test/built-ins/RegExp/S15.10.2.8_A1_T4.js"}

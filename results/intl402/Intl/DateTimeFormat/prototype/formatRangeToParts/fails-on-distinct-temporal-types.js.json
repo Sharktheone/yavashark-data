@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at test262/test/intl402/Intl/DateTimeFormat/prototype/formatRangeToParts/fails-on-distinct-temporal-types.js:10\n\n","path":"test262/test/intl402/Intl/DateTimeFormat/prototype/formatRangeToParts/fails-on-distinct-temporal-types.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/harness/temporalHelpers.js:883\n    at checkToTemporalCalendarFastPath (test262/test/built-ins/Temporal/Duration/prototype/total/calendar-temporal-object.js:25)\n\n","path":"test262/test/built-ins/Temporal/Duration/prototype/total/calendar-temporal-object.js"}

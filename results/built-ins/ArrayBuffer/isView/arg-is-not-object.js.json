@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/ArrayBuffer/isView/arg-is-not-object.js:15\n\n","path":"test262/test/built-ins/ArrayBuffer/isView/arg-is-not-object.js"}

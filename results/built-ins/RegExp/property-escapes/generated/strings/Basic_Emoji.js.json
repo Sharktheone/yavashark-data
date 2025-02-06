@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    ^\\p{Basic_Emoji}+$\n     ^^^^^^^^^^^^^^^\nerror: Unicode not allowed here\n    at test262/test/built-ins/RegExp/property-escapes/generated/strings/Basic_Emoji.js:16\n\n","path":"test262/test/built-ins/RegExp/property-escapes/generated/strings/Basic_Emoji.js"}

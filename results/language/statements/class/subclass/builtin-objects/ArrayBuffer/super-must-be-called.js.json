@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/language/statements/class/subclass/builtin-objects/ArrayBuffer/super-must-be-called.js:19\n\n","path":"test262/test/language/statements/class/subclass/builtin-objects/ArrayBuffer/super-must-be-called.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/PlainDate/prototype/toZonedDateTime/timezone-string-datetime.js:10\n\n","path":"test262/test/built-ins/Temporal/PlainDate/prototype/toZonedDateTime/timezone-string-datetime.js"}

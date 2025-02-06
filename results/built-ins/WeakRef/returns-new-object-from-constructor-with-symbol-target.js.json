@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at test262/test/built-ins/WeakRef/returns-new-object-from-constructor-with-symbol-target.js:20\n\n","path":"test262/test/built-ins/WeakRef/returns-new-object-from-constructor-with-symbol-target.js"}

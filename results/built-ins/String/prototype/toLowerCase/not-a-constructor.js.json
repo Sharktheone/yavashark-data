@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toLowerCase' of undefined\n    at test262/test/built-ins/String/prototype/toLowerCase/not-a-constructor.js:24\n\n","path":"test262/test/built-ins/String/prototype/toLowerCase/not-a-constructor.js"}

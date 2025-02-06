@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at test262/test/built-ins/Proxy/has/return-false-targetdesc-not-configurable-using-with.js:28\n\n","path":"test262/test/built-ins/Proxy/has/return-false-targetdesc-not-configurable-using-with.js"}

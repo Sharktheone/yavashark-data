@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'then' of undefined\n    at test262/test/language/expressions/object/method-definition/forbidden-ext/b2/async-meth-forbidden-ext-indirect-access-prop-caller.js:63\n\n","path":"test262/test/language/expressions/object/method-definition/forbidden-ext/b2/async-meth-forbidden-ext-indirect-access-prop-caller.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at test262/test/intl402/RelativeTimeFormat/constructor/constructor/options-toobject.js:20\n\n","path":"test262/test/intl402/RelativeTimeFormat/constructor/constructor/options-toobject.js"}

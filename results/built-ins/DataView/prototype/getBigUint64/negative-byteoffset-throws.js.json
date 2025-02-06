@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/getBigUint64/negative-byteoffset-throws.js:11\n\n","path":"test262/test/built-ins/DataView/prototype/getBigUint64/negative-byteoffset-throws.js"}

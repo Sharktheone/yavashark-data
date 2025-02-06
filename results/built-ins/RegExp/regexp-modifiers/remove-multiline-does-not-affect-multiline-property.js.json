@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/harness/assert.js:18\n    at assert (test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-multiline-property.js:37)\n\n","path":"test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-multiline-property.js"}

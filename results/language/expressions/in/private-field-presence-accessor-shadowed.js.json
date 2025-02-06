@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at test262/test/language/expressions/in/private-field-presence-accessor-shadowed.js:35\n    at isNameIn (test262/test/language/expressions/in/private-field-presence-accessor-shadowed.js:43)\n\n","path":"test262/test/language/expressions/in/private-field-presence-accessor-shadowed.js"}

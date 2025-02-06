@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at test262/test/language/expressions/in/private-field-rhs-await-absent.js:31\n    at isNameIn (test262/test/language/expressions/in/private-field-rhs-await-absent.js:36)\n\n","path":"test262/test/language/expressions/in/private-field-rhs-await-absent.js"}

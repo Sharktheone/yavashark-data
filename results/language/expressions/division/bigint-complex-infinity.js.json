@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/language/expressions/division/bigint-complex-infinity.js:21\n\n","path":"test262/test/language/expressions/division/bigint-complex-infinity.js"}

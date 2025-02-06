@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Int32Array is not defined\n    at test262/test/built-ins/Atomics/store/expected-return-value.js:21\n\n","path":"test262/test/built-ins/Atomics/store/expected-return-value.js"}

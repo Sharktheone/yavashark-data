@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: unescape is not defined\n    at test262/test/annexB/built-ins/unescape/four-ignore-end-str.js:25\n\n","path":"test262/test/annexB/built-ins/unescape/four-ignore-end-str.js"}

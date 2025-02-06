@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/eval-code/direct/var-env-gloabl-lex-strict-caller.js:16\n\n","path":"test262/test/language/eval-code/direct/var-env-gloabl-lex-strict-caller.js"}

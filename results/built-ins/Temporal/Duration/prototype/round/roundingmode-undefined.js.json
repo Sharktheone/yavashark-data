@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/Duration/prototype/round/roundingmode-undefined.js:11\n\n","path":"test262/test/built-ins/Temporal/Duration/prototype/round/roundingmode-undefined.js"}

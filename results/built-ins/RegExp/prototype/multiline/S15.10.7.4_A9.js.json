@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'hasOwnProperty' of undefined\n    at test262/test/built-ins/RegExp/prototype/multiline/S15.10.7.4_A9.js:14\n\n","path":"test262/test/built-ins/RegExp/prototype/multiline/S15.10.7.4_A9.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/statements/class/elements/nested-derived-cls-direct-eval-err-contains-supercall-1.js:28\n\n","path":"test262/test/language/statements/class/elements/nested-derived-cls-direct-eval-err-contains-supercall-1.js"}

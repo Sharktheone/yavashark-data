@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at test262/test/built-ins/JSON/stringify/value-tojson-result.js:22\n\n","path":"test262/test/built-ins/JSON/stringify/value-tojson-result.js"}

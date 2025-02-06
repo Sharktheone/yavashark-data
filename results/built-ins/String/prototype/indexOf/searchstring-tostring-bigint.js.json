@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a string, found BigInt(0)\n    at Object (test262/test/built-ins/String/prototype/indexOf/searchstring-tostring-bigint.js:13)\n\n","path":"test262/test/built-ins/String/prototype/indexOf/searchstring-tostring-bigint.js"}

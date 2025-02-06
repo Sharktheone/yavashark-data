@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'length' of undefined\n    at test262/test/built-ins/RegExp/match-indices/indices-array-unmatched.js:29\n\n","path":"test262/test/built-ins/RegExp/match-indices/indices-array-unmatched.js"}

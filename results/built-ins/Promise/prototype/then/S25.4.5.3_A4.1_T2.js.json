@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/built-ins/Promise/prototype/then/S25.4.5.3_A4.1_T2.js:15\n\n","path":"test262/test/built-ins/Promise/prototype/then/S25.4.5.3_A4.1_T2.js"}

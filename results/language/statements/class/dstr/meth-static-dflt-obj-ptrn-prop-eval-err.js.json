@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/harness/assert.js:71\n    at anonymous (test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-eval-err.js:74)\n\n","path":"test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-eval-err.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/ZonedDateTime/prototype/with/throws-on-temporal-object-with-time-zone.js:10\n\n","path":"test262/test/built-ins/Temporal/ZonedDateTime/prototype/with/throws-on-temporal-object-with-time-zone.js"}

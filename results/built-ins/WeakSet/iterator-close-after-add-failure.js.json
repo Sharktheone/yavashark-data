@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at test262/test/built-ins/WeakSet/iterator-close-after-add-failure.js:32\n\n","path":"test262/test/built-ins/WeakSet/iterator-close-after-add-failure.js"}

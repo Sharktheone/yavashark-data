@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/built-ins/Temporal/Duration/negative-infinity-throws-rangeerror.js:11\n\n","path":"test262/test/built-ins/Temporal/Duration/negative-infinity-throws-rangeerror.js"}

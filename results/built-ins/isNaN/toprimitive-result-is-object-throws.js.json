@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/built-ins/isNaN/toprimitive-result-is-object-throws.js:29\n\n","path":"test262/test/built-ins/isNaN/toprimitive-result-is-object-throws.js"}

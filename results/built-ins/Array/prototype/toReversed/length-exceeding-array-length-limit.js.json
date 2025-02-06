@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/built-ins/Array/prototype/toReversed/length-exceeding-array-length-limit.js:36\n\n","path":"test262/test/built-ins/Array/prototype/toReversed/length-exceeding-array-length-limit.js"}

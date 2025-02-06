@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/harness/assert.js:49\n    at anonymous (test262/test/language/statements/class/super/in-static-getter.js:22)\n\n","path":"test262/test/language/statements/class/super/in-static-getter.js"}

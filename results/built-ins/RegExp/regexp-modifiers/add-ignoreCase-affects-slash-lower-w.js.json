@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    (?i-:\\w)\n       ^\nerror: dangling flag negation operator\n    at test262/test/built-ins/RegExp/regexp-modifiers/add-ignoreCase-affects-slash-lower-w.js:62\n\n","path":"test262/test/built-ins/RegExp/regexp-modifiers/add-ignoreCase-affects-slash-lower-w.js"}

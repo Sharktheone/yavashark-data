@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Float64Array is not defined\n    at test262/harness/testTypedArray.js:19\n\n","path":"test262/test/built-ins/TypedArray/prototype/indexOf/detached-buffer.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: prototype does not exist on object\n    at test262/test/built-ins/String/prototype/replaceAll/searchValue-replacer-RegExp-call.js:29\n\n","path":"test262/test/built-ins/String/prototype/replaceAll/searchValue-replacer-RegExp-call.js"}

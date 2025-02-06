@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at test262/test/built-ins/Uint8Array/prototype/setFromHex/target-size.js:11\n\n","path":"test262/test/built-ins/Uint8Array/prototype/setFromHex/target-size.js"}

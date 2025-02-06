@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/ZonedDateTime/prototype/toJSON/balance-negative-time-units.js:35\n\n","path":"test262/test/built-ins/Temporal/ZonedDateTime/prototype/toJSON/balance-negative-time-units.js"}

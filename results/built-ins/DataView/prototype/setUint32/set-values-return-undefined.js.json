@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/setUint32/set-values-return-undefined.js:31\n\n","path":"test262/test/built-ins/DataView/prototype/setUint32/set-values-return-undefined.js"}

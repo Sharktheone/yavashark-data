@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    .(?=Z)*\n     ^^^\nerror: look-around, including look-ahead and look-behind, is not supported\n    at test262/test/annexB/language/literals/regexp/quantifiable-assertion-followed-by.js:30\n\n","path":"test262/test/annexB/language/literals/regexp/quantifiable-assertion-followed-by.js"}

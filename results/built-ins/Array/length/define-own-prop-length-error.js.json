@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/built-ins/Array/length/define-own-prop-length-error.js:17\n\n","path":"test262/test/built-ins/Array/length/define-own-prop-length-error.js"}

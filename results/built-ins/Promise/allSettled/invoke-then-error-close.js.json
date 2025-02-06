@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/built-ins/Promise/allSettled/invoke-then-error-close.js:19\n\n","path":"test262/test/built-ins/Promise/allSettled/invoke-then-error-close.js"}

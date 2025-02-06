@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'lastIndexOf' of undefined\n    at test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A4_T5.js:29\n\n","path":"test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A4_T5.js"}

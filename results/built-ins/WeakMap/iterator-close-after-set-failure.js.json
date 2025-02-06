@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at test262/test/built-ins/WeakMap/iterator-close-after-set-failure.js:32\n\n","path":"test262/test/built-ins/WeakMap/iterator-close-after-set-failure.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'Symbol(toStringTag)' of undefined\n    at test262/test/built-ins/Object/prototype/toString/symbol-tag-non-str-builtin.js:19\n\n","path":"test262/test/built-ins/Object/prototype/toString/symbol-tag-non-str-builtin.js"}

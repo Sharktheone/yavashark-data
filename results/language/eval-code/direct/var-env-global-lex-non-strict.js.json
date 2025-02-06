@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js:30\n\n","path":"test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js"}

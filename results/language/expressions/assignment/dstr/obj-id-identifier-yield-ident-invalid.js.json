@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: Test262: This statement should not be evaluated.\n    at test262/harness/sta.js:26\n    at $DONOTEVALUATE (test262/test/language/expressions/assignment/dstr/obj-id-identifier-yield-ident-invalid.js:21)\n\n","path":"test262/test/language/expressions/assignment/dstr/obj-id-identifier-yield-ident-invalid.js"}

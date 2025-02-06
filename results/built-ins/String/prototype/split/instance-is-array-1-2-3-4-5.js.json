@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'split' of undefined\n    at test262/test/built-ins/String/prototype/split/instance-is-array-1-2-3-4-5.js:15\n\n","path":"test262/test/built-ins/String/prototype/split/instance-is-array-1-2-3-4-5.js"}

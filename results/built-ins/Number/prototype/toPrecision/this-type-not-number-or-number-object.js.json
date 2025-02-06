@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toPrecision' of undefined\n    at test262/test/built-ins/Number/prototype/toPrecision/this-type-not-number-or-number-object.js:31\n\n","path":"test262/test/built-ins/Number/prototype/toPrecision/this-type-not-number-or-number-object.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'split' of undefined\n    at test262/test/built-ins/String/prototype/split/transferred-to-number-separator-override-tostring-returns-regexp.js:23\n\n","path":"test262/test/built-ins/String/prototype/split/transferred-to-number-separator-override-tostring-returns-regexp.js"}

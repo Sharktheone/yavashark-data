@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/setInt16/return-abrupt-from-tonumber-value.js:22\n\n","path":"test262/test/built-ins/DataView/prototype/setInt16/return-abrupt-from-tonumber-value.js"}

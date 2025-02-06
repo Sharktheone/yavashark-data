@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SyntaxError is not defined\n    at test262/test/language/expressions/import.meta/not-accessible-from-direct-eval.js:14\n\n","path":"test262/test/language/expressions/import.meta/not-accessible-from-direct-eval.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at test262/test/built-ins/JSON/stringify/replacer-array-empty.js:27\n\n","path":"test262/test/built-ins/JSON/stringify/replacer-array-empty.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at test262/test/language/expressions/class/dstr/meth-ary-ptrn-elision-exhausted.js:78\n\n","path":"test262/test/language/expressions/class/dstr/meth-ary-ptrn-elision-exhausted.js"}

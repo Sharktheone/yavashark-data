@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/built-ins/Promise/reject-ignored-via-fn-deferred.js:25\n\n","path":"test262/test/built-ins/Promise/reject-ignored-via-fn-deferred.js"}

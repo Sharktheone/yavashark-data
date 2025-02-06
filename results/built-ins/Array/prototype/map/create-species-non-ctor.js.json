@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: parseInt is not defined\n    at test262/test/built-ins/Array/prototype/map/create-species-non-ctor.js:26\n\n","path":"test262/test/built-ins/Array/prototype/map/create-species-non-ctor.js"}

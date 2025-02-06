@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/built-ins/Set/prototype/entries/this-not-object-throw-symbol.js:19\n\n","path":"test262/test/built-ins/Set/prototype/entries/this-not-object-throw-symbol.js"}

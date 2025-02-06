@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/PlainDate/prototype/equals/argument-string-time-zone-annotation.js:25\n\n","path":"test262/test/built-ins/Temporal/PlainDate/prototype/equals/argument-string-time-zone-annotation.js"}

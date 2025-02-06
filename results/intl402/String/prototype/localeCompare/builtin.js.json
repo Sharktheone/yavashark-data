@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'localeCompare' of undefined\n    at test262/test/intl402/String/prototype/localeCompare/builtin.js:15\n\n","path":"test262/test/intl402/String/prototype/localeCompare/builtin.js"}

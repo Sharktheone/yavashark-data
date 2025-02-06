@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toPrecision' of undefined\n    at test262/test/built-ins/Number/prototype/toPrecision/precision-cannot-be-coerced-to-a-number-in-range.js:16\n\n","path":"test262/test/built-ins/Number/prototype/toPrecision/precision-cannot-be-coerced-to-a-number-in-range.js"}

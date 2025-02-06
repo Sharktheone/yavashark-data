@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toExponential' of undefined\n    at test262/test/built-ins/Number/prototype/toExponential/this-is-0-fractiondigits-is-0.js:28\n\n","path":"test262/test/built-ins/Number/prototype/toExponential/this-is-0-fractiondigits-is-0.js"}

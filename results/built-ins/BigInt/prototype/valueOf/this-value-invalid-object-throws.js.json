@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'valueOf' of undefined\n    at test262/test/built-ins/BigInt/prototype/valueOf/this-value-invalid-object-throws.js:22\n\n","path":"test262/test/built-ins/BigInt/prototype/valueOf/this-value-invalid-object-throws.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at test262/test/built-ins/Promise/race/iter-returns-false-reject.js:36\n\n","path":"test262/test/built-ins/Promise/race/iter-returns-false-reject.js"}

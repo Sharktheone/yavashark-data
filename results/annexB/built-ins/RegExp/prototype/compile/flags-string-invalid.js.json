@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SyntaxError is not defined\n    at test262/test/annexB/built-ins/RegExp/prototype/compile/flags-string-invalid.js:23\n\n","path":"test262/test/annexB/built-ins/RegExp/prototype/compile/flags-string-invalid.js"}

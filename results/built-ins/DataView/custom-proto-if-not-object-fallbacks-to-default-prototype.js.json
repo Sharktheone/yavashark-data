@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/custom-proto-if-not-object-fallbacks-to-default-prototype.js:37\n\n","path":"test262/test/built-ins/DataView/custom-proto-if-not-object-fallbacks-to-default-prototype.js"}

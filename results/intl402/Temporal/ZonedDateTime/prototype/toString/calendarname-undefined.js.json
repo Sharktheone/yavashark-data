@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at test262/test/intl402/Temporal/ZonedDateTime/prototype/toString/calendarname-undefined.js:22\n\n","path":"test262/test/intl402/Temporal/ZonedDateTime/prototype/toString/calendarname-undefined.js"}

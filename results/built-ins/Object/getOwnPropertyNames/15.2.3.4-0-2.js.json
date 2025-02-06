@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'length' of undefined\n    at test262/test/built-ins/Object/getOwnPropertyNames/15.2.3.4-0-2.js:11\n\n","path":"test262/test/built-ins/Object/getOwnPropertyNames/15.2.3.4-0-2.js"}

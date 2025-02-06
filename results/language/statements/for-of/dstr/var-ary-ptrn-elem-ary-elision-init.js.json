@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at test262/test/language/statements/for-of/dstr/var-ary-ptrn-elem-ary-elision-init.js:58\n\n","path":"test262/test/language/statements/for-of/dstr/var-ary-ptrn-elem-ary-elision-init.js"}

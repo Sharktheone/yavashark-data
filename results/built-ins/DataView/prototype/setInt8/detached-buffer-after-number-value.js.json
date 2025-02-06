@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/setInt8/detached-buffer-after-number-value.js:25\n\n","path":"test262/test/built-ins/DataView/prototype/setInt8/detached-buffer-after-number-value.js"}

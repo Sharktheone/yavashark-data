@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at test262/test/staging/built-ins/Array/prototype/flatMap/callback-with-side-effects.js:18\n    at TestGrow (test262/test/staging/built-ins/Array/prototype/flatMap/callback-with-side-effects.js:12)\n\n","path":"test262/test/staging/built-ins/Array/prototype/flatMap/callback-with-side-effects.js"}

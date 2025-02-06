@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: isFinite is not defined\n    at test262/test/built-ins/isFinite/tonumber-operations.js:16\n\n","path":"test262/test/built-ins/isFinite/tonumber-operations.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/expressions/object/scope-gen-meth-body-lex-distinct.js:49\n    at m (test262/test/language/expressions/object/scope-gen-meth-body-lex-distinct.js:52)\n\n","path":"test262/test/language/expressions/object/scope-gen-meth-body-lex-distinct.js"}

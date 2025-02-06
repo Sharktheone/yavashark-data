@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/intl402/Temporal/PlainDate/prototype/toLocaleString/options-conflict.js:29\n\n","path":"test262/test/intl402/Temporal/PlainDate/prototype/toLocaleString/options-conflict.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at test262/test/built-ins/Array/prototype/join/S15.4.4.5_A6.6.js:10\n\n","path":"test262/test/built-ins/Array/prototype/join/S15.4.4.5_A6.6.js"}

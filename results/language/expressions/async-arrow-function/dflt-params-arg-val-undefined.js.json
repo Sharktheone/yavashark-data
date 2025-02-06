@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: fromHole is not defined\n    at test262/test/language/expressions/async-arrow-function/dflt-params-arg-val-undefined.js:54\n    at Object (test262/test/language/expressions/async-arrow-function/dflt-params-arg-val-undefined.js:58)\n\n","path":"test262/test/language/expressions/async-arrow-function/dflt-params-arg-val-undefined.js"}

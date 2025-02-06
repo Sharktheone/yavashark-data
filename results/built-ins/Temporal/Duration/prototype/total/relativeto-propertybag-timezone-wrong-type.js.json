@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/Duration/prototype/total/relativeto-propertybag-timezone-wrong-type.js:12\n\n","path":"test262/test/built-ins/Temporal/Duration/prototype/total/relativeto-propertybag-timezone-wrong-type.js"}

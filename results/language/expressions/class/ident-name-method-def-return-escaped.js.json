@@ -1,0 +1,1 @@
+{"status":"PARSE_ERROR","msg":"PARSE_ERROR:\nError { error: (920..931, EscapeInReservedWord { word: \"return\" }) }\nthread 'main' panicked at crates/yavashark_test262/src/utils.rs:77:13:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"test262/test/language/expressions/class/ident-name-method-def-return-escaped.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at test262/test/built-ins/Proxy/construct/trap-is-undefined-proto-from-cross-realm-newtarget.js:41\n\n","path":"test262/test/built-ins/Proxy/construct/trap-is-undefined-proto-from-cross-realm-newtarget.js"}

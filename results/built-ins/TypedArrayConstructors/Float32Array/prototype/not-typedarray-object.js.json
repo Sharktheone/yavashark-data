@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/built-ins/TypedArrayConstructors/Float32Array/prototype/not-typedarray-object.js:15\n\n","path":"test262/test/built-ins/TypedArrayConstructors/Float32Array/prototype/not-typedarray-object.js"}

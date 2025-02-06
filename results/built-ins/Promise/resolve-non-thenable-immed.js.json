@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/built-ins/Promise/resolve-non-thenable-immed.js:28\n\n","path":"test262/test/built-ins/Promise/resolve-non-thenable-immed.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/ArrayBuffer/prototype/resize/resize-same-size-zero-explicit.js:33\n\n","path":"test262/test/built-ins/ArrayBuffer/prototype/resize/resize-same-size-zero-explicit.js"}

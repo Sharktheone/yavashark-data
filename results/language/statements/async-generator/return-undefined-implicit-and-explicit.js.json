@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/language/statements/async-generator/return-undefined-implicit-and-explicit.js:70\n\n","path":"test262/test/language/statements/async-generator/return-undefined-implicit-and-explicit.js"}

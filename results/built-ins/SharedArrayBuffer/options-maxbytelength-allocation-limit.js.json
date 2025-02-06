@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/built-ins/SharedArrayBuffer/options-maxbytelength-allocation-limit.js:28\n\n","path":"test262/test/built-ins/SharedArrayBuffer/options-maxbytelength-allocation-limit.js"}

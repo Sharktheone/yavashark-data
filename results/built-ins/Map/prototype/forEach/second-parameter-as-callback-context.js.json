@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Map is not defined\n    at test262/test/built-ins/Map/prototype/forEach/second-parameter-as-callback-context.js:24\n\n","path":"test262/test/built-ins/Map/prototype/forEach/second-parameter-as-callback-context.js"}

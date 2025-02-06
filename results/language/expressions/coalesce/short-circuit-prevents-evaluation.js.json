@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/test/language/expressions/coalesce/short-circuit-prevents-evaluation.js:39\n    at poison (test262/test/language/expressions/coalesce/short-circuit-prevents-evaluation.js:43)\n\n","path":"test262/test/language/expressions/coalesce/short-circuit-prevents-evaluation.js"}

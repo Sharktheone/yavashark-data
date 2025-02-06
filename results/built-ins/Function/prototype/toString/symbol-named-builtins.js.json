@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'Symbol(match)' of undefined\n    at test262/test/built-ins/Function/prototype/toString/symbol-named-builtins.js:10\n\n","path":"test262/test/built-ins/Function/prototype/toString/symbol-named-builtins.js"}

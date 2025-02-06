@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    (?\u003cfst\u003e.)(?\u003csnd\u003e.)\n           ^\nerror: pattern can match invalid UTF-8\n    at test262/test/built-ins/RegExp/named-groups/functional-replace-non-global.js:23\n\n","path":"test262/test/built-ins/RegExp/named-groups/functional-replace-non-global.js"}

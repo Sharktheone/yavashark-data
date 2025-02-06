@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at test262/test/intl402/Date/prototype/throws-same-exceptions-as-DateTimeFormat.js:12\n\n","path":"test262/test/intl402/Date/prototype/throws-same-exceptions-as-DateTimeFormat.js"}

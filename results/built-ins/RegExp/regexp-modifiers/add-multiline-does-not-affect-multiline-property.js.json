@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    (?m-:)\n       ^\nerror: dangling flag negation operator\n    at test262/test/built-ins/RegExp/regexp-modifiers/add-multiline-does-not-affect-multiline-property.js:42\n\n","path":"test262/test/built-ins/RegExp/regexp-modifiers/add-multiline-does-not-affect-multiline-property.js"}

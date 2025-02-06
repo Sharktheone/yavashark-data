@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    ^[\\ud800\\udc00]$\n        ^^^^\nerror: hexadecimal literal is not a Unicode scalar value\n    at test262/test/language/literals/regexp/u-surrogate-pairs-atom-char-class.js:23\n\n","path":"test262/test/language/literals/regexp/u-surrogate-pairs-atom-char-class.js"}

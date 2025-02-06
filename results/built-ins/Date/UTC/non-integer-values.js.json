@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at test262/test/built-ins/Date/UTC/non-integer-values.js:28\n\n","path":"test262/test/built-ins/Date/UTC/non-integer-values.js"}

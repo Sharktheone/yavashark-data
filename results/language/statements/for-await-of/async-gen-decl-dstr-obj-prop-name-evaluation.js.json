@@ -1,0 +1,1 @@
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/for_of.rs:15:13:\nnot yet implemented: ForInStmt left is not VarDecl\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-prop-name-evaluation.js"}

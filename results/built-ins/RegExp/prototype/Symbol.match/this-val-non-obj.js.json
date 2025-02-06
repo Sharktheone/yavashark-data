@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/built-ins/RegExp/prototype/Symbol.match/this-val-non-obj.js:13\n\n","path":"test262/test/built-ins/RegExp/prototype/Symbol.match/this-val-non-obj.js"}

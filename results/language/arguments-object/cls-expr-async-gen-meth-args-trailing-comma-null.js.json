@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at test262/test/language/arguments-object/cls-expr-async-gen-meth-args-trailing-comma-null.js:73\n\n","path":"test262/test/language/arguments-object/cls-expr-async-gen-meth-args-trailing-comma-null.js"}

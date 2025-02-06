@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at test262/test/language/statements/for-of/uint8array-mutate.js:14\n\n","path":"test262/test/language/statements/for-of/uint8array-mutate.js"}

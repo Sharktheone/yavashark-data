@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/expressions/super/prop-dot-cls-val-from-eval.js:33\n    at method (test262/test/language/expressions/super/prop-dot-cls-val-from-eval.js:44)\n\n","path":"test262/test/language/expressions/super/prop-dot-cls-val-from-eval.js"}

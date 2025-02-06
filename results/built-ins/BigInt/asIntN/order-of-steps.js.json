@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object Object])\n    at Object (test262/test/built-ins/BigInt/asIntN/order-of-steps.js:31)\n\n","path":"test262/test/built-ins/BigInt/asIntN/order-of-steps.js"}

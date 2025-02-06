@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/ZonedDateTime/prototype/with/zoned-datetime-like-at-minimum-date-time.js:20\n\n","path":"test262/test/built-ins/Temporal/ZonedDateTime/prototype/with/zoned-datetime-like-at-minimum-date-time.js"}

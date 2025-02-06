@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"1\")\n    at Object (test262/test/built-ins/Number/isSafeInteger/arg-is-not-number.js:16)\n\n","path":"test262/test/built-ins/Number/isSafeInteger/arg-is-not-number.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: prototype does not exist on object\n    at test262/test/built-ins/Error/isError/error-subclass.js:11\n\n","path":"test262/test/built-ins/Error/isError/error-subclass.js"}

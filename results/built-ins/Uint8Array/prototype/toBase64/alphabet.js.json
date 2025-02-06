@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at test262/test/built-ins/Uint8Array/prototype/toBase64/alphabet.js:9\n\n","path":"test262/test/built-ins/Uint8Array/prototype/toBase64/alphabet.js"}

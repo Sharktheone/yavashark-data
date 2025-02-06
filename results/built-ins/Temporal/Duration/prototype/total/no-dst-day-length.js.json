@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/Duration/prototype/total/no-dst-day-length.js:9\n\n","path":"test262/test/built-ins/Temporal/Duration/prototype/total/no-dst-day-length.js"}

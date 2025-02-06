@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at test262/test/language/expressions/async-generator/named-yield-star-sync-throw.js:132\n    at g (test262/test/language/expressions/async-generator/named-yield-star-sync-throw.js:142)\n\n","path":"test262/test/language/expressions/async-generator/named-yield-star-sync-throw.js"}

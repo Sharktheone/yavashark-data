@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/language/eval-code/direct/non-definable-global-function.js:32\n\n","path":"test262/test/language/eval-code/direct/non-definable-global-function.js"}

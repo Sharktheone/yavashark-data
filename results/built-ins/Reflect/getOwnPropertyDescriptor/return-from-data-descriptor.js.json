@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at test262/test/built-ins/Reflect/getOwnPropertyDescriptor/return-from-data-descriptor.js:22\n\n","path":"test262/test/built-ins/Reflect/getOwnPropertyDescriptor/return-from-data-descriptor.js"}

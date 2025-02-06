@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toString' of undefined\n    at test262/test/built-ins/Number/prototype/toString/S15.7.4.2_A2_T34.js:11\n\n","path":"test262/test/built-ins/Number/prototype/toString/S15.7.4.2_A2_T34.js"}

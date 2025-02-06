@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/getUint32/detached-buffer-after-toindex-byteoffset.js:26\n\n","path":"test262/test/built-ins/DataView/prototype/getUint32/detached-buffer-after-toindex-byteoffset.js"}

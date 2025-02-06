@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/built-ins/Temporal/ZonedDateTime/compare/disregard-time-zone-ids-if-exact-times-are-equal.js:13\n\n","path":"test262/test/built-ins/Temporal/ZonedDateTime/compare/disregard-time-zone-ids-if-exact-times-are-equal.js"}

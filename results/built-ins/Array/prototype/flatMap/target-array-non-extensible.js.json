@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at test262/test/built-ins/Array/prototype/flatMap/target-array-non-extensible.js:44\n\n","path":"test262/test/built-ins/Array/prototype/flatMap/target-array-non-extensible.js"}

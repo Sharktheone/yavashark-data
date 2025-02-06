@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'trimRight' of undefined\n    at test262/test/annexB/built-ins/String/prototype/trimRight/reference-trimEnd.js:17\n\n","path":"test262/test/annexB/built-ins/String/prototype/trimRight/reference-trimEnd.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ReferenceError is not defined\n    at test262/test/language/directive-prologue/func-decl-inside-func-decl-runtime.js:20\n    at testcase (test262/test/language/directive-prologue/func-decl-inside-func-decl-runtime.js:24)\n\n","path":"test262/test/language/directive-prologue/func-decl-inside-func-decl-runtime.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8ClampedArray is not defined\n    at test262/test/language/statements/for-of/uint8clampedarray.js:12\n\n","path":"test262/test/language/statements/for-of/uint8clampedarray.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at test262/test/built-ins/GeneratorPrototype/next/from-state-executing.js:41\n    at withoutVal (test262/test/built-ins/GeneratorPrototype/next/from-state-executing.js:48)\n\n","path":"test262/test/built-ins/GeneratorPrototype/next/from-state-executing.js"}

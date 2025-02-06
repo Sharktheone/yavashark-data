@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at test262/test/built-ins/SharedArrayBuffer/prototype/grow/new-length-negative.js:20\n\n","path":"test262/test/built-ins/SharedArrayBuffer/prototype/grow/new-length-negative.js"}

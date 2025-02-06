@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'message' of undefined\n    at test262/test/built-ins/Error/the-initial-value-of-errorprototypemessage-is-the-empty-string.js:9\n\n","path":"test262/test/built-ins/Error/the-initial-value-of-errorprototypemessage-is-the-empty-string.js"}

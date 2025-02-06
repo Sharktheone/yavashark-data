@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: globalThis is not defined\n    at test262/test/language/eval-code/direct/async-func-expr-named-a-preceding-parameter-is-named-arguments-declare-arguments.js:11\n\n","path":"test262/test/language/eval-code/direct/async-func-expr-named-a-preceding-parameter-is-named-arguments-declare-arguments.js"}

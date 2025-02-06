@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    [\\d-a]+\n     ^^\nerror: invalid range boundary, must be a literal\n    at test262/test/annexB/language/literals/regexp/non-empty-class-ranges-no-dash.js:31\n\n","path":"test262/test/annexB/language/literals/regexp/non-empty-class-ranges-no-dash.js"}

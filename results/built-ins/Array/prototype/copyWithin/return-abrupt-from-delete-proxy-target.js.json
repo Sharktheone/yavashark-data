@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at test262/test/built-ins/Array/prototype/copyWithin/return-abrupt-from-delete-proxy-target.js:28\n\n","path":"test262/test/built-ins/Array/prototype/copyWithin/return-abrupt-from-delete-proxy-target.js"}

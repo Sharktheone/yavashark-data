@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at test262/test/built-ins/Date/prototype/getMonth/not-a-constructor.js:24\n\n","path":"test262/test/built-ins/Date/prototype/getMonth/not-a-constructor.js"}

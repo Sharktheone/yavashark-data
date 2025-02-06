@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'trim' of undefined\n    at test262/test/built-ins/String/prototype/trim/15.5.4.20-2-41.js:24\n\n","path":"test262/test/built-ins/String/prototype/trim/15.5.4.20-2-41.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at test262/harness/asyncHelpers.js:18\n    at asyncTest (test262/test/language/expressions/async-generator/named-strict-error-reassign-fn-name-in-body.js:24)\n\n","path":"test262/test/language/expressions/async-generator/named-strict-error-reassign-fn-name-in-body.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at test262/test/language/expressions/class/elements/arrow-body-private-derived-cls-direct-eval-contains-superproperty-2.js:25\n\n","path":"test262/test/language/expressions/class/elements/arrow-body-private-derived-cls-direct-eval-contains-superproperty-2.js"}

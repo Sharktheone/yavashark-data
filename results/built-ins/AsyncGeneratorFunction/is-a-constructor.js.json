@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/harness/isConstructor.js:13\n    at isConstructor (test262/test/built-ins/AsyncGeneratorFunction/is-a-constructor.js:23)\n\n","path":"test262/test/built-ins/AsyncGeneratorFunction/is-a-constructor.js"}

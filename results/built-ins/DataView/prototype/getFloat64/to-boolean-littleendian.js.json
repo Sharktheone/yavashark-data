@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/prototype/getFloat64/to-boolean-littleendian.js:31\n\n","path":"test262/test/built-ins/DataView/prototype/getFloat64/to-boolean-littleendian.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at test262/test/language/module-code/top-level-await/top-level-ticks-2.js:34\n\n","path":"test262/test/language/module-code/top-level-await/top-level-ticks-2.js"}

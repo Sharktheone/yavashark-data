@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at test262/harness/assert.js:18\n    at assert (test262/test/built-ins/Object/prototype/toLocaleString/S15.2.4.3_A11.js:9)\n\n","path":"test262/test/built-ins/Object/prototype/toLocaleString/S15.2.4.3_A11.js"}

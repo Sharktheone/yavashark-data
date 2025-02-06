@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    ^[_--\\q{0|2|4|9\\uFE0F\\u20E3}]+$\n         ^^\nerror: unrecognized escape sequence\n    at test262/test/built-ins/RegExp/unicodeSets/generated/character-difference-string-literal.js:17\n\n","path":"test262/test/built-ins/RegExp/unicodeSets/generated/character-difference-string-literal.js"}

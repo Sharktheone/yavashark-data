@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at test262/test/language/expressions/class/elements/private-async-method-name.js:54\n    at getPrivateMethod (test262/test/language/expressions/class/elements/private-async-method-name.js:59)\n\n","path":"test262/test/language/expressions/class/elements/private-async-method-name.js"}

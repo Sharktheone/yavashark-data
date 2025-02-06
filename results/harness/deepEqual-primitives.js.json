@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at test262/harness/assert.js:107\n    at formatIdentityFreeValue (test262/harness/deepEqual.js:30)\n    at anonymous (test262/harness/deepEqual.js:13)\n    at anonymous (test262/test/harness/deepEqual-primitives.js:17)\n\n","path":"test262/test/harness/deepEqual-primitives.js"}

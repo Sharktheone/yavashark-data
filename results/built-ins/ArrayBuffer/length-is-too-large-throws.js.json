@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at test262/test/built-ins/ArrayBuffer/length-is-too-large-throws.js:24\n\n","path":"test262/test/built-ins/ArrayBuffer/length-is-too-large-throws.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at test262/test/built-ins/Array/prototype/splice/length-exceeding-integer-limit-shrink-array.js:41\n\n","path":"test262/test/built-ins/Array/prototype/splice/length-exceeding-integer-limit-shrink-array.js"}

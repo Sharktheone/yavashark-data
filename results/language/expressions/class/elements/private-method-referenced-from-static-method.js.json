@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Class constructor cannot be invoked without 'new'\n    at Object (test262/test/language/expressions/class/elements/private-method-referenced-from-static-method.js:35)\n\n","path":"test262/test/language/expressions/class/elements/private-method-referenced-from-static-method.js"}

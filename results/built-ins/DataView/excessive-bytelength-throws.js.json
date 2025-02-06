@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ArrayBuffer is not defined\n    at test262/test/built-ins/DataView/excessive-bytelength-throws.js:21\n\n","path":"test262/test/built-ins/DataView/excessive-bytelength-throws.js"}
