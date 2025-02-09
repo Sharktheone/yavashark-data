@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/test/language/expressions/arrow-function/dstr/ary-ptrn-rest-ary-elem.js:82)\n\n","path":"../../test262/test/language/expressions/arrow-function/dstr/ary-ptrn-rest-ary-elem.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at Object (../../test262/test/language/expressions/arrow-function/dstr/ary-ptrn-rest-ary-elem.js:82)\n\n","path":"../../test262/test/language/expressions/arrow-function/dstr/ary-ptrn-rest-ary-elem.js"}

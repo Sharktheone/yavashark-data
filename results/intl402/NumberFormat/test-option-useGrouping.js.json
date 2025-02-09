@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/intl402/NumberFormat/test-option-useGrouping.js:20\n\n","path":"../../test262/test/intl402/NumberFormat/test-option-useGrouping.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/test-option-useGrouping.js:17\n    at resolveUseGrouping (../../test262/test/intl402/NumberFormat/test-option-useGrouping.js:21)\n\n","path":"../../test262/test/intl402/NumberFormat/test-option-useGrouping.js"}

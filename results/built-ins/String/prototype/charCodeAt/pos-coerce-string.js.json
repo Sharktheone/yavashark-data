@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"   +00200.0000E-0002   \")\n    at Object (../../test262/test/built-ins/String/prototype/charCodeAt/pos-coerce-string.js:18)\n\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/pos-coerce-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/charCodeAt/pos-coerce-string.js:18\n\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/pos-coerce-string.js"}

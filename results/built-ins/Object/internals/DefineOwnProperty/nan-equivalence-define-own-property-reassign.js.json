@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/internals/DefineOwnProperty/nan-equivalence-define-own-property-reassign.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/internals/DefineOwnProperty/nan-equivalence-define-own-property-reassign.js:63)\n\n","path":"../../test262/test/built-ins/Object/internals/DefineOwnProperty/nan-equivalence-define-own-property-reassign.js"}

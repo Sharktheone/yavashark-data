@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/generic-iterable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/generic-iterable.js:23\n\n","path":"../../test262/test/language/statements/for-of/generic-iterable.js"}

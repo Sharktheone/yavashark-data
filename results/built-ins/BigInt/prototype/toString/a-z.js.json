@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::boolean::BooleanObj\"\n    at Object (../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js"}

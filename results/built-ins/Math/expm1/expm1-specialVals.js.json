@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/expm1/expm1-specialVals.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Math/expm1/expm1-specialVals.js:9)\n\n","path":"../../test262/test/built-ins/Math/expm1/expm1-specialVals.js"}

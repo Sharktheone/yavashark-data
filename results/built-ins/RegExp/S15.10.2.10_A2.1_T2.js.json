@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    \\ca\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/built-ins/RegExp/S15.10.2.10_A2.1_T2.js:13\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.10_A2.1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/S15.10.2.10_A2.1_T2.js:12\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.10_A2.1_T2.js"}

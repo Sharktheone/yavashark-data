@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"thread 'main' panicked at crates/yavashark_env/src/builtins/string.rs:233:21:\nbyte index 9223372036854775818 is out of bounds of `$$abcdabcd`\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A3_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A3_T3.js:16\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A3_T3.js"}

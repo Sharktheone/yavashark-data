@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/links-etcetera.js:20\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/links-etcetera.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/links-etcetera.js:21\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/links-etcetera.js"}

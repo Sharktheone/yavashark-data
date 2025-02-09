@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Null\n    at Object (../../test262/test/built-ins/Math/log10/Log10-specialVals.js:19)\n\n","path":"../../test262/test/built-ins/Math/log10/Log10-specialVals.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Math/log10/Log10-specialVals.js:13)\n\n","path":"../../test262/test/built-ins/Math/log10/Log10-specialVals.js"}

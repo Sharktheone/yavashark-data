@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/intl402/Intl/supportedValuesOf/invalid-key.js:39\n\n","path":"../../test262/test/intl402/Intl/supportedValuesOf/invalid-key.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/intl402/Intl/supportedValuesOf/invalid-key.js:40\n\n","path":"../../test262/test/intl402/Intl/supportedValuesOf/invalid-key.js"}

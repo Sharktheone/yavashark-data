@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: encodeURI is not defined\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js:23\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js:22\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js"}

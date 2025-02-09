@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/literals/string/S7.8.4_A4.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/literals/string/S7.8.4_A4.1_T1.js:11\n\n","path":"../../test262/test/language/literals/string/S7.8.4_A4.1_T1.js"}

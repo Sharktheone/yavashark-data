@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"NaN\")\n    at Object (../../test262/test/built-ins/Number/isNaN/arg-is-not-number.js:16)\n\n","path":"../../test262/test/built-ins/Number/isNaN/arg-is-not-number.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Number/isNaN/arg-is-not-number.js:16\n\n","path":"../../test262/test/built-ins/Number/isNaN/arg-is-not-number.js"}

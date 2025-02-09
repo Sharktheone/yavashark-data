@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/isFinite/nan.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Number/isFinite/nan.js:16\n\n","path":"../../test262/test/built-ins/Number/isFinite/nan.js"}

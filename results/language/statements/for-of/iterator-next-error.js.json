@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/iterator-next-error.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/statements/for-of/iterator-next-error.js:31)\n\n","path":"../../test262/test/language/statements/for-of/iterator-next-error.js"}

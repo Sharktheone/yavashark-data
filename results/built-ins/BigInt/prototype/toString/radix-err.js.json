@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/BigInt/prototype/toString/radix-err.js:17\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/radix-err.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/built-ins/BigInt/prototype/toString/radix-err.js:18\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/radix-err.js"}

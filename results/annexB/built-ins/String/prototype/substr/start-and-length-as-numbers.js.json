@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/annexB/built-ins/String/prototype/substr/start-and-length-as-numbers.js:72\n\n","path":"../../test262/test/annexB/built-ins/String/prototype/substr/start-and-length-as-numbers.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/annexB/built-ins/String/prototype/substr/start-and-length-as-numbers.js:74)\n\n","path":"../../test262/test/annexB/built-ins/String/prototype/substr/start-and-length-as-numbers.js"}

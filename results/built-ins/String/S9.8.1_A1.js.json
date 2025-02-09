@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S9.8.1_A1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/S9.8.1_A1.js:17\n\n","path":"../../test262/test/built-ins/String/S9.8.1_A1.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'Symbol(replace)' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/not-a-constructor.js:24\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/not-a-constructor.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'undefined' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/not-a-constructor.js:24\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/not-a-constructor.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T6.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T6.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T6.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T6.js"}
