@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/language/expressions/assignmenttargettype/simple-complex-callexpression-expression.js:18\n\n","path":"../../test262/test/language/expressions/assignmenttargettype/simple-complex-callexpression-expression.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignmenttargettype/simple-complex-callexpression-expression.js"}

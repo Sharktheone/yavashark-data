@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-3.js:22)\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-3.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/expr/unary.rs:24:17:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-3.js"}
