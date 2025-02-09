@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A17.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 280..285, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A17.js:11\n\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A17.js"}

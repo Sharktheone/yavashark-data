@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at ../../test262/test/intl402/NumberFormat/constructor-compactDisplay-no-compact.js:32\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-compactDisplay-no-compact.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/intl402/NumberFormat/constructor-compactDisplay-no-compact.js:31\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-compactDisplay-no-compact.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/NumberFormat/constructor-option-read-order.js:46\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-option-read-order.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 1267..1272, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/intl402/NumberFormat/constructor-option-read-order.js:44\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-option-read-order.js"}

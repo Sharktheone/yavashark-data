@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-16.js:23\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-16.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-16.js:23\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-16.js"}

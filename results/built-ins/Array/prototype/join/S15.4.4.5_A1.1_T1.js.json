@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.1_T1.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 288..293, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.1_T1.js:10\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.1_T1.js"}

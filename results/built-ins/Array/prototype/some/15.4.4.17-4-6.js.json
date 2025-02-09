@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-6.js:10\n\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-6.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 269..274, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-6.js:9\n\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-6.js"}

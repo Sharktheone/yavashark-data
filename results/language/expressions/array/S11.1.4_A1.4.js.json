@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/array/S11.1.4_A1.4.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not an object\n    at ../../test262/test/language/expressions/array/S11.1.4_A1.4.js:20\n\n","path":"../../test262/test/language/expressions/array/S11.1.4_A1.4.js"}

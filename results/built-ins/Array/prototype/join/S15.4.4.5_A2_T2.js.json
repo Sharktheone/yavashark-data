@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js:16\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js"}

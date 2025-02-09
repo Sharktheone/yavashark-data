@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ReferenceError is not defined\n    at ../../test262/test/language/statements/try/dstr/ary-ptrn-elem-obj-prop-id-init.js:39\n\n","path":"../../test262/test/language/statements/try/dstr/ary-ptrn-elem-obj-prop-id-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: v is not defined\n    at ../../test262/test/language/statements/try/dstr/ary-ptrn-elem-obj-prop-id-init.js:35\n\n","path":"../../test262/test/language/statements/try/dstr/ary-ptrn-elem-obj-prop-id-init.js"}

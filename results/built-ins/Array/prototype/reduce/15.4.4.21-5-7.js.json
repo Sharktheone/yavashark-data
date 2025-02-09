@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-5-7.js:12\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-5-7.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 368..373, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-5-7.js:12\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-5-7.js"}

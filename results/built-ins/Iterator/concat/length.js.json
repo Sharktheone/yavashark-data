@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function.bind must be called on a function\n    at Object (../../test262/harness/propertyHelper.js:25)\n\n","path":"../../test262/test/built-ins/Iterator/concat/length.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/Iterator/concat/length.js"}

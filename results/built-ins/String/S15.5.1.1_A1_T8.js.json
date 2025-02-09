@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/S15.5.1.1_A1_T8.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T8.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/String/S15.5.1.1_A1_T8.js:12\n\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T8.js"}

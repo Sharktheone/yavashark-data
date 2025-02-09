@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 560..565, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js:14\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js"}

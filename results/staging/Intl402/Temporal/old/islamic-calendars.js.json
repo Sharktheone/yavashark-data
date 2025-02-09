@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/staging/Intl402/Temporal/old/islamic-calendars.js:77\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/islamic-calendars.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/staging/Intl402/Temporal/old/islamic-calendars.js:76\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/islamic-calendars.js"}

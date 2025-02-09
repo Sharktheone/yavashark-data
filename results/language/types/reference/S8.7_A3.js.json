@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/reference/S8.7_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 478..483, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/language/types/reference/S8.7_A3.js:15\n\n","path":"../../test262/test/language/types/reference/S8.7_A3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-ii-26.js:23\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-ii-26.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 279..284, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-ii-26.js:9\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-ii-26.js"}
