@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'undefined' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-result-coerce-length.js:46\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-result-coerce-length.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'Symbol(split)' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-result-coerce-length.js:46\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-result-coerce-length.js"}

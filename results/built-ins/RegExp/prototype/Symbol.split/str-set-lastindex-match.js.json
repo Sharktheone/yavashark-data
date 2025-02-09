@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'undefined' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-set-lastindex-match.js:47\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-set-lastindex-match.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'Symbol(split)' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-set-lastindex-match.js:47\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-set-lastindex-match.js"}

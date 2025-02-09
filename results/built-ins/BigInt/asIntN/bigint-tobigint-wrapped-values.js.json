@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint-wrapped-values.js:13\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint-wrapped-values.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_env/src/object/prototype/common.rs:65:5:\nnot yet implemented: Object constructor\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint-wrapped-values.js"}

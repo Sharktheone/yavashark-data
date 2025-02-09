@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/array/spread-err-sngl-err-itr-step.js:58)\n\n","path":"../../test262/test/language/expressions/array/spread-err-sngl-err-itr-step.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/array/spread-err-sngl-err-itr-step.js"}

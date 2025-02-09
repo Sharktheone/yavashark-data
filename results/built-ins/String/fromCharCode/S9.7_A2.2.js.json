@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/fromCharCode/S9.7_A2.2.js:13\n\n","path":"../../test262/test/built-ins/String/fromCharCode/S9.7_A2.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/fromCharCode/S9.7_A2.2.js:14\n\n","path":"../../test262/test/built-ins/String/fromCharCode/S9.7_A2.2.js"}
