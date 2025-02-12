@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_env/src/object/prototype/common.rs:65:5:\nnot yet implemented: Object constructor\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A2_T8.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/built-ins/Object/S15.2.1.1_A2_T8.js:18)\n\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A2_T8.js"}

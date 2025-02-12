@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_env/src/object/prototype/common.rs:65:5:\nnot yet implemented: Object constructor\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A1_T1.js:10\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A1_T1.js"}

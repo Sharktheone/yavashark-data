@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js:16\n\n","path":"../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js:23\n\n","path":"../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js"}
