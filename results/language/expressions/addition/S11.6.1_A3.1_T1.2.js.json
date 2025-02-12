@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/addition/S11.6.1_A3.1_T1.2.js:21\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.1_T1.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: new Number(1) + 1 === 2. Actual: [object Object]1\" }\n    at ../../test262/test/language/expressions/addition/S11.6.1_A3.1_T1.2.js:21\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.1_T1.2.js"}

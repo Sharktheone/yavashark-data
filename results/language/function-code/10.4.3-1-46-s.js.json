@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/language/function-code/10.4.3-1-46-s.js:22)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-46-s.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"f1() !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/language/function-code/10.4.3-1-46-s.js:22)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-46-s.js"}

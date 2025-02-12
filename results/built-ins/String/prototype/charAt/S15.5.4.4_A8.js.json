@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A8.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A8.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#0: String.prototype.charAt.hasOwnProperty('length') return true. Actual: undefined\" }\n    at ../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A8.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/S15.5.4.4_A8.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/global-code/S10.4.1_A1_T2.js:16\n\n","path":"../../test262/test/language/global-code/S10.4.1_A1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: variable x is a property of global object\" }\n    at ../../test262/test/language/global-code/S10.4.1_A1_T2.js:16\n\n","path":"../../test262/test/language/global-code/S10.4.1_A1_T2.js"}

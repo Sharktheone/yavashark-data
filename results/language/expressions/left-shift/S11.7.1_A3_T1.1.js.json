@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/left-shift/S11.7.1_A3_T1.1.js:19\n\n","path":"../../test262/test/language/expressions/left-shift/S11.7.1_A3_T1.1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: new Boolean(true) \u003c\u003c true === 2. Actual: 0\" }\n    at ../../test262/test/language/expressions/left-shift/S11.7.1_A3_T1.1.js:19\n\n","path":"../../test262/test/language/expressions/left-shift/S11.7.1_A3_T1.1.js"}

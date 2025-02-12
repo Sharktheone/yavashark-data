@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/S15.4.5.2_A1_T2.js:20)\n\n","path":"../../test262/test/built-ins/Array/S15.4.5.2_A1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«0», «2») to be true The value of y.length is expected to be 2\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/S15.4.5.2_A1_T2.js:20)\n\n","path":"../../test262/test/built-ins/Array/S15.4.5.2_A1_T2.js"}

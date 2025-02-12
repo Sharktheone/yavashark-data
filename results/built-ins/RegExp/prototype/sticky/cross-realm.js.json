@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js:18\n\n","path":"../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js"}

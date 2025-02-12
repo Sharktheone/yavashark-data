@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/prefix-decrement/S11.4.5_A3_T2.js:21\n\n","path":"../../test262/test/language/expressions/prefix-decrement/S11.4.5_A3_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var x = new Number(-1.1); --x; x === -1.1 - 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/prefix-decrement/S11.4.5_A3_T2.js:21\n\n","path":"../../test262/test/language/expressions/prefix-decrement/S11.4.5_A3_T2.js"}

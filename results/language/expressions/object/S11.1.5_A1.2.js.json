@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/object/S11.1.5_A1.2.js:38\n\n","path":"../../test262/test/language/expressions/object/S11.1.5_A1.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#5: var object = {1 : true}; object[\"1\"] === true\" }\n    at ../../test262/test/language/expressions/object/S11.1.5_A1.2.js:38\n\n","path":"../../test262/test/language/expressions/object/S11.1.5_A1.2.js"}

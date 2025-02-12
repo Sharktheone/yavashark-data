@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/for/S12.6.3_A5.js:22\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A5.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.1: for(eval(\"i in arr\");1;) {break;}; does not lead to throwing exception\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A5.js:22\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A5.js"}

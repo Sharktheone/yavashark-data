@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Boolean(true) is not an object\n    at ../../test262/test/language/expressions/assignment/8.12.5-5-b_1.js:23\n\n","path":"../../test262/test/language/expressions/assignment/8.12.5-5-b_1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«false», «true») to be true origDesc[i]\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/assignment/8.12.5-5-b_1.js:24)\n\n","path":"../../test262/test/language/expressions/assignment/8.12.5-5-b_1.js"}

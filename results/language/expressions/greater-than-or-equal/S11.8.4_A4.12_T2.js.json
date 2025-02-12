@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/greater-than-or-equal/S11.8.4_A4.12_T2.js:15\n\n","path":"../../test262/test/language/expressions/greater-than-or-equal/S11.8.4_A4.12_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: (\"x\" \u003e= \"0\") !== true\" }\n    at ../../test262/test/language/expressions/greater-than-or-equal/S11.8.4_A4.12_T2.js:15\n\n","path":"../../test262/test/language/expressions/greater-than-or-equal/S11.8.4_A4.12_T2.js"}

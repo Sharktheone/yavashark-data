@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/postfix-increment/S11.3.1_A2.2_T1.js:14\n\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A2.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var object = {valueOf: function() {return 1}}; var y = object++; y === 1. Actual: [object Object]0\" }\n    at ../../test262/test/language/expressions/postfix-increment/S11.3.1_A2.2_T1.js:14\n\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A2.2_T1.js"}

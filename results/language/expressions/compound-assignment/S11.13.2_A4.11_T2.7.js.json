@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.11_T2.7.js:32\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.11_T2.7.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: x = new String(\"1\"); x |= null; x === 1. Actual: 0\" }\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.11_T2.7.js:32\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.11_T2.7.js"}

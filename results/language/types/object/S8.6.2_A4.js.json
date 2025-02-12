@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/types/object/S8.6.2_A4.js:27\n\n","path":"../../test262/test/language/types/object/S8.6.2_A4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var __obj={}; (__obj instanceof Function) === false. Actual: true\" }\n    at ../../test262/test/language/types/object/S8.6.2_A4.js:27\n\n","path":"../../test262/test/language/types/object/S8.6.2_A4.js"}

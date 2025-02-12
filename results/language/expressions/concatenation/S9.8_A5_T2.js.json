@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/concatenation/S9.8_A5_T2.js:14\n\n","path":"../../test262/test/language/expressions/concatenation/S9.8_A5_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: new Number() + \"\" === \"0\". Actual: [object Object]\" }\n    at ../../test262/test/language/expressions/concatenation/S9.8_A5_T2.js:14\n\n","path":"../../test262/test/language/expressions/concatenation/S9.8_A5_T2.js"}

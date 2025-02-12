@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/types/string/S8.4_A9_T2.js:35\n\n","path":"../../test262/test/language/types/string/S8.4_A9_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: values of str=\"\"; and strObj=new String(\"\"); are equal\" }\n    at ../../test262/test/language/types/string/S8.4_A9_T2.js:35\n\n","path":"../../test262/test/language/types/string/S8.4_A9_T2.js"}

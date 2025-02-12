@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/subtraction/S11.6.2_A2.4_T4.js:13\n\n","path":"../../test262/test/language/expressions/subtraction/S11.6.2_A2.4_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: (y = 1) - y === 0. Actual: NaN\" }\n    at ../../test262/test/language/expressions/subtraction/S11.6.2_A2.4_T4.js:13\n\n","path":"../../test262/test/language/expressions/subtraction/S11.6.2_A2.4_T4.js"}

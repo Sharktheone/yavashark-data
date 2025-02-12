@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/types/null/S8.2_A3.js:19\n\n","path":"../../test262/test/language/types/null/S8.2_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: typeof null === \"object\". Actual: null\" }\n    at ../../test262/test/language/types/null/S8.2_A3.js:19\n\n","path":"../../test262/test/language/types/null/S8.2_A3.js"}

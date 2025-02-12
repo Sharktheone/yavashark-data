@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/types/string/S8.4_A3.js:14\n\n","path":"../../test262/test/language/types/string/S8.4_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var __str = \"ABCDEFGH\"; __str.length === 8. Actual: undefined\" }\n    at ../../test262/test/language/types/string/S8.4_A3.js:14\n\n","path":"../../test262/test/language/types/string/S8.4_A3.js"}

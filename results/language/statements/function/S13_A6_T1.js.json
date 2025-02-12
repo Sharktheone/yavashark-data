@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/function/S13_A6_T1.js:25\n\n","path":"../../test262/test/language/statements/function/S13_A6_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __store__func === __func. Actual: __store__func ===[object __func]\" }\n    at ../../test262/test/language/statements/function/S13_A6_T1.js:25\n\n","path":"../../test262/test/language/statements/function/S13_A6_T1.js"}

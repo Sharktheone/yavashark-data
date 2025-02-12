@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/for/S12.6.3_A12_T1.js:22\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A12_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1:__str === \"012345\". Actual: __str ===543210\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A12_T1.js:22\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A12_T1.js"}

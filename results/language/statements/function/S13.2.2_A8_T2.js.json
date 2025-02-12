@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/function/S13.2.2_A8_T2.js:33\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A8_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __instance.first === undefined. Actual: __instance.first ===one\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A8_T2.js:33\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A8_T2.js"}

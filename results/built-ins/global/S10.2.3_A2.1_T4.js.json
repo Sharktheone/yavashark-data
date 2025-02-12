@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T4.js:13\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'Math' have attribute DontEnum\" }\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T4.js:13\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T4.js"}

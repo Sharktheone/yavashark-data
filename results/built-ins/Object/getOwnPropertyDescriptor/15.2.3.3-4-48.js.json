@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/getOwnPropertyDescriptor/15.2.3.3-4-48.js:14)\n\n","path":"../../test262/test/built-ins/Object/getOwnPropertyDescriptor/15.2.3.3-4-48.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'value' of undefined\n    at ../../test262/test/built-ins/Object/getOwnPropertyDescriptor/15.2.3.3-4-48.js:13\n\n","path":"../../test262/test/built-ins/Object/getOwnPropertyDescriptor/15.2.3.3-4-48.js"}

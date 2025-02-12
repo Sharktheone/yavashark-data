@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/fromCharCode/S9.7_A3.1_T4.js:17\n\n","path":"../../test262/test/built-ins/String/fromCharCode/S9.7_A3.1_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var object = {valueOf: function() {return 1}}; String.fromCharCode(object).charCodeAt(0) === 1. Actual: 0\" }\n    at ../../test262/test/built-ins/String/fromCharCode/S9.7_A3.1_T4.js:17\n\n","path":"../../test262/test/built-ins/String/fromCharCode/S9.7_A3.1_T4.js"}

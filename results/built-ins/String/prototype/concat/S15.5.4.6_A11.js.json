@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/concat/S15.5.4.6_A11.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/concat/S15.5.4.6_A11.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String.prototype.concat.hasOwnProperty(\"length\") return true. Actual: undefined\" }\n    at ../../test262/test/built-ins/String/prototype/concat/S15.5.4.6_A11.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/concat/S15.5.4.6_A11.js"}

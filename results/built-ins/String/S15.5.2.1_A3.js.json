@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/S15.5.2.1_A3.js:19\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var __str__obj = new String(\"seamaid\"); __str__obj.toString = Object.prototype.toString; __str__obj.toString() === \"[object String]\". Actual: __str__obj.toString() ===[object Object]\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A3.js:19\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/bitwise-and/S11.10.1_A2.2_T1.js:12\n\n","path":"../../test262/test/language/expressions/bitwise-and/S11.10.1_A2.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: ({valueOf: function() {return 1}} \u0026 1) === 1. Actual: 0\" }\n    at ../../test262/test/language/expressions/bitwise-and/S11.10.1_A2.2_T1.js:12\n\n","path":"../../test262/test/language/expressions/bitwise-and/S11.10.1_A2.2_T1.js"}

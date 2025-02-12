@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/division/S11.5.2_A4_T8.js:64\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A4_T8.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#6.2: -0 / Number.MIN_VALUE === - 0. Actual: +0\" }\n    at ../../test262/test/language/expressions/division/S11.5.2_A4_T8.js:64\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A4_T8.js"}

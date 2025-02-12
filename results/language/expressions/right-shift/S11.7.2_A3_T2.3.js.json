@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/right-shift/S11.7.2_A3_T2.3.js:24\n\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A3_T2.3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new Number(1) \u003e\u003e null === 1. Actual: 0\" }\n    at ../../test262/test/language/expressions/right-shift/S11.7.2_A3_T2.3.js:24\n\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A3_T2.3.js"}

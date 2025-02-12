@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/function/S13_A2_T3.js:26\n\n","path":"../../test262/test/language/statements/function/S13_A2_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: typeof __func === 'undefined'. Actual: typeof __func ===string\" }\n    at ../../test262/test/language/statements/function/S13_A2_T3.js:26\n\n","path":"../../test262/test/language/statements/function/S13_A2_T3.js"}

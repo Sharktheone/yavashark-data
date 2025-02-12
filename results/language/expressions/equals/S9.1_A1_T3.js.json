@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/equals/S9.1_A1_T3.js:17\n\n","path":"../../test262/test/language/expressions/equals/S9.1_A1_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var object = {valueOf: function() {return 1}, toString: function() {return 0}}; object + \"\" === \"1\". Actual: [object Object]\" }\n    at ../../test262/test/language/expressions/equals/S9.1_A1_T3.js:17\n\n","path":"../../test262/test/language/expressions/equals/S9.1_A1_T3.js"}

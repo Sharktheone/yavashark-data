@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-538-5.js:38\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-538-5.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected desc1.hasOwnProperty(\"get\") to be true, actually undefined\" }\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-538-5.js:38\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-538-5.js"}

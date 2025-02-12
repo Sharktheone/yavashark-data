@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/S15.5.5.1_A2.js:15\n\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var __str__instance = new String(\"globglob\"); __str__instance.hasOwnProperty(\"length\") return true. Actual: undefined\" }\n    at ../../test262/test/built-ins/String/S15.5.5.1_A2.js:15\n\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A2.js"}

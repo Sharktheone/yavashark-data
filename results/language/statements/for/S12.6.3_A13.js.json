@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/for/S12.6.3_A13.js:17\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A13.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: VariableDeclaration in \"var VariableDeclarationListNoIn\" of for IterationStatement is allowed\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A13.js:17\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A13.js"}

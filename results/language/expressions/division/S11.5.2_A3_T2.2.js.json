@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/division/S11.5.2_A3_T2.2.js:24\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A3_T2.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new String(\"1\") / 1 === 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/division/S11.5.2_A3_T2.2.js:24\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A3_T2.2.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/statements/variable/S12.2_A4.js:15\n\n","path":"../../test262/test/language/statements/variable/S12.2_A4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Unicode characters in variable Identifier allowed\" }\n    at ../../test262/test/language/statements/variable/S12.2_A4.js:15\n\n","path":"../../test262/test/language/statements/variable/S12.2_A4.js"}

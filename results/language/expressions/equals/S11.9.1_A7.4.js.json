@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/equals/S11.9.1_A7.4.js:14\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A7.4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: (new Boolean(true) == 1) === true\" }\n    at ../../test262/test/language/expressions/equals/S11.9.1_A7.4.js:14\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A7.4.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T4.js:22\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: test failed with error ReferenceError: x is not defined\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T4.js:20\n\" }\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T4.js:22\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T4.js"}

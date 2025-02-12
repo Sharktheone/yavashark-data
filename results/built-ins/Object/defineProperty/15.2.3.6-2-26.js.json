@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-2-26.js:14)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-2-26.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"obj.hasOwnProperty(\"123\") !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-2-26.js:14)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-2-26.js"}

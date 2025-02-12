@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T1.2.js:17\n\n","path":"../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T1.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: (new Number(1) ^ 1) === 0. Actual: 1\" }\n    at ../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T1.2.js:17\n\n","path":"../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T1.2.js"}

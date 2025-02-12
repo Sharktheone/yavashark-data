@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Boolean(false) is not an object\n    at ../../test262/test/language/expressions/assignment/8.12.5-3-b_1.js:19\n\n","path":"../../test262/test/language/expressions/assignment/8.12.5-3-b_1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Undefined is not an object\n    at ../../test262/test/language/expressions/assignment/8.12.5-3-b_1.js:19\n\n","path":"../../test262/test/language/expressions/assignment/8.12.5-3-b_1.js"}
