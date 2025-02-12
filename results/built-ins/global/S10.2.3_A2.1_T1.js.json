@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: String(\"global\") is not an object\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T1.js:11\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T1.js"}

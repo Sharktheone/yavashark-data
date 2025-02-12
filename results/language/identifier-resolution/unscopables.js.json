@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: global\n    at ../../test262/test/language/identifier-resolution/unscopables.js:19\n\n","path":"../../test262/test/language/identifier-resolution/unscopables.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/identifier-resolution/unscopables.js"}

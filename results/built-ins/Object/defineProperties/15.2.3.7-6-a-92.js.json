@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-92.js:20\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-92.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/propertyHelper.js:224\n    at verifyWritable (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-92.js:39)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-92.js"}

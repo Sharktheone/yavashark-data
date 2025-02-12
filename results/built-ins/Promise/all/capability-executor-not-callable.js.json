@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/capability-executor-not-callable.js:31\n\n","path":"../../test262/test/built-ins/Promise/all/capability-executor-not-callable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Promise/all/capability-executor-not-callable.js:34\n\n","path":"../../test262/test/built-ins/Promise/all/capability-executor-not-callable.js"}

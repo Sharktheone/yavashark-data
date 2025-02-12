@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-i-32.js:27\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-i-32.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-i-32.js:33\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-9-c-i-32.js"}

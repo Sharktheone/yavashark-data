@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-625gs.js:11\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-625gs.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: this.prop should take precedence over Object.prototype.prop\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-625gs.js:23\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-625gs.js"}

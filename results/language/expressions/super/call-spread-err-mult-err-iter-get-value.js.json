@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/super/call-spread-err-mult-err-iter-get-value.js:35\n\n","path":"../../test262/test/language/expressions/super/call-spread-err-mult-err-iter-get-value.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/language/expressions/super/call-spread-err-mult-err-iter-get-value.js:51\n\n","path":"../../test262/test/language/expressions/super/call-spread-err-mult-err-iter-get-value.js"}

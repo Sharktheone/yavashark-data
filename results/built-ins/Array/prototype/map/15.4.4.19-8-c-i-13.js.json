@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-c-i-13.js:25\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-c-i-13.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-c-i-13.js:44)\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-8-c-i-13.js"}

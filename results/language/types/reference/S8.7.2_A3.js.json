@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/types/reference/S8.7.2_A3.js:22\n\n","path":"../../test262/test/language/types/reference/S8.7.2_A3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/reference/S8.7.2_A3.js"}

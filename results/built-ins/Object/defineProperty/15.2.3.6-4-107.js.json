@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-107.js:24\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-107.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/propertyHelper.js:210\n    at verifyEqualTo (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-107.js:37)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-107.js"}

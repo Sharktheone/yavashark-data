@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-13.js:25\n\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-13.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-13.js:45\n\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-13.js"}

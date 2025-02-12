@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/iter-arg-is-poisoned.js:28\n\n","path":"../../test262/test/built-ins/Promise/allSettled/iter-arg-is-poisoned.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/built-ins/Promise/allSettled/iter-arg-is-poisoned.js:41\n\n","path":"../../test262/test/built-ins/Promise/allSettled/iter-arg-is-poisoned.js"}

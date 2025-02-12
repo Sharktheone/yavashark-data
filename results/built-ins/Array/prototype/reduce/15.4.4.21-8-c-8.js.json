@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-c-8.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-c-8.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-c-8.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-c-8.js"}

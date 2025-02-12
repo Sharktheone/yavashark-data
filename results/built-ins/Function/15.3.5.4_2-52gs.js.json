@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Function/15.3.5.4_2-52gs.js:13\n\n","path":"../../test262/test/built-ins/Function/15.3.5.4_2-52gs.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Function/15.3.5.4_2-52gs.js:19\n\n","path":"../../test262/test/built-ins/Function/15.3.5.4_2-52gs.js"}

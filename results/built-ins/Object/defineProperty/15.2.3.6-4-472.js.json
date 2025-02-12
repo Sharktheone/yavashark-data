@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-472.js:20\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-472.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-472.js:28\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-472.js"}

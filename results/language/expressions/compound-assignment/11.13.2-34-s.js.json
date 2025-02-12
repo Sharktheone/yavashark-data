@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/compound-assignment/11.13.2-34-s.js:14\n\n","path":"../../test262/test/language/expressions/compound-assignment/11.13.2-34-s.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/language/expressions/compound-assignment/11.13.2-34-s.js:22\n\n","path":"../../test262/test/language/expressions/compound-assignment/11.13.2-34-s.js"}

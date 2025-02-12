@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/delete/11.4.1-4.a-3-s.js:19\n\n","path":"../../test262/test/language/expressions/delete/11.4.1-4.a-3-s.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/language/expressions/delete/11.4.1-4.a-3-s.js:22\n\n","path":"../../test262/test/language/expressions/delete/11.4.1-4.a-3-s.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/async-generator/dstr/dflt-obj-ptrn-empty.js:26\n\n","path":"../../test262/test/language/statements/async-generator/dstr/dflt-obj-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/async-generator/dstr/dflt-obj-ptrn-empty.js:38)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/dflt-obj-ptrn-empty.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/class/dstr/gen-meth-static-dflt-obj-ptrn-empty.js:70\n\n","path":"../../test262/test/language/expressions/class/dstr/gen-meth-static-dflt-obj-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at method (../../test262/test/language/expressions/class/dstr/gen-meth-static-dflt-obj-ptrn-empty.js:84)\n\n","path":"../../test262/test/language/expressions/class/dstr/gen-meth-static-dflt-obj-ptrn-empty.js"}
