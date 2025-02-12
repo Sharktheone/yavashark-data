@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toUpperCase' of undefined\n    at ../../test262/test/built-ins/String/prototype/toUpperCase/S15.5.4.18_A1_T11.js:17\n\n","path":"../../test262/test/built-ins/String/prototype/toUpperCase/S15.5.4.18_A1_T11.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/toUpperCase/S15.5.4.18_A1_T11.js:25\n\n","path":"../../test262/test/built-ins/String/prototype/toUpperCase/S15.5.4.18_A1_T11.js"}

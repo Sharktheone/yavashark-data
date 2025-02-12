@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'valueOf' of undefined\n    at ../../test262/test/built-ins/Boolean/prototype/valueOf/S15.6.4.3_A1_T2.js:9\n\n","path":"../../test262/test/built-ins/Boolean/prototype/valueOf/S15.6.4.3_A1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::boolean::BooleanObj\"\n    at Object (../../test262/test/built-ins/Boolean/prototype/valueOf/S15.6.4.3_A1_T2.js:9)\n\n","path":"../../test262/test/built-ins/Boolean/prototype/valueOf/S15.6.4.3_A1_T2.js"}

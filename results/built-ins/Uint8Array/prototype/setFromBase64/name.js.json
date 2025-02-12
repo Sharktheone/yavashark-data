@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/setFromBase64/name.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at ../../test262/test/built-ins/Uint8Array/prototype/setFromBase64/name.js:11\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/setFromBase64/name.js"}

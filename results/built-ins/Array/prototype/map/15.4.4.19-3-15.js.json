@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-15.js:22\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-15.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-15.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-15.js"}

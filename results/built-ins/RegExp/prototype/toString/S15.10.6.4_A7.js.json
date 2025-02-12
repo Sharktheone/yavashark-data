@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toString' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/toString/S15.10.6.4_A7.js:12\n\n","path":"../../test262/test/built-ins/RegExp/prototype/toString/S15.10.6.4_A7.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/RegExp/prototype/toString/S15.10.6.4_A7.js:18\n\n","path":"../../test262/test/built-ins/RegExp/prototype/toString/S15.10.6.4_A7.js"}

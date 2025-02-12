@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'lastIndexOf' of undefined\n    at ../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A7.js:10\n\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A7.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A7.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A7.js"}

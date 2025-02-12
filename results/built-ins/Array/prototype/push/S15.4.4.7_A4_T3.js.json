@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A4_T3.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A4_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A4_T3.js"}

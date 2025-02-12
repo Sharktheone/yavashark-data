@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'apply' of undefined\n    at ../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_non-array.js:17\n\n","path":"../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_non-array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_non-array.js:17)\n\n","path":"../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_non-array.js"}

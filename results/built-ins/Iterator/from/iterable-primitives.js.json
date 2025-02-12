@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/built-ins/Iterator/from/iterable-primitives.js:22\n\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/from/iterable-primitives.js:31\n\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js"}

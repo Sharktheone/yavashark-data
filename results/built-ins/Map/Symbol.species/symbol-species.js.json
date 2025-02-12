@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/Map/Symbol.species/symbol-species.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Map is not defined\n    at ../../test262/test/built-ins/Map/Symbol.species/symbol-species.js:14\n\n","path":"../../test262/test/built-ins/Map/Symbol.species/symbol-species.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: parseInt is not defined\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js:11\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js"}

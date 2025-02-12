@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'match' of undefined\n    at ../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A7.js:10\n\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A7.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 366..375, ctxt: #0, sym: \"__FACTORY\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A7.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A7.js"}

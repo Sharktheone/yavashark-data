@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-rest-skip-non-enumerable.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/assignment/dstr/obj-rest-skip-non-enumerable.js:21\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-rest-skip-non-enumerable.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/Error/prototype/name/prop-desc.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:59)\n    at verifyProperty (../../test262/test/built-ins/Error/prototype/name/prop-desc.js:9)\n\n","path":"../../test262/test/built-ins/Error/prototype/name/prop-desc.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/test/built-ins/Array/isArray/15.4.3.2-1-4.js:10\n\n","path":"../../test262/test/built-ins/Array/isArray/15.4.3.2-1-4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/isArray/15.4.3.2-1-4.js"}

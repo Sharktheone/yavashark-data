@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/Promise/any/prop-desc.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/any/prop-desc.js:17\n\n","path":"../../test262/test/built-ins/Promise/any/prop-desc.js"}

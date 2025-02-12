@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'replace' of undefined\n    at ../../test262/test/built-ins/String/prototype/replace/not-a-constructor.js:24\n\n","path":"../../test262/test/built-ins/String/prototype/replace/not-a-constructor.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/isConstructor.js:13\n    at isConstructor (../../test262/test/built-ins/String/prototype/replace/not-a-constructor.js:25)\n\n","path":"../../test262/test/built-ins/String/prototype/replace/not-a-constructor.js"}

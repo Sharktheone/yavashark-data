@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'exec' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T4.js:14\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T4.js:19\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T4.js"}

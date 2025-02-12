@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: prototype does not exist on object\n    at ../../test262/test/annexB/built-ins/RegExp/prototype/compile/this-subclass-instance.js:9\n\n","path":"../../test262/test/annexB/built-ins/RegExp/prototype/compile/this-subclass-instance.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/annexB/built-ins/RegExp/prototype/compile/this-subclass-instance.js:11\n\n","path":"../../test262/test/annexB/built-ins/RegExp/prototype/compile/this-subclass-instance.js"}

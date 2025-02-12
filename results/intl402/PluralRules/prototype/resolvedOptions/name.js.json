@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/intl402/PluralRules/prototype/resolvedOptions/name.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/PluralRules/prototype/resolvedOptions/name.js:11\n\n","path":"../../test262/test/intl402/PluralRules/prototype/resolvedOptions/name.js"}

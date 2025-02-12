@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/built-ins/Promise/prototype/catch/this-value-obj-coercible.js:26\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/this-value-obj-coercible.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/prototype/catch/this-value-obj-coercible.js:29\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/this-value-obj-coercible.js"}

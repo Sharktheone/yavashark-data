@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/toSpliced/length-clamped-to-2pow53minus1.js:31\n\n","path":"../../test262/test/built-ins/Array/prototype/toSpliced/length-clamped-to-2pow53minus1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/toSpliced/length-clamped-to-2pow53minus1.js:31\n\n","path":"../../test262/test/built-ins/Array/prototype/toSpliced/length-clamped-to-2pow53minus1.js"}

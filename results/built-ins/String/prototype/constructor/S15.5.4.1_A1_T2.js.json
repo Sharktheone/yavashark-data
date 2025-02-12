@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'constructor' of undefined\n    at ../../test262/test/built-ins/String/prototype/constructor/S15.5.4.1_A1_T2.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/constructor/S15.5.4.1_A1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/constructor/S15.5.4.1_A1_T2.js:19\n\n","path":"../../test262/test/built-ins/String/prototype/constructor/S15.5.4.1_A1_T2.js"}

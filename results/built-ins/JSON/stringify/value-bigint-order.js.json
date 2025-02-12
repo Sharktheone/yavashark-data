@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/built-ins/JSON/stringify/value-bigint-order.js:34\n\n","path":"../../test262/test/built-ins/JSON/stringify/value-bigint-order.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/JSON/stringify/value-bigint-order.js:37\n\n","path":"../../test262/test/built-ins/JSON/stringify/value-bigint-order.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Array/prototype/concat/S15.4.4.4_A2_T1.js:14\n\n","path":"../../test262/test/built-ins/Array/prototype/concat/S15.4.4.4_A2_T1.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_env/src/object/prototype/common.rs:65:5:\nnot yet implemented: Object constructor\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Array/prototype/concat/S15.4.4.4_A2_T1.js"}

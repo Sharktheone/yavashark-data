@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 894..899, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/intl402/PluralRules/constructor-option-read-order.js:30\n\n","path":"../../test262/test/intl402/PluralRules/constructor-option-read-order.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/intl402/PluralRules/constructor-option-read-order.js:30\n\n","path":"../../test262/test/intl402/PluralRules/constructor-option-read-order.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 427..432, ctxt: #0, sym: \"Array\", optional: false }) is not a constructor\n    at ../../test262/test/language/types/reference/S8.7_A2.js:13\n\n","path":"../../test262/test/language/types/reference/S8.7_A2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/language/types/reference/S8.7_A2.js:13\n\n","path":"../../test262/test/language/types/reference/S8.7_A2.js"}

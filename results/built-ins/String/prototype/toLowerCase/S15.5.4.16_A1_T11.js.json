@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toLowerCase' of undefined\n    at ../../test262/test/built-ins/String/prototype/toLowerCase/S15.5.4.16_A1_T11.js:17\n\n","path":"../../test262/test/built-ins/String/prototype/toLowerCase/S15.5.4.16_A1_T11.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/toLowerCase/S15.5.4.16_A1_T11.js:26\n\n","path":"../../test262/test/built-ins/String/prototype/toLowerCase/S15.5.4.16_A1_T11.js"}

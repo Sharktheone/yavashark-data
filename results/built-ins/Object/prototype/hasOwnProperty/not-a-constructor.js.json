@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/harness/isConstructor.js:13\n    at isConstructor (../../test262/test/built-ins/Object/prototype/hasOwnProperty/not-a-constructor.js:25)\n\n","path":"../../test262/test/built-ins/Object/prototype/hasOwnProperty/not-a-constructor.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Object/prototype/hasOwnProperty/not-a-constructor.js:30\n\n","path":"../../test262/test/built-ins/Object/prototype/hasOwnProperty/not-a-constructor.js"}

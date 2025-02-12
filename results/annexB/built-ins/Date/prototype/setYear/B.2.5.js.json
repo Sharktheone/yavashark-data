@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/annexB/built-ins/Date/prototype/setYear/B.2.5.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/annexB/built-ins/Date/prototype/setYear/B.2.5.js:12\n\n","path":"../../test262/test/annexB/built-ins/Date/prototype/setYear/B.2.5.js"}

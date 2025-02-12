@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'isArray' of undefined\n    at ../../test262/harness/propertyHelper.js:23\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/BYTES_PER_ELEMENT.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: BigInt64Array is not defined\n    at ../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/BYTES_PER_ELEMENT.js:19\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/BYTES_PER_ELEMENT.js"}

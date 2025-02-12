@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'toLocaleLowerCase' of undefined\n    at ../../test262/test/built-ins/String/prototype/toLocaleLowerCase/S15.5.4.17_A1_T12.js:20\n\n","path":"../../test262/test/built-ins/String/prototype/toLocaleLowerCase/S15.5.4.17_A1_T12.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: [object Object]\n    at ../../test262/test/built-ins/String/prototype/toLocaleLowerCase/S15.5.4.17_A1_T12.js:29\n\n","path":"../../test262/test/built-ins/String/prototype/toLocaleLowerCase/S15.5.4.17_A1_T12.js"}

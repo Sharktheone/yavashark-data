@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/built-ins/Array/from/Array.from_forwards-length-for-array-likes.js:30\n\n","path":"../../test262/test/built-ins/Array/from/Array.from_forwards-length-for-array-likes.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/from/Array.from_forwards-length-for-array-likes.js:30\n\n","path":"../../test262/test/built-ins/Array/from/Array.from_forwards-length-for-array-likes.js"}
