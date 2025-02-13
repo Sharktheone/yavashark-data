@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: parseInt is not defined\n    at ../../test262/test/language/expressions/super/call-proto-not-ctor.js:29\n\n","path":"../../test262/test/language/expressions/super/call-proto-not-ctor.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/super/call-proto-not-ctor.js"}

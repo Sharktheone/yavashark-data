@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: isNaN is not defined\n    at ../../test262/test/language/expressions/division/S11.5.2_A4_T1.2.js:13\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A4_T1.2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/division/S11.5.2_A4_T1.2.js:13\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A4_T1.2.js"}

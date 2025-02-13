@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a ReferenceError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/isFinite/S15.1.2.5_A2.7.js:12)\n\n","path":"../../test262/test/built-ins/isFinite/S15.1.2.5_A2.7.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/isFinite/S15.1.2.5_A2.7.js"}
