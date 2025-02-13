@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/keys/property-traps-order-with-proxied-array.js:28\n\n","path":"../../test262/test/built-ins/Object/keys/property-traps-order-with-proxied-array.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Object/keys/property-traps-order-with-proxied-array.js:28\n\n","path":"../../test262/test/built-ins/Object/keys/property-traps-order-with-proxied-array.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/hasOwn/hasown_own_setter_configurable_enumerable.js:21\n\n","path":"../../test262/test/built-ins/Object/hasOwn/hasown_own_setter_configurable_enumerable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/hasOwn/hasown_own_setter_configurable_enumerable.js"}

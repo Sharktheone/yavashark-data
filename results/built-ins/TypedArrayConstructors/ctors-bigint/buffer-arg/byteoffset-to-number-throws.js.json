@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/harness/testBigIntTypedArray.js:14\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/byteoffset-to-number-throws.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Int8Array is not defined\n    at ../../test262/harness/testBigIntTypedArray.js:14\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/byteoffset-to-number-throws.js"}

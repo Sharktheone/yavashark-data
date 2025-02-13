@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Set/prototype/Symbol.toStringTag/property-descriptor.js:13\n\n","path":"../../test262/test/built-ins/Set/prototype/Symbol.toStringTag/property-descriptor.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Set is not defined\n    at ../../test262/test/built-ins/Set/prototype/Symbol.toStringTag/property-descriptor.js:13\n\n","path":"../../test262/test/built-ins/Set/prototype/Symbol.toStringTag/property-descriptor.js"}

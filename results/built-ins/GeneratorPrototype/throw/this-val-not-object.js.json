@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/GeneratorPrototype/throw/this-val-not-object.js:23\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/throw/this-val-not-object.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/GeneratorPrototype/throw/this-val-not-object.js:26\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/throw/this-val-not-object.js"}

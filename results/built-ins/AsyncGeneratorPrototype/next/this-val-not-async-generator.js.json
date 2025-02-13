@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/AsyncGeneratorPrototype/next/this-val-not-async-generator.js:25\n\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/next/this-val-not-async-generator.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/built-ins/AsyncGeneratorPrototype/next/this-val-not-async-generator.js:30\n\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/next/this-val-not-async-generator.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/entries/primitive-booleans.js:10\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-booleans.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Boolean(true)\n    at Object (../../test262/test/built-ins/Object/entries/primitive-booleans.js:10)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-booleans.js"}

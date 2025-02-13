@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-10.js:27\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-10.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«true», «false») to be true accessed\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-10.js:36)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-10.js"}

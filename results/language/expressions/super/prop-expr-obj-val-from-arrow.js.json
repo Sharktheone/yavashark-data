@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/super/prop-expr-obj-val-from-arrow.js:30\n\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val-from-arrow.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/expr/super_prop.rs:12:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val-from-arrow.js"}

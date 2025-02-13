@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/array/spread-obj-overrides-prev-properties.js:43\n    at Object (../../test262/test/language/expressions/array/spread-obj-overrides-prev-properties.js:40)\n\n","path":"../../test262/test/language/expressions/array/spread-obj-overrides-prev-properties.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/array/spread-obj-overrides-prev-properties.js"}
