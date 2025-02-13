@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A2_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: \"abcd\".indexOf(\"abcdab\",NaN)===-1. Actual: -inf\" }\n    at ../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A2_T4.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A2_T4.js"}
