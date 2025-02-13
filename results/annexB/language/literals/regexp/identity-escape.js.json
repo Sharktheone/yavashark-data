@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    \\C\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/annexB/language/literals/regexp/identity-escape.js:16\n\n","path":"../../test262/test/annexB/language/literals/regexp/identity-escape.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\C\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/annexB/language/literals/regexp/identity-escape.js:16\n\n","path":"../../test262/test/annexB/language/literals/regexp/identity-escape.js"}

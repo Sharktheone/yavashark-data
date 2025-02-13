@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined Array.from([], null) throws a TypeError exception\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/from/mapfn-is-not-callable-typeerror.js:16)\n\n","path":"../../test262/test/built-ins/Array/from/mapfn-is-not-callable-typeerror.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/from/mapfn-is-not-callable-typeerror.js"}

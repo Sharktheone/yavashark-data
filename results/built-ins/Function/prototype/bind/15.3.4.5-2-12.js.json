@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Function/prototype/bind/15.3.4.5-2-12.js:10)\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5-2-12.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5-2-12.js"}

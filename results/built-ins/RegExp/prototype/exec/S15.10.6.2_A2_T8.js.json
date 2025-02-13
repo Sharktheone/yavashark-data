@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T8.js:19\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/S15.10.6.2_A2_T8.js"}

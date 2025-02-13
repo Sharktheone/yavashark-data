@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined Array.from.call(A1, items) throws a TypeError exception\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/from/source-object-length-set-elem-prop-err.js:39)\n\n","path":"../../test262/test/built-ins/Array/from/source-object-length-set-elem-prop-err.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/from/source-object-length-set-elem-prop-err.js"}

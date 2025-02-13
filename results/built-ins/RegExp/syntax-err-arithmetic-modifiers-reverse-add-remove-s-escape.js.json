@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined RegExp(\"(?s-s:a)\", \"\"): \" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/RegExp/syntax-err-arithmetic-modifiers-reverse-add-remove-s-escape.js:14)\n\n","path":"../../test262/test/built-ins/RegExp/syntax-err-arithmetic-modifiers-reverse-add-remove-s-escape.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/syntax-err-arithmetic-modifiers-reverse-add-remove-s-escape.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined Function.prototype.bind.call(undefined, {}) throws a TypeError exception\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A13.js:9)\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A13.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A13.js"}

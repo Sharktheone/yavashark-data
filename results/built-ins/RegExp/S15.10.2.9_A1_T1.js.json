@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    \\b(\\w+) \\1\\b\n            ^^\nerror: backreferences are not supported\n    at ../../test262/test/built-ins/RegExp/S15.10.2.9_A1_T1.js:15\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.9_A1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\b(\\w+) \\1\\b\n            ^^\nerror: backreferences are not supported\n    at ../../test262/test/built-ins/RegExp/S15.10.2.9_A1_T1.js:15\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.9_A1_T1.js"}

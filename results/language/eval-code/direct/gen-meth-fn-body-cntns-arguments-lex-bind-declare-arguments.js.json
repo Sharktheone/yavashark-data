@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/eval-code/direct/gen-meth-fn-body-cntns-arguments-lex-bind-declare-arguments.js:17)\n\n","path":"../../test262/test/language/eval-code/direct/gen-meth-fn-body-cntns-arguments-lex-bind-declare-arguments.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/gen-meth-fn-body-cntns-arguments-lex-bind-declare-arguments.js"}

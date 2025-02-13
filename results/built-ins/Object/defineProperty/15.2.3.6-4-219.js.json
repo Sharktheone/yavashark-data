@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-219.js:26\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-219.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected TypeError, got [object Object]\" }\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-219.js:27\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-219.js"}

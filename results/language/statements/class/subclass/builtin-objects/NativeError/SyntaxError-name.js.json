@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: prototype does not exist on object\n    at ../../test262/test/language/statements/class/subclass/builtin-objects/NativeError/SyntaxError-name.js:15\n\n","path":"../../test262/test/language/statements/class/subclass/builtin-objects/NativeError/SyntaxError-name.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/subclass/builtin-objects/NativeError/SyntaxError-name.js"}

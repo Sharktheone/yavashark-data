@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    \\0\n    ^^\nerror: backreferences are not supported\n    at ../../test262/test/language/literals/regexp/u-null-character-escape.js:22\n\n","path":"../../test262/test/language/literals/regexp/u-null-character-escape.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\0\n    ^^\nerror: backreferences are not supported\n    at ../../test262/test/language/literals/regexp/u-null-character-escape.js:22\n\n","path":"../../test262/test/language/literals/regexp/u-null-character-escape.js"}

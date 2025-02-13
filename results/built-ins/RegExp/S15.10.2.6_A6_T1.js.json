@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: regex parse error:\n    ^.*?$\n     ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T1.js:12\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ^.*?$\n     ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T1.js:12\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T1.js"}
