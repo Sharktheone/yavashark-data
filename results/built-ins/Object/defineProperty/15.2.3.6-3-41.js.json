@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-41.js:15\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-41.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-41.js"}

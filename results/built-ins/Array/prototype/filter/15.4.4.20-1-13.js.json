@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at ../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-1-13.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-1-13.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-1-13.js:15\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-1-13.js"}

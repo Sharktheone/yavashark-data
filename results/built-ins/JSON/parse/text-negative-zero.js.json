@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at ../../test262/test/built-ins/JSON/parse/text-negative-zero.js:16\n\n","path":"../../test262/test/built-ins/JSON/parse/text-negative-zero.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a string, found Number(-0.0)\n    at Object (../../test262/test/built-ins/JSON/parse/text-negative-zero.js:21)\n\n","path":"../../test262/test/built-ins/JSON/parse/text-negative-zero.js"}
