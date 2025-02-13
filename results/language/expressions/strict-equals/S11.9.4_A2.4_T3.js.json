@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ReferenceError is not defined\n    at ../../test262/test/language/expressions/strict-equals/S11.9.4_A2.4_T3.js:16\n\n","path":"../../test262/test/language/expressions/strict-equals/S11.9.4_A2.4_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/language/expressions/strict-equals/S11.9.4_A2.4_T3.js:16\n\n","path":"../../test262/test/language/expressions/strict-equals/S11.9.4_A2.4_T3.js"}

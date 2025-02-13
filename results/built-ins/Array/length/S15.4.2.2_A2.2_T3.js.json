@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/built-ins/Array/length/S15.4.2.2_A2.2_T3.js:17\n\n","path":"../../test262/test/built-ins/Array/length/S15.4.2.2_A2.2_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/built-ins/Array/length/S15.4.2.2_A2.2_T3.js:17\n\n","path":"../../test262/test/built-ins/Array/length/S15.4.2.2_A2.2_T3.js"}

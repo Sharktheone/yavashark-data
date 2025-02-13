@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/language/statements/using/throws-if-initializer-not-object.js:52\n\n","path":"../../test262/test/language/statements/using/throws-if-initializer-not-object.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/decl/using.rs:9:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/using/throws-if-initializer-not-object.js"}

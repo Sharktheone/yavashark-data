@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/built-ins/ArrayBuffer/allocation-limit.js:21\n\n","path":"../../test262/test/built-ins/ArrayBuffer/allocation-limit.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined `length` parameter is 7 PiB\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/ArrayBuffer/allocation-limit.js:21)\n\n","path":"../../test262/test/built-ins/ArrayBuffer/allocation-limit.js"}

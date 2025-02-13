@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SyntaxError is not defined\n    at ../../test262/test/built-ins/RegExp/S15.10.2.15_A1_T11.js:22\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.15_A1_T11.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/built-ins/RegExp/S15.10.2.15_A1_T11.js:22\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.15_A1_T11.js"}

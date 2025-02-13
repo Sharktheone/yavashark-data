@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SyntaxError is not defined\n    at ../../test262/test/language/eval-code/direct/super-prop-arrow.js:27\n\n","path":"../../test262/test/language/eval-code/direct/super-prop-arrow.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«[object Object]», «[object Object]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/eval-code/direct/super-prop-arrow.js:27)\n\n","path":"../../test262/test/language/eval-code/direct/super-prop-arrow.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: RangeError is not defined\n    at ../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js:10\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js:10)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js"}

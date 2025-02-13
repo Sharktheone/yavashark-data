@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: TypeError is not defined\n    at ../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-5-24.js:26\n\n","path":"../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-5-24.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a undefined\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-5-24.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-5-24.js"}
