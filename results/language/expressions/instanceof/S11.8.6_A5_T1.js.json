@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A5_T1.js:14\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A5_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: TypeError is subclass of Error from instanceof operator point of view\" }\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A5_T1.js:23\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A5_T1.js"}

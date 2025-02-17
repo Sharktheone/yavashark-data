@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: prototype does not exist on object\n    at ../../test262/test/built-ins/Iterator/concat/next-method-returns-throwing-value-done.js:21\n\n","path":"../../test262/test/built-ins/Iterator/concat/next-method-returns-throwing-value-done.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/concat/next-method-returns-throwing-value-done.js:44\n\n","path":"../../test262/test/built-ins/Iterator/concat/next-method-returns-throwing-value-done.js"}
