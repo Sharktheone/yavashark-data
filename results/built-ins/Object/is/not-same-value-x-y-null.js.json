@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/built-ins/Object/is/not-same-value-x-y-null.js:18)\n\n","path":"../../test262/test/built-ins/Object/is/not-same-value-x-y-null.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Object/is/not-same-value-x-y-null.js:18)\n\n","path":"../../test262/test/built-ins/Object/is/not-same-value-x-y-null.js"}

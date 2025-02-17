@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Null\n    at Object (../../test262/test/language/statements/for-in/S12.6.4_A7_T2.js:16)\n\n","path":"../../test262/test/language/statements/for-in/S12.6.4_A7_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/language/statements/for-in/S12.6.4_A7_T2.js:16)\n\n","path":"../../test262/test/language/statements/for-in/S12.6.4_A7_T2.js"}

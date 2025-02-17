@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.3_T1.js:12)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.3_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.3_T1.js:12)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A1.3_T1.js"}

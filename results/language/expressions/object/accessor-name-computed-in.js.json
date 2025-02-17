@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Null\n    at Object (../../test262/test/language/expressions/object/accessor-name-computed-in.js:20)\n\n","path":"../../test262/test/language/expressions/object/accessor-name-computed-in.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/language/expressions/object/accessor-name-computed-in.js:20)\n\n","path":"../../test262/test/language/expressions/object/accessor-name-computed-in.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Null\n    at Object (../../test262/test/language/statements/for-in/head-let-destructuring.js:21)\n\n","path":"../../test262/test/language/statements/for-in/head-let-destructuring.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/language/statements/for-in/head-let-destructuring.js:21)\n\n","path":"../../test262/test/language/statements/for-in/head-let-destructuring.js"}

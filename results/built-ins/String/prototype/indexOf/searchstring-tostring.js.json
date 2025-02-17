@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/built-ins/String/prototype/indexOf/searchstring-tostring.js:12)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/searchstring-tostring.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Undefined\n    at Object (../../test262/test/built-ins/String/prototype/indexOf/searchstring-tostring.js:14)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/searchstring-tostring.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Undefined\n    at Object (../../test262/test/built-ins/Error/prototype/no-error-data.js:27)\n\n","path":"../../test262/test/built-ins/Error/prototype/no-error-data.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/built-ins/Error/prototype/no-error-data.js:27)\n\n","path":"../../test262/test/built-ins/Error/prototype/no-error-data.js"}
