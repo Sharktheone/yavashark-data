@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A4.1_T1.js:10\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A4.1_T1.js"}
+{"status":"CRASH","msg":"thread 'main' panicked at /rustc/e71f9a9a98b0faf423844bf0ba7438f29dc27d58/library/core/src/num/mod.rs:1610:1:\nfrom_str_radix_int: must lie in the range `[2, 36]` - found 0\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A4.1_T1.js"}

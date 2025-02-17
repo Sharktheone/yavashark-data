@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T1.4.js:15\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T1.4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T1.4.js"}

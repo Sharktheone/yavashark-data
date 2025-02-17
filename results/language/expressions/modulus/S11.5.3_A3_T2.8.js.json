@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/modulus/S11.5.3_A3_T2.8.js:13\n\n","path":"../../test262/test/language/expressions/modulus/S11.5.3_A3_T2.8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/modulus/S11.5.3_A3_T2.8.js"}

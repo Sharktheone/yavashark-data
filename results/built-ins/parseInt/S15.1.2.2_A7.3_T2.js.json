@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A7.3_T2.js:10\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A7.3_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A7.3_T2.js"}

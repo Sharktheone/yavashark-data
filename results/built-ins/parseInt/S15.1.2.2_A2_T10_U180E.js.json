@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T10_U180E.js:28\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T10_U180E.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Missing argument\n    at Object (../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T10_U180E.js:28)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T10_U180E.js"}

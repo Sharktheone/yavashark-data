@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/prefix-increment/S11.4.4_A4_T5.js:12\n\n","path":"../../test262/test/language/expressions/prefix-increment/S11.4.4_A4_T5.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"[object Object]0\")\n    at Object (../../test262/test/language/expressions/prefix-increment/S11.4.4_A4_T5.js:12)\n\n","path":"../../test262/test/language/expressions/prefix-increment/S11.4.4_A4_T5.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"isConstructor invoked with a non-function value\" }\n    at ../../test262/harness/isConstructor.js:13\n    at isConstructor (../../test262/test/built-ins/Array/prototype/concat/create-species-non-ctor.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/concat/create-species-non-ctor.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/concat/create-species-non-ctor.js"}
