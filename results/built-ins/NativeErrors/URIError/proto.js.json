@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: URIError is not defined\n    at ../../test262/test/built-ins/NativeErrors/URIError/proto.js:12\n\n","path":"../../test262/test/built-ins/NativeErrors/URIError/proto.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«function () { [Native code] } », «[object Object]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/NativeErrors/URIError/proto.js:12)\n\n","path":"../../test262/test/built-ins/NativeErrors/URIError/proto.js"}

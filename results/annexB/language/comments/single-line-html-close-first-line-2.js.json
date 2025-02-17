@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: EvalError is not defined\n    at ../../test262/test/annexB/language/comments/single-line-html-close-first-line-2.js:1\n\n","path":"../../test262/test/annexB/language/comments/single-line-html-close-first-line-2.js"}
+{"status":"FAIL","msg":"FAIL:\n EvalError: This is not in a comment\n    at ../../test262/test/annexB/language/comments/single-line-html-close-first-line-2.js:1\n\n","path":"../../test262/test/annexB/language/comments/single-line-html-close-first-line-2.js"}

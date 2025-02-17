@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: EvalError is not defined\n    at ../../test262/test/built-ins/Error/isError/error-subclass.js:12\n\n","path":"../../test262/test/built-ins/Error/isError/error-subclass.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Error/isError/error-subclass.js:19\n\n","path":"../../test262/test/built-ins/Error/isError/error-subclass.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: URIError is not defined\n    at ../../test262/test/language/expressions/dynamic-import/catch/eval-rqstd-abrupt-err-uri_FIXTURE.js:4\n\n","path":"../../test262/test/language/expressions/dynamic-import/catch/eval-rqstd-abrupt-err-uri_FIXTURE.js"}
+{"status":"FAIL","msg":"FAIL:\n URIError\n","path":"../../test262/test/language/expressions/dynamic-import/catch/eval-rqstd-abrupt-err-uri_FIXTURE.js"}

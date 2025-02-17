@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: URIError is not defined\n    at ../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A1.12_T3.js:30\n\n","path":"../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A1.12_T3.js"}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A1.12_T3.js"}
