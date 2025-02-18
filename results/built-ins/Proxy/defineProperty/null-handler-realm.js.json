@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Proxy/defineProperty/null-handler-realm.js:15\n\n","path":"../../test262/test/built-ins/Proxy/defineProperty/null-handler-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'revocable' of undefined\n    at ../../test262/test/built-ins/Proxy/defineProperty/null-handler-realm.js:16\n\n","path":"../../test262/test/built-ins/Proxy/defineProperty/null-handler-realm.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/global-code/script-decl-func-dups.js:27\n\n","path":"../../test262/test/language/global-code/script-decl-func-dups.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/language/global-code/script-decl-func-dups.js:33\n\n","path":"../../test262/test/language/global-code/script-decl-func-dups.js"}
