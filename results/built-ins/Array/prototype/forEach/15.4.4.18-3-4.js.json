@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-3-4.js:23\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-3-4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-3-4.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/forEach/call-with-boolean.js:9\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/call-with-boolean.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at Object (../../test262/test/built-ins/Array/prototype/forEach/call-with-boolean.js:10)\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/call-with-boolean.js"}

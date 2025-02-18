@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-1-13.js:17\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-1-13.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"result !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-1-13.js:19)\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-1-13.js"}

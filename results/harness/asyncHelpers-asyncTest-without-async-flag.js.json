@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: globalThis is not defined\n    at ../../test262/test/harness/asyncHelpers-asyncTest-without-async-flag.js:16\n\n","path":"../../test262/test/harness/asyncHelpers-asyncTest-without-async-flag.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/asyncHelpers-asyncTest-without-async-flag.js"}

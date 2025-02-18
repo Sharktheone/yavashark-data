@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-9-a-8.js:26\n\n","path":"../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-9-a-8.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«-1», «1») to be true arr.indexOf(1)\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-9-a-8.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/indexOf/15.4.4.14-9-a-8.js"}

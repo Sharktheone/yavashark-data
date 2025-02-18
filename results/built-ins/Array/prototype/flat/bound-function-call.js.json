@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'bind' of undefined\n    at ../../test262/test/built-ins/Array/prototype/flat/bound-function-call.js:15\n\n","path":"../../test262/test/built-ins/Array/prototype/flat/bound-function-call.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/flat/bound-function-call.js"}

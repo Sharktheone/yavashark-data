@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: globalThis is not defined\n    at ../../test262/test/language/expressions/dynamic-import/import-defer/import-defer-async-module/setup_FIXTURE.js:4\n\n","path":"../../test262/test/language/expressions/dynamic-import/import-defer/import-defer-async-module/setup_FIXTURE.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/dynamic-import/import-defer/import-defer-async-module/setup_FIXTURE.js"}
