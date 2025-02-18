@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'hasOwnProperty' of undefined\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A10.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A10.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String.prototype.slice.hasOwnProperty('length') return true. Actual: undefined\" }\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A10.js:16\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A10.js"}

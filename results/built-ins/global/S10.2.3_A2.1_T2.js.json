@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'parseInt' have attribute DontEnum\" }\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T2.js:15\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'isFinite' have attribute DontEnum\" }\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T2.js:21\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T2.js"}

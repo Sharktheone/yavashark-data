@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/function-code/10.4.3-1-100-s.js:19\n\n","path":"../../test262/test/language/function-code/10.4.3-1-100-s.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object f])\n    at Object (../../test262/test/language/function-code/10.4.3-1-100-s.js:19)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-100-s.js"}

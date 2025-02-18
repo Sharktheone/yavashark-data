@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-39.js:17\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-39.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::string::StringObj\"\n    at Object (../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-39.js:17)\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-39.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-44.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-44.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-44.js"}
