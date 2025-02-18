@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a RangeError but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js:10)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js"}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A3_T2.js"}

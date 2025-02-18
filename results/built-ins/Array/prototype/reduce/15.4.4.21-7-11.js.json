@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-7-11.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-7-11.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-7-11.js:11)\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-7-11.js"}

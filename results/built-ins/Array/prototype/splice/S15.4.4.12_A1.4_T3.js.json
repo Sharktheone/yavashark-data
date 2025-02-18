@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T3.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var x = [0,1,2,3]; var arr = x.splice(-5,4); arr is Array object. Actual: [object Object]\" }\n    at ../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T3.js:17\n\n","path":"../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T3.js"}
