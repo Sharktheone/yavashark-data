@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-6-7.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-6-7.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-6-7.js:13\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-6-7.js"}

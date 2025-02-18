@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.1_T1.js:12\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: x = new Array(0,1,2,3); x.join(Infinity) === \"0Infinity1Infinity2Infinity3\". Actual: 0inf1inf2inf3\" }\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.1_T1.js:31\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.1_T1.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/every/15.4.4.16-8-3.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-8-3.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/built-ins/Array/prototype/every/15.4.4.16-8-3.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-8-3.js"}

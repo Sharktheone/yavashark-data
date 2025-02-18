@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Object/S15.2.2.1_A1_T1.js:17\n\n","path":"../../test262/test/built-ins/Object/S15.2.2.1_A1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of !!Object.prototype.isPrototypeOf(obj) is expected to be true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/S15.2.2.1_A1_T1.js:22)\n\n","path":"../../test262/test/built-ins/Object/S15.2.2.1_A1_T1.js"}

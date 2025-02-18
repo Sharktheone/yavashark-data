@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/language/statements/class/super/in-constructor.js:14)\n\n","path":"../../test262/test/language/statements/class/super/in-constructor.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/expr/super_prop.rs:12:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/class/super/in-constructor.js"}

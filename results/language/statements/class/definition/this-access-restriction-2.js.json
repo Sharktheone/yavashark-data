@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/language/statements/class/definition/this-access-restriction-2.js:10\n\n","path":"../../test262/test/language/statements/class/definition/this-access-restriction-2.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at ../../test262/test/language/statements/class/definition/this-access-restriction-2.js:12\n\n","path":"../../test262/test/language/statements/class/definition/this-access-restriction-2.js"}

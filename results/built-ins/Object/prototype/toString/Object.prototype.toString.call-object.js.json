@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/built-ins/Object/prototype/toString/Object.prototype.toString.call-object.js:14)\n\n","path":"../../test262/test/built-ins/Object/prototype/toString/Object.prototype.toString.call-object.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/prototype/toString/Object.prototype.toString.call-object.js"}

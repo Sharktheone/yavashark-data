@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/language/statements/try/S12.14_A12_T3.js:13\n\n","path":"../../test262/test/language/statements/try/S12.14_A12_T3.js"}
+{"status":"NOT_IMPLEMENTED","msg":"thread 'main' panicked at crates/yavashark_interpreter/src/statement/for_in.rs:28:13:\nnot yet implemented: ForInStmt left is not VarDecl\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/try/S12.14_A12_T3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js:14\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: __str = new String(new Array(1,2,3)); __str ==\"1,2,3\". Actual: __str ==[object Object]\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T19.js"}

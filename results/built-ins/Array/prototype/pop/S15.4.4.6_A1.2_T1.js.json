@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/pop/S15.4.4.6_A1.2_T1.js:12\n\n","path":"../../test262/test/built-ins/Array/prototype/pop/S15.4.4.6_A1.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#5: x = []; x[0] = 0; x[3] = 3; x.pop() === 3. Actual: undefined\" }\n    at ../../test262/test/built-ins/Array/prototype/pop/S15.4.4.6_A1.2_T1.js:35\n\n","path":"../../test262/test/built-ins/Array/prototype/pop/S15.4.4.6_A1.2_T1.js"}

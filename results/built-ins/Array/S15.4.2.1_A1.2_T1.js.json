@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/S15.4.2.1_A1.2_T1.js:10\n\n","path":"../../test262/test/built-ins/Array/S15.4.2.1_A1.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object Object]\"», «\"[object Array]\"») to be true x.getClass() must return \"[object Array]\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/S15.4.2.1_A1.2_T1.js:12)\n\n","path":"../../test262/test/built-ins/Array/S15.4.2.1_A1.2_T1.js"}

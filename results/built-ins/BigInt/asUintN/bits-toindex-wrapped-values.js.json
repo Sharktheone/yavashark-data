@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/built-ins/BigInt/asUintN/bits-toindex-wrapped-values.js:13)\n\n","path":"../../test262/test/built-ins/BigInt/asUintN/bits-toindex-wrapped-values.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object Object])\n    at Object (../../test262/test/built-ins/BigInt/asUintN/bits-toindex-wrapped-values.js:13)\n\n","path":"../../test262/test/built-ins/BigInt/asUintN/bits-toindex-wrapped-values.js"}

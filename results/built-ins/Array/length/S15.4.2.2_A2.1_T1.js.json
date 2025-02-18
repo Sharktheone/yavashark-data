@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/length/S15.4.2.2_A2.1_T1.js:13\n\n","path":"../../test262/test/built-ins/Array/length/S15.4.2.2_A2.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1», «0») to be true The value of x.length is expected to be 0\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/length/S15.4.2.2_A2.1_T1.js:14)\n\n","path":"../../test262/test/built-ins/Array/length/S15.4.2.2_A2.1_T1.js"}

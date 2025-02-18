@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.2_T2.js:15\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.2_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.2_T2.js:16)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A3.2_T2.js"}
