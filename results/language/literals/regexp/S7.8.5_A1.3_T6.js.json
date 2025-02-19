@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.3_T6.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: RegularExpressionFirstChar :: Paragraph separator is incorrect. Actual: ReferenceError: eval is not defined\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.3_T6.js:26\n\" }\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.3_T6.js:31\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.3_T6.js"}

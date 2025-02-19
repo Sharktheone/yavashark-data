@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.5_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: RegularExpressionFirstChar :: BackslashSequence :: \\Carriage Return is incorrect. Actual: ReferenceError: eval is not defined\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.5_T4.js:19\n\" }\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.5_T4.js:24\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.5_T4.js"}

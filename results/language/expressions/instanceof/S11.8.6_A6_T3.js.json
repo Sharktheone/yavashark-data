@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1 function MyFunct(){return 0}; MyFunct instanceof MyFunct === false\" }\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A6_T3.js:16\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A6_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A6_T3.js"}

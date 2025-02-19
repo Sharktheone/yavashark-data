@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A2.3_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: RegularExpressionChar :: Line Feed is incorrect. Actual: ReferenceError: eval is not defined\n    at ../../test262/test/language/literals/regexp/S7.8.5_A2.3_T2.js:29\n\" }\n    at ../../test262/test/language/literals/regexp/S7.8.5_A2.3_T2.js:34\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A2.3_T2.js"}

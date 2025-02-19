@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A4_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new Number instanceof Number\" }\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A4_T2.js:22\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A4_T2.js"}
