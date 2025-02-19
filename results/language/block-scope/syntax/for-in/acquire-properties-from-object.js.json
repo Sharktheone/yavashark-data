@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"zoom\"», «\"x\"») to be true {x:1, y:2, zoom:3}: first property\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/block-scope/syntax/for-in/acquire-properties-from-object.js:38)\n\n","path":"../../test262/test/language/block-scope/syntax/for-in/acquire-properties-from-object.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/block-scope/syntax/for-in/acquire-properties-from-object.js"}
