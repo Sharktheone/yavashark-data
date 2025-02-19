@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at ../../test262/test/language/statements/class/subclass/superclass-prototype-setter-method-override.js:18\n    at m (../../test262/test/language/statements/class/subclass/superclass-prototype-setter-method-override.js:22)\n\n","path":"../../test262/test/language/statements/class/subclass/superclass-prototype-setter-method-override.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/subclass/superclass-prototype-setter-method-override.js"}

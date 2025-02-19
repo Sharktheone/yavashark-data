@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at ../../test262/test/language/statements/class/ident-name-method-def-const-escaped.js:41\n    at const (../../test262/test/language/statements/class/ident-name-method-def-const-escaped.js:46)\n\n","path":"../../test262/test/language/statements/class/ident-name-method-def-const-escaped.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/ident-name-method-def-const-escaped.js"}

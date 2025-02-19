@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal return statement\n    at ../../test262/test/language/computed-property-names/class/method/constructor.js:10\n    at constructor (../../test262/test/language/computed-property-names/class/method/constructor.js:17)\n\n","path":"../../test262/test/language/computed-property-names/class/method/constructor.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/class/method/constructor.js"}
