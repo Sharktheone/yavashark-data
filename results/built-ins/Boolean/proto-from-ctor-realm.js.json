@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_env/src/function/prototype.rs:100:5:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Boolean/proto-from-ctor-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Boolean/proto-from-ctor-realm.js:27\n\n","path":"../../test262/test/built-ins/Boolean/proto-from-ctor-realm.js"}

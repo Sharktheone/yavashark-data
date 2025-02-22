@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_env/src/function/prototype.rs:100:5:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/function/13.2-18-s.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: eval is not defined\n    at Object (../../test262/test/language/statements/function/13.2-18-s.js:11)\n\n","path":"../../test262/test/language/statements/function/13.2-18-s.js"}
