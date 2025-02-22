@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_interpreter/src/statement/expr/unary.rs:24:17:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Infinity/S15.1.1.2_A3_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Infinity/S15.1.1.2_A3_T2.js"}
