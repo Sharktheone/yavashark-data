@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Object (../../test262/test/built-ins/Array/S15.4.1_A1.1_T2.js:14)\n\n","path":"../../test262/test/built-ins/Array/S15.4.1_A1.1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object Object]\"», «\"[object Array]\"») to be true x.toString() must return \"[object Array]\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/S15.4.1_A1.1_T2.js:15)\n\n","path":"../../test262/test/built-ins/Array/S15.4.1_A1.1_T2.js"}

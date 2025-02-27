@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1», «2») to be true callCnt\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-4.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-4.js"}

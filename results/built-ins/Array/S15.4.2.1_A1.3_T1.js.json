@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1», «1») to be false The value of x.length is not 1\" }\n    at ../../test262/harness/assert.js:65\n    at anonymous (../../test262/test/built-ins/Array/S15.4.2.1_A1.3_T1.js:14)\n\n","path":"../../test262/test/built-ins/Array/S15.4.2.1_A1.3_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/S15.4.2.1_A1.3_T1.js"}
