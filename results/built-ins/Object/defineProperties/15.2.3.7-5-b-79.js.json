@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «true») to be true result1\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-79.js:25)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-79.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-79.js"}

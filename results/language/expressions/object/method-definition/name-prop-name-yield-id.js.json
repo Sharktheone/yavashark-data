@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The property name is taken from the 'yield' variable\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/language/expressions/object/method-definition/name-prop-name-yield-id.js:18)\n\n","path":"../../test262/test/language/expressions/object/method-definition/name-prop-name-yield-id.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/name-prop-name-yield-id.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «false») to be true Symbol().hasOwnProperty(\"description\") returns false\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Symbol/prototype/description/is-not-own-property.js:10)\n\n","path":"../../test262/test/built-ins/Symbol/prototype/description/is-not-own-property.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Symbol/prototype/description/is-not-own-property.js"}

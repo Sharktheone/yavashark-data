@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Number.hasOwnProperty(\"MIN_VALUE\") must return true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Number/S15.7.3_A3.js:9)\n\n","path":"../../test262/test/built-ins/Number/S15.7.3_A3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S15.7.3_A3.js"}
