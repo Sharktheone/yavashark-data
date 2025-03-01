@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/direct/strict-caller-global.js:23\n\n","path":"../../test262/test/language/eval-code/direct/strict-caller-global.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object Object]) but got Object(ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/direct/strict-caller-global.js:23\n)\n\n","path":"../../test262/test/language/eval-code/direct/strict-caller-global.js"}

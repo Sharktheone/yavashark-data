@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js"}
