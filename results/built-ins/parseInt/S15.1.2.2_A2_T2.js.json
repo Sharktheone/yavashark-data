@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«NaN», «1») to be true parseInt(\"\\u00201\") must return the same value returned by parseInt(\"1\")\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T2.js:10)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A2_T2.js"}
