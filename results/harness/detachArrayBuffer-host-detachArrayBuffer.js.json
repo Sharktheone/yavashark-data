@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 498..509, ctxt: #0, sym: \"ArrayBuffer\", optional: false }) is not a constructor\n    at ../../test262/test/harness/detachArrayBuffer-host-detachArrayBuffer.js:21\n\n","path":"../../test262/test/harness/detachArrayBuffer-host-detachArrayBuffer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/detachArrayBuffer-host-detachArrayBuffer.js"}

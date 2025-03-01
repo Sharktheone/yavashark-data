@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 669..680, ctxt: #0, sym: \"ArrayBuffer\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/DataView/prototype/getUint32/return-abrupt-from-tonumber-byteoffset-symbol.js:23\n\n","path":"../../test262/test/built-ins/DataView/prototype/getUint32/return-abrupt-from-tonumber-byteoffset-symbol.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getUint32/return-abrupt-from-tonumber-byteoffset-symbol.js"}

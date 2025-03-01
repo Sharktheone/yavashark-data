@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 505..516, ctxt: #0, sym: \"ArrayBuffer\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/ArrayBuffer/zero-length.js:19\n\n","path":"../../test262/test/built-ins/ArrayBuffer/zero-length.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/ArrayBuffer/zero-length.js"}

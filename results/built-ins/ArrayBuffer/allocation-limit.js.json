@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a RangeError but got a TypeError `length` parameter is 7 PiB\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/ArrayBuffer/allocation-limit.js:21)\n\n","path":"../../test262/test/built-ins/ArrayBuffer/allocation-limit.js"}
+{"status":"CRASH","msg":"memory allocation of 7881299347898368 bytes failed\n","path":"../../test262/test/built-ins/ArrayBuffer/allocation-limit.js"}

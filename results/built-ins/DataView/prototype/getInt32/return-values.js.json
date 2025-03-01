@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 919..930, ctxt: #0, sym: \"ArrayBuffer\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/DataView/prototype/getInt32/return-values.js:31\n\n","path":"../../test262/test/built-ins/DataView/prototype/getInt32/return-values.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getInt32/return-values.js"}
