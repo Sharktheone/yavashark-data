@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/direct/this-value-func-non-strict.js:14\n    at anonymous (../../test262/test/language/eval-code/direct/this-value-func-non-strict.js:13)\n\n","path":"../../test262/test/language/eval-code/direct/this-value-func-non-strict.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/this-value-func-non-strict.js"}

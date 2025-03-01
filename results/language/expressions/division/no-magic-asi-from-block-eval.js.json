@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/expressions/division/no-magic-asi-from-block-eval.js:19\n\n","path":"../../test262/test/language/expressions/division/no-magic-asi-from-block-eval.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/division/no-magic-asi-from-block-eval.js"}

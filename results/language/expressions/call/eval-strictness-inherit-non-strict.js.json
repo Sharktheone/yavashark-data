@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/expressions/call/eval-strictness-inherit-non-strict.js:20\n\n","path":"../../test262/test/language/expressions/call/eval-strictness-inherit-non-strict.js"}
+{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_interpreter/src/statement/with.rs:9:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/call/eval-strictness-inherit-non-strict.js"}

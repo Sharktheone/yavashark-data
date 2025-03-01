@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: eval(\"x = 1; x\\u000A++\") must throw a SyntaxError. Actual: ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/direct/parse-failure-1.js:15\n\" }\n    at ../../test262/test/language/eval-code/direct/parse-failure-1.js:19\n\n","path":"../../test262/test/language/eval-code/direct/parse-failure-1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/parse-failure-1.js"}

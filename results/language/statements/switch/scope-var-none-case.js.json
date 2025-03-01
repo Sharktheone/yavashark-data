@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statements/switch/scope-var-none-case.js:22\n\n","path":"../../test262/test/language/statements/switch/scope-var-none-case.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/switch/scope-var-none-case.js"}

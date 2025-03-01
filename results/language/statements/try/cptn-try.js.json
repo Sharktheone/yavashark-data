@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statements/try/cptn-try.js:20\n\n","path":"../../test262/test/language/statements/try/cptn-try.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/cptn-try.js"}

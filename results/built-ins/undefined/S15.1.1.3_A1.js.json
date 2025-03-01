@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/built-ins/undefined/S15.1.1.3_A1.js:21\n\n","path":"../../test262/test/built-ins/undefined/S15.1.1.3_A1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/undefined/S15.1.1.3_A1.js"}

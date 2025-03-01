@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statementList/eval-block-with-statment-array-literal.js:45\n\n","path":"../../test262/test/language/statementList/eval-block-with-statment-array-literal.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statementList/eval-block-with-statment-array-literal.js"}

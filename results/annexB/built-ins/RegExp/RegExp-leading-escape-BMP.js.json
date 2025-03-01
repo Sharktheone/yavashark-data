@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/annexB/built-ins/RegExp/RegExp-leading-escape-BMP.js:26\n\n","path":"../../test262/test/annexB/built-ins/RegExp/RegExp-leading-escape-BMP.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::string::StringObj\"\n    at Object (../../test262/test/annexB/built-ins/RegExp/RegExp-leading-escape-BMP.js:27)\n\n","path":"../../test262/test/annexB/built-ins/RegExp/RegExp-leading-escape-BMP.js"}

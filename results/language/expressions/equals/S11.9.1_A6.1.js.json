@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/expressions/equals/S11.9.1_A6.1.js:21\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A6.1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: (undefined == null) === true\" }\n    at ../../test262/test/language/expressions/equals/S11.9.1_A6.1.js:27\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A6.1.js"}

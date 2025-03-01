@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statementList/eval-block-expr-arrow-function-boolean-literal.js:57\n\n","path":"../../test262/test/language/statementList/eval-block-expr-arrow-function-boolean-literal.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statementList/eval-block-expr-arrow-function-boolean-literal.js"}

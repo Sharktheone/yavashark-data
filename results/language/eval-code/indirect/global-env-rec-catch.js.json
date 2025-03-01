@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/indirect/global-env-rec-catch.js:12\n    at testcase (../../test262/test/language/eval-code/indirect/global-env-rec-catch.js:22)\n\n","path":"../../test262/test/language/eval-code/indirect/global-env-rec-catch.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/indirect/global-env-rec-catch.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statements/switch/cptn-no-dflt-no-match.js:35\n\n","path":"../../test262/test/language/statements/switch/cptn-no-dflt-no-match.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/switch/cptn-no-dflt-no-match.js"}

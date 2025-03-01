@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/indirect/var-env-func-init-multi.js:26\n\n","path":"../../test262/test/language/eval-code/indirect/var-env-func-init-multi.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at eval:0\n    at Object (../../test262/test/language/eval-code/indirect/var-env-func-init-multi.js:26)\n\n","path":"../../test262/test/language/eval-code/indirect/var-env-func-init-multi.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/direct/var-env-var-strict-source.js:14\n    at _10_4_2_3_c_1_sFunc (../../test262/test/language/eval-code/direct/var-env-var-strict-source.js:17)\n    at testcase (../../test262/test/language/eval-code/direct/var-env-var-strict-source.js:19)\n\n","path":"../../test262/test/language/eval-code/direct/var-env-var-strict-source.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/var-env-var-strict-source.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: eval is not defined\n    at Object (../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A6_T8.js:15)\n    at anonymous (../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A6_T8.js:14)\n\n","path":"../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A6_T8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A6_T8.js"}

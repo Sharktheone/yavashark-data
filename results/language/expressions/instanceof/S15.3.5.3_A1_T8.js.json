@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: eval is not defined\n    at Object (../../test262/test/language/expressions/instanceof/S15.3.5.3_A1_T8.js:14)\n\n","path":"../../test262/test/language/expressions/instanceof/S15.3.5.3_A1_T8.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/instanceof/S15.3.5.3_A1_T8.js:17\n\n","path":"../../test262/test/language/expressions/instanceof/S15.3.5.3_A1_T8.js"}

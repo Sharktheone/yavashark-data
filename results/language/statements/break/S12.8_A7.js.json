@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"1.1: Appearing of break within eval statement inside of IterationStatement yields SyntaxError\" }\n    at ../../test262/test/language/statements/break/S12.8_A7.js:25\n\n","path":"../../test262/test/language/statements/break/S12.8_A7.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/break/S12.8_A7.js"}

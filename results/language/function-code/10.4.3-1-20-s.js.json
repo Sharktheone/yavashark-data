@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/function-code/10.4.3-1-20-s.js:15\n    at testcase (../../test262/test/language/function-code/10.4.3-1-20-s.js:18)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-20-s.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/10.4.3-1-20-s.js"}

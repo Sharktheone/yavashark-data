@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: test failed with error RuntimeError: eval is not defined\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A3_T5.js:24\n\" }\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A3_T5.js:26\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A3_T5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A3_T5.js"}

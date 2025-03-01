@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/eval-code/indirect/cptn-nrml-empty-empty.js:12\n\n","path":"../../test262/test/language/eval-code/indirect/cptn-nrml-empty-empty.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/indirect/cptn-nrml-empty-empty.js"}

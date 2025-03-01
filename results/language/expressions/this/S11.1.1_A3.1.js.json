@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/expressions/this/S11.1.1_A3.1.js:20\n    at ReturnEvalThis (../../test262/test/language/expressions/this/S11.1.1_A3.1.js:21)\n\n","path":"../../test262/test/language/expressions/this/S11.1.1_A3.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/this/S11.1.1_A3.1.js"}

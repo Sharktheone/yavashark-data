@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval is not defined\n    at ../../test262/test/language/statements/switch/cptn-b-final.js:49\n\n","path":"../../test262/test/language/statements/switch/cptn-b-final.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «3») to be true non-empy StatementList (lone case)\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/switch/cptn-b-final.js:54)\n\n","path":"../../test262/test/language/statements/switch/cptn-b-final.js"}
