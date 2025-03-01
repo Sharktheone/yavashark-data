@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'Boolean' have attribute DontEnum\" }\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T3.js:23\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'Number' have attribute DontEnum\" }\n    at ../../test262/test/built-ins/global/S10.2.3_A2.1_T3.js:19\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.1_T3.js"}
