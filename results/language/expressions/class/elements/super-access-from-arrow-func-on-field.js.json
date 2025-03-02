@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_interpreter/src/statement/expr/assign.rs:36:22:\nnot yet implemented: assign targets\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/class/elements/super-access-from-arrow-func-on-field.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/elements/super-access-from-arrow-func-on-field.js"}

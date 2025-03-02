@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/expressions/logical-or/emulates-undefined.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«[object Object]», «2») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/annexB/language/expressions/logical-or/emulates-undefined.js:24)\n\n","path":"../../test262/test/annexB/language/expressions/logical-or/emulates-undefined.js"}
