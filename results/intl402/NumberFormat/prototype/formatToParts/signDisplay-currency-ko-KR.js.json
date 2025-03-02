@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-currency-ko-KR.js:61\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-currency-ko-KR.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-currency-ko-KR.js:62\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-currency-ko-KR.js"}

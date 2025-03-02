@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at ../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js:32\n\n","path":"../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js:33\n\n","path":"../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js"}

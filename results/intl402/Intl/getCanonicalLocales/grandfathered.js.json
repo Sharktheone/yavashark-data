@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at ../../test262/test/intl402/Intl/getCanonicalLocales/grandfathered.js:31\n\n","path":"../../test262/test/intl402/Intl/getCanonicalLocales/grandfathered.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Intl/getCanonicalLocales/grandfathered.js:32\n\n","path":"../../test262/test/intl402/Intl/getCanonicalLocales/grandfathered.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: ForInStmt left is not an identifier\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-de-DE.js:73\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-de-DE.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-de-DE.js:74\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/signDisplay-de-DE.js"}
