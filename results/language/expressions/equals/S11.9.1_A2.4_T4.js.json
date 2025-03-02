@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: ((y = 1) == y) === true\" }\n    at ../../test262/test/language/expressions/equals/S11.9.1_A2.4_T4.js:13\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A2.4_T4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A2.4_T4.js"}

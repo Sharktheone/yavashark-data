@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'delete' of undefined\n    at ../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-delete-escaped.js:42\n\n","path":"../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-delete-escaped.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-delete-escaped.js"}

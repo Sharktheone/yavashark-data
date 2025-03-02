@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var x = 0; (x = 1) === 1. Actual: undefined\" }\n    at ../../test262/test/language/expressions/assignment/S11.13.1_A3.2.js:13\n\n","path":"../../test262/test/language/expressions/assignment/S11.13.1_A3.2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/S11.13.1_A3.2.js"}

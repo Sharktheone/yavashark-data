@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «3») to be true `new C().y = 3` is `3`\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/class/super/in-setter.js:23)\n\n","path":"../../test262/test/language/statements/class/super/in-setter.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/super/in-setter.js"}

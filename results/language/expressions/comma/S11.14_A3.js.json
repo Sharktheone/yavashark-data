@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var x = 0; var y = 0; var z = 0; (x = 1, y = 2, z = 3) === 3. Actual: undefined\" }\n    at ../../test262/test/language/expressions/comma/S11.14_A3.js:15\n\n","path":"../../test262/test/language/expressions/comma/S11.14_A3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/comma/S11.14_A3.js"}

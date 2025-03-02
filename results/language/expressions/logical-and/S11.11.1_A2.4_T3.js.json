@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: ((y = true) \u0026\u0026 y) === true\" }\n    at ../../test262/test/language/expressions/logical-and/S11.11.1_A2.4_T3.js:24\n\n","path":"../../test262/test/language/expressions/logical-and/S11.11.1_A2.4_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-and/S11.11.1_A2.4_T3.js"}

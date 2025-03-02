@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1», «2») to be true #1: Since LineTerminator(U-000A) between break and Identifier not allowed break evaluates without label\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/break/line-terminators.js:21)\n\n","path":"../../test262/test/language/statements/break/line-terminators.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/break/line-terminators.js"}
