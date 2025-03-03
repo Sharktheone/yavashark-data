@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/built-ins/Date/S15.9.3.1_A2_T4.js:13\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.1_A2_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Date.prototype.isPrototypeOf(x12) must return true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Date/S15.9.3.1_A2_T4.js:22)\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.1_A2_T4.js"}

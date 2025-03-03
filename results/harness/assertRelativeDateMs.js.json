@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/harness/assertRelativeDateMs.js:12\n\n","path":"../../test262/test/harness/assertRelativeDateMs.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected [object Object] to be 0 milliseconds from the Unix epoch\" }\n    at ../../test262/harness/assertRelativeDateMs.js:20\n    at assertRelativeDateMs (../../test262/test/harness/assertRelativeDateMs.js:12)\n\n","path":"../../test262/test/harness/assertRelativeDateMs.js"}

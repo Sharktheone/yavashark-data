@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#29: typeof this.Date !== \"undefined\"\" }\n    at ../../test262/test/language/expressions/property-accessors/S11.2.1_A4_T1.js:35\n\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A4_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A4_T1.js"}

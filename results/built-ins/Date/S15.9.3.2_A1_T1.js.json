@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"undefined\"», «\"object\"») to be true The value of `typeof new Date(date_1899_end)` is expected to be \"object\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Date/S15.9.3.2_A1_T1.js:12)\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A1_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A1_T1.js"}

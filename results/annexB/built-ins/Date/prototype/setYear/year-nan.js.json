@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/annexB/built-ins/Date/prototype/setYear/year-nan.js:18\n\n","path":"../../test262/test/annexB/built-ins/Date/prototype/setYear/year-nan.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/annexB/built-ins/Date/prototype/setYear/year-nan.js:19)\n\n","path":"../../test262/test/annexB/built-ins/Date/prototype/setYear/year-nan.js"}

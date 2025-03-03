@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/built-ins/Date/S15.9.3.1_A3_T2.2.js:14\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.1_A3_T2.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object Object]\"», «\"[object Date]\"») to be true x1.toString() must return \"[object Date]\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Date/S15.9.3.1_A3_T2.2.js:17)\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.1_A3_T2.2.js"}

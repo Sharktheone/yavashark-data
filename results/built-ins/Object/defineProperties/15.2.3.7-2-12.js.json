@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-2-12.js:10\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-2-12.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at Object (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-2-12.js:21)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-2-12.js"}

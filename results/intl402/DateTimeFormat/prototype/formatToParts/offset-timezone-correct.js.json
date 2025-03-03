@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Date is not defined\n    at ../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js:8\n\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js"}
