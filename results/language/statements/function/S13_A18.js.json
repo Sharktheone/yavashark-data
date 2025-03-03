@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: typeof sinx === 'undefined'. Actual: typeof sinx ===string\" }\n    at ../../test262/test/language/statements/function/S13_A18.js:13\n\n","path":"../../test262/test/language/statements/function/S13_A18.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A18.js"}

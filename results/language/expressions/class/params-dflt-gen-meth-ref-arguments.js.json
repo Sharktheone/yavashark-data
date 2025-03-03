@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at method (../../test262/test/language/expressions/class/params-dflt-gen-meth-ref-arguments.js:83)\n\n","path":"../../test262/test/language/expressions/class/params-dflt-gen-meth-ref-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arguments is not defined\n    at method (../../test262/test/language/expressions/class/params-dflt-gen-meth-ref-arguments.js:83)\n\n","path":"../../test262/test/language/expressions/class/params-dflt-gen-meth-ref-arguments.js"}

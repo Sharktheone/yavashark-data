@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'restore' of undefined\n    at ../../test262/harness/propertyHelper.js:125\n    at verifyProperty (../../test262/test/harness/verifyProperty-configurable-object.js:15)\n\n","path":"../../test262/test/harness/verifyProperty-configurable-object.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/harness/verifyProperty-configurable-object.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: (new f1(1,2,3,4,5)).length===5, where f1 returns \"arguments\" that is set to \"value of the argument property\"\" }\n    at ../../test262/test/language/arguments-object/S10.1.6_A1_T2.js:21\n\n","path":"../../test262/test/language/arguments-object/S10.1.6_A1_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/S10.1.6_A1_T2.js"}

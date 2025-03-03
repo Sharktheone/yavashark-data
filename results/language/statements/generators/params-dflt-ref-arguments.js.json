@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/generators/params-dflt-ref-arguments.js:58)\n\n","path":"../../test262/test/language/statements/generators/params-dflt-ref-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arguments is not defined\n    at f (../../test262/test/language/statements/generators/params-dflt-ref-arguments.js:58)\n\n","path":"../../test262/test/language/statements/generators/params-dflt-ref-arguments.js"}

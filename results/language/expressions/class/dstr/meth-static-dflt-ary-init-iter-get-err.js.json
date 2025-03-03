@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a SyntaxError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/class/dstr/meth-static-dflt-ary-init-iter-get-err.js:77)\n\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-ary-init-iter-get-err.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-ary-init-iter-get-err.js"}

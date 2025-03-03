@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: typeof (x) === \"undefined\". Actual: string\" }\n    at ../../test262/test/language/expressions/grouping/S11.1.6_A3_T7.js:12\n\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A3_T7.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A3_T7.js"}

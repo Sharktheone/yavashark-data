@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: typeof __func === 'undefined'. Actual: typeof __func ===string\" }\n    at ../../test262/test/language/statements/function/S13_A2_T2.js:24\n\n","path":"../../test262/test/language/statements/function/S13_A2_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A2_T2.js"}

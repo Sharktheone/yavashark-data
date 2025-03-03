@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: decodeURI is not defined\n    at ../../test262/test/built-ins/global/S10.2.3_A1.2_T2.js:39\n    at test (../../test262/test/built-ins/global/S10.2.3_A1.2_T2.js:59)\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A1.2_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/global/S10.2.3_A1.2_T2.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at anonymous (../../test262/test/language/statements/class/static-init-arguments-functions.js:21)\n\n","path":"../../test262/test/language/statements/class/static-init-arguments-functions.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arguments is not defined\n    at anonymous (../../test262/test/language/statements/class/static-init-arguments-functions.js:21)\n\n","path":"../../test262/test/language/statements/class/static-init-arguments-functions.js"}

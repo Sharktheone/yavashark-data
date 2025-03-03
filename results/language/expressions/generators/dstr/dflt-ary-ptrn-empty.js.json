@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at anonymous (../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-empty.js:59)\n\n","path":"../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at anonymous (../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-empty.js:59)\n\n","path":"../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-empty.js"}

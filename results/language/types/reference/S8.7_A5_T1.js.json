@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: typeof(__ref) === \"undefined\". Actual: string\" }\n    at ../../test262/test/language/types/reference/S8.7_A5_T1.js:14\n\n","path":"../../test262/test/language/types/reference/S8.7_A5_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/reference/S8.7_A5_T1.js"}

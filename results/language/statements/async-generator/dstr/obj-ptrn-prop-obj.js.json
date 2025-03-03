@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-obj.js:40)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-obj.js:40\n\n","path":"../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-obj.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-rest-ary-empty.js:70)\n\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-rest-ary-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at f (../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-rest-ary-empty.js:70)\n\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-rest-ary-empty.js"}

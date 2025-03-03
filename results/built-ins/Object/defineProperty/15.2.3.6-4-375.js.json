@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"descriptor value should be 2010; descriptor should not be writable\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:123)\n    at verifyProperty (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-375.js:21)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-375.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-375.js"}

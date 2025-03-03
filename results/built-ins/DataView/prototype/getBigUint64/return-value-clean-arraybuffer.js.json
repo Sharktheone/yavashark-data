@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at /home/runner/work/yavashark/yavashark/crates/yavashark_value/src/js/ops.rs:294:17:\nnot yet implemented: return Result from add (Cannot mix BigInt and other types)\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/return-value-clean-arraybuffer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/return-value-clean-arraybuffer.js"}

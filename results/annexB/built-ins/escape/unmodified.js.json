@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: escape is not defined\n    at ../../test262/test/annexB/built-ins/escape/unmodified.js:21\n\n","path":"../../test262/test/annexB/built-ins/escape/unmodified.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/built-ins/escape/unmodified.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at g (../../test262/test/language/statements/generators/arguments-with-arguments-fn.js:28)\n\n","path":"../../test262/test/language/statements/generators/arguments-with-arguments-fn.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arguments is not defined\n    at g (../../test262/test/language/statements/generators/arguments-with-arguments-fn.js:28)\n\n","path":"../../test262/test/language/statements/generators/arguments-with-arguments-fn.js"}

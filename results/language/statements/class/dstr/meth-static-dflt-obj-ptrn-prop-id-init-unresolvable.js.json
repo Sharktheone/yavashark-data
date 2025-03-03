@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a ReferenceError but got a SyntaxError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init-unresolvable.js:81)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init-unresolvable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init-unresolvable.js"}

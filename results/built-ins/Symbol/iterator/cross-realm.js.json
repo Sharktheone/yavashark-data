@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at /home/runner/work/yavashark/yavashark/crates/yavashark_value/src/js/ops.rs:288:17:\nnot yet implemented: return a Result here.... to throw an TypeError\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Symbol/iterator/cross-realm.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Symbol/iterator/cross-realm.js"}

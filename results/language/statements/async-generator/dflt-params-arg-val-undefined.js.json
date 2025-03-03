@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at ref (../../test262/test/language/statements/async-generator/dflt-params-arg-val-undefined.js:45)\n\n","path":"../../test262/test/language/statements/async-generator/dflt-params-arg-val-undefined.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/language/statements/async-generator/dflt-params-arg-val-undefined.js:45\n\n","path":"../../test262/test/language/statements/async-generator/dflt-params-arg-val-undefined.js"}

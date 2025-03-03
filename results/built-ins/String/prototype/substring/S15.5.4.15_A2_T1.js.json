@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __string = new String(\"this is a string object\"); typeof __string.substring() === \"string\". Actual: undefined\" }\n    at ../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A2_T1.js:15\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A2_T1.js"}

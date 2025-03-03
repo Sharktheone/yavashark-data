@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«[object Object]», «undefined») to be true The value of foo.prototype is expected to equal the value of Object.getOwnPropertyDescriptor(foo, 'prototype').value\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Function/prototype/S15.3.3.1_A4.js:22)\n\n","path":"../../test262/test/built-ins/Function/prototype/S15.3.3.1_A4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/S15.3.3.1_A4.js"}

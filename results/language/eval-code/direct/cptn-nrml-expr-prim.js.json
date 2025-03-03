@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: x = 1; eval(\"++x\") === 2. Actual: 2\" }\n    at ../../test262/test/language/eval-code/direct/cptn-nrml-expr-prim.js:31\n\n","path":"../../test262/test/language/eval-code/direct/cptn-nrml-expr-prim.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/cptn-nrml-expr-prim.js"}

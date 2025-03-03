@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var x = \"1\"; x++; x === 1 + 1. Actual: 11\" }\n    at ../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js:14\n\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: var x = new String(\"-1\"); x++; x === -1 + 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js:28\n\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js"}

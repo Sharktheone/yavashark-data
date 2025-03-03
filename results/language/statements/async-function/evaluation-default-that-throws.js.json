@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at foo (../../test262/test/language/statements/async-function/evaluation-default-that-throws.js:16)\n\n","path":"../../test262/test/language/statements/async-function/evaluation-default-that-throws.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: null is not a function\n    at foo (../../test262/test/language/statements/async-function/evaluation-default-that-throws.js:16)\n\n","path":"../../test262/test/language/statements/async-function/evaluation-default-that-throws.js"}
