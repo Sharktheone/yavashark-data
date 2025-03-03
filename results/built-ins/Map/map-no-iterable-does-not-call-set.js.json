@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Map is not defined\n    at ../../test262/test/built-ins/Map/map-no-iterable-does-not-call-set.js:25\n\n","path":"../../test262/test/built-ins/Map/map-no-iterable-does-not-call-set.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Map/map-no-iterable-does-not-call-set.js"}

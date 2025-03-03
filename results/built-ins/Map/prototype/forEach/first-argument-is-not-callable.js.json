@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Map is not defined\n    at ../../test262/test/built-ins/Map/prototype/forEach/first-argument-is-not-callable.js:15\n\n","path":"../../test262/test/built-ins/Map/prototype/forEach/first-argument-is-not-callable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Map/prototype/forEach/first-argument-is-not-callable.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Set is not defined\n    at ../../test262/test/language/statements/for-of/set-contract.js:11\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/for-of/set-contract.js:14\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js"}

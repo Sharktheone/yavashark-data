@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Set is not defined\n    at ../../test262/test/built-ins/Set/prototype-of-set.js:10\n\n","path":"../../test262/test/built-ins/Set/prototype-of-set.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Set/prototype-of-set.js"}

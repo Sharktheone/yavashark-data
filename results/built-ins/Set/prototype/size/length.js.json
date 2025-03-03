@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Set is not defined\n    at ../../test262/test/built-ins/Set/prototype/size/length.js:13\n\n","path":"../../test262/test/built-ins/Set/prototype/size/length.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Set/prototype/size/length.js:16\n\n","path":"../../test262/test/built-ins/Set/prototype/size/length.js"}

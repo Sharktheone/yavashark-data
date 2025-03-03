@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Map is not defined\n    at ../../test262/test/built-ins/Map/prototype/forEach/iterates-values-deleted-then-readded.js:21\n\n","path":"../../test262/test/built-ins/Map/prototype/forEach/iterates-values-deleted-then-readded.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Map/prototype/forEach/iterates-values-deleted-then-readded.js:28)\n\n","path":"../../test262/test/built-ins/Map/prototype/forEach/iterates-values-deleted-then-readded.js"}
