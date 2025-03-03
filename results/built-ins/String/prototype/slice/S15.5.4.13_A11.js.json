@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String.prototype.slice.hasOwnProperty(\"length\") return true. Actual: false\" }\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A11.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A11.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A11.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"descriptor value should be asIntN; object value should be asIntN\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:123)\n    at verifyProperty (../../test262/test/built-ins/BigInt/asIntN/name.js:15)\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/name.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/BigInt/asIntN/name.js"}

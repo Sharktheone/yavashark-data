@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: Object.prototype.isPrototypeOf(__device) === true\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A3_T1.js:31\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at Object (../../test262/test/language/statements/function/S13.2.2_A3_T1.js:30)\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T1.js"}

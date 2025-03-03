@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var __str__obj = new String(\"abba\"); String.prototype.isPrototypeOf(__str__obj)===true\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A2_T1.js:17\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A2_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A2_T1.js"}

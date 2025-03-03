@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __PROTO.isPrototypeOf(__monster) must be true\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A1_T1.js:33\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A1_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13.2.2_A1_T1.js"}

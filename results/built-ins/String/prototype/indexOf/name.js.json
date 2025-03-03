@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"descriptor value should be indexOf; object value should be indexOf\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:123)\n    at verifyProperty (../../test262/test/built-ins/String/prototype/indexOf/name.js:22)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/name.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/String/prototype/indexOf/name.js"}

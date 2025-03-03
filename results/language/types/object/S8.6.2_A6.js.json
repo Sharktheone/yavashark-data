@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var numInstance=new Number; numInstance.constructor === Number. Actual: [object Object]\" }\n    at ../../test262/test/language/types/object/S8.6.2_A6.js:25\n\n","path":"../../test262/test/language/types/object/S8.6.2_A6.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/object/S8.6.2_A6.js"}

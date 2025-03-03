@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Date.prototype.isPrototypeOf(x12) must return true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Date/S15.9.3.2_A2_T1.js:23)\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A2_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A2_T1.js"}

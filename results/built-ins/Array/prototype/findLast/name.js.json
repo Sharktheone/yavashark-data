@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"\\\"findLast\\\"\"», «\"findLast\"») to be true The value of `Array.prototype.findLast.name` is `\"findLast\"`\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/findLast/name.js:16)\n\n","path":"../../test262/test/built-ins/Array/prototype/findLast/name.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Array/prototype/findLast/name.js"}

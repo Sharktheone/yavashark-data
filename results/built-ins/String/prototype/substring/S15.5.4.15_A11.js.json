@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String.prototype.substring.hasOwnProperty(\"length\") return true. Actual: false\" }\n    at ../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A11.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A11.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A11.js"}
