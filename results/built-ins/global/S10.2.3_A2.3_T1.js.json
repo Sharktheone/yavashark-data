@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'NaN' have attribute DontEnum\" }\n    at eval:0\n    at Object (../../test262/test/built-ins/global/S10.2.3_A2.3_T1.js:22)\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.3_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: 'undefined' have attribute DontEnum\" }\n    at eval:0\n    at Object (../../test262/test/built-ins/global/S10.2.3_A2.3_T1.js:22)\n\n","path":"../../test262/test/built-ins/global/S10.2.3_A2.3_T1.js"}
