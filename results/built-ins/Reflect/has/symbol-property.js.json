@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Reflect/has/symbol-property.js:30\n\n","path":"../../test262/test/built-ins/Reflect/has/symbol-property.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«true», «false») to be true false when property is not present\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Reflect/has/symbol-property.js:31)\n\n","path":"../../test262/test/built-ins/Reflect/has/symbol-property.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[a] to be enumerable, but was not.\" }\n    at ../../test262/harness/propertyHelper.js:248\n    at verifyEnumerable (../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js:15)\n\n","path":"../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js"}

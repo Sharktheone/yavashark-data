@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/ThrowTypeError/distinct-cross-realm.js:21\n\n","path":"../../test262/test/built-ins/ThrowTypeError/distinct-cross-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/ThrowTypeError/distinct-cross-realm.js:20\n\n","path":"../../test262/test/built-ins/ThrowTypeError/distinct-cross-realm.js"}

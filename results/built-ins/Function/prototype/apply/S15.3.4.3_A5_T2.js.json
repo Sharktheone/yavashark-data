@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: true\n    at eval:0\n    at Object (../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T2.js:14)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T2.js:14\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T2.js"}

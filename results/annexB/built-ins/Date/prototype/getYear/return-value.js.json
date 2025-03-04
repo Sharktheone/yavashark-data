@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«125», «-1») to be true 1899: first millisecond\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/annexB/built-ins/Date/prototype/getYear/return-value.js:15)\n\n","path":"../../test262/test/annexB/built-ins/Date/prototype/getYear/return-value.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/built-ins/Date/prototype/getYear/return-value.js"}

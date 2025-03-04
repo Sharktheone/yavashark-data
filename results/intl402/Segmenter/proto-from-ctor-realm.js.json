@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/intl402/Segmenter/proto-from-ctor-realm.js:32\n\n","path":"../../test262/test/intl402/Segmenter/proto-from-ctor-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/intl402/Segmenter/proto-from-ctor-realm.js:28\n\n","path":"../../test262/test/intl402/Segmenter/proto-from-ctor-realm.js"}

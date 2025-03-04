@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-offset.js:32\n\n","path":"../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-offset.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at Object (../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-offset.js:32)\n\n","path":"../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-offset.js"}

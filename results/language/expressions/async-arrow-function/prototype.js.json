@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/async-arrow-function/prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/language/expressions/async-arrow-function/prototype.js:17\n\n","path":"../../test262/test/language/expressions/async-arrow-function/prototype.js"}

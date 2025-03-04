@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Reflect/get/return-value.js:36\n\n","path":"../../test262/test/built-ins/Reflect/get/return-value.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «\"foo\"») to be true Return Call(getter, Receiver)\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Reflect/get/return-value.js:54)\n\n","path":"../../test262/test/built-ins/Reflect/get/return-value.js"}

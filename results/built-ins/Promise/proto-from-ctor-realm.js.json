@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Promise/proto-from-ctor-realm.js:29\n\n","path":"../../test262/test/built-ins/Promise/proto-from-ctor-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Promise/proto-from-ctor-realm.js:26\n\n","path":"../../test262/test/built-ins/Promise/proto-from-ctor-realm.js"}

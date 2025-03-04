@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/built-ins/Reflect/apply/call-target.js:28\n\n","path":"../../test262/test/built-ins/Reflect/apply/call-target.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Reflect/apply/call-target.js"}

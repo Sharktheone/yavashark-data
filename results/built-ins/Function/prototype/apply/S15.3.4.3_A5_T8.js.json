@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T8.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T8.js:14\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A5_T8.js"}

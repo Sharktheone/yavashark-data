@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n 262\n","path":"../../test262/test/language/module-code/instn-same-global-set_FIXTURE.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/language/module-code/instn-same-global-set_FIXTURE.js:4\n\n","path":"../../test262/test/language/module-code/instn-same-global-set_FIXTURE.js"}

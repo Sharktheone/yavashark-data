@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«false», «true») to be true isConstructor(ReferenceError) must return true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/NativeErrors/ReferenceError/is-a-constructor.js:22)\n\n","path":"../../test262/test/built-ins/NativeErrors/ReferenceError/is-a-constructor.js"}
+{"status":"PASS","msg":"PASS:\n ReferenceError\n","path":"../../test262/test/built-ins/NativeErrors/ReferenceError/is-a-constructor.js"}

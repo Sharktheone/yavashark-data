@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Reflect is not defined\n    at ../../test262/test/language/expressions/new.target/value-via-reflect-construct.js:22\n\n","path":"../../test262/test/language/expressions/new.target/value-via-reflect-construct.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/language/expressions/new.target/value-via-reflect-construct.js:22)\n\n","path":"../../test262/test/language/expressions/new.target/value-via-reflect-construct.js"}

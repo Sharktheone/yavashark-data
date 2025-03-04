@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A3_T15.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: test failed with error TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A3_T15.js:22\n\" }\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A3_T15.js:24\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A3_T15.js"}
