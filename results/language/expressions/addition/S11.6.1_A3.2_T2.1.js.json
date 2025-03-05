@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new String(\"1\") + 1 === \"11\". Actual: [object Object]1\" }\n    at ../../test262/test/language/expressions/addition/S11.6.1_A3.2_T2.1.js:28\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.2_T2.1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new String(\"1\") + 1 === \"11\". Actual: [object StringObj]1\" }\n    at ../../test262/test/language/expressions/addition/S11.6.1_A3.2_T2.1.js:28\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.2_T2.1.js"}

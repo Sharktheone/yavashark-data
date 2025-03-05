@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at Object (../../test262/test/built-ins/String/prototype/split/call-split-new-reg-exp.js:16)\n\n","path":"../../test262/test/built-ins/String/prototype/split/call-split-new-reg-exp.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object RegExp])\n    at Object (../../test262/test/built-ins/String/prototype/split/call-split-new-reg-exp.js:16)\n\n","path":"../../test262/test/built-ins/String/prototype/split/call-split-new-reg-exp.js"}

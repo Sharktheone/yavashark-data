@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"[object Object]undefined\")\n    at Object (../../test262/test/language/expressions/addition/S11.6.1_A3.1_T2.3.js:25)\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.1_T2.3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(\"[object NumberObj]undefined\")\n    at Object (../../test262/test/language/expressions/addition/S11.6.1_A3.1_T2.3.js:25)\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.1_T2.3.js"}

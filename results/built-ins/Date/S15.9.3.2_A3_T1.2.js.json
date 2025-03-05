@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object Object]\"», «\"[object Date]\"») to be true x1.toString() must return \"[object Date]\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Date/S15.9.3.2_A3_T1.2.js:16)\n\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A3_T1.2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Date/S15.9.3.2_A3_T1.2.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: globalThis is not defined\n    at ../../test262/harness/sm/non262.js:40\n\n","path":"../../test262/test/staging/sm/extensions/inc-dec-functioncall.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.2-4-9.js:17\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.2-4-9.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: BoundFunction is not a constructor\n    at ../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.2-4-9.js:17\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.2-4-9.js"}

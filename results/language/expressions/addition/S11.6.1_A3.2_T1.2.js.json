@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: ({} + function(){return 1}) === ({}.toString() + function(){return 1}.toString()). Actual: [object Object][object anonymous]\" }\n    at ../../test262/test/language/expressions/addition/S11.6.1_A3.2_T1.2.js:17\n\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.2_T1.2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/addition/S11.6.1_A3.2_T1.2.js"}

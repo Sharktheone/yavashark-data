@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object Object]\"», «\"[object RegExp]\"») to be true __re.toString() must return \"[object \"+\"RegExp\"+\"]\"\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/RegExp/S15.10.4.1_A6_T1.js:13)\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.4.1_A6_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/S15.10.4.1_A6_T1.js"}

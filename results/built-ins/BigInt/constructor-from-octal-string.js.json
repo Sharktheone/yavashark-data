@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert 0o7 to BigInt\n    at Object (../../test262/test/built-ins/BigInt/constructor-from-octal-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-from-octal-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert 0o7 to BigInt\n    at BigIntConstructor (../../test262/test/built-ins/BigInt/constructor-from-octal-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-from-octal-string.js"}

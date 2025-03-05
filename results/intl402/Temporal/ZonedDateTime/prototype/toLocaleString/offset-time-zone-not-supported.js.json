@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at test262/test/intl402/Temporal/ZonedDateTime/prototype/toLocaleString/offset-time-zone-not-supported.js:10\n\n","path":"test262/test/intl402/Temporal/ZonedDateTime/prototype/toLocaleString/offset-time-zone-not-supported.js"}

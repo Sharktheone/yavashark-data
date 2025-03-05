@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/types/reference/get-value-prop-base-primitive-realm.js:24\n\n","path":"../../test262/test/language/types/reference/get-value-prop-base-primitive-realm.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: value is not defined\n    at eval:0\n    at Object (../../test262/test/language/types/reference/get-value-prop-base-primitive-realm.js:24)\n\n","path":"../../test262/test/language/types/reference/get-value-prop-base-primitive-realm.js"}

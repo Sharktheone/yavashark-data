@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at test262/test/staging/JSON/json-parse-with-source.js:13\n    at TestBigInt (test262/test/staging/JSON/json-parse-with-source.js:9)\n\n","path":"test262/test/staging/JSON/json-parse-with-source.js"}

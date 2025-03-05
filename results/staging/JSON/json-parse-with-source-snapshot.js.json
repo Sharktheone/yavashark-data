@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: JSON is not defined\n    at test262/test/staging/JSON/json-parse-with-source-snapshot.js:21\n    at TestArrayForwardModify (test262/test/staging/JSON/json-parse-with-source-snapshot.js:60)\n\n","path":"test262/test/staging/JSON/json-parse-with-source-snapshot.js"}

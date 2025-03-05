@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at Object (../../test262/test/built-ins/RegExp/u180e.js:25)\n\n","path":"../../test262/test/built-ins/RegExp/u180e.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object RegExp])\n    at Object (../../test262/test/built-ins/RegExp/u180e.js:25)\n\n","path":"../../test262/test/built-ins/RegExp/u180e.js"}

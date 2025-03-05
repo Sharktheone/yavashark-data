@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert [object Object] to BigInt\n    at Object (../../test262/test/built-ins/BigInt/constructor-coercion.js:27)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-coercion.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert [object Object] to BigInt\n    at BigIntConstructor (../../test262/test/built-ins/BigInt/constructor-coercion.js:27)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-coercion.js"}
