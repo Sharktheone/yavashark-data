@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T3.js:20\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: test failed with error [object ErrorObj]\" }\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T3.js:20\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T3.js"}

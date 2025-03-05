@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[MIN_VALUE] to have configurable:false.\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:278)\n    at verifyNotConfigurable (../../test262/test/built-ins/Number/MIN_VALUE/S15.7.3.3_A3.js:11)\n\n","path":"../../test262/test/built-ins/Number/MIN_VALUE/S15.7.3.3_A3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/MIN_VALUE/S15.7.3.3_A3.js"}

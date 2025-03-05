@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"({toString: function() {throw new MyError();}}) \u003e\u003e\u003e 0n throws MyError Expected a Function but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/unsigned-right-shift/bigint-toprimitive.js:309)\n\n","path":"../../test262/test/language/expressions/unsigned-right-shift/bigint-toprimitive.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/unsigned-right-shift/bigint-toprimitive.js"}

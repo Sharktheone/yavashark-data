@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: (undefined != null) === false\" }\n    at ../../test262/test/language/expressions/does-not-equals/S11.9.2_A6.1.js:27\n\n","path":"../../test262/test/language/expressions/does-not-equals/S11.9.2_A6.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/does-not-equals/S11.9.2_A6.1.js"}

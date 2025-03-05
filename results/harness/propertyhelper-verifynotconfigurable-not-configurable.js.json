@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[a] NOT to be configurable, but was.\" }\n    at ../../test262/harness/propertyHelper.js:281\n    at verifyNotConfigurable (../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js:15)\n\n","path":"../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js"}

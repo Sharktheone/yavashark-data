@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Globally defined variable NaN has not been altered by program execution\" }\n    at ../../test262/test/language/types/number/S8.5_A9.js:14\n\n","path":"../../test262/test/language/types/number/S8.5_A9.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/number/S8.5_A9.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: result = true; for (p in this) { if (p === \"parseFloat\") result = false; }  result === true;\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.5.js:24\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.5.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1:this.propertyIsEnumerable('parseFloat') === false. Actual: true\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.5.js:12\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.5.js"}
