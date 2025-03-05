@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n NaN\n","path":"../../test262/test/language/expressions/prefix-decrement/eval-nostrict.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/language/expressions/prefix-decrement/eval-nostrict.js:23\n\n","path":"../../test262/test/language/expressions/prefix-decrement/eval-nostrict.js"}

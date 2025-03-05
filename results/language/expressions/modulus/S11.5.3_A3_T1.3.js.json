@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: new String(\"1\") % \"1\" === 0. Actual: NaN\" }\n    at ../../test262/test/language/expressions/modulus/S11.5.3_A3_T1.3.js:17\n\n","path":"../../test262/test/language/expressions/modulus/S11.5.3_A3_T1.3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/modulus/S11.5.3_A3_T1.3.js"}

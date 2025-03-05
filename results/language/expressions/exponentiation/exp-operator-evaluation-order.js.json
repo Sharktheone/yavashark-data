@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «\"leftValue\"») to be true Expected the 3rd element captured to be 'leftValue'\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/exponentiation/exp-operator-evaluation-order.js:32)\n\n","path":"../../test262/test/language/expressions/exponentiation/exp-operator-evaluation-order.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/exponentiation/exp-operator-evaluation-order.js"}

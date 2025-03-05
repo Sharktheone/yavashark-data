@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: true \u003e\u003e new Boolean(true) === 0. Actual: 1\" }\n    at ../../test262/test/language/expressions/right-shift/S11.7.2_A3_T1.1.js:24\n\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A3_T1.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A3_T1.1.js"}

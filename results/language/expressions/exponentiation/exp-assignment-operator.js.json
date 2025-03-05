@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«0.037037037037037035», «-27») to be true (base **= 3) === -27; where base is -3\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/exponentiation/exp-assignment-operator.js:25)\n\n","path":"../../test262/test/language/expressions/exponentiation/exp-assignment-operator.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/exponentiation/exp-assignment-operator.js"}

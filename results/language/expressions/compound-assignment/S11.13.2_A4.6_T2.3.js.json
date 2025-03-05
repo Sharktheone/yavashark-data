@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: x = 1; x \u003c\u003c= null; x === 1. Actual: 0\" }\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.6_T2.3.js:18\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.6_T2.3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.6_T2.3.js"}

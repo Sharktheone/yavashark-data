@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var x = new Boolean(true); var y = x++; y === 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/postfix-increment/S11.3.1_A4_T1.js:21\n\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A4_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A4_T1.js"}

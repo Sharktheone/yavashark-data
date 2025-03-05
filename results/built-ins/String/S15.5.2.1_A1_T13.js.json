@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.1: e===\"invalueof\". Actual: e===[object Object]\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T13.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T13.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T13.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T13.js"}

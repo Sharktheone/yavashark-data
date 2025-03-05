@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var object = {valueOf: function() {return -1}}; -object === 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/unary-minus/S11.4.7_A2.2_T1.js:13\n\n","path":"../../test262/test/language/expressions/unary-minus/S11.4.7_A2.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/language/expressions/unary-minus/S11.4.7_A2.2_T1.js:45\n\n","path":"../../test262/test/language/expressions/unary-minus/S11.4.7_A2.2_T1.js"}

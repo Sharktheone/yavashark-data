@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: x = new Boolean(true); x %= \"1\"; x === 0. Actual: NaN\" }\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T2.5.js:32\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T2.5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.3_T2.5.js"}

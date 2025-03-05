@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: __str = String(\"b\"*null); __str === \"NaN\". Actual: __str ===0\" }\n    at ../../test262/test/built-ins/String/S15.5.1.1_A1_T12.js:43\n\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T12.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T12.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: x = new String(\"1\"); x ^= \"1\"; x === 0. Actual: 1\" }\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.10_T1.3.js:23\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.10_T1.3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.10_T1.3.js"}

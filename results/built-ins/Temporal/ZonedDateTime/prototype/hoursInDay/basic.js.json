@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/hoursInDay/basic.js:28\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/hoursInDay/basic.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/hoursInDay/basic.js:13\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/hoursInDay/basic.js"}

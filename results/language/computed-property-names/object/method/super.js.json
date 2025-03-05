@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: m does not exist on object\n    at ../../test262/test/language/computed-property-names/object/method/super.js:19\n    at a (../../test262/test/language/computed-property-names/object/method/super.js:27)\n\n","path":"../../test262/test/language/computed-property-names/object/method/super.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/object/method/super.js"}

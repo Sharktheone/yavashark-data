@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: \"abc123\".length === 6. Actual: undefined\" }\n    at ../../test262/test/language/expressions/property-accessors/S11.2.1_A3_T3.js:25\n\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A3_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A3_T3.js"}

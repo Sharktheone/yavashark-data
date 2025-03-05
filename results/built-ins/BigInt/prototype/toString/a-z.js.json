@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"10\"», «\"\\u0000\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at NumberConstructor (../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js"}

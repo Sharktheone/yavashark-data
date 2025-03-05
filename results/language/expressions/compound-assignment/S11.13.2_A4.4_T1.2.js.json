@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: x = new Number(1); x += 1; x === 2. Actual: 1[object NumberObj]\" }\n    at ../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.4_T1.2.js:23\n\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.4_T1.2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/compound-assignment/S11.13.2_A4.4_T1.2.js"}

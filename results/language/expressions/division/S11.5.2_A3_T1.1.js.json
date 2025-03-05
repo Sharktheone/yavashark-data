@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: new Boolean(true) / true === 1. Actual: NaN\" }\n    at ../../test262/test/language/expressions/division/S11.5.2_A3_T1.1.js:19\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A3_T1.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/division/S11.5.2_A3_T1.1.js"}

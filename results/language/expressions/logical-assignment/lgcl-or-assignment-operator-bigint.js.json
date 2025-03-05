@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1n», «2n») to be true (value ||= 1n) === 2n; where value = 2n\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/logical-assignment/lgcl-or-assignment-operator-bigint.js:27)\n\n","path":"../../test262/test/language/expressions/logical-assignment/lgcl-or-assignment-operator-bigint.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-assignment/lgcl-or-assignment-operator-bigint.js"}

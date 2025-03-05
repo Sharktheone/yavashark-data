@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«0», «0n») to be true 0b00n \u0026 0b00n === 0b00n\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/bitwise-and/bigint.js:26)\n\n","path":"../../test262/test/language/expressions/bitwise-and/bigint.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/language/expressions/bitwise-and/bigint.js:57\n\n","path":"../../test262/test/language/expressions/bitwise-and/bigint.js"}

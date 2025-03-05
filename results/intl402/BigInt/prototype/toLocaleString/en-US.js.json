@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at Object (../../test262/test/intl402/BigInt/prototype/toLocaleString/en-US.js:21)\n\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/en-US.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/intl402/BigInt/prototype/toLocaleString/en-US.js:11\n\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/en-US.js"}

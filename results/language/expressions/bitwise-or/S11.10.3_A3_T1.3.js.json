@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: (new String(\"1\") | new String(\"1\")) === 1. Actual: 0\" }\n    at ../../test262/test/language/expressions/bitwise-or/S11.10.3_A3_T1.3.js:27\n\n","path":"../../test262/test/language/expressions/bitwise-or/S11.10.3_A3_T1.3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/bitwise-or/S11.10.3_A3_T1.3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint, found Number(NaN)\n    at Object (../../test262/test/built-ins/BigInt/asUintN/arithmetic.js:14)\n\n","path":"../../test262/test/built-ins/BigInt/asUintN/arithmetic.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/BigInt/asUintN/arithmetic.js:14\n\n","path":"../../test262/test/built-ins/BigInt/asUintN/arithmetic.js"}

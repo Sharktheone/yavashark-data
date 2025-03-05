@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: {valueOf: function() {return -4}} \u003e\u003e 1 === -2. Actual: 0\" }\n    at ../../test262/test/language/expressions/right-shift/S11.7.2_A2.2_T1.js:12\n\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A2.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/language/expressions/right-shift/S11.7.2_A2.2_T1.js:40\n\n","path":"../../test262/test/language/expressions/right-shift/S11.7.2_A2.2_T1.js"}

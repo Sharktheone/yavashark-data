@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: var __obj = {toNumber: function() {return \"1\"}, valueOf: function() {return new Object();}}; Number(__obj) === 1. Actual: [object Object]\" }\n    at ../../test262/test/built-ins/Number/S8.12.8_A3.js:33\n\n","path":"../../test262/test/built-ins/Number/S8.12.8_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at ../../test262/test/built-ins/Number/S8.12.8_A3.js:33\n\n","path":"../../test262/test/built-ins/Number/S8.12.8_A3.js"}

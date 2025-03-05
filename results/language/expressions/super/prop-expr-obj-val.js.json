@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: fromA does not exist on object\n    at ../../test262/test/language/expressions/super/prop-expr-obj-val.js:35\n    at method (../../test262/test/language/expressions/super/prop-expr-obj-val.js:42)\n\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val.js"}

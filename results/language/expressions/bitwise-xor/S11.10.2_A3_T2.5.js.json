@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: (new Boolean(true) ^ \"1\") === 0. Actual: 1\" }\n    at ../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T2.5.js:24\n\n","path":"../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T2.5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/bitwise-xor/S11.10.2_A3_T2.5.js"}

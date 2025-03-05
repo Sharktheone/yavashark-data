@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __str === \"56789\". Actual:  __str ===98765\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A11_T1.js:22\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A11_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for/S12.6.3_A11_T1.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: function __mFunc(){var __accum=\"\"; for (var i = 0; i \u003c arguments.length; ++i){__accum += arguments[i]};return __accum;}; __mFunc(\"A\",\"B\",\"C\",\"D\",\"E\",\"F\") === \"ABCDEF\". Actual: FEDCBA\" }\n    at ../../test262/test/language/types/list/S8.8_A2_T3.js:14\n\n","path":"../../test262/test/language/types/list/S8.8_A2_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/list/S8.8_A2_T3.js"}
