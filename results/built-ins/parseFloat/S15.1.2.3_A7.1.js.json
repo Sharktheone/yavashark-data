@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: result = true; for (p in parseFloat) { if (p === \"length\") result = false; }  result === true;\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.1.js:24\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.1.js"}

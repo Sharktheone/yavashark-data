@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: count=0; for (p in String.prototype.substring){if (p===\"length\") count++;} count === 0. Actual: 1\" }\n    at ../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A8.js:38\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A8.js"}
