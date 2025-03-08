@@ -1,1 +1,1 @@
-{"status":"PARSE_ERROR","msg":"PARSE_ERROR:\nError { error: (620..626, ImportExportInScript) }\n\nthread 'main' panicked at crates/yavashark_test262/src/utils.rs:80:13:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/import.meta/distinct-for-each-module.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Export `getMeta#0` not found in module\n\n","path":"../../test262/test/language/expressions/import.meta/distinct-for-each-module.js"}
