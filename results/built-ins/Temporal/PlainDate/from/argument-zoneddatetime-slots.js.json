@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime-slots.js:12\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime-slots.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime-slots.js:12\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime-slots.js"}

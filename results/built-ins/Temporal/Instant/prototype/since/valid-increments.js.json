@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/since/valid-increments.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/since/valid-increments.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/since/valid-increments.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/since/valid-increments.js"}

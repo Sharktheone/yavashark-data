@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/hours/prop-desc.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/hours/prop-desc.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/hours/prop-desc.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/hours/prop-desc.js"}

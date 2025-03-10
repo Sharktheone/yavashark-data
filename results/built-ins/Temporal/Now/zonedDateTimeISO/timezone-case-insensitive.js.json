@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Temporal is not defined\n    at ../../test262/test/built-ins/Temporal/Now/zonedDateTimeISO/timezone-case-insensitive.js:11\n\n","path":"../../test262/test/built-ins/Temporal/Now/zonedDateTimeISO/timezone-case-insensitive.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'zonedDateTimeISO' of undefined\n    at ../../test262/test/built-ins/Temporal/Now/zonedDateTimeISO/timezone-case-insensitive.js:11\n\n","path":"../../test262/test/built-ins/Temporal/Now/zonedDateTimeISO/timezone-case-insensitive.js"}
