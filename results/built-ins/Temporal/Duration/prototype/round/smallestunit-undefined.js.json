@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/round/smallestunit-undefined.js:12\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/smallestunit-undefined.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid unit for Duration.round\n    at Object (../../test262/test/built-ins/Temporal/Duration/prototype/round/smallestunit-undefined.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/smallestunit-undefined.js"}
