@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object Object])\n    at Object (../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-grow.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-grow.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'BYTES_PER_ELEMENT' of undefined\n    at ../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-grow.js:15\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-grow.js"}

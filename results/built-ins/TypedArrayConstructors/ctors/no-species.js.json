@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property '__proto__' of undefined\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js:29\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 700..710, ctxt: #0, sym: \"Uint8Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js:26\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js"}

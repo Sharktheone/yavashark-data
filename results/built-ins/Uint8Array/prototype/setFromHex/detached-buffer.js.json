@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Uint8Array/prototype/setFromHex/detached-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 349..359, ctxt: #0, sym: \"Uint8Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Uint8Array/prototype/setFromHex/detached-buffer.js:10\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/setFromHex/detached-buffer.js"}

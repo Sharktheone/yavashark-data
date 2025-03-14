@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/uint8clampedarray.js:19\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 334..351, ctxt: #0, sym: \"Uint8ClampedArray\", optional: false }) is not a constructor\n    at ../../test262/test/language/statements/for-of/uint8clampedarray.js:12\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray.js"}

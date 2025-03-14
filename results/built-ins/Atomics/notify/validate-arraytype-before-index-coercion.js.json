@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/validate-arraytype-before-index-coercion.js:35\n\n","path":"../../test262/test/built-ins/Atomics/notify/validate-arraytype-before-index-coercion.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Atomics/notify/validate-arraytype-before-index-coercion.js"}

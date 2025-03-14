@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/float64array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/float64array-mutate.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 474..486, ctxt: #0, sym: \"Float64Array\", optional: false }) is not a constructor\n    at ../../test262/test/language/statements/for-of/float64array-mutate.js:14\n\n","path":"../../test262/test/language/statements/for-of/float64array-mutate.js"}

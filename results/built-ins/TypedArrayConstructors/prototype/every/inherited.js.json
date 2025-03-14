@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/prototype/every/inherited.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/harness/testTypedArray.js:72\n    at testWithTypedArrayConstructors (../../test262/test/built-ins/TypedArrayConstructors/prototype/every/inherited.js:11)\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/prototype/every/inherited.js"}

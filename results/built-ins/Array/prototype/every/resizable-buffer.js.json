@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/every/resizable-buffer.js:41)\n\n","path":"../../test262/test/built-ins/Array/prototype/every/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'BYTES_PER_ELEMENT' of undefined\n    at ../../test262/test/built-ins/Array/prototype/every/resizable-buffer.js:14\n\n","path":"../../test262/test/built-ins/Array/prototype/every/resizable-buffer.js"}

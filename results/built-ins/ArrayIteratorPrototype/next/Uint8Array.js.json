@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint8Array.js:11\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint8Array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 367..377, ctxt: #0, sym: \"Uint8Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint8Array.js:10\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint8Array.js"}

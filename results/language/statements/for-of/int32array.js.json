@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/int32array.js:18\n\n","path":"../../test262/test/language/statements/for-of/int32array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 323..333, ctxt: #0, sym: \"Int32Array\", optional: false }) is not a constructor\n    at ../../test262/test/language/statements/for-of/int32array.js:11\n\n","path":"../../test262/test/language/statements/for-of/int32array.js"}

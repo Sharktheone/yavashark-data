@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/setFloat32/this-has-no-dataview-internal.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 1113..1122, ctxt: #0, sym: \"Int8Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/DataView/prototype/setFloat32/this-has-no-dataview-internal.js:39\n\n","path":"../../test262/test/built-ins/DataView/prototype/setFloat32/this-has-no-dataview-internal.js"}

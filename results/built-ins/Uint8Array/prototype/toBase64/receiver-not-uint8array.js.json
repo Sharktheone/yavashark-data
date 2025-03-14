@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/receiver-not-uint8array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/Uint8Array/prototype/toBase64/receiver-not-uint8array.js:10\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/receiver-not-uint8array.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js:11\n\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'fromBase64' of undefined\n    at ../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js:11\n\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js"}
