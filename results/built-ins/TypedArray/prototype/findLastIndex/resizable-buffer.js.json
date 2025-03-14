@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at ../../test262/harness/resizableArrayBufferUtils.js:31\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLastIndex/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/findLastIndex/resizable-buffer.js:35\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLastIndex/resizable-buffer.js"}

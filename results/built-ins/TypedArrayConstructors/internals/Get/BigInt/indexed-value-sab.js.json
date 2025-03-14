@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Int8Array is not defined\n    at ../../test262/harness/testBigIntTypedArray.js:14\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/Get/BigInt/indexed-value-sab.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/built-ins/TypedArrayConstructors/internals/Get/BigInt/indexed-value-sab.js:18)\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/Get/BigInt/indexed-value-sab.js"}

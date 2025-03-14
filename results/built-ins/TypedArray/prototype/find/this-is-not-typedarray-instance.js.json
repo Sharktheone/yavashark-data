@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Float64Array is not defined\n    at ../../test262/harness/testTypedArray.js:19\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/find/this-is-not-typedarray-instance.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'find' of undefined\n    at ../../test262/test/built-ins/TypedArray/prototype/find/this-is-not-typedarray-instance.js:24\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/find/this-is-not-typedarray-instance.js"}

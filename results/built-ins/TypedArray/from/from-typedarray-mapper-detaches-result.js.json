@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Int8Array is not defined\n    at ../../test262/test/built-ins/TypedArray/from/from-typedarray-mapper-detaches-result.js:24\n\n","path":"../../test262/test/built-ins/TypedArray/from/from-typedarray-mapper-detaches-result.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/TypedArray/from/from-typedarray-mapper-detaches-result.js:27\n\n","path":"../../test262/test/built-ins/TypedArray/from/from-typedarray-mapper-detaches-result.js"}

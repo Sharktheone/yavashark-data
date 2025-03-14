@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Int8Array is not defined\n    at ../../test262/harness/testBigIntTypedArray.js:14\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/toindex-bytelength-sab.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/toindex-bytelength-sab.js:25\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/buffer-arg/toindex-bytelength-sab.js"}

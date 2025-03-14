@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Float64Array is not defined\n    at ../../test262/harness/testTypedArray.js:19\n\n","path":"../../test262/test/built-ins/TypedArray/from/iter-access-error.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/TypedArray/from/iter-access-error.js:28)\n\n","path":"../../test262/test/built-ins/TypedArray/from/iter-access-error.js"}

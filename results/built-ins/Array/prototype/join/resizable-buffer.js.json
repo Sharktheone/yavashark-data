@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Uint8Array is not defined\n    at ../../test262/harness/resizableArrayBufferUtils.js:31\n\n","path":"../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js:32)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js"}
