@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/language/statements/class/subclass/builtins.js:8\n\n","path":"../../test262/test/language/statements/class/subclass/builtins.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Uint8ArrayConstructor is not a constructor\n    at Uint8ArrayConstructor (../../test262/test/language/statements/class/subclass/builtins.js:10)\n\n","path":"../../test262/test/language/statements/class/subclass/builtins.js"}

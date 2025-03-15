@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'fromHex' of undefined\n    at ../../test262/test/built-ins/Uint8Array/fromHex/ignores-receiver.js:9\n\n","path":"../../test262/test/built-ins/Uint8Array/fromHex/ignores-receiver.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at Object (../../test262/test/built-ins/Uint8Array/fromHex/ignores-receiver.js:10)\n\n","path":"../../test262/test/built-ins/Uint8Array/fromHex/ignores-receiver.js"}

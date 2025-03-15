@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 323..333, ctxt: #0, sym: \"Uint8Array\", optional: false }) is not a constructor\n    at ../../test262/test/language/statements/for-of/uint8array.js:11\n\n","path":"../../test262/test/language/statements/for-of/uint8array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Uint8ArrayConstructor is not a constructor\n    at ../../test262/test/language/statements/for-of/uint8array.js:11\n\n","path":"../../test262/test/language/statements/for-of/uint8array.js"}
