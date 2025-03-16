@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Array\", found \"yavashark_env::builtins::arraybuffer::ArrayBuffer\"\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Float32Array.js:10\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Float32Array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Float32Array.js:11\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Float32Array.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(8.0)\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors/typedarray-arg/use-custom-proto-if-object.js:41\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/typedarray-arg/use-custom-proto-if-object.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/typedarray-arg/use-custom-proto-if-object.js"}

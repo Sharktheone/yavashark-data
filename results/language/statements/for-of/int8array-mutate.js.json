@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Array\", found \"yavashark_env::builtins::arraybuffer::ArrayBuffer\"\n    at ../../test262/test/language/statements/for-of/int8array-mutate.js:14\n\n","path":"../../test262/test/language/statements/for-of/int8array-mutate.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/int8array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/int8array-mutate.js"}

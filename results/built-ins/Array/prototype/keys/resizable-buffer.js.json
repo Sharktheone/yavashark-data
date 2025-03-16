@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: byteLength is out of bounds\n    at ../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js:15\n\n","path":"../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js:26\n\n","path":"../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js"}
