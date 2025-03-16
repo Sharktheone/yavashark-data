@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«[object Object]», «[object Object]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/TypedArrayConstructors/Int8Array/proto.js:14)\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/Int8Array/proto.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/Int8Array/proto.js"}

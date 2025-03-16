@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Uint8ArrayConstructor is not a constructor\n    at ../../test262/test/built-ins/Array/prototype/join/coerced-separator-grow.js:16\n\n","path":"../../test262/test/built-ins/Array/prototype/join/coerced-separator-grow.js"}
+{"status":"FAIL","msg":"FAIL:\n RangeError: byteLength is out of bounds\n    at ../../test262/test/built-ins/Array/prototype/join/coerced-separator-grow.js:16\n\n","path":"../../test262/test/built-ins/Array/prototype/join/coerced-separator-grow.js"}

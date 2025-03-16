@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 527..540, ctxt: #0, sym: \"BigInt64Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Atomics/notify/bigint/bad-range.js:18\n\n","path":"../../test262/test/built-ins/Atomics/notify/bigint/bad-range.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/bigint/bad-range.js:18\n\n","path":"../../test262/test/built-ins/Atomics/notify/bigint/bad-range.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/TypedArrayConstructors/Uint16Array/prototype.js:16\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/Uint16Array/prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(0.0)\n    at ../../test262/test/built-ins/TypedArrayConstructors/Uint16Array/prototype.js:16\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/Uint16Array/prototype.js"}

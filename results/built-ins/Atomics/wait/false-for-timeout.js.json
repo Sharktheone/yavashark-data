@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 528..538, ctxt: #0, sym: \"Int32Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Atomics/wait/false-for-timeout.js:19\n\n","path":"../../test262/test/built-ins/Atomics/wait/false-for-timeout.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/wait/false-for-timeout.js:19\n\n","path":"../../test262/test/built-ins/Atomics/wait/false-for-timeout.js"}

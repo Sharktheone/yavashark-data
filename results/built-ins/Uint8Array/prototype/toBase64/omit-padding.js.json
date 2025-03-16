@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Uint8ArrayConstructor is not a constructor\n    at ../../test262/test/built-ins/Uint8Array/prototype/toBase64/omit-padding.js:10\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/omit-padding.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Array\", found \"yavashark_env::builtins::arraybuffer::ArrayBuffer\"\n    at ../../test262/test/built-ins/Uint8Array/prototype/toBase64/omit-padding.js:10\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/omit-padding.js"}

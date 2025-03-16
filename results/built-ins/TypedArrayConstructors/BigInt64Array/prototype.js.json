@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 625..638, ctxt: #0, sym: \"BigInt64Array\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/prototype.js:19\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at ../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/prototype.js:19\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/BigInt64Array/prototype.js"}
