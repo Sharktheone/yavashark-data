@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' panicked at crates/yavashark_env/src/builtins/arraybuffer.rs:136:22:\ncapacity overflow\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/ArrayBuffer/negative-length-throws.js"}
+{"status":"CRASH","msg":"\nthread 'main' panicked at crates/yavashark_env/src/builtins/arraybuffer.rs:142:22:\ncapacity overflow\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/ArrayBuffer/negative-length-throws.js"}
