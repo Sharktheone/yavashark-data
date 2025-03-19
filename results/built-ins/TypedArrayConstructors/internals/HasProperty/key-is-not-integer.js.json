@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/built-ins/TypedArrayConstructors/internals/HasProperty/key-is-not-integer.js:22\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/HasProperty/key-is-not-integer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/HasProperty/key-is-not-integer.js"}

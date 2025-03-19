@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/built-ins/TypedArrayConstructors/internals/Get/key-is-not-integer.js:27)\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/Get/key-is-not-integer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/internals/Get/key-is-not-integer.js"}
