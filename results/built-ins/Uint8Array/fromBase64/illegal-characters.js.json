@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a SyntaxError but got a Function\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Uint8Array/fromBase64/illegal-characters.js:20)\n    at Object (../../test262/test/built-ins/Uint8Array/fromBase64/illegal-characters.js:19)\n\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/illegal-characters.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/illegal-characters.js"}
