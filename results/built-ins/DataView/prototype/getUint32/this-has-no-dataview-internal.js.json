@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at ../../test262/test/built-ins/DataView/prototype/getUint32/this-has-no-dataview-internal.js:39\n\n","path":"../../test262/test/built-ins/DataView/prototype/getUint32/this-has-no-dataview-internal.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getUint32/this-has-no-dataview-internal.js"}

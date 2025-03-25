@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Number(-0.0)\n    at Object (../../test262/test/built-ins/JSON/parse/text-negative-zero.js:21)\n\n","path":"../../test262/test/built-ins/JSON/parse/text-negative-zero.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/JSON/parse/text-negative-zero.js"}

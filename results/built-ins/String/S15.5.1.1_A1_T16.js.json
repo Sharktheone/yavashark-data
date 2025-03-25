@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#8: __str = String(.00000012345); __str === \"1.2345e-7\". Actual: __str ===0.00000012345\" }\n    at ../../test262/test/built-ins/String/S15.5.1.1_A1_T16.js:79\n\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T16.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S15.5.1.1_A1_T16.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object RegExp])\n    at Object (../../test262/test/built-ins/RegExp/u180e.js:25)\n\n","path":"../../test262/test/built-ins/RegExp/u180e.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\S+\n    ^^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/u180e.js:26\n\n","path":"../../test262/test/built-ins/RegExp/u180e.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T4.js:15)\n\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T4.js"}
+{"status":"CRASH","msg":"\nthread 'main' panicked at crates/yavashark_env/src/builtins/string.rs:369:21:\nbyte index 18446744073709551615 is out of bounds of ``\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/String/prototype/lastIndexOf/S15.5.4.8_A1_T4.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a value\n    at Object (../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js:11)\n\n","path":"../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Undefined\n    at Object (../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js:11)\n\n","path":"../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js"}
