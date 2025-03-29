@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/entries/getter-adding-key.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"result has 2 items Expected SameValue(«1», «2») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/entries/getter-adding-key.js:21)\n\n","path":"../../test262/test/built-ins/Object/entries/getter-adding-key.js"}
