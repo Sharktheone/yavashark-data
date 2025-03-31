@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected boolean, found Number(0.0)\n    at Object (../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js:16)\n\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js"}

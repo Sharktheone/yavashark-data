@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Undefined\n    at Object (../../test262/test/built-ins/Array/prototype/slice/resizable-buffer.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/slice/resizable-buffer.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/resizable-buffer.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Instant/from/timezone-custom.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/timezone-custom.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/built-ins/Temporal/Instant/from/timezone-custom.js:10)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/timezone-custom.js"}

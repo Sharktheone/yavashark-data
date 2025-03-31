@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/equals/leap-second.js:13\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/equals/leap-second.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(\"2016-12-31T23:59:60Z\")\n    at Object (../../test262/test/built-ins/Temporal/Instant/prototype/equals/leap-second.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/equals/leap-second.js"}

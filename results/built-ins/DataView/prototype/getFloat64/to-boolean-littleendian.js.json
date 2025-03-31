@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected boolean, found Undefined\n    at Object (../../test262/test/built-ins/DataView/prototype/getFloat64/to-boolean-littleendian.js:45)\n\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat64/to-boolean-littleendian.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat64/to-boolean-littleendian.js"}

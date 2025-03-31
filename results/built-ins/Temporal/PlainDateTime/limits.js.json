@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"negative year out of bounds Expected a RangeError but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Temporal/PlainDateTime/limits.js:10)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/limits.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/limits.js"}

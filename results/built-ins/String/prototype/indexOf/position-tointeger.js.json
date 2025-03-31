@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Undefined\n    at Object (../../test262/test/built-ins/String/prototype/indexOf/position-tointeger.js:19)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/position-tointeger.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Boolean(false)\n    at Object (../../test262/test/built-ins/String/prototype/indexOf/position-tointeger.js:21)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/position-tointeger.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 250..268, obj: Ident(Ident { span: 250..258, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 259..268, sym: \"PlainDate\" }) }) is not a constructor\n    at ../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/basic.js:10\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/basic.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/basic.js"}

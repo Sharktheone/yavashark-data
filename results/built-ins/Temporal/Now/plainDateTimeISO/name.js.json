@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'plainDateTimeISO' of undefined\n    at ../../test262/test/built-ins/Temporal/Now/plainDateTimeISO/name.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Now/plainDateTimeISO/name.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/test/built-ins/Temporal/Now/plainDateTimeISO/name.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Now/plainDateTimeISO/name.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Undefined\n    at Object (../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A1_T8.js:13)\n\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A1_T8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A1_T8.js"}
