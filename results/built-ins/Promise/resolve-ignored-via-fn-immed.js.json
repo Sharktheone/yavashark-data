@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js:25\n\n","path":"../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js:36\n    at Object (../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js:33)\n\n","path":"../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js"}

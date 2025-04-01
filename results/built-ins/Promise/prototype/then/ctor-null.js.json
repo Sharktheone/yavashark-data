@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/ctor-null.js:15\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/ctor-null.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at anonymous (../../test262/test/built-ins/Promise/prototype/then/ctor-null.js:18)\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/ctor-null.js"}

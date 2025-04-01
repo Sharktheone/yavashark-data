@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/allSettled/call-resolve-element-after-return.js:47\n\n","path":"../../test262/test/built-ins/Promise/allSettled/call-resolve-element-after-return.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/allSettled/call-resolve-element-after-return.js:47\n\n","path":"../../test262/test/built-ins/Promise/allSettled/call-resolve-element-after-return.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/all/resolve-not-callable-reject-with-typeerror.js:20\n\n","path":"../../test262/test/built-ins/Promise/all/resolve-not-callable-reject-with-typeerror.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/resolve-not-callable-reject-with-typeerror.js:22\n\n","path":"../../test262/test/built-ins/Promise/all/resolve-not-callable-reject-with-typeerror.js"}

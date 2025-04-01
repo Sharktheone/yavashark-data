@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js:31\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(1.0)\n    at Object (../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js:31)\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js"}

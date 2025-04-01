@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/prototype/finally/subclass-resolve-count.js:12\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/subclass-resolve-count.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/prototype/finally/subclass-resolve-count.js:19\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/subclass-resolve-count.js"}

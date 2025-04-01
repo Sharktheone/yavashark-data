@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object NativeConstructor]) but got Object(ReferenceError: Promise is not defined\n    at ../../test262/test/language/module-code/top-level-await/./module-import-rejection-body_FIXTURE.js:8\n)\n\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-body.js"}
+{"status":"PASS","msg":"PASS:\n \n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-body.js"}

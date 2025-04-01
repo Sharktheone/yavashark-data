@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Promise is not defined\n    at ../../test262/test/built-ins/Promise/prototype/finally/resolved-observable-then-calls.js:13\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/resolved-observable-then-calls.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/prototype/finally/resolved-observable-then-calls.js:13\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/resolved-observable-then-calls.js"}
