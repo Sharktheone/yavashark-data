@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/gen-meth-dflt-params-abrupt.js"}
+{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_compiler/src/compiler/statement/expr/bin.rs:7:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/object/method-definition/gen-meth-dflt-params-abrupt.js"}

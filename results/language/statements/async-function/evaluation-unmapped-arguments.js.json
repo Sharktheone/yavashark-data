@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'then' of undefined\n    at ../../test262/test/language/statements/async-function/evaluation-unmapped-arguments.js:22\n\n","path":"../../test262/test/language/statements/async-function/evaluation-unmapped-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at foo (../../test262/test/language/statements/async-function/evaluation-unmapped-arguments.js:22)\n\n","path":"../../test262/test/language/statements/async-function/evaluation-unmapped-arguments.js"}

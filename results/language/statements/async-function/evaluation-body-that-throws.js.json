@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: 1\n    at ../../test262/test/language/statements/async-function/evaluation-body-that-throws.js:13\n    at foo (../../test262/test/language/statements/async-function/evaluation-body-that-throws.js:16)\n\n","path":"../../test262/test/language/statements/async-function/evaluation-body-that-throws.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-function/evaluation-body-that-throws.js"}

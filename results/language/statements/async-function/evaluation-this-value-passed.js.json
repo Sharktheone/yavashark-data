@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'then' of undefined\n    at ../../test262/test/language/statements/async-function/evaluation-this-value-passed.js:17\n\n","path":"../../test262/test/language/statements/async-function/evaluation-this-value-passed.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/language/statements/async-function/evaluation-this-value-passed.js:17\n\n","path":"../../test262/test/language/statements/async-function/evaluation-this-value-passed.js"}
