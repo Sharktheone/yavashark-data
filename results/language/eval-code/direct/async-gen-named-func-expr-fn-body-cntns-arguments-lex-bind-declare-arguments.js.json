@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_compiler/src/compiler/statement/decl.rs:6:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/eval-code/direct/async-gen-named-func-expr-fn-body-cntns-arguments-lex-bind-declare-arguments.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/async-gen-named-func-expr-fn-body-cntns-arguments-lex-bind-declare-arguments.js"}
