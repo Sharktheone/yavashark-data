@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/built-ins/Promise/any/iter-arg-is-string-resolve.js:35\n\n","path":"../../test262/test/built-ins/Promise/any/iter-arg-is-string-resolve.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be resolved, but threw an exception: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/any/iter-arg-is-string-resolve.js"}

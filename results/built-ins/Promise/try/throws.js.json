@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"asyncTest called without async flag\" }\n    at ../../test262/harness/asyncHelpers.js:19\n    at asyncTest (../../test262/test/built-ins/Promise/try/throws.js:12)\n\n","path":"../../test262/test/built-ins/Promise/try/throws.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Object]\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/try/throws.js"}

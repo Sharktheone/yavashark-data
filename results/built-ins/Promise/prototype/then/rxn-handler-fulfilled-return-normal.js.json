@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-return-normal.js:47\n    at Object (../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-return-normal.js:41)\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-return-normal.js"}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-return-normal.js"}

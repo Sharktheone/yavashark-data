@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/harness/asyncHelpers-asyncTest-then-resolves.js:10\n\n","path":"../../test262/test/harness/asyncHelpers-asyncTest-then-resolves.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/harness/asyncHelpers-asyncTest-then-resolves.js"}

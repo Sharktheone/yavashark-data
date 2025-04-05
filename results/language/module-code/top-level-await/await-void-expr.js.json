@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/language/module-code/top-level-await/await-void-expr.js:28\n\n","path":"../../test262/test/language/module-code/top-level-await/await-void-expr.js"}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/await-void-expr.js"}

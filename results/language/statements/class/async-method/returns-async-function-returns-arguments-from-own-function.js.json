@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/language/statements/class/async-method/returns-async-function-returns-arguments-from-own-function.js:35\n\n","path":"../../test262/test/language/statements/class/async-method/returns-async-function-returns-arguments-from-own-function.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/class/async-method/returns-async-function-returns-arguments-from-own-function.js"}

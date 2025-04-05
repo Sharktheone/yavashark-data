@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: $DONE is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/ctor-access-count.js:44\n    at Object (../../test262/test/built-ins/Promise/prototype/then/ctor-access-count.js:42)\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/ctor-access-count.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected constructor access count: 1. Actual: 0\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/ctor-access-count.js"}
