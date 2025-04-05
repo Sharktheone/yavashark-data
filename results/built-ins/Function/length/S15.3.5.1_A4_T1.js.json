@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Function/length/S15.3.5.1_A4_T1.js:12\n\n","path":"../../test262/test/built-ins/Function/length/S15.3.5.1_A4_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"f.hasOwnProperty('length') must return true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Function/length/S15.3.5.1_A4_T1.js:14)\n\n","path":"../../test262/test/built-ins/Function/length/S15.3.5.1_A4_T1.js"}

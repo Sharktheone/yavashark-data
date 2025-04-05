@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a ReferenceError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Function/15.3.5.4_2-8gs.js:15)\n\n","path":"../../test262/test/built-ins/Function/15.3.5.4_2-8gs.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/test/built-ins/Function/15.3.5.4_2-8gs.js:13)\n\n","path":"../../test262/test/built-ins/Function/15.3.5.4_2-8gs.js"}

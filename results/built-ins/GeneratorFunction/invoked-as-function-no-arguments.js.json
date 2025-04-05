@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/built-ins/GeneratorFunction/invoked-as-function-no-arguments.js:15\n\n","path":"../../test262/test/built-ins/GeneratorFunction/invoked-as-function-no-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/test/built-ins/GeneratorFunction/invoked-as-function-no-arguments.js:13)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/invoked-as-function-no-arguments.js"}

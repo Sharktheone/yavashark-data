@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (33..34, Expected(,, \"\u003ceof\u003e\")) }\n    at Object (../../test262/test/built-ins/Function/prototype/toString/AsyncFunction.js:15)\n\n","path":"../../test262/test/built-ins/Function/prototype/toString/AsyncFunction.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/test/built-ins/Function/prototype/toString/AsyncFunction.js:15)\n\n","path":"../../test262/test/built-ins/Function/prototype/toString/AsyncFunction.js"}

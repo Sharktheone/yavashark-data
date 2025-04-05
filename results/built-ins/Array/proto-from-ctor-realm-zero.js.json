@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at ../../test262/test/built-ins/Array/proto-from-ctor-realm-zero.js:27\n\n","path":"../../test262/test/built-ins/Array/proto-from-ctor-realm-zero.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at Object (../../test262/test/built-ins/Array/proto-from-ctor-realm-zero.js:31)\n\n","path":"../../test262/test/built-ins/Array/proto-from-ctor-realm-zero.js"}

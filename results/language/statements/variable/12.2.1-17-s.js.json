@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/variable/12.2.1-17-s.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/test/language/statements/variable/12.2.1-17-s.js:13)\n\n","path":"../../test262/test/language/statements/variable/12.2.1-17-s.js"}

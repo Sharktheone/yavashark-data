@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"this implementation could not obtain %Array%\" }\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:323\n    at getWellKnownIntrinsicObject (../../test262/test/harness/wellKnownIntrinsicObjects.js:10)\n\n","path":"../../test262/test/harness/wellKnownIntrinsicObjects.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/wellKnownIntrinsicObjects.js"}

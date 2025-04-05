@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/S15.3_A2_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The result of evaluating (e instanceof SyntaxError) is expected to be true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Function/S15.3_A2_T2.js:16)\n\n","path":"../../test262/test/built-ins/Function/S15.3_A2_T2.js"}
