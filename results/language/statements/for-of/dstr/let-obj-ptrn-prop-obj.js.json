@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/dstr/let-obj-ptrn-prop-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «7») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/for-of/dstr/let-obj-ptrn-prop-obj.js:52)\n\n","path":"../../test262/test/language/statements/for-of/dstr/let-obj-ptrn-prop-obj.js"}

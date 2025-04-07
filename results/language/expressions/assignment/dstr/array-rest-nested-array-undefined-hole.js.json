@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/language/expressions/assignment/dstr/array-rest-nested-array-undefined-hole.js:23\n\n","path":"../../test262/test/language/expressions/assignment/dstr/array-rest-nested-array-undefined-hole.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/array-rest-nested-array-undefined-hole.js"}

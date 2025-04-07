@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/function-code/block-decl-func-skip-dft-param.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"binding is not initialized to `undefined` Expected SameValue(«undefined», «123») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/annexB/language/function-code/block-decl-func-skip-dft-param.js:29)\n\n","path":"../../test262/test/annexB/language/function-code/block-decl-func-skip-dft-param.js"}
