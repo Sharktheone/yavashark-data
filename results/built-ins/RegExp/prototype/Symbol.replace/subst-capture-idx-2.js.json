@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    b(c)(z)?(.)\n             ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-capture-idx-2.js:35\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-capture-idx-2.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Symbol(Symbol { inner: Owned(\"s\") })\n    at Object (../../test262/test/built-ins/Symbol/prototype/valueOf/this-val-symbol.js:15)\n\n","path":"../../test262/test/built-ins/Symbol/prototype/valueOf/this-val-symbol.js"}

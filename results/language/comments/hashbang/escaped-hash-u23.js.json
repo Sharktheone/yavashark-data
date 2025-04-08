@@ -1,1 +1,0 @@
-{"status":"PARSE_ERROR","msg":"PARSE_ERROR:\nError { error: (6..7, ExpectedSemiForExprStmt { expr: 0..6 }) }\n\nthread 'main' panicked at crates/yavashark_test262/src/utils.rs:80:13:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/comments/hashbang/escaped-hash-u23.js"}

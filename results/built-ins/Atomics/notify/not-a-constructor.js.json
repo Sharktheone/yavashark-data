@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/notify/not-a-constructor.js:24\n\n","path":"../../test262/test/built-ins/Atomics/notify/not-a-constructor.js"}

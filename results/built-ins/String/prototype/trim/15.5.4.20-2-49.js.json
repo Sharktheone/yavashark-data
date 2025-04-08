@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"RegExp\", found \"yavashark_env::builtins::string::StringObj\"\n    at Object (../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-49.js:13)\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-49.js"}

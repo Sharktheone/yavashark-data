@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Array.from(array, mapFnThrows) throws a Test262Error exception Expected a Function but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Array/from/mapfn-throws-exception.js:16)\n\n","path":"../../test262/test/built-ins/Array/from/mapfn-throws-exception.js"}

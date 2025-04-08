@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'compare' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainTime/compare/plaintime-propertybag-no-time-units.js:14\n\n","path":"../../test262/test/built-ins/Temporal/PlainTime/compare/plaintime-propertybag-no-time-units.js"}

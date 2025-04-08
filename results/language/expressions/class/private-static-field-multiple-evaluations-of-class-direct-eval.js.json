@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Unsupported member expression property\n    at eval:0\n    at access (../../test262/test/language/expressions/class/private-static-field-multiple-evaluations-of-class-direct-eval.js:59)\n\n","path":"../../test262/test/language/expressions/class/private-static-field-multiple-evaluations-of-class-direct-eval.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"typeof Object.prototype.valueOf.call(false) Expected SameValue(«\"boolean\"», «\"object\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/prototype/valueOf/15.2.4.4-2.js:11)\n\n","path":"../../test262/test/built-ins/Object/prototype/valueOf/15.2.4.4-2.js"}

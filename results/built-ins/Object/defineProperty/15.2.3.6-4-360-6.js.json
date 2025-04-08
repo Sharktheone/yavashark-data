@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"desc2.hasOwnProperty(\"get\") !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-360-6.js:34)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-360-6.js"}

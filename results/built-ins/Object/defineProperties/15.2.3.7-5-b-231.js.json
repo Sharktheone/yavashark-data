@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"data1 Expected SameValue(«\"data\"», «\"overrideData\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-231.js:44)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-231.js"}

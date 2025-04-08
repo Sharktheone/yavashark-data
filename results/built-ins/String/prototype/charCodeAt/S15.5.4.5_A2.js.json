@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::string::StringObj\"\n    at Object (../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A2.js:18)\n\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A2.js"}

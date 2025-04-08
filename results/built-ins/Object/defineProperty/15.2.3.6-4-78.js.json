@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[foo] to be writable, but was not.\" }\n    at ../../test262/harness/propertyHelper.js:224\n    at verifyWritable (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-78.js:29)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-78.js"}

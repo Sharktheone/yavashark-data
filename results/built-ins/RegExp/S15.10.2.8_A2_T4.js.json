@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    Java(?!Script)([A-Z]\\w*)\n        ^^^\nerror: look-around, including look-ahead and look-behind, is not supported\n    at ../../test262/test/built-ins/RegExp/S15.10.2.8_A2_T4.js:15\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.8_A2_T4.js"}

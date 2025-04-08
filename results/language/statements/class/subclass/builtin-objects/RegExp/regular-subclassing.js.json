@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::regex::RegExp\"\n    at Object (../../test262/test/language/statements/class/subclass/builtin-objects/RegExp/regular-subclassing.js:22)\n\n","path":"../../test262/test/language/statements/class/subclass/builtin-objects/RegExp/regular-subclassing.js"}

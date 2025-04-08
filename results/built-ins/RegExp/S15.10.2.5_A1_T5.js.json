@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    (a*)b\\1+\n         ^^\nerror: backreferences are not supported\n    at ../../test262/test/built-ins/RegExp/S15.10.2.5_A1_T5.js:12\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.5_A1_T5.js"}

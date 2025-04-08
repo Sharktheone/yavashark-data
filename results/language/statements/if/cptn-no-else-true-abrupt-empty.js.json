@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «3») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/if/cptn-no-else-true-abrupt-empty.js:18)\n\n","path":"../../test262/test/language/statements/if/cptn-no-else-true-abrupt-empty.js"}

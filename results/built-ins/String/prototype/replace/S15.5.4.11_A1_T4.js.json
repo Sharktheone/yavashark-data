@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: function(){return \"gnulluna\"}().replace(null,function(a1,a2,a3){return a2+\"\";}) === \"g1una\". Actual: g[object anonymous]una\" }\n    at ../../test262/test/built-ins/String/prototype/replace/S15.5.4.11_A1_T4.js:19\n\n","path":"../../test262/test/built-ins/String/prototype/replace/S15.5.4.11_A1_T4.js"}

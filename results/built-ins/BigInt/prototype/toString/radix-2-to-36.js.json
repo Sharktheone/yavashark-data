@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/BigInt/prototype/toString/radix-2-to-36.js:22\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/radix-2-to-36.js"}

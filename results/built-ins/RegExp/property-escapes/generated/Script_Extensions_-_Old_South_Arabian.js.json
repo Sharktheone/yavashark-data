@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/harness/regExpUtils.js:53\n    at testPropertyEscapes (../../test262/test/built-ins/RegExp/property-escapes/generated/Script_Extensions_-_Old_South_Arabian.js:22)\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_Extensions_-_Old_South_Arabian.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"via MemberExpression Expected SameValue(«[object This]», «[object C]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/super/prop-expr-cls-ref-this.js:58)\n\n","path":"../../test262/test/language/expressions/super/prop-expr-cls-ref-this.js"}

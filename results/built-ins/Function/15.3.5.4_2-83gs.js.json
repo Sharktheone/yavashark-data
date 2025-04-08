@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: gNonStrict is not defined\n    at ../../test262/test/built-ins/Function/15.3.5.4_2-83gs.js:17\n    at Object (../../test262/test/built-ins/Function/15.3.5.4_2-83gs.js:21)\n    at anonymous (../../test262/test/built-ins/Function/15.3.5.4_2-83gs.js:19)\n\n","path":"../../test262/test/built-ins/Function/15.3.5.4_2-83gs.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of `bf.length` is `1` Expected SameValue(«0», «1») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/rest-parameters/expected-argument-count.js:14)\n\n","path":"../../test262/test/language/rest-parameters/expected-argument-count.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(1.0)\n    at Object (../../test262/test/built-ins/Promise/prototype/finally/invokes-then-with-non-function.js:30)\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/invokes-then-with-non-function.js"}

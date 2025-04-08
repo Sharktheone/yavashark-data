@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ^\\p{RGI_Emoji}+$\n     ^^^^^^^^^^^^^\nerror: Unicode not allowed here\n    at ../../test262/test/built-ins/RegExp/property-escapes/generated/strings/RGI_Emoji.js:16\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/strings/RGI_Emoji.js"}

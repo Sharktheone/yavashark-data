@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: (true != {valueOf: function() {return 1}}) === false\" }\n    at ../../test262/test/language/expressions/does-not-equals/S11.9.2_A7.8.js:14\n\n","path":"../../test262/test/language/expressions/does-not-equals/S11.9.2_A7.8.js"}

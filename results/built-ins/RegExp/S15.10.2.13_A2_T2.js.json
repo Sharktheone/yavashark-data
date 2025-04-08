@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    a[^]\n     ^^^\nerror: unclosed character class\n    at ../../test262/test/built-ins/RegExp/S15.10.2.13_A2_T2.js:13\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.13_A2_T2.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 672..678, ctxt: #0, sym: \"OProxy\", optional: false }) is not a constructor\n    at ../../test262/test/built-ins/Proxy/has/trap-is-not-callable-realm.js:23\n\n","path":"../../test262/test/built-ins/Proxy/has/trap-is-not-callable-realm.js"}

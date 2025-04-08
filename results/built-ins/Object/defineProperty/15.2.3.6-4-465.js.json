@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"descriptor should not be configurable\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:123)\n    at verifyProperty (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-465.js:35)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-465.js"}

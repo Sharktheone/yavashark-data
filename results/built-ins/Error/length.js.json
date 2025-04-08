@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of err1.constructor.length is 1 Expected SameValue(«0», «1») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Error/length.js:11)\n\n","path":"../../test262/test/built-ins/Error/length.js"}

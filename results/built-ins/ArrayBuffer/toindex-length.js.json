@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"object's valueOf Expected SameValue(«0», «42») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/ArrayBuffer/toindex-length.js:42)\n\n","path":"../../test262/test/built-ins/ArrayBuffer/toindex-length.js"}

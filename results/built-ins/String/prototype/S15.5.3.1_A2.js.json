@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String.propertyIsEnumerable('prototype') return false. Actual: true\" }\n    at ../../test262/test/built-ins/String/prototype/S15.5.3.1_A2.js:22\n\n","path":"../../test262/test/built-ins/String/prototype/S15.5.3.1_A2.js"}

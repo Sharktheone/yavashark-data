@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::date::Date\"\n    at Object (../../test262/test/built-ins/Date/prototype/toJSON/non-finite.js:18)\n\n","path":"../../test262/test/built-ins/Date/prototype/toJSON/non-finite.js"}

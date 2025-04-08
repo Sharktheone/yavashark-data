@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected true but got false\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/language/statements/class/elements/syntax/valid/grammar-static-ctor-meth-valid.js:27)\n\n","path":"../../test262/test/language/statements/class/elements/syntax/valid/grammar-static-ctor-meth-valid.js"}

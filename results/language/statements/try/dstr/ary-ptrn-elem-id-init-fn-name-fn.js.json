@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"Function\"», «\"fn\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/try/dstr/ary-ptrn-elem-id-init-fn-name-fn.js:37)\n\n","path":"../../test262/test/language/statements/try/dstr/ary-ptrn-elem-id-init-fn-name-fn.js"}

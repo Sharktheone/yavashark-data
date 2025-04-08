@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2.1: x = []; x[0] = 1; x.length = 0; x.toString() === x.join(). Actual: 1\" }\n    at ../../test262/test/built-ins/Array/prototype/toString/S15.4.4.2_A1_T1.js:26\n\n","path":"../../test262/test/built-ins/Array/prototype/toString/S15.4.4.2_A1_T1.js"}

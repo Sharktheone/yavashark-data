@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at NumberConstructor (../../test262/test/built-ins/Number/bigint-conversion.js:10)\n\n","path":"../../test262/test/built-ins/Number/bigint-conversion.js"}

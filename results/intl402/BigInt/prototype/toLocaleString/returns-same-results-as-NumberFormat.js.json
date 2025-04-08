@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/intl402/BigInt/prototype/toLocaleString/returns-same-results-as-NumberFormat.js:13\n\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/returns-same-results-as-NumberFormat.js"}

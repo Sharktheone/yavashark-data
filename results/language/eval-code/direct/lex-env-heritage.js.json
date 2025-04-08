@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"non strict mode Expected SameValue(«\"outside\"», «\"inside\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/eval-code/direct/lex-env-heritage.js:26)\n\n","path":"../../test262/test/language/eval-code/direct/lex-env-heritage.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/compareExchange/name.js:13\n\n","path":"../../test262/test/built-ins/Atomics/compareExchange/name.js"}

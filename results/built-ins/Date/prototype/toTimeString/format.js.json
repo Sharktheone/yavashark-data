@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ^[0-9]{2}:[0-9]{2}:[0-9]{2} GMT[+-][0-9]{4}( \\(.+\\))?$\n                                                   ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/Date/prototype/toTimeString/format.js:13\n\n","path":"../../test262/test/built-ins/Date/prototype/toTimeString/format.js"}

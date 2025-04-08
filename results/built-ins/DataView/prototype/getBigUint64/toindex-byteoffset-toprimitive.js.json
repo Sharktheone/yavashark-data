@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object Object])\n    at Object (../../test262/test/built-ins/DataView/prototype/getBigUint64/toindex-byteoffset-toprimitive.js:30)\n\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/toindex-byteoffset-toprimitive.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a different error constructor with the same name\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/String/prototype/valueOf/non-generic-realm.js:24)\n\n","path":"../../test262/test/built-ins/String/prototype/valueOf/non-generic-realm.js"}

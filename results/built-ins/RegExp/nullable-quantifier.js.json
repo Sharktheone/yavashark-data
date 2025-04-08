@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The regex is expected to match the whole string Expected SameValue(«\"a\"», «\"ab\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/RegExp/nullable-quantifier.js:21)\n\n","path":"../../test262/test/built-ins/RegExp/nullable-quantifier.js"}

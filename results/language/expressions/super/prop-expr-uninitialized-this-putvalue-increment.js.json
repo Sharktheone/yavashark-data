@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a ReferenceError but got a Function\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/super/prop-expr-uninitialized-this-putvalue-increment.js:31)\n\n","path":"../../test262/test/language/expressions/super/prop-expr-uninitialized-this-putvalue-increment.js"}

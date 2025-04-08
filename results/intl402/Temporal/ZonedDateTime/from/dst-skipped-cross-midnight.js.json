@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/from/dst-skipped-cross-midnight.js:12\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/from/dst-skipped-cross-midnight.js"}

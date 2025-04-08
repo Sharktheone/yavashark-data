@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ([\\S]+([ \\t]+[\\S]+)*)[ \\t]*=[ \\t]*[\\S]+\n      ^^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/S15.10.2.8_A3_T19.js:16\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.8_A3_T19.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"[11].every(callbackfn, Math) !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Array/prototype/every/15.4.4.16-5-14.js:17)\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-5-14.js"}

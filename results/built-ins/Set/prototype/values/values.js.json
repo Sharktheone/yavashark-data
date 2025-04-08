@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"`typeof Set.prototype.values` is `'function'` Expected SameValue(«\"undefined\"», «\"function\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Set/prototype/values/values.js:13)\n\n","path":"../../test262/test/built-ins/Set/prototype/values/values.js"}

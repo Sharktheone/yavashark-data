@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"undefined\"», «\"function\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/WeakRef/prototype/deref/this-not-object-throws.js:21)\n\n","path":"../../test262/test/built-ins/WeakRef/prototype/deref/this-not-object-throws.js"}

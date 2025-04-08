@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Object/prototype/toString/proxy-revoked-during-get-call.js:28\n\n","path":"../../test262/test/built-ins/Object/prototype/toString/proxy-revoked-during-get-call.js"}

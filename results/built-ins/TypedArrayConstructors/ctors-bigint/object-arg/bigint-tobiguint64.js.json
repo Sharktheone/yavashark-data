@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/object-arg/bigint-tobiguint64.js:72\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/object-arg/bigint-tobiguint64.js"}

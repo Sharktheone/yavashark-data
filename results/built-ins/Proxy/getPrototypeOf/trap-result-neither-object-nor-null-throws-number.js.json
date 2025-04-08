@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/getPrototypeOf/trap-result-neither-object-nor-null-throws-number.js:10\n\n","path":"../../test262/test/built-ins/Proxy/getPrototypeOf/trap-result-neither-object-nor-null-throws-number.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a RangeError but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/DataView/byteOffset-validated-against-initial-buffer-length.js:42)\n\n","path":"../../test262/test/built-ins/DataView/byteOffset-validated-against-initial-buffer-length.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"enumerable !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-9-c-iii-1-3.js:31)\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-9-c-iii-1-3.js"}

@@ -1,1 +1,0 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"\\B should not match between Z and ſ\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/RegExp/regexp-modifiers/remove-ignoreCase-affects-slash-upper-b.js:49)\n\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/remove-ignoreCase-affects-slash-upper-b.js"}
