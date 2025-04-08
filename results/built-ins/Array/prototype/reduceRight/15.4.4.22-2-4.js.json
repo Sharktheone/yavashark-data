@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-2-4.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::object::array::Array\"\n    at ../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-2-4.js:19\n\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-2-4.js"}

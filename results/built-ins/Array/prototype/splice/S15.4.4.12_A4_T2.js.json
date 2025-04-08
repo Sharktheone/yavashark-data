@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A4_T2.js:48)\n\n","path":"../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A4_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A4_T2.js"}

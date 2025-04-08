@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/indexOf/coerced-searchelement-fromindex-grow.js:27\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/indexOf/coerced-searchelement-fromindex-grow.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/harness/resizableArrayBufferUtils.js:67)\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/indexOf/coerced-searchelement-fromindex-grow.js"}

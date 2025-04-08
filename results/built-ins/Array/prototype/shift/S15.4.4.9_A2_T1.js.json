@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T1.js:20)\n\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T1.js"}
