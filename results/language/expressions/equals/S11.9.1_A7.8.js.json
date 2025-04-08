@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: ({valueOf: function() {return 1}} == true) === true\" }\n    at ../../test262/test/language/expressions/equals/S11.9.1_A7.8.js:14\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A7.8.js"}

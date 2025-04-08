@@ -1,0 +1,1 @@
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/JSON/stringify/value-tojson-object-circular.js"}

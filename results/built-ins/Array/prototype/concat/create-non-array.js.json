@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/test/built-ins/Array/prototype/concat/create-non-array.js:28)\n\n","path":"../../test262/test/built-ins/Array/prototype/concat/create-non-array.js"}

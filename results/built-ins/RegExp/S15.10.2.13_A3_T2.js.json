@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    c[\\b]{3}d\n      ^^\nerror: invalid escape sequence found in character class\n    at ../../test262/test/built-ins/RegExp/S15.10.2.13_A3_T2.js:10\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.13_A3_T2.js"}

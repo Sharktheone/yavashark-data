@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(NaN)\n    at Object (../../test262/test/built-ins/String/prototype/trimStart/this-value-number.js:20)\n\n","path":"../../test262/test/built-ins/String/prototype/trimStart/this-value-number.js"}

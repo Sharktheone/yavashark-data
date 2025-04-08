@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a Function but got a SyntaxError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/class/dstr/async-gen-meth-ary-ptrn-elem-id-iter-val-err.js:82)\n\n","path":"../../test262/test/language/expressions/class/dstr/async-gen-meth-ary-ptrn-elem-id-iter-val-err.js"}

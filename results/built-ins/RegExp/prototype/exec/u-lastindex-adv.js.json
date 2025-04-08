@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\udf06\n      ^^^^\nerror: hexadecimal literal is not a Unicode scalar value\n    at ../../test262/test/built-ins/RegExp/prototype/exec/u-lastindex-adv.js:22\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/u-lastindex-adv.js"}

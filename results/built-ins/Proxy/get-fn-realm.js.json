@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 1504..1516, obj: Ident(Ident { span: 1504..1510, ctxt: #0, sym: \"realm2\", optional: false }), prop: Ident(IdentName { span: 1511..1516, sym: \"Proxy\" }) }) is not a constructor\n    at ../../test262/test/built-ins/Proxy/get-fn-realm.js:49\n\n","path":"../../test262/test/built-ins/Proxy/get-fn-realm.js"}

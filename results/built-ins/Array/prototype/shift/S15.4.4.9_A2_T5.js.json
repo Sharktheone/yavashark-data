@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of shift is expected to be -1 Expected SameValue(«undefined», «-1») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T5.js:24)\n\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T5.js"}

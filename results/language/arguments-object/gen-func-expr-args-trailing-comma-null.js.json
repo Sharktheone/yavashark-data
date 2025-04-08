@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/language/arguments-object/gen-func-expr-args-trailing-comma-null.js:44\n\n","path":"../../test262/test/language/arguments-object/gen-func-expr-args-trailing-comma-null.js"}

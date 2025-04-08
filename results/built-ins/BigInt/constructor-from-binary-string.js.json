@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert 0b1111 to BigInt\n    at BigIntConstructor (../../test262/test/built-ins/BigInt/constructor-from-binary-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-from-binary-string.js"}

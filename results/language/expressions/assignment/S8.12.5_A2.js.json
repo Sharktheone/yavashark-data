@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var _map={1:\"one\",two:2}; _map[1]=\"uno\"; _map[\"1\"]=1; _map[1] === 1. Actual: uno\" }\n    at ../../test262/test/language/expressions/assignment/S8.12.5_A2.js:27\n\n","path":"../../test262/test/language/expressions/assignment/S8.12.5_A2.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Collator/proto-from-ctor-realm.js:37\n\n","path":"../../test262/test/intl402/Collator/proto-from-ctor-realm.js"}

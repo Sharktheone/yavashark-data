@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/language/statements/for-await-of/async-func-dstr-let-async-ary-ptrn-elision-exhausted.js:56\n\n","path":"../../test262/test/language/statements/for-await-of/async-func-dstr-let-async-ary-ptrn-elision-exhausted.js"}

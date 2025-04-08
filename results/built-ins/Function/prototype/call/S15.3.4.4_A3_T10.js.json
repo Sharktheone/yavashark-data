@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at eval:0\n    at Object (eval:0)\n    at Object (../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A3_T10.js:13)\n\n","path":"../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A3_T10.js"}

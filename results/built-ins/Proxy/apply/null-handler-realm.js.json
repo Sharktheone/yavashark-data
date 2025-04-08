@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'revocable' of undefined\n    at ../../test262/test/built-ins/Proxy/apply/null-handler-realm.js:17\n\n","path":"../../test262/test/built-ins/Proxy/apply/null-handler-realm.js"}

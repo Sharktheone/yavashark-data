@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid unit for Duration.total\n    at Object (../../test262/test/built-ins/Temporal/Duration/prototype/total/no-dst-day-length.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/total/no-dst-day-length.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[prototype] to have writable:false.\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:233)\n    at verifyNotWritable (../../test262/test/built-ins/String/prototype/S15.5.3.1_A4.js:21)\n\n","path":"../../test262/test/built-ins/String/prototype/S15.5.3.1_A4.js"}

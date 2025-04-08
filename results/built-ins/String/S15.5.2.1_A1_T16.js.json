@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: __str =new String(.12345); __str ==\"0.12345\". Actual: __str ==0.12345\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T16.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T16.js"}

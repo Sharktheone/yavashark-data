@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: parseFloat(\"0x\") === 0. Actual: NaN\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T1.js:14\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T1.js"}

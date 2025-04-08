@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    {\n    ^\nerror: repetition operator missing expression\n    at ../../test262/test/annexB/language/literals/regexp/extended-pattern-char.js:23\n\n","path":"../../test262/test/annexB/language/literals/regexp/extended-pattern-char.js"}

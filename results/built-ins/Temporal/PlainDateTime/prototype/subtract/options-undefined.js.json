@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::temporal::duration::Duration\"\n    at Object (../../test262/test/built-ins/Temporal/PlainDateTime/prototype/subtract/options-undefined.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/prototype/subtract/options-undefined.js"}

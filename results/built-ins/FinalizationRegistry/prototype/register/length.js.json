@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/prototype/register/length.js:27\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/prototype/register/length.js"}

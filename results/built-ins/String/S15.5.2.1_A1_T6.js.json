@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: __str = new String(false); __str ==false+\"\". Actual: __str ==false\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T6.js:33\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T6.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\W\n    ^^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/CharacterClassEscapes/character-class-non-word-class-escape-negative-cases.js:62\n\n","path":"../../test262/test/built-ins/RegExp/CharacterClassEscapes/character-class-non-word-class-escape-negative-cases.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(\"-PT24.567890123H\")\n    at Object (../../test262/test/built-ins/Temporal/PlainDate/prototype/add/argument-string-negative-fractional-units.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/add/argument-string-negative-fractional-units.js"}

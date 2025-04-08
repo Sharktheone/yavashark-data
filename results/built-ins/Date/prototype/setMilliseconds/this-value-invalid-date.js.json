@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"return value Expected SameValue(«0», «NaN») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Date/prototype/setMilliseconds/this-value-invalid-date.js:22)\n\n","path":"../../test262/test/built-ins/Date/prototype/setMilliseconds/this-value-invalid-date.js"}

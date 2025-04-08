@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#7: var x = [0,1,2,3]; var arr = x.splice(-9,5); x.length === 0. Actual: -1\" }\n    at ../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T5.js:41\n\n","path":"../../test262/test/built-ins/Array/prototype/splice/S15.4.4.12_A1.4_T5.js"}

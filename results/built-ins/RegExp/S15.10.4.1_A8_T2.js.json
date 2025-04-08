@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    a|b|[]\n        ^^\nerror: unclosed character class\n    at ../../test262/test/built-ins/RegExp/S15.10.4.1_A8_T2.js:10\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.4.1_A8_T2.js"}

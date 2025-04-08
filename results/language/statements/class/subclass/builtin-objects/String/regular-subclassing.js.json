@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::string::StringObj\"\n    at Object (../../test262/test/language/statements/class/subclass/builtin-objects/String/regular-subclassing.js:21)\n\n","path":"../../test262/test/language/statements/class/subclass/builtin-objects/String/regular-subclassing.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: BoundFunction is not a constructor\n    at Object (../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-length.js:29)\n\n","path":"../../test262/test/built-ins/DataView/custom-proto-access-resizes-buffer-valid-by-length.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    b{9007199254740991}\n      ^^^^^^^^^^^^^^^^\nerror: decimal literal invalid\n    at ../../test262/test/built-ins/RegExp/quantifier-integer-limit.js:29\n\n","path":"../../test262/test/built-ins/RegExp/quantifier-integer-limit.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/language/expressions/right-shift/bigint.js:29\n\n","path":"../../test262/test/language/expressions/right-shift/bigint.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DurationFormat/prototype/format/digital-style-with-hours-display-auto-with-zero-hour.js:12\n\n","path":"../../test262/test/intl402/DurationFormat/prototype/format/digital-style-with-hours-display-auto-with-zero-hour.js"}

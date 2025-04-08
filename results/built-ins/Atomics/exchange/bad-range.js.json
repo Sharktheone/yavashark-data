@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/exchange/bad-range.js:12\n\n","path":"../../test262/test/built-ins/Atomics/exchange/bad-range.js"}

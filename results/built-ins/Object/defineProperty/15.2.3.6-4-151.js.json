@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"arrObj.length Expected SameValue(«[object Object]», «2») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-151.js:37)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-151.js"}

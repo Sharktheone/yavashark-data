@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/prototype/register/holdings-any-value-type.js:24\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/prototype/register/holdings-any-value-type.js"}

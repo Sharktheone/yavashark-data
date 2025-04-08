@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"Object\", found \"yavashark_env::builtins::number::NumberObj\"\n    at Object (../../test262/test/built-ins/Number/prototype/toString/S15.7.4.2_A2_T05.js:11)\n\n","path":"../../test262/test/built-ins/Number/prototype/toString/S15.7.4.2_A2_T05.js"}

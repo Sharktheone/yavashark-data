@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DateTimeFormat/prototype/format/numbering-system.js:31\n\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/format/numbering-system.js"}

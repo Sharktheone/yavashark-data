@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/main.js:13\n    at compareFTPtoFormat (../../test262/test/intl402/NumberFormat/prototype/formatToParts/main.js:25)\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/main.js"}

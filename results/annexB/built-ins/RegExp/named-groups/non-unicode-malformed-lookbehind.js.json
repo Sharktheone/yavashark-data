@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\k\u003ca\u003e(?\u003c=\u003e)a\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/annexB/built-ins/RegExp/named-groups/non-unicode-malformed-lookbehind.js:11\n\n","path":"../../test262/test/annexB/built-ins/RegExp/named-groups/non-unicode-malformed-lookbehind.js"}

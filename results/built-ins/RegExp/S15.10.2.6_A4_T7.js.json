@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\B[^z]{4}\\B\n      ^^^^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/S15.10.2.6_A4_T7.js:14\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.6_A4_T7.js"}

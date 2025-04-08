@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Boolean(true)\n    at Object (../../test262/test/built-ins/String/prototype/toWellFormed/to-string-primitive.js:26)\n\n","path":"../../test262/test/built-ins/String/prototype/toWellFormed/to-string-primitive.js"}

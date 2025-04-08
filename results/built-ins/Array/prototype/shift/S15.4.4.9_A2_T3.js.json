@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#12: var obj = {}; obj.length = new Number(2); obj.shift = Array.prototype.shift; obj.shift(); obj.length === 1. Actual: 0\" }\n    at ../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T3.js:34\n\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T3.js"}

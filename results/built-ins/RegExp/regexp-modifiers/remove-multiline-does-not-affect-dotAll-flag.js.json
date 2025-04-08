@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    (?-m:es.$)\n           ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-dotAll-flag.js:36\n\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-dotAll-flag.js"}

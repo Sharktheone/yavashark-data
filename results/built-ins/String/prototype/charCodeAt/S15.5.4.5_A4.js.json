@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.1: Exception === 'intostring'. Actual: exception ===[object ErrorObj]\" }\n    at ../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A4.js:27\n\n","path":"../../test262/test/built-ins/String/prototype/charCodeAt/S15.5.4.5_A4.js"}

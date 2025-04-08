@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: function f_arg(x,y) {return arguments;} f_arg.length === 2. Actual: 0\" }\n    at ../../test262/test/language/expressions/call/S11.2.4_A1.1_T2.js:26\n\n","path":"../../test262/test/language/expressions/call/S11.2.4_A1.1_T2.js"}

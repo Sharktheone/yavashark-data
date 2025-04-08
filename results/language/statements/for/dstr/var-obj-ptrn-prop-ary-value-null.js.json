@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a Function\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/statements/for/dstr/var-obj-ptrn-prop-ary-value-null.js:41)\n\n","path":"../../test262/test/language/statements/for/dstr/var-obj-ptrn-prop-ary-value-null.js"}

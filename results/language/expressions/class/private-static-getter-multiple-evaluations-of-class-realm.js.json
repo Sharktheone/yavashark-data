@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Unsupported member expression property\n    at eval:0\n    at access (../../test262/test/language/expressions/class/private-static-getter-multiple-evaluations-of-class-realm.js:50)\n\n","path":"../../test262/test/language/expressions/class/private-static-getter-multiple-evaluations-of-class-realm.js"}

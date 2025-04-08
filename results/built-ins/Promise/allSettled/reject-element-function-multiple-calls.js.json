@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/allSettled/reject-element-function-multiple-calls.js:46\n\n","path":"../../test262/test/built-ins/Promise/allSettled/reject-element-function-multiple-calls.js"}

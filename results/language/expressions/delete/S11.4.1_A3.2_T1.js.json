@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: x = 1; delete x === true\" }\n    at ../../test262/test/language/expressions/delete/S11.4.1_A3.2_T1.js:14\n\n","path":"../../test262/test/language/expressions/delete/S11.4.1_A3.2_T1.js"}

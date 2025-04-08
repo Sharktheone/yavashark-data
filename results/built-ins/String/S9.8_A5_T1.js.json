@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: String(new Number()) === \"0\". Actual: [object NumberObj]\" }\n    at ../../test262/test/built-ins/String/S9.8_A5_T1.js:14\n\n","path":"../../test262/test/built-ins/String/S9.8_A5_T1.js"}

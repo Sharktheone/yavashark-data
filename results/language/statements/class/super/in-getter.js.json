@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of `new C().y` is `1` Expected SameValue(«[object y]», «1») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/class/super/in-getter.js:22)\n\n","path":"../../test262/test/language/statements/class/super/in-getter.js"}

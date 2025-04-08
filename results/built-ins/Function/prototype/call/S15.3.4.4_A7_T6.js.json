@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Function.prototype.call can't be used as [[Construct]] caller\" }\n    at ../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A7_T6.js:15\n\n","path":"../../test262/test/built-ins/Function/prototype/call/S15.3.4.4_A7_T6.js"}

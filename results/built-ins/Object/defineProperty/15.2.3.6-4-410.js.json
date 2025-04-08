@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"unlikelyValue\"», «1001») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-410.js:22)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-410.js"}

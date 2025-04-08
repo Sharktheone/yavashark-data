@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/built-ins/Proxy/defineProperty/trap-is-null-target-is-proxy.js:21)\n\n","path":"../../test262/test/built-ins/Proxy/defineProperty/trap-is-null-target-is-proxy.js"}

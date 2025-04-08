@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Unsupported member expression property\n    at eval:0\n    at Object (../../test262/test/language/statements/class/elements/private-method-visible-to-direct-eval-on-initializer.js:43)\n\n","path":"../../test262/test/language/statements/class/elements/private-method-visible-to-direct-eval-on-initializer.js"}

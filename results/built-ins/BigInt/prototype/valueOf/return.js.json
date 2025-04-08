@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found BigInt(0)\n    at Object (../../test262/test/built-ins/BigInt/prototype/valueOf/return.js:17)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/valueOf/return.js"}

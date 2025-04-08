@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\k\u003ca\u003e(?\u003ca\u003ex)\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/language/literals/regexp/named-groups/forward-reference.js:10\n\n","path":"../../test262/test/language/literals/regexp/named-groups/forward-reference.js"}

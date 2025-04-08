@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Array/from/source-object-length-set-elem-prop-non-writable.js:39\n\n","path":"../../test262/test/built-ins/Array/from/source-object-length-set-elem-prop-non-writable.js"}

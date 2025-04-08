@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainTime/prototype/subtract/negative-infinity-throws-rangeerror.js:13\n\n","path":"../../test262/test/built-ins/Temporal/PlainTime/prototype/subtract/negative-infinity-throws-rangeerror.js"}

@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainTime/prototype/equals/basic.js:10\n\n","path":"../../test262/test/built-ins/Temporal/PlainTime/prototype/equals/basic.js"}
