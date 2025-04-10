@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/ThrowTypeError/forbidden-arguments.js:28\n\n","path":"../../test262/test/built-ins/ThrowTypeError/forbidden-arguments.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/ThrowTypeError/forbidden-arguments.js"}

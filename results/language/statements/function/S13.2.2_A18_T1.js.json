@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: callee === 0. Actual: callee ===1\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A18_T1.js:28\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A18_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: result.callee === 1. Actual: result.callee ===[object Object]\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A18_T1.js:44\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A18_T1.js"}
