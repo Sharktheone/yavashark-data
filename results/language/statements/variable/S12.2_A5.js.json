@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: VariableDeclaration inside Eval statement is initialized when program reaches the eval statement x is not defined\" }\n    at ../../test262/test/language/statements/variable/S12.2_A5.js:28\n\n","path":"../../test262/test/language/statements/variable/S12.2_A5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/variable/S12.2_A5.js"}
