@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-func-expression.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/module-code/top-level-await/await-expr-func-expression.js:47)\n\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-func-expression.js"}

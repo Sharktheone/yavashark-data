@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/rest-parameters/rest-index.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: args is not defined\n    at ../../test262/test/language/rest-parameters/rest-index.js:9\n    at anonymous (../../test262/test/language/rest-parameters/rest-index.js:9)\n\n","path":"../../test262/test/language/rest-parameters/rest-index.js"}

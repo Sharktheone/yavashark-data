@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/dstr/array-elem-init-order.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/statements/for-of/dstr/array-elem-init-order.js:33)\n\n","path":"../../test262/test/language/statements/for-of/dstr/array-elem-init-order.js"}

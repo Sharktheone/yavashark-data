@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-29.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at anonymous (../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-29.js:20)\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-29.js"}

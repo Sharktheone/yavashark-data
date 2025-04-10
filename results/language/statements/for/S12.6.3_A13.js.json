@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: VariableDeclaration in \"var VariableDeclarationListNoIn\" of for IterationStatement is allowed\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A13.js:17\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A13.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A13.js"}

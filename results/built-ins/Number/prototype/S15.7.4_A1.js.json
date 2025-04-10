@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of Number.prototype is expected to be 0\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Number/prototype/S15.7.4_A1.js:17)\n\n","path":"../../test262/test/built-ins/Number/prototype/S15.7.4_A1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/Number/prototype/S15.7.4_A1.js:11)\n\n","path":"../../test262/test/built-ins/Number/prototype/S15.7.4_A1.js"}

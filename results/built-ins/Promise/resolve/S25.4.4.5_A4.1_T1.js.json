@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Should not fulfill: should reject with TypeError.\" }\n    at ../../test262/test/built-ins/Promise/resolve/S25.4.4.5_A4.1_T1.js:21\n    at Object (../../test262/test/built-ins/Promise/resolve/S25.4.4.5_A4.1_T1.js:20)\n\n","path":"../../test262/test/built-ins/Promise/resolve/S25.4.4.5_A4.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: resolve is not defined\n    at ../../test262/test/built-ins/Promise/resolve/S25.4.4.5_A4.1_T1.js:15\n\n","path":"../../test262/test/built-ins/Promise/resolve/S25.4.4.5_A4.1_T1.js"}

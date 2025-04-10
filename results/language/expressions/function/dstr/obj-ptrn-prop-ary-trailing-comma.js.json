@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/function/dstr/obj-ptrn-prop-ary-trailing-comma.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: y is not defined\n    at ../../test262/test/language/expressions/function/dstr/obj-ptrn-prop-ary-trailing-comma.js:51\n    at anonymous (../../test262/test/language/expressions/function/dstr/obj-ptrn-prop-ary-trailing-comma.js:55)\n\n","path":"../../test262/test/language/expressions/function/dstr/obj-ptrn-prop-ary-trailing-comma.js"}

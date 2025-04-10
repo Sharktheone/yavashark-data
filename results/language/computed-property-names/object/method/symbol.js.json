@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/object/method/symbol.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/computed-property-names/object/method/symbol.js:12\n    at ID (../../test262/test/language/computed-property-names/object/method/symbol.js:21)\n\n","path":"../../test262/test/language/computed-property-names/object/method/symbol.js"}

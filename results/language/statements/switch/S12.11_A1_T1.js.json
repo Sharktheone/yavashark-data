@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#5: SwitchTest(4) === 64. Actual:  SwitchTest(4) ===32\" }\n    at ../../test262/test/language/statements/switch/S12.11_A1_T1.js:52\n\n","path":"../../test262/test/language/statements/switch/S12.11_A1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: value is not defined\n    at ../../test262/test/language/statements/switch/S12.11_A1_T1.js:15\n    at SwitchTest (../../test262/test/language/statements/switch/S12.11_A1_T1.js:35)\n\n","path":"../../test262/test/language/statements/switch/S12.11_A1_T1.js"}

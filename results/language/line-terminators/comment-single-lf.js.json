@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n \n","path":"../../test262/test/language/line-terminators/comment-single-lf.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object Test262Error]) but got Object(ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n)\n\n","path":"../../test262/test/language/line-terminators/comment-single-lf.js"}

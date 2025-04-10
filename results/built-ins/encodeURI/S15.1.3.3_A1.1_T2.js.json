@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#DC00-DFFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js:47\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: n is not defined\n    at ../../test262/harness/decimalToHexString.js:11\n    at decimalToHexString (../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js:45)\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js"}

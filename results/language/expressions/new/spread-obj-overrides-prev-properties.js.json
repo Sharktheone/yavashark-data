@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/new/spread-obj-overrides-prev-properties.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: obj is not defined\n    at ../../test262/test/language/expressions/new/spread-obj-overrides-prev-properties.js:38\n\n","path":"../../test262/test/language/expressions/new/spread-obj-overrides-prev-properties.js"}

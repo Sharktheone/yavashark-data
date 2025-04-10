@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/S9.9_A6.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: val is not defined\n    at ../../test262/test/built-ins/Object/S9.9_A6.js:13\n\n","path":"../../test262/test/built-ins/Object/S9.9_A6.js"}

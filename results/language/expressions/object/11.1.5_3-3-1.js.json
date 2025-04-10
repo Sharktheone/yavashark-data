@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/11.1.5_3-3-1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: mustBeTrue is not defined\n    at ../../test262/harness/assert.js:11\n    at assert (../../test262/test/language/expressions/object/11.1.5_3-3-1.js:24)\n\n","path":"../../test262/test/language/expressions/object/11.1.5_3-3-1.js"}

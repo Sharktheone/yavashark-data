@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-obj-value-undef.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at anonymous (../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-obj-value-undef.js:73)\n\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-obj-value-undef.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Object]\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/mapfn-not-callable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at asyncTest (../../test262/test/built-ins/Array/fromAsync/mapfn-not-callable.js:17)\n\n","path":"../../test262/test/built-ins/Array/fromAsync/mapfn-not-callable.js"}

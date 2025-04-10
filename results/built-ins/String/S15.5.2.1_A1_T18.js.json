@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: __str = new String(1000000000000000000000); __str ==\"1e+21\". Actual: __str ==1e21\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T18.js:34\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T18.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T18.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Number.MIN_VALUE * 0.1 === 0. Actual: -1.7976931348623158e307\" }\n    at ../../test262/test/language/expressions/multiplication/S11.5.1_A4_T7.js:16\n\n","path":"../../test262/test/language/expressions/multiplication/S11.5.1_A4_T7.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/expressions/multiplication/S11.5.1_A4_T7.js"}

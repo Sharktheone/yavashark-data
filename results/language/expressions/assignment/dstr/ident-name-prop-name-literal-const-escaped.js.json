@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-const-escaped.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-const-escaped.js:41)\n\n","path":"../../test262/test/language/expressions/assignment/dstr/ident-name-prop-name-literal-const-escaped.js"}

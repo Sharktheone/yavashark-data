@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: \"ABC\" == new String(\"ABC\")\" }\n    at ../../test262/test/language/types/string/S8.4_A9_T1.js:24\n\n","path":"../../test262/test/language/types/string/S8.4_A9_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/types/string/S8.4_A9_T1.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-ary-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-ary-init.js:73\n    at method (../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-ary-init.js:84)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-ary-init.js"}

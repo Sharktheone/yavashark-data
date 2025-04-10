@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-dflt-obj-ptrn-prop-id.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: y is not defined\n    at ../../test262/test/language/statements/class/dstr/meth-dflt-obj-ptrn-prop-id.js:70\n    at method (../../test262/test/language/statements/class/dstr/meth-dflt-obj-ptrn-prop-id.js:78)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-dflt-obj-ptrn-prop-id.js"}

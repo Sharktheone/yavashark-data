@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-function-prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: resolve is not defined\n    at ../../test262/test/built-ins/Promise/resolve-function-prototype.js:17\n\n","path":"../../test262/test/built-ins/Promise/resolve-function-prototype.js"}

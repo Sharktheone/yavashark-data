@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-non-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: _reject is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-non-obj.js:27\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-non-obj.js"}

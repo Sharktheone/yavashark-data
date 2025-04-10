@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/unmapped/via-strict.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/arguments-object/unmapped/via-strict.js:13\n    at foo (../../test262/test/language/arguments-object/unmapped/via-strict.js:16)\n\n","path":"../../test262/test/language/arguments-object/unmapped/via-strict.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/S10.2.1_A1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: b is not defined\n    at ../../test262/test/language/function-code/S10.2.1_A1.js:14\n    at f1 (../../test262/test/language/function-code/S10.2.1_A1.js:16)\n\n","path":"../../test262/test/language/function-code/S10.2.1_A1.js"}

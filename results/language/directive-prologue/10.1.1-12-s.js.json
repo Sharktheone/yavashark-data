@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/directive-prologue/10.1.1-12-s.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: public is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-12-s.js:14\n\n","path":"../../test262/test/language/directive-prologue/10.1.1-12-s.js"}

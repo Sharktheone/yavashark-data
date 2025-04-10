@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/eval-code/indirect/global-if-decl-else-decl-b-eval-global-existing-var-update.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/annexB/language/eval-code/indirect/global-if-decl-else-decl-b-eval-global-existing-var-update.js:37)\n\n","path":"../../test262/test/annexB/language/eval-code/indirect/global-if-decl-else-decl-b-eval-global-existing-var-update.js"}

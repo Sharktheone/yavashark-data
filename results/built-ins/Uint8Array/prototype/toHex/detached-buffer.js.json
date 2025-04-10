@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toHex/detached-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: buffer is not defined\n    at ../../test262/harness/detachArrayBuffer.js:15\n    at $DETACHBUFFER (../../test262/test/built-ins/Uint8Array/prototype/toHex/detached-buffer.js:11)\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toHex/detached-buffer.js"}

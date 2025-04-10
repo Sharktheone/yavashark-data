@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Object/entries/observable-operations.js:42\n\n","path":"../../test262/test/built-ins/Object/entries/observable-operations.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: overrides is not defined\n    at ../../test262/harness/proxyTrapsHelper.js:14\n    at allowProxyTraps (../../test262/test/built-ins/Object/entries/observable-operations.js:18)\n\n","path":"../../test262/test/built-ins/Object/entries/observable-operations.js"}

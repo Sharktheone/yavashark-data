@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/params-dflt-meth-static-args-unmapped.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/class/params-dflt-meth-static-args-unmapped.js:72\n    at method (../../test262/test/language/statements/class/params-dflt-meth-static-args-unmapped.js:100)\n\n","path":"../../test262/test/language/statements/class/params-dflt-meth-static-args-unmapped.js"}

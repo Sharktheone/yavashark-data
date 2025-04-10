@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: delete eval.length; eval.hasOwnProperty('length') === false. Actual: true\" }\n    at ../../test262/test/built-ins/eval/length-non-configurable.js:19\n\n","path":"../../test262/test/built-ins/eval/length-non-configurable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/eval/length-non-configurable.js"}

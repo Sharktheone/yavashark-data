@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/promiseHelper.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arr is not defined\n    at ../../test262/harness/promiseHelper.js:13\n    at checkSequence (../../test262/test/harness/promiseHelper.js:16)\n\n","path":"../../test262/test/harness/promiseHelper.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/reference/S8.7_A6.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: second is not defined\n    at ../../test262/test/language/types/reference/S8.7_A6.js:15\n    at addFirst2Second (../../test262/test/language/types/reference/S8.7_A6.js:17)\n\n","path":"../../test262/test/language/types/reference/S8.7_A6.js"}

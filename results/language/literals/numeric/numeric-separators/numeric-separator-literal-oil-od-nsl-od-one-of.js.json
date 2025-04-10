@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/literals/numeric/numeric-separators/numeric-separator-literal-oil-od-nsl-od-one-of.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/literals/numeric/numeric-separators/numeric-separator-literal-oil-od-nsl-od-one-of.js:27)\n\n","path":"../../test262/test/language/literals/numeric/numeric-separators/numeric-separator-literal-oil-od-nsl-od-one-of.js"}

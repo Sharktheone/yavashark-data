@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/reserved-words/ident-name-reserved-word-literal-memberexpr.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: mustBeTrue is not defined\n    at ../../test262/harness/assert.js:11\n    at assert (../../test262/test/language/reserved-words/ident-name-reserved-word-literal-memberexpr.js:25)\n\n","path":"../../test262/test/language/reserved-words/ident-name-reserved-word-literal-memberexpr.js"}

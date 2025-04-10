@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: __obj.p1 === \"w1\". Actual: __obj.p1 ===1\" }\n    at ../../test262/test/language/statements/function/S13.2.2_A17_T2.js:49\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A17_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/statements/function/S13.2.2_A17_T2.js"}

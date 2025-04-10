@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-12.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-12.js:16\n    at BoundFunction (../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-12.js:22)\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-12.js"}

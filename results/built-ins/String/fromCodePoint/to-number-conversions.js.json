@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/fromCodePoint/to-number-conversions.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/String/fromCodePoint/to-number-conversions.js:23)\n\n","path":"../../test262/test/built-ins/String/fromCodePoint/to-number-conversions.js"}

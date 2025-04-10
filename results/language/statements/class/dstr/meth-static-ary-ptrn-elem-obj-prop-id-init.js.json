@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-static-ary-ptrn-elem-obj-prop-id-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: v is not defined\n    at ../../test262/test/language/statements/class/dstr/meth-static-ary-ptrn-elem-obj-prop-id-init.js:75\n    at method (../../test262/test/language/statements/class/dstr/meth-static-ary-ptrn-elem-obj-prop-id-init.js:92)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-static-ary-ptrn-elem-obj-prop-id-init.js"}

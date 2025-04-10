@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/name-param-id-yield.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: yield is not defined\n    at ../../test262/test/language/expressions/object/method-definition/name-param-id-yield.js:14\n    at method (../../test262/test/language/expressions/object/method-definition/name-param-id-yield.js:19)\n\n","path":"../../test262/test/language/expressions/object/method-definition/name-param-id-yield.js"}

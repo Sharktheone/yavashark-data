@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-prop-ary-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-prop-ary-init.js:54\n    at f (../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-prop-ary-init.js:63)\n\n","path":"../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-prop-ary-init.js"}

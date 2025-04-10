@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: reject is not defined\n    at ../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js:27\n\n","path":"../../test262/test/built-ins/Promise/resolve-ignored-via-fn-immed.js"}

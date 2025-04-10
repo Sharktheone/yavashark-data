@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/optional-chaining/optional-chain-prod-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arg1 is not defined\n    at ../../test262/test/language/expressions/optional-chaining/optional-chain-prod-arguments.js:14\n    at fn (../../test262/test/language/expressions/optional-chaining/optional-chain-prod-arguments.js:17)\n\n","path":"../../test262/test/language/expressions/optional-chaining/optional-chain-prod-arguments.js"}

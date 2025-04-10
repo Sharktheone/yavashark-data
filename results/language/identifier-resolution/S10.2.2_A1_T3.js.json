@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Scope chain disturbed\" }\n    at ../../test262/test/language/identifier-resolution/S10.2.2_A1_T3.js:25\n\n","path":"../../test262/test/language/identifier-resolution/S10.2.2_A1_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/identifier-resolution/S10.2.2_A1_T3.js"}

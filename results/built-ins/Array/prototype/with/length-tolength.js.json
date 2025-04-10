@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/with/length-tolength.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/compareArray.js:34\n    at anonymous (../../test262/test/built-ins/Array/prototype/with/length-tolength.js:19)\n\n","path":"../../test262/test/built-ins/Array/prototype/with/length-tolength.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: name is not defined\n    at ../../test262/harness/propertyHelper.js:278\n    at verifyNotConfigurable (../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js:15)\n\n","path":"../../test262/test/harness/propertyhelper-verifynotconfigurable-not-configurable.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'hasOwnProperty' of undefined\n    at ../../test262/test/built-ins/Object/keys/15.2.3.14-5-a-2.js:22\n\n","path":"../../test262/test/built-ins/Object/keys/15.2.3.14-5-a-2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/Object/keys/15.2.3.14-5-a-2.js:21)\n\n","path":"../../test262/test/built-ins/Object/keys/15.2.3.14-5-a-2.js"}

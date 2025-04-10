@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var x = [0,1,2,3,4]; var arr = x.slice(3, undefined); arr.length === 2. Actual: 0\" }\n    at ../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A1.5_T1.js:19\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A1.5_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/S15.4.4.10_A1.5_T1.js"}

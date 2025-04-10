@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: n is not defined\n    at ../../test262/harness/decimalToHexString.js:25\n    at decimalToPercentHexString (../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.1_T1.js:31)\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.1_T1.js"}

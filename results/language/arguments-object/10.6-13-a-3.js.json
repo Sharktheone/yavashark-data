@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/10.6-13-a-3.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: flag is not defined\n    at ../../test262/test/language/arguments-object/10.6-13-a-3.js:14\n    at test1 (../../test262/test/language/arguments-object/10.6-13-a-3.js:30)\n\n","path":"../../test262/test/language/arguments-object/10.6-13-a-3.js"}

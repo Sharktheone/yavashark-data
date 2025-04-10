@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-4-6.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at anonymous (../../test262/test/built-ins/Array/prototype/every/15.4.4.16-4-6.js:11)\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-4-6.js"}

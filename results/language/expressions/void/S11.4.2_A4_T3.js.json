@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: var x = \"x\"; void x === undefined. Actual: undefined\" }\n    at ../../test262/test/language/expressions/void/S11.4.2_A4_T3.js:19\n\n","path":"../../test262/test/language/expressions/void/S11.4.2_A4_T3.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/expressions/void/S11.4.2_A4_T3.js"}

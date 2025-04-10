@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/dstr/obj-ptrn-prop-id.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: y is not defined\n    at ../../test262/test/language/statements/function/dstr/obj-ptrn-prop-id.js:51\n    at f (../../test262/test/language/statements/function/dstr/obj-ptrn-prop-id.js:57)\n\n","path":"../../test262/test/language/statements/function/dstr/obj-ptrn-prop-id.js"}

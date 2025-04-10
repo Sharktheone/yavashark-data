@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/SQRT1_2/prop-desc.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: obj is not defined\n    at ../../test262/harness/propertyHelper.js:256\n    at verifyNotEnumerable (../../test262/test/built-ins/Math/SQRT1_2/prop-desc.js:14)\n\n","path":"../../test262/test/built-ins/Math/SQRT1_2/prop-desc.js"}

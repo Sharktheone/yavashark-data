@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: name is not defined\n    at ../../test262/harness/propertyHelper.js:245\n    at verifyEnumerable (../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js:15)\n\n","path":"../../test262/test/harness/propertyhelper-verifyenumerable-enumerable.js"}

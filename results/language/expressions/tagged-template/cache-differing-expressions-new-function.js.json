@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/tagged-template/cache-differing-expressions-new-function.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: templateObject is not defined\n    at ../../test262/test/language/expressions/tagged-template/cache-differing-expressions-new-function.js:12\n    at tag (../../test262/test/language/expressions/tagged-template/cache-differing-expressions-new-function.js:19)\n\n","path":"../../test262/test/language/expressions/tagged-template/cache-differing-expressions-new-function.js"}

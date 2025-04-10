@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/delete/11.4.1-5-2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/expressions/delete/11.4.1-5-2.js:16\n    at foo (../../test262/test/language/expressions/delete/11.4.1-5-2.js:19)\n\n","path":"../../test262/test/language/expressions/delete/11.4.1-5-2.js"}

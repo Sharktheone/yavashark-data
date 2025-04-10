@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"undefined\"», «\"symbol\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Symbol/dispose/prop-desc.js:14)\n\n","path":"../../test262/test/built-ins/Symbol/dispose/prop-desc.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/Symbol/dispose/prop-desc.js:14)\n\n","path":"../../test262/test/built-ins/Symbol/dispose/prop-desc.js"}

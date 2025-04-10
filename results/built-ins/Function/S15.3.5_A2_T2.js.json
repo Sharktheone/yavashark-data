@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/S15.3.5_A2_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arg1 is not defined\n    at eval:0\n    at anonymous (../../test262/test/built-ins/Function/S15.3.5_A2_T2.js:12)\n\n","path":"../../test262/test/built-ins/Function/S15.3.5_A2_T2.js"}

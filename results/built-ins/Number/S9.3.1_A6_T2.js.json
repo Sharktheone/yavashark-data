@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S9.3.1_A6_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: s1 is not defined\n    at ../../test262/test/built-ins/Number/S9.3.1_A6_T2.js:15\n    at dynaString (../../test262/test/built-ins/Number/S9.3.1_A6_T2.js:20)\n\n","path":"../../test262/test/built-ins/Number/S9.3.1_A6_T2.js"}

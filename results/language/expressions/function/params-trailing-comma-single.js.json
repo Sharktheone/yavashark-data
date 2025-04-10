@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/function/params-trailing-comma-single.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/expressions/function/params-trailing-comma-single.js:50\n    at anonymous (../../test262/test/language/expressions/function/params-trailing-comma-single.js:54)\n\n","path":"../../test262/test/language/expressions/function/params-trailing-comma-single.js"}

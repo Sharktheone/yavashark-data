@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/prototype/filter/bigint-inherited.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: selected is not defined\n    at ../../test262/harness/testBigIntTypedArray.js:26\n    at testWithBigIntTypedArrayConstructors (../../test262/test/built-ins/TypedArrayConstructors/prototype/filter/bigint-inherited.js:11)\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/prototype/filter/bigint-inherited.js"}

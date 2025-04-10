@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Array/prototype/unshift/throws-if-integer-limit-exceeded.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at anonymous (../../test262/test/built-ins/Array/prototype/unshift/throws-if-integer-limit-exceeded.js:21)\n\n","path":"../../test262/test/built-ins/Array/prototype/unshift/throws-if-integer-limit-exceeded.js"}

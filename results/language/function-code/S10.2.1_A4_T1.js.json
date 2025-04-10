@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'constructor' of undefined\n    at ../../test262/test/language/function-code/S10.2.1_A4_T1.js:23\n\n","path":"../../test262/test/language/function-code/S10.2.1_A4_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/function-code/S10.2.1_A4_T1.js:17\n    at f1 (../../test262/test/language/function-code/S10.2.1_A4_T1.js:23)\n\n","path":"../../test262/test/language/function-code/S10.2.1_A4_T1.js"}

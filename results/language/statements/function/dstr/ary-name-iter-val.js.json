@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/dstr/ary-name-iter-val.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/dstr/ary-name-iter-val.js:64\n    at f (../../test262/test/language/statements/function/dstr/ary-name-iter-val.js:69)\n\n","path":"../../test262/test/language/statements/function/dstr/ary-name-iter-val.js"}

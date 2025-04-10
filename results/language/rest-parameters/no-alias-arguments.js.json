@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/rest-parameters/no-alias-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/rest-parameters/no-alias-arguments.js:11\n    at f (../../test262/test/language/rest-parameters/no-alias-arguments.js:15)\n\n","path":"../../test262/test/language/rest-parameters/no-alias-arguments.js"}

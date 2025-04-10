@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-non-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: resolve is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-non-obj.js:32\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-non-obj.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/block-scope/leave/verify-context-in-finally-block.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/block-scope/leave/verify-context-in-finally-block.js:18\n    at anonymous (../../test262/test/language/block-scope/leave/verify-context-in-finally-block.js:10)\n\n","path":"../../test262/test/language/block-scope/leave/verify-context-in-finally-block.js"}
