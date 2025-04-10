@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/arguments-object/unmapped/via-params-dflt.js:23\n    at dflt (../../test262/test/language/arguments-object/unmapped/via-params-dflt.js:26)\n\n","path":"../../test262/test/language/arguments-object/unmapped/via-params-dflt.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/unmapped/via-params-dflt.js"}

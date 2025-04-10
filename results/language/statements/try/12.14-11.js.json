@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: o is not defined\n    at ../../test262/test/language/statements/try/12.14-11.js:22\n    at f (../../test262/test/language/statements/try/12.14-11.js:25)\n\n","path":"../../test262/test/language/statements/try/12.14-11.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/12.14-11.js"}

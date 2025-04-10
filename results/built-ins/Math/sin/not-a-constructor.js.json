@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n    at isConstructor (../../test262/test/built-ins/Math/sin/not-a-constructor.js:24)\n\n","path":"../../test262/test/built-ins/Math/sin/not-a-constructor.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/sin/not-a-constructor.js"}

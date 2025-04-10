@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: z is not defined\n    at ../../test262/test/language/expressions/call/S11.2.4_A1.4_T3.js:17\n    at f_arg (../../test262/test/language/expressions/call/S11.2.4_A1.4_T3.js:21)\n\n","path":"../../test262/test/language/expressions/call/S11.2.4_A1.4_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/call/S11.2.4_A1.4_T3.js"}

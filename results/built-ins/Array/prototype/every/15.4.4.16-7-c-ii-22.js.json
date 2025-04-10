@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: val is not defined\n    at ../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-22.js:15\n    at Object (../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-22.js:31)\n\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-22.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/every/15.4.4.16-7-c-ii-22.js"}

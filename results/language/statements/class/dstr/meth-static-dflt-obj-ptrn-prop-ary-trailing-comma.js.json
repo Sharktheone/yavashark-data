@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: y is not defined\n    at ../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-trailing-comma.js:70\n    at method (../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-trailing-comma.js:75)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-trailing-comma.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-trailing-comma.js"}

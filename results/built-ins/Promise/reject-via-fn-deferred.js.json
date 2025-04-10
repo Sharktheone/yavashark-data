@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: _reject is not defined\n    at ../../test262/test/built-ins/Promise/reject-via-fn-deferred.js:24\n\n","path":"../../test262/test/built-ins/Promise/reject-via-fn-deferred.js"}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/reject-via-fn-deferred.js"}

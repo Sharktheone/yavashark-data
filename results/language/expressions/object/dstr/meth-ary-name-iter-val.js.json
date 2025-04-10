@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/object/dstr/meth-ary-name-iter-val.js:66\n    at method (../../test262/test/language/expressions/object/dstr/meth-ary-name-iter-val.js:73)\n\n","path":"../../test262/test/language/expressions/object/dstr/meth-ary-name-iter-val.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/dstr/meth-ary-name-iter-val.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/object/method-definition/name-super-prop-param.js:13\n    at method (../../test262/test/language/expressions/object/method-definition/name-super-prop-param.js:19)\n\n","path":"../../test262/test/language/expressions/object/method-definition/name-super-prop-param.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/name-super-prop-param.js"}

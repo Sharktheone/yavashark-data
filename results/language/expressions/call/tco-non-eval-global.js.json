@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: n is not defined\n    at ../../test262/test/language/expressions/call/tco-non-eval-global.js:33\n    at f (../../test262/test/language/expressions/call/tco-non-eval-global.js:41)\n\n","path":"../../test262/test/language/expressions/call/tco-non-eval-global.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/call/tco-non-eval-global.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/function-code/switch-dflt-func-skip-param.js:20\n    at anonymous (../../test262/test/annexB/language/function-code/switch-dflt-func-skip-param.js:19)\n\n","path":"../../test262/test/annexB/language/function-code/switch-dflt-func-skip-param.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/function-code/switch-dflt-func-skip-param.js"}

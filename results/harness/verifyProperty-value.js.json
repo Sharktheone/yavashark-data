@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: desc is not defined\n    at ../../test262/test/harness/verifyProperty-value.js:19\n    at checkDesc (../../test262/test/harness/verifyProperty-value.js:44)\n\n","path":"../../test262/test/harness/verifyProperty-value.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/verifyProperty-value.js"}

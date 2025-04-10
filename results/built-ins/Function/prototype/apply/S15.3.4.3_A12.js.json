@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A12.js:11)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A12.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A12.js"}

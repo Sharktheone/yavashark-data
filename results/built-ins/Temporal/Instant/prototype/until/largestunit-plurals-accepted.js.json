@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: validSingularUnits is not defined\n    at ../../test262/harness/temporalHelpers.js:463\n    at checkPluralUnitsAccepted (../../test262/test/built-ins/Temporal/Instant/prototype/until/largestunit-plurals-accepted.js:21)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/until/largestunit-plurals-accepted.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/until/largestunit-plurals-accepted.js"}

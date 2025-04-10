@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: reject is not defined\n    at ../../test262/test/built-ins/Promise/prototype/then/rxn-handler-rejected-return-normal.js:33\n\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-rejected-return-normal.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The `onRejected` handler should not be invoked.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-rejected-return-normal.js"}

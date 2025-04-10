@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/object/method-definition/params-dflt-meth-args-unmapped.js:55\n    at method (../../test262/test/language/expressions/object/method-definition/params-dflt-meth-args-unmapped.js:83)\n\n","path":"../../test262/test/language/expressions/object/method-definition/params-dflt-meth-args-unmapped.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/params-dflt-meth-args-unmapped.js"}

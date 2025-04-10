@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: key is not defined\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:319\n    at getWellKnownIntrinsicObject (../../test262/test/built-ins/AsyncFunction/is-a-constructor.js:22)\n\n","path":"../../test262/test/built-ins/AsyncFunction/is-a-constructor.js"}
+{"status":"PASS","msg":"PASS:\n function anonymous() { [native code] }\n","path":"../../test262/test/built-ins/AsyncFunction/is-a-constructor.js"}

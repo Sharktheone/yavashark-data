@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: obj is not defined\n    at ../../test262/test/language/expressions/super/call-spread-mult-obj-ident.js:38\n    at Class (../../test262/test/language/expressions/super/call-spread-mult-obj-ident.js:73)\n\n","path":"../../test262/test/language/expressions/super/call-spread-mult-obj-ident.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/super/call-spread-mult-obj-ident.js"}

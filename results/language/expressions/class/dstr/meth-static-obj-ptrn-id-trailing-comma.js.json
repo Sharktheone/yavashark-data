@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/class/dstr/meth-static-obj-ptrn-id-trailing-comma.js:71\n    at method (../../test262/test/language/expressions/class/dstr/meth-static-obj-ptrn-id-trailing-comma.js:76)\n\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-obj-ptrn-id-trailing-comma.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-obj-ptrn-id-trailing-comma.js"}

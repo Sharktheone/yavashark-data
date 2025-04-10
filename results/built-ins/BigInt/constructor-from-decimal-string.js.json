@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/BigInt/constructor-from-decimal-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-from-decimal-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/BigInt/constructor-from-decimal-string.js:29\n\n","path":"../../test262/test/built-ins/BigInt/constructor-from-decimal-string.js"}

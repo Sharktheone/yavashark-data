@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/arguments-object/mapped/mapped-arguments-nonconfigurable-1.js:14\n    at argumentsNonConfigurable (../../test262/test/language/arguments-object/mapped/mapped-arguments-nonconfigurable-1.js:17)\n\n","path":"../../test262/test/language/arguments-object/mapped/mapped-arguments-nonconfigurable-1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/mapped/mapped-arguments-nonconfigurable-1.js"}

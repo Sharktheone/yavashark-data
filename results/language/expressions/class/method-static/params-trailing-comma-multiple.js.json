@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/expressions/class/method-static/params-trailing-comma-multiple.js:69\n    at method (../../test262/test/language/expressions/class/method-static/params-trailing-comma-multiple.js:75)\n\n","path":"../../test262/test/language/expressions/class/method-static/params-trailing-comma-multiple.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/method-static/params-trailing-comma-multiple.js"}

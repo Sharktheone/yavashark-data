@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/compareArray.js:34\n    at anonymous (../../test262/test/harness/compare-array-sparse.js:11)\n\n","path":"../../test262/test/harness/compare-array-sparse.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/compare-array-sparse.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: verifyProp is not defined\n    at ../../test262/harness/propertyHelper.js:232\n    at verifyNotWritable (../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A10.js:23)\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A10.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A10.js"}

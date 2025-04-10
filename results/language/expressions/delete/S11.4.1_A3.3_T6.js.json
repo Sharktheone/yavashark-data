@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/expressions/delete/S11.4.1_A3.3_T6.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: function MyFunction(){}; var MyObjectNotVar = new MyFunction(); delete MyObjectNotVar === true\" }\n    at ../../test262/test/language/expressions/delete/S11.4.1_A3.3_T6.js:15\n\n","path":"../../test262/test/language/expressions/delete/S11.4.1_A3.3_T6.js"}

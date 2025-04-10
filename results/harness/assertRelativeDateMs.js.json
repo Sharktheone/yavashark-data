@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: date is not defined\n    at ../../test262/harness/assertRelativeDateMs.js:16\n    at assertRelativeDateMs (../../test262/test/harness/assertRelativeDateMs.js:12)\n\n","path":"../../test262/test/harness/assertRelativeDateMs.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/assertRelativeDateMs.js"}

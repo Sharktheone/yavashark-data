@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/expressions/object/method-definition/name-params.js:16\n    at method (../../test262/test/language/expressions/object/method-definition/name-params.js:22)\n\n","path":"../../test262/test/language/expressions/object/method-definition/name-params.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/method-definition/name-params.js"}

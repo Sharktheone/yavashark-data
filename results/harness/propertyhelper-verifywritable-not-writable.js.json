@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Error: Expected a Test262Error, but a \"ReferenceError\" was thrown.\n    at ../../test262/test/harness/propertyhelper-verifywritable-not-writable.js:21\n\n","path":"../../test262/test/harness/propertyhelper-verifywritable-not-writable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/propertyhelper-verifywritable-not-writable.js"}

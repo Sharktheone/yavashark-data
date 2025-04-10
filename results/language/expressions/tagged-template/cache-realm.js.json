@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: strings is not defined\n    at ../../test262/test/language/expressions/tagged-template/cache-realm.js:36\n    at anonymous (../../test262/test/language/expressions/tagged-template/cache-realm.js:36)\n\n","path":"../../test262/test/language/expressions/tagged-template/cache-realm.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/tagged-template/cache-realm.js"}

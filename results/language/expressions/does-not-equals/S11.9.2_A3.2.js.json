@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/expressions/does-not-equals/S11.9.2_A3.2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: (true != new Boolean(true)) === false\" }\n    at ../../test262/test/language/expressions/does-not-equals/S11.9.2_A3.2.js:24\n\n","path":"../../test262/test/language/expressions/does-not-equals/S11.9.2_A3.2.js"}

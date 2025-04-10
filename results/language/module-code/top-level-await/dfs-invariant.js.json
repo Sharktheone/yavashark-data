@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/module-code/top-level-await/dfs-invariant.js:40)\n\n","path":"../../test262/test/language/module-code/top-level-await/dfs-invariant.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/dfs-invariant.js"}

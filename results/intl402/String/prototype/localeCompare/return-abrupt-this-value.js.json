@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: value is not defined\n    at ../../test262/test/intl402/String/prototype/localeCompare/return-abrupt-this-value.js:15\n    at Object (../../test262/test/intl402/String/prototype/localeCompare/return-abrupt-this-value.js:14)\n\n","path":"../../test262/test/intl402/String/prototype/localeCompare/return-abrupt-this-value.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/String/prototype/localeCompare/return-abrupt-this-value.js"}

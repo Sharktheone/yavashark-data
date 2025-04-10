@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: actual is not defined\n    at ../../test262/harness/assert.js:53\n    at anonymous (../../test262/test/language/function-code/10.4.3-1-23-s.js:16)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-23-s.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/10.4.3-1-23-s.js"}

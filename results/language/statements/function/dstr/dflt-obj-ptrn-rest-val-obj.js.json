@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: rest is not defined\n    at ../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-rest-val-obj.js:45\n    at f (../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-rest-val-obj.js:63)\n\n","path":"../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-rest-val-obj.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/dstr/dflt-obj-ptrn-rest-val-obj.js"}

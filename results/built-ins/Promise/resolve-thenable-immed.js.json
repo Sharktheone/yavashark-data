@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: resolve is not defined\n    at ../../test262/test/built-ins/Promise/resolve-thenable-immed.js:29\n\n","path":"../../test262/test/built-ins/Promise/resolve-thenable-immed.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be fulfilled with the provided value.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/resolve-thenable-immed.js"}

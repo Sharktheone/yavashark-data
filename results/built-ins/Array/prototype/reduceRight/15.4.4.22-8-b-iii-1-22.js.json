@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: idx is not defined\n    at ../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-22.js:14\n    at Object (../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-22.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-22.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/reduceRight/15.4.4.22-8-b-iii-1-22.js"}

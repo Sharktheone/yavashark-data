@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: selected is not defined\n    at ../../test262/harness/testBigIntTypedArray.js:26\n    at testWithBigIntTypedArrayConstructors (../../test262/test/built-ins/TypedArray/prototype/every/BigInt/returns-false-if-any-cb-returns-false.js:23)\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/every/BigInt/returns-false-if-any-cb-returns-false.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArray/prototype/every/BigInt/returns-false-if-any-cb-returns-false.js"}

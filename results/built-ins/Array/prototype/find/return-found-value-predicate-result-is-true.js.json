@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/built-ins/Array/prototype/find/return-found-value-predicate-result-is-true.js:28)\n\n","path":"../../test262/test/built-ins/Array/prototype/find/return-found-value-predicate-result-is-true.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/find/return-found-value-predicate-result-is-true.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: key is not defined\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:319\n    at getWellKnownIntrinsicObject (../../test262/test/language/expressions/async-arrow-function/prototype.js:17)\n\n","path":"../../test262/test/language/expressions/async-arrow-function/prototype.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/async-arrow-function/prototype.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: res is not defined\n    at ../../test262/test/language/module-code/top-level-await/syntax/if-expr-await-expr-new-expr.js:45\n\n","path":"../../test262/test/language/module-code/top-level-await/syntax/if-expr-await-expr-new-expr.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/syntax/if-expr-await-expr-new-expr.js"}

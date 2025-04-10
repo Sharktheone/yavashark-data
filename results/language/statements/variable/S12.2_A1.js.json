@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/statements/variable/S12.2_A1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Using declarated variable before it declaration is admitted\" }\n    at ../../test262/test/language/statements/variable/S12.2_A1.js:20\n\n","path":"../../test262/test/language/statements/variable/S12.2_A1.js"}

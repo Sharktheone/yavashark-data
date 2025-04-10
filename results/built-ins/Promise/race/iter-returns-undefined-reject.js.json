@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: error is not defined\n    at ../../test262/harness/doneprintHandle.js:13\n    at $DONE (../../test262/test/built-ins/Promise/race/iter-returns-undefined-reject.js:36)\n\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-undefined-reject.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-undefined-reject.js"}

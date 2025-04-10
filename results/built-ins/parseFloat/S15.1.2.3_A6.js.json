@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: n is not defined\n    at ../../test262/harness/decimalToHexString.js:11\n    at decimalToHexString (../../test262/test/built-ins/parseFloat/S15.1.2.3_A6.js:28)\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A6.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#0001-0008 \" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A6.js:30\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A6.js"}

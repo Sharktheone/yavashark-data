@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/language/statements/class/subclass/superclass-static-method-override.js:21)\n\n","path":"../../test262/test/language/statements/class/subclass/superclass-static-method-override.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/subclass/superclass-static-method-override.js"}

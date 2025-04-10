@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: value is not defined\n    at ../../test262/test/built-ins/RegExp/prototype/exec/failure-g-lastindex-reset.js:36\n    at Object (../../test262/test/built-ins/RegExp/prototype/exec/failure-g-lastindex-reset.js:43)\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/failure-g-lastindex-reset.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/failure-g-lastindex-reset.js"}

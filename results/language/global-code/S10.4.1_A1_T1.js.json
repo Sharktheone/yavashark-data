@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/global-code/S10.4.1_A1_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: variable x has property attribute DontDelete\" }\n    at ../../test262/test/language/global-code/S10.4.1_A1_T1.js:22\n\n","path":"../../test262/test/language/global-code/S10.4.1_A1_T1.js"}

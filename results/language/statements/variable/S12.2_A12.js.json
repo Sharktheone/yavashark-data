@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/language/statements/variable/S12.2_A12.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Declaration variable inside \"do-while\" statement is admitted\" }\n    at ../../test262/test/language/statements/variable/S12.2_A12.js:15\n\n","path":"../../test262/test/language/statements/variable/S12.2_A12.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: mustBeTrue is not defined\n    at ../../test262/harness/assert.js:11\n    at assert (../../test262/harness/propertyHelper.js:39)\n    at verifyProperty (../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-599.js:12)\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-599.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-599.js"}

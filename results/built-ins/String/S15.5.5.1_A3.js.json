@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var __str__instance = new String(\"globglob\"); __str__instance.hasOwnProperty(\"length\") return true. Actual: false\" }\n    at ../../test262/test/built-ins/String/S15.5.5.1_A3.js:16\n\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: obj is not defined\n    at ../../test262/test/language/expressions/super/call-spread-obj-override-immutable.js:29\n    at Class (../../test262/test/language/expressions/super/call-spread-obj-override-immutable.js:51)\n\n","path":"../../test262/test/language/expressions/super/call-spread-obj-override-immutable.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/super/call-spread-obj-override-immutable.js"}

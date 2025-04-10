@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: arg is not defined\n    at ../../test262/test/language/statements/function/S13_A4_T2.js:15\n    at __func (../../test262/test/language/statements/function/S13_A4_T2.js:27)\n\n","path":"../../test262/test/language/statements/function/S13_A4_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A4_T2.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A11.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: String.prototype.indexOf.length === 1. Actual: 2\" }\n    at ../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A11.js:21\n\n","path":"../../test262/test/built-ins/String/prototype/indexOf/S15.5.4.7_A11.js"}

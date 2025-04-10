@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js:57\n    at f (../../test262/test/language/statements/function/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js:62)\n\n","path":"../../test262/test/language/statements/function/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js"}

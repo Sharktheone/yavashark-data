@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a is not defined\n    at ../../test262/test/language/rest-parameters/rest-parameters-produce-an-array.js:9\n    at af (../../test262/test/language/rest-parameters/rest-parameters-produce-an-array.js:12)\n\n","path":"../../test262/test/language/rest-parameters/rest-parameters-produce-an-array.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/rest-parameters/rest-parameters-produce-an-array.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/assert.js:37\n    at anonymous (../../test262/test/annexB/built-ins/unescape/two.js:23)\n\n","path":"../../test262/test/annexB/built-ins/unescape/two.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"%00 Expected SameValue(«\"%250%250000\"», «\"%0\\u000000\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/annexB/built-ins/unescape/two.js:23)\n\n","path":"../../test262/test/annexB/built-ins/unescape/two.js"}

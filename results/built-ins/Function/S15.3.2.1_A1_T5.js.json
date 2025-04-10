@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: message is not defined\n    at ../../test262/harness/sta.js:14\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T5.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: test failed with error [object ErrorObj]\" }\n    at ../../test262/test/built-ins/Function/S15.3.2.1_A1_T5.js:24\n\n","path":"../../test262/test/built-ins/Function/S15.3.2.1_A1_T5.js"}

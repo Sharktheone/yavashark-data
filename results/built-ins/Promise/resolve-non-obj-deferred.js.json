@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: _resolve is not defined\n    at ../../test262/test/built-ins/Promise/resolve-non-obj-deferred.js:22\n\n","path":"../../test262/test/built-ins/Promise/resolve-non-obj-deferred.js"}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-non-obj-deferred.js"}
