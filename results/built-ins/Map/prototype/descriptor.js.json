@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"descriptor should not be enumerable; descriptor should not be writable; descriptor should not be configurable\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:123)\n    at verifyProperty (../../test262/test/built-ins/Map/prototype/descriptor.js:12)\n\n","path":"../../test262/test/built-ins/Map/prototype/descriptor.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Map/prototype/descriptor.js"}
