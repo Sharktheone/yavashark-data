@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Symbol(Symbol { inner: Owned(\"\"), id: 1216604185 })\n    at Object (../../test262/test/built-ins/Object/entries/primitive-symbols.js:11)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-symbols.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Symbol(Symbol { inner: Owned(\"\"), id: 1398153136 })\n    at Object (../../test262/test/built-ins/Object/entries/primitive-symbols.js:11)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-symbols.js"}
