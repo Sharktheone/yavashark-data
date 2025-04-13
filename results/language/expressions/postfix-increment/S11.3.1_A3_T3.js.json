@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"-1\",\n)\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T3.js"}

@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    3.0,\n)\nFAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/seal/object-seal-o-is-a-number-object.js:10\n\n","path":"../../test262/test/built-ins/Object/seal/object-seal-o-is-a-number-object.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/seal/object-seal-o-is-a-number-object.js:10\n\n","path":"../../test262/test/built-ins/Object/seal/object-seal-o-is-a-number-object.js"}

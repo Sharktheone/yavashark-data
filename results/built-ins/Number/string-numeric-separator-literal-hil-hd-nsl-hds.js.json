@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"0x0_10\",\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"0X0_10\",\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-hil-hd-nsl-hds.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-hil-hd-nsl-hds.js"}

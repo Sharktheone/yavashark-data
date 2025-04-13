@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    2.0,\n)\nFAIL:\n TypeError: Expected a number, found Object([object NumberObj])\n    at Object (../../test262/test/built-ins/parseInt/S15.1.2.2_A3.1_T5.js:10)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A3.1_T5.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object NumberObj])\n    at Object (../../test262/test/built-ins/parseInt/S15.1.2.2_A3.1_T5.js:10)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A3.1_T5.js"}

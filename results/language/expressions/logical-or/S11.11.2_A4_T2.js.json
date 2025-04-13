@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    -1.0,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    NaN,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    0.0,\n)\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A4_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A4_T2.js"}

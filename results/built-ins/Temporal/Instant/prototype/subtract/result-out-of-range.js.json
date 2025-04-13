@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/subtract/result-out-of-range.js:12\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/subtract/result-out-of-range.js"}
+{"status":"FAIL","msg":"FAIL:\n RangeError: epoch out of range\n    at Object (../../test262/test/built-ins/Temporal/Instant/prototype/subtract/result-out-of-range.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/subtract/result-out-of-range.js"}
