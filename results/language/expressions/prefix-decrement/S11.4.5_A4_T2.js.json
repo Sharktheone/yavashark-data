@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/prefix-decrement/S11.4.5_A4_T2.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    -1.1,\n)\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/prefix-decrement/S11.4.5_A4_T2.js"}

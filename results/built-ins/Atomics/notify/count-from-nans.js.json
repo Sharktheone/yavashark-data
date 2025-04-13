@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-from-nans.js:27\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-from-nans.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"Not-a-Number\",\n)\nFAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-from-nans.js:27\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-from-nans.js"}

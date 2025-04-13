@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S8.12.8_A3.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Object(\n    [object Object],\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S8.12.8_A3.js"}

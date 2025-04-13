@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S15.7.2.1_A1.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    10.0,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    10.0,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    10.0,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    10.0,\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S15.7.2.1_A1.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Number(\n    0.0,\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/join/S15.4.4.5_A2_T2.js"}

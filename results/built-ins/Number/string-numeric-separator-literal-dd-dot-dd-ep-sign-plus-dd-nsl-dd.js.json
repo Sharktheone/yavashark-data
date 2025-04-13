@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-dd-dot-dd-ep-sign-plus-dd-nsl-dd.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"1.0e+1_0\",\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-dd-dot-dd-ep-sign-plus-dd-nsl-dd.js"}

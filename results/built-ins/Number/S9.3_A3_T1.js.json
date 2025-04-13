@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S9.3_A3_T1.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = Boolean(\n    false,\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = Boolean(\n    true,\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S9.3_A3_T1.js"}

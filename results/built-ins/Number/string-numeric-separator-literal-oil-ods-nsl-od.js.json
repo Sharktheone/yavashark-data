@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-oil-ods-nsl-od.js"}
+{"status":"CRASH","msg":"[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"0o01_0\",\n)\n[crates/yavashark_env/src/builtins/number.rs:43:9] val = String(\n    \"0O01_0\",\n)\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Number/string-numeric-separator-literal-oil-ods-nsl-od.js"}
