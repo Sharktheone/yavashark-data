@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/harness/fnGlobalObject.js:9)\n\n","path":"../../test262/test/language/module-code/instn-local-bndng-var.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: test262 is not defined\n    at ../../test262/test/language/module-code/instn-local-bndng-var.js:25\n\n","path":"../../test262/test/language/module-code/instn-local-bndng-var.js"}

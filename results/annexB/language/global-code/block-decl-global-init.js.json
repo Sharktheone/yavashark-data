@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/harness/fnGlobalObject.js:9)\n\n","path":"../../test262/test/annexB/language/global-code/block-decl-global-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/block-decl-global-init.js:20\n\n","path":"../../test262/test/annexB/language/global-code/block-decl-global-init.js"}

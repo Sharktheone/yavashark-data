@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/harness/fnGlobalObject.js:9)\n\n","path":"../../test262/test/language/module-code/eval-self-once.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n\n","path":"../../test262/test/language/module-code/eval-self-once.js"}

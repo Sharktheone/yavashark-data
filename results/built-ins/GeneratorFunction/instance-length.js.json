@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Constructor Function requires 'new'\n    at NativeConstructor (../../test262/test/built-ins/GeneratorFunction/instance-length.js:29)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/instance-length.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'enumerable' of undefined\n    at ../../test262/harness/propertyHelper.js:256\n    at verifyNotEnumerable (../../test262/test/built-ins/GeneratorFunction/instance-length.js:36)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/instance-length.js"}
