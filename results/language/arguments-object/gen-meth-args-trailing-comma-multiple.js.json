@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at method (../../test262/test/language/arguments-object/gen-meth-args-trailing-comma-multiple.js:44)\n\n","path":"../../test262/test/language/arguments-object/gen-meth-args-trailing-comma-multiple.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/arguments-object/gen-meth-args-trailing-comma-multiple.js:44\n\n","path":"../../test262/test/language/arguments-object/gen-meth-args-trailing-comma-multiple.js"}

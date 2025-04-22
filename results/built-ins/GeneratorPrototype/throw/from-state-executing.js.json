@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at g (../../test262/test/built-ins/GeneratorPrototype/throw/from-state-executing.js:43)\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/throw/from-state-executing.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/GeneratorPrototype/throw/from-state-executing.js:48\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/throw/from-state-executing.js"}

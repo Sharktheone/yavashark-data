@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-fn-name-cover.js:61)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-fn-name-cover.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-fn-name-cover.js:61\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-fn-name-cover.js"}

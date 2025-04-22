@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n function anonymous() { [native code] }\n","path":"../../test262/test/built-ins/GeneratorFunction/is-a-constructor.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"this implementation could not obtain %GeneratorFunction%\" }\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:323\n    at getWellKnownIntrinsicObject (../../test262/test/built-ins/GeneratorFunction/is-a-constructor.js:22)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/is-a-constructor.js"}

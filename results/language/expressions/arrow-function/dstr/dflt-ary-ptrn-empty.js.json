@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ArrowFunction (../../test262/test/language/expressions/arrow-function/dstr/dflt-ary-ptrn-empty.js:58)\n\n","path":"../../test262/test/language/expressions/arrow-function/dstr/dflt-ary-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ArrowFunction (../../test262/test/language/expressions/arrow-function/dstr/dflt-ary-ptrn-empty.js:58)\n\n","path":"../../test262/test/language/expressions/arrow-function/dstr/dflt-ary-ptrn-empty.js"}

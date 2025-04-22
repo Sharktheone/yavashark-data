@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elision-exhausted.js:58\n\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elision-exhausted.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elision-exhausted.js:58\n\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elision-exhausted.js"}

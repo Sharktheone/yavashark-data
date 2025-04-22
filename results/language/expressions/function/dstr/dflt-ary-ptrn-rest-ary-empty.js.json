@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at anonymous (../../test262/test/language/expressions/function/dstr/dflt-ary-ptrn-rest-ary-empty.js:72)\n\n","path":"../../test262/test/language/expressions/function/dstr/dflt-ary-ptrn-rest-ary-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at anonymous (../../test262/test/language/expressions/function/dstr/dflt-ary-ptrn-rest-ary-empty.js:72)\n\n","path":"../../test262/test/language/expressions/function/dstr/dflt-ary-ptrn-rest-ary-empty.js"}

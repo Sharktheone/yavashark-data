@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/language/statements/for-of/dstr/var-ary-ptrn-empty.js:49\n\n","path":"../../test262/test/language/statements/for-of/dstr/var-ary-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/dstr/var-ary-ptrn-empty.js:49\n\n","path":"../../test262/test/language/statements/for-of/dstr/var-ary-ptrn-empty.js"}
