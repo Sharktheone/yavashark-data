@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/generators/scope-paramsbody-var-close.js:34\n\n","path":"../../test262/test/language/expressions/generators/scope-paramsbody-var-close.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/expressions/generators/scope-paramsbody-var-close.js:27)\n\n","path":"../../test262/test/language/expressions/generators/scope-paramsbody-var-close.js"}

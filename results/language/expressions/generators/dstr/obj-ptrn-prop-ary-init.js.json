@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Object (../../test262/test/language/expressions/generators/dstr/obj-ptrn-prop-ary-init.js:64)\n\n","path":"../../test262/test/language/expressions/generators/dstr/obj-ptrn-prop-ary-init.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/expressions/generators/dstr/obj-ptrn-prop-ary-init.js:64)\n\n","path":"../../test262/test/language/expressions/generators/dstr/obj-ptrn-prop-ary-init.js"}
