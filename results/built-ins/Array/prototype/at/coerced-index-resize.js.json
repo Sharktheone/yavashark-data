@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'push' of undefined\n    at ../../test262/harness/resizableArrayBufferUtils.js:46\n\n","path":"../../test262/test/built-ins/Array/prototype/at/coerced-index-resize.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/harness/resizableArrayBufferUtils.js:67)\n\n","path":"../../test262/test/built-ins/Array/prototype/at/coerced-index-resize.js"}

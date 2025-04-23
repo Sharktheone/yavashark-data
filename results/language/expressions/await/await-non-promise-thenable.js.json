@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: undefined\n    at ../../test262/test/language/expressions/await/await-non-promise-thenable.js:28\n\n","path":"../../test262/test/language/expressions/await/await-non-promise-thenable.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/await/await-non-promise-thenable.js"}

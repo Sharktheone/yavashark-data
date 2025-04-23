@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'length' of undefined\n    at ../../test262/test/built-ins/Array/prototype/sort/stability-513-elements.js:532\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/stability-513-elements.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/sort/stability-513-elements.js:536\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/stability-513-elements.js"}

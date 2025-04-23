@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'forEach' of undefined\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:298\n\n","path":"../../test262/test/harness/wellKnownIntrinsicObjects.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/wellKnownIntrinsicObjects.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/RelativeTimeFormat/prototype/format/en-us-numbering-systems.js:23\n\n","path":"../../test262/test/intl402/RelativeTimeFormat/prototype/format/en-us-numbering-systems.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/RelativeTimeFormat/prototype/format/en-us-numbering-systems.js:24\n\n","path":"../../test262/test/intl402/RelativeTimeFormat/prototype/format/en-us-numbering-systems.js"}

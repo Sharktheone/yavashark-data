@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'push' of undefined\n    at ../../test262/test/language/expressions/await/await-non-promise.js:40\n\n","path":"../../test262/test/language/expressions/await/await-non-promise.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/await/await-non-promise.js"}

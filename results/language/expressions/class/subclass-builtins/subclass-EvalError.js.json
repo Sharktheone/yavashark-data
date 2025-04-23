@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 343..351, ctxt: #0, sym: \"Subclass\", optional: false }) is not a constructor\n    at ../../test262/test/language/expressions/class/subclass-builtins/subclass-EvalError.js:12\n\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-EvalError.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-EvalError.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/notation-compact-ja-JP.js:76\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/notation-compact-ja-JP.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/formatToParts/notation-compact-ja-JP.js:77\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/formatToParts/notation-compact-ja-JP.js"}

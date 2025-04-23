@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'equals' of undefined\n    at ../../test262/test/intl402/Temporal/PlainDate/prototype/equals/argument-string.js:11\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/equals/argument-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(\"2000-05-02[u-ca=gregory]\")\n    at Object (../../test262/test/intl402/Temporal/PlainDate/prototype/equals/argument-string.js:11)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/equals/argument-string.js"}

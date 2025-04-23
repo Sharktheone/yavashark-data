@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/harness/regExpUtils.js:16)\n    at buildString (../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Nushu.js:16)\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Nushu.js"}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Nushu.js"}

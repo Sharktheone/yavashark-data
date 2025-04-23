@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/subtract/argument-singular-properties.js"}
+{"status":"CRASH","msg":"\nthread 'main' panicked at /rustc/05f9846f893b09a1be1fc8560e33fc3c815cfecb/library/core/src/time.rs:1126:31:\noverflow when subtracting durations\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/subtract/argument-singular-properties.js"}

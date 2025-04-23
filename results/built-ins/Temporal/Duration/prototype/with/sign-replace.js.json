@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'sign' of undefined\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/with/sign-replace.js:12\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/with/sign-replace.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/with/sign-replace.js:13\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/with/sign-replace.js"}

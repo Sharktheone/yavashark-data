@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/NumberFormat/prototype/format/unit-zh-TW.js:63\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/format/unit-zh-TW.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/format/unit-zh-TW.js:65\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/format/unit-zh-TW.js"}
