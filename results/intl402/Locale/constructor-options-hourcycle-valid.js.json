@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Locale/constructor-options-hourcycle-valid.js:49\n\n","path":"../../test262/test/intl402/Locale/constructor-options-hourcycle-valid.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/Locale/constructor-options-hourcycle-valid.js:45\n\n","path":"../../test262/test/intl402/Locale/constructor-options-hourcycle-valid.js"}

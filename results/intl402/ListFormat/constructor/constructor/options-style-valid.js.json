@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/ListFormat/constructor/constructor/options-style-valid.js:30\n\n","path":"../../test262/test/intl402/ListFormat/constructor/constructor/options-style-valid.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/ListFormat/constructor/constructor/options-style-valid.js:29\n\n","path":"../../test262/test/intl402/ListFormat/constructor/constructor/options-style-valid.js"}

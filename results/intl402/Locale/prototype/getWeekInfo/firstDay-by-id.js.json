@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Locale/prototype/getWeekInfo/firstDay-by-id.js:26\n\n","path":"../../test262/test/intl402/Locale/prototype/getWeekInfo/firstDay-by-id.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/Locale/prototype/getWeekInfo/firstDay-by-id.js:25\n\n","path":"../../test262/test/intl402/Locale/prototype/getWeekInfo/firstDay-by-id.js"}

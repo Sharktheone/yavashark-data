@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/language/statements/let/dstr/ary-ptrn-rest-ary-rest.js:34\n\n","path":"../../test262/test/language/statements/let/dstr/ary-ptrn-rest-ary-rest.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«1», «3») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/let/dstr/ary-ptrn-rest-ary-rest.js:37)\n\n","path":"../../test262/test/language/statements/let/dstr/ary-ptrn-rest-ary-rest.js"}

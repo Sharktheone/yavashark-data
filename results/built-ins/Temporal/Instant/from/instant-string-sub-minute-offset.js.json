@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/built-ins/Temporal/Instant/from/instant-string-sub-minute-offset.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/instant-string-sub-minute-offset.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Undefined\n    at Object (../../test262/test/built-ins/Temporal/Instant/from/instant-string-sub-minute-offset.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/instant-string-sub-minute-offset.js"}

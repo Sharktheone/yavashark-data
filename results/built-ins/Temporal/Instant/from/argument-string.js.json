@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/built-ins/Temporal/Instant/from/argument-string.js:75)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/argument-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Temporal/Instant/from/argument-string.js:74\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/argument-string.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/equals/calendar-is-compared.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'equals' of undefined\n    at ../../test262/test/intl402/Temporal/PlainDate/prototype/equals/calendar-is-compared.js:12\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/equals/calendar-is-compared.js"}

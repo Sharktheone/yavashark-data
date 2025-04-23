@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/language/statements/for/dstr/let-ary-ptrn-elem-ary-empty-init.js:57\n\n","path":"../../test262/test/language/statements/for/dstr/let-ary-ptrn-elem-ary-empty-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for/dstr/let-ary-ptrn-elem-ary-empty-init.js:57\n\n","path":"../../test262/test/language/statements/for/dstr/let-ary-ptrn-elem-ary-empty-init.js"}

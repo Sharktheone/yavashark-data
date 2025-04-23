@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/language/statements/for/dstr/const-obj-ptrn-prop-id.js:48\n\n","path":"../../test262/test/language/statements/for/dstr/const-obj-ptrn-prop-id.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot destructure null or undefined\n    at ../../test262/test/language/statements/for/dstr/const-obj-ptrn-prop-id.js:48\n\n","path":"../../test262/test/language/statements/for/dstr/const-obj-ptrn-prop-id.js"}

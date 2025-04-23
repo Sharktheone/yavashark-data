@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js:33\n\n","path":"../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'push' of undefined\n    at ../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js:18\n\n","path":"../../test262/test/intl402/Segmenter/constructor/constructor/options-valid-combinations.js"}

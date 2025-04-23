@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-minus-sign.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'forEach' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-minus-sign.js:15\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-minus-sign.js"}

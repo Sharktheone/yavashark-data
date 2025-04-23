@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/seconds-undefined.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Temporal/Duration/seconds-undefined.js:13\n\n","path":"../../test262/test/built-ins/Temporal/Duration/seconds-undefined.js"}

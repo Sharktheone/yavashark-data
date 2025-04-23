@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid value for Duration\n    at Object (../../test262/test/built-ins/Temporal/Duration/prototype/add/argument-duration-max.js:24)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/add/argument-duration-max.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/add/argument-duration-max.js:23\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/add/argument-duration-max.js"}

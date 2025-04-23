@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/intl402/NumberFormat/constructor-locales-get-tostring.js:37\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-locales-get-tostring.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/intl402/NumberFormat/constructor-locales-get-tostring.js:28)\n\n","path":"../../test262/test/intl402/NumberFormat/constructor-locales-get-tostring.js"}

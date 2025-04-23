@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/equals/cross-epoch.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'equals' of undefined\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/equals/cross-epoch.js:15\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/equals/cross-epoch.js"}

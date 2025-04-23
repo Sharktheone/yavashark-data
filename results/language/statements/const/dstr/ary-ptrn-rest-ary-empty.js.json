@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/language/statements/const/dstr/ary-ptrn-rest-ary-empty.js:44\n\n","path":"../../test262/test/language/statements/const/dstr/ary-ptrn-rest-ary-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/language/statements/const/dstr/ary-ptrn-rest-ary-empty.js:44\n\n","path":"../../test262/test/language/statements/const/dstr/ary-ptrn-rest-ary-empty.js"}

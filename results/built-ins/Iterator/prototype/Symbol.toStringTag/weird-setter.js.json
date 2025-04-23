@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/built-ins/Iterator/prototype/Symbol.toStringTag/weird-setter.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/Symbol.toStringTag/weird-setter.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/Symbol.toStringTag/weird-setter.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/Symbol.toStringTag/weird-setter.js"}

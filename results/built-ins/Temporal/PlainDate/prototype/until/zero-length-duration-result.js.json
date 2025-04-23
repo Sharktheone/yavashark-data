@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/until/zero-length-duration-result.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'until' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainDate/prototype/until/zero-length-duration-result.js:14\n    at Object (../../test262/test/built-ins/Temporal/PlainDate/prototype/until/zero-length-duration-result.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/until/zero-length-duration-result.js"}

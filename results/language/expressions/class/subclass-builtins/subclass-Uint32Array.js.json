@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-Uint32Array.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Ident(Ident { span: 387..395, ctxt: #0, sym: \"Subclass\", optional: false }) is not a constructor\n    at ../../test262/test/language/expressions/class/subclass-builtins/subclass-Uint32Array.js:13\n\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-Uint32Array.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/compare-array-arguments.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/harness/compare-array-arguments.js:38\n\n","path":"../../test262/test/harness/compare-array-arguments.js"}

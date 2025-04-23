@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n function anonymous() { [native code] }\n","path":"../../test262/test/built-ins/AsyncGeneratorFunction/is-a-constructor.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'forEach' of undefined\n    at ../../test262/harness/wellKnownIntrinsicObjects.js:298\n\n","path":"../../test262/test/built-ins/AsyncGeneratorFunction/is-a-constructor.js"}

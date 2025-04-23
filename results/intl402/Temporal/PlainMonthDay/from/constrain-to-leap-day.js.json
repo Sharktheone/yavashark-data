@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/intl402/Temporal/PlainMonthDay/from/constrain-to-leap-day.js:29\n\n","path":"../../test262/test/intl402/Temporal/PlainMonthDay/from/constrain-to-leap-day.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/intl402/Temporal/PlainMonthDay/from/constrain-to-leap-day.js:28\n\n","path":"../../test262/test/intl402/Temporal/PlainMonthDay/from/constrain-to-leap-day.js"}

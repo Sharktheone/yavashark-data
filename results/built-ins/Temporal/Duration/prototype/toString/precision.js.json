@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/toString/precision.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/toString/precision.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot destructure null or undefined\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/toString/precision.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/toString/precision.js"}

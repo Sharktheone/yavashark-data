@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/sqrt/results.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'length' of undefined\n    at ../../test262/test/built-ins/Math/sqrt/results.js:1018\n\n","path":"../../test262/test/built-ins/Math/sqrt/results.js"}
