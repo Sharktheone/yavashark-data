@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/for/dstr/var-ary-ptrn-elision-exhausted.js:50\n\n","path":"../../test262/test/language/statements/for/dstr/var-ary-ptrn-elision-exhausted.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Pattern is not an identifier\n    at ../../test262/test/language/statements/for/dstr/var-ary-ptrn-elision-exhausted.js:54\n\n","path":"../../test262/test/language/statements/for/dstr/var-ary-ptrn-elision-exhausted.js"}

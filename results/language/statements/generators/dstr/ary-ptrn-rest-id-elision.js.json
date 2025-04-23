@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/generators/dstr/ary-ptrn-rest-id-elision.js:62\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-rest-id-elision.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Object (../../test262/test/language/statements/generators/dstr/ary-ptrn-rest-id-elision.js:62)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-rest-id-elision.js"}

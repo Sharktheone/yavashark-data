@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/generators/dstr/obj-ptrn-id-init-fn-name-cover.js:60\n\n","path":"../../test262/test/language/statements/generators/dstr/obj-ptrn-id-init-fn-name-cover.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Object (../../test262/test/language/statements/generators/dstr/obj-ptrn-id-init-fn-name-cover.js:60)\n\n","path":"../../test262/test/language/statements/generators/dstr/obj-ptrn-id-init-fn-name-cover.js"}

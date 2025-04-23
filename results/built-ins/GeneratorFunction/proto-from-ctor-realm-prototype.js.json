@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/built-ins/GeneratorFunction/proto-from-ctor-realm-prototype.js:43)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/proto-from-ctor-realm-prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at Object (../../test262/test/built-ins/GeneratorFunction/proto-from-ctor-realm-prototype.js:43)\n\n","path":"../../test262/test/built-ins/GeneratorFunction/proto-from-ctor-realm-prototype.js"}

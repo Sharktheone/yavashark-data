@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-rest-id.js:61\n\n","path":"../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-rest-id.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Object (../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-rest-id.js:61)\n\n","path":"../../test262/test/language/expressions/generators/dstr/dflt-ary-ptrn-rest-id.js"}

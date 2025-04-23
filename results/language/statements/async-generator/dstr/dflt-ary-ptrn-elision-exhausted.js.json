@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/async-generator/dstr/dflt-ary-ptrn-elision-exhausted.js:37\n\n","path":"../../test262/test/language/statements/async-generator/dstr/dflt-ary-ptrn-elision-exhausted.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/async-generator/dstr/dflt-ary-ptrn-elision-exhausted.js:45)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/dflt-ary-ptrn-elision-exhausted.js"}
