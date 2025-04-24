@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/parseInt/S15.1.2.2_A9.1.js:11)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.1.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of parseInt.length is 2 Expected SameValue(«0», «2») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js:11)\n\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A9.3.js"}

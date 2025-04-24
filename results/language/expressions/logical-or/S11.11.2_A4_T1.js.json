@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A4_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#5: (var x = new Boolean(false); (x || new Boolean(true)) === x\" }\n    at ../../test262/test/language/expressions/logical-or/S11.11.2_A4_T1.js:37\n\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A4_T1.js"}

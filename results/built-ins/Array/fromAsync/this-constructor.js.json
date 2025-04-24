@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_compiler/src/compiler/statement/expr/array.rs:12:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Array/fromAsync/this-constructor.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/this-constructor.js"}

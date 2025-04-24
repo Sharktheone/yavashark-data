@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Number/parseInt.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«function parseInt() { [native code] }», «function parseInt() { [native code] }») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Number/parseInt.js:23)\n\n","path":"../../test262/test/built-ins/Number/parseInt.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-not/S9.2_A6_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: !(new String(\"\")) === false. Actual: true\" }\n    at ../../test262/test/language/expressions/logical-not/S9.2_A6_T2.js:17\n\n","path":"../../test262/test/language/expressions/logical-not/S9.2_A6_T2.js"}

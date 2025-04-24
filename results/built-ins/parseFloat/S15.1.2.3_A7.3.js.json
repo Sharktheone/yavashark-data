@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.3.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'writable' of undefined\n    at ../../test262/harness/propertyHelper.js:233\n    at verifyNotWritable (../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.3.js:13)\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.3.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: new\\u0009Number == 0\" }\n    at ../../test262/test/language/expressions/new/S11.2.2_A1.1.js:14\n\n","path":"../../test262/test/language/expressions/new/S11.2.2_A1.1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/new/S11.2.2_A1.1.js"}
