@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«true», «false») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/expressions/yield/iter-value-unspecified.js:18)\n\n","path":"../../test262/test/language/expressions/yield/iter-value-unspecified.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid stack index\n    at Object (../../test262/test/language/expressions/yield/iter-value-unspecified.js:16)\n\n","path":"../../test262/test/language/expressions/yield/iter-value-unspecified.js"}

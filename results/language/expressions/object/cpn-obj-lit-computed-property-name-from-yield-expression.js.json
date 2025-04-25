@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/cpn-obj-lit-computed-property-name-from-yield-expression.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: 9 does not exist on object\n    at Object (../../test262/test/language/expressions/object/cpn-obj-lit-computed-property-name-from-yield-expression.js:43)\n\n","path":"../../test262/test/language/expressions/object/cpn-obj-lit-computed-property-name-from-yield-expression.js"}
