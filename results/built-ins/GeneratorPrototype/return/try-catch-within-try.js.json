@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Object (../../test262/test/built-ins/GeneratorPrototype/return/try-catch-within-try.js:27)\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/return/try-catch-within-try.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/GeneratorPrototype/return/try-catch-within-try.js:31\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/return/try-catch-within-try.js"}
