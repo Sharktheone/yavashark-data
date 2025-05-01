@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __func('A') === 1. Actual: __func('A') ===undefined\" }\n    at ../../test262/test/language/statements/function/S13_A8_T1.js:20\n\n","path":"../../test262/test/language/statements/function/S13_A8_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A8_T1.js"}

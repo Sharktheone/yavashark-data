@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: function __mFunc(){return arguments.length;}; __mFunc([,,]) === 1. Actual: undefined\" }\n    at ../../test262/test/language/types/list/S8.8_A2_T2.js:14\n\n","path":"../../test262/test/language/types/list/S8.8_A2_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/list/S8.8_A2_T2.js"}
