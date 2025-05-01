@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/finally/resolution-value-no-override.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Object]\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/finally/resolution-value-no-override.js"}

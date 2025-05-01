@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T10.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of obj[\"shifted\"] is expected to be \"42\" Expected SameValue(«NaN», «\"42\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T10.js:20)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T10.js"}

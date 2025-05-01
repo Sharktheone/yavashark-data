@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/call/S11.2.4_A1.2_T1.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: f_arg = function()() {return arguments;} f_arg(1,2,3).length === 3. Actual: undefined\" }\n    at ../../test262/test/language/expressions/call/S11.2.4_A1.2_T1.js:16\n\n","path":"../../test262/test/language/expressions/call/S11.2.4_A1.2_T1.js"}

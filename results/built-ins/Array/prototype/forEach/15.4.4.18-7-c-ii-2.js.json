@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"parCnt Expected SameValue(«undefined», «3») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-2.js:23)\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-2.js"}

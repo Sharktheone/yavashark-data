@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Reflect/apply/call-target.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Called target with 4 arguments Expected SameValue(«undefined», «4») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Reflect/apply/call-target.js:32)\n\n","path":"../../test262/test/built-ins/Reflect/apply/call-target.js"}

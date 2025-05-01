@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-11.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"newFunc(1) !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-11.js:21)\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-11.js"}
