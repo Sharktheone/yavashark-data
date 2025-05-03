@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' has not an object as constructor\n    at ../../test262/test/language/expressions/instanceof/prototype-getter-with-object.js:44\n\n","path":"../../test262/test/language/expressions/instanceof/prototype-getter-with-object.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/instanceof/prototype-getter-with-object.js"}
