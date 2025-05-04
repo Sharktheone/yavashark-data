@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/Array/from/iter-set-length.js:34)\n\n","path":"../../test262/test/built-ins/Array/from/iter-set-length.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: value does not exist on object\n    at Object (../../test262/test/built-ins/Array/from/iter-set-length.js:44)\n\n","path":"../../test262/test/built-ins/Array/from/iter-set-length.js"}

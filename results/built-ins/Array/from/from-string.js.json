@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at Object (../../test262/test/built-ins/Array/from/from-string.js:11)\n\n","path":"../../test262/test/built-ins/Array/from/from-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at Object (../../test262/test/built-ins/Array/from/from-string.js:11)\n\n","path":"../../test262/test/built-ins/Array/from/from-string.js"}
