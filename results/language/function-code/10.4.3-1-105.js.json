@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/10.4.3-1-105.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"typeof (5).x Expected SameValue(«\"number\"», «\"object\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/function-code/10.4.3-1-105.js:18)\n\n","path":"../../test262/test/language/function-code/10.4.3-1-105.js"}

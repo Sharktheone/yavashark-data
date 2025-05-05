@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T2.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __str = new String(); typeof __str === \"object\". Actual: typeof __str ===string\" }\n    at ../../test262/test/built-ins/String/S15.5.2.1_A1_T2.js:17\n\n","path":"../../test262/test/built-ins/String/S15.5.2.1_A1_T2.js"}
