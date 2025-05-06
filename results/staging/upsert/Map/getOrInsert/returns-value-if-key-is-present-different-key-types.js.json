@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/upsert/Map/getOrInsert/returns-value-if-key-is-present-different-key-types.js:21\n\n","path":"../../test262/test/staging/upsert/Map/getOrInsert/returns-value-if-key-is-present-different-key-types.js"}
