@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: cannot add BigInt and Number\n    at ../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js"}
