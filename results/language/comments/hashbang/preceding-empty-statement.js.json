@@ -1,1 +1,1 @@
-{"status":"PARSE_ERROR","msg":"PARSE_ERROR:\nError { error: (2..3, ExpectedIdent) }\n\nthread 'main' panicked at crates/yavashark_test262/src/utils.rs:80:13:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/comments/hashbang/preceding-empty-statement.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/comments/hashbang/preceding-empty-statement.js"}
