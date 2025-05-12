@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#2: delete parseFloat.length; parseFloat.hasOwnProperty('length') === false. Actual: true\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.2.js:19\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A7.2.js"}
