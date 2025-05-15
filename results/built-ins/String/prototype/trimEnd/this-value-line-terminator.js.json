@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(\"\\n\\r\\u{2028}\\u{2029}a\\n\\r\\u{2028}\\u{2029}b\\n\\r\\u{2028}\\u{2029}\")\n    at Object (../../test262/test/built-ins/String/prototype/trimEnd/this-value-line-terminator.js:28)\n\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-line-terminator.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-line-terminator.js"}
