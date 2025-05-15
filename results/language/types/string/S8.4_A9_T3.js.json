@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#4: types of str=\"\"; and strObj=new String(\"\"); are different\" }\n    at ../../test262/test/language/types/string/S8.4_A9_T3.js:40\n\n","path":"../../test262/test/language/types/string/S8.4_A9_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/types/string/S8.4_A9_T3.js"}

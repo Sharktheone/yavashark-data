@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of `typeof obj` is expected to be \"object\" Expected SameValue(«\"number\"», «\"object\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/S15.2.1.1_A3_T3.js:15)\n\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A3_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A3_T3.js"}
