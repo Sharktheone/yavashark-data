@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"newArr[0] Expected SameValue(«undefined», «11») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-5-12.js:19)\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-5-12.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/filter/15.4.4.20-5-12.js"}

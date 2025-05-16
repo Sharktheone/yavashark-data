@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"firstResult !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Array/prototype/some/15.4.4.17-7-c-i-26.js:32)\n\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-7-c-i-26.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-7-c-i-26.js"}
