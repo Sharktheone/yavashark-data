@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at eval:0\n    at Object (../../test262/test/language/eval-code/direct/var-env-func-init-global-new.js:33)\n\n","path":"../../test262/test/language/eval-code/direct/var-env-func-init-global-new.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/var-env-func-init-global-new.js"}

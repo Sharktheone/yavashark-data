@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a function\n    at Arguments (../../test262/test/annexB/language/function-code/block-decl-func-skip-arguments.js:30)\n    at anonymous (../../test262/test/annexB/language/function-code/block-decl-func-skip-arguments.js:27)\n\n","path":"../../test262/test/annexB/language/function-code/block-decl-func-skip-arguments.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/function-code/block-decl-func-skip-arguments.js"}

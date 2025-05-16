@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#0: result === undefined. Actual:  result ===myObj_value\" }\n    at ../../test262/test/language/statements/with/S12.10_A1.8_T5.js:72\n\n","path":"../../test262/test/language/statements/with/S12.10_A1.8_T5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/with/S12.10_A1.8_T5.js"}

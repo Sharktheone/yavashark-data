@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.2: func should throw a TypeError  Actual: [object ErrorObj]\" }\n    at ../../test262/test/language/statements/function/S13_A17_T2.js:21\n\n","path":"../../test262/test/language/statements/function/S13_A17_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A17_T2.js"}

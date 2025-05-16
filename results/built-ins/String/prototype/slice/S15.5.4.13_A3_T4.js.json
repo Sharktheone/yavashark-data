@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: __FACTORY is not defined\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A3_T4.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A3_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __instance.slice(0,100) === \"undefined\". Actual: [object Object]\" }\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A3_T4.js:21\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A3_T4.js"}

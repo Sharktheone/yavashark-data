@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: __in__do__IN__after__break is not defined\n    at ../../test262/test/language/statements/do-while/S12.6.1_A4_T3.js:24\n\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A4_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A4_T3.js"}

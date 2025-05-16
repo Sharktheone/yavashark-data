@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: __instance is not defined\n    at ../../test262/test/built-ins/RegExp/prototype/test/S15.10.6.3_A2_T3.js:12\n\n","path":"../../test262/test/built-ins/RegExp/prototype/test/S15.10.6.3_A2_T3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/prototype/test/S15.10.6.3_A2_T3.js"}

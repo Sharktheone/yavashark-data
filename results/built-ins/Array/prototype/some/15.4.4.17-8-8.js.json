@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/built-ins/Array/prototype/some/15.4.4.17-8-8.js:11\n\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-8-8.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-8-8.js"}

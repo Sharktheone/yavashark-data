@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Function call can appears in the program before the FunctionDeclaration appears\" }\n    at ../../test262/test/language/statements/function/S13_A6_T2.js:17\n\n","path":"../../test262/test/language/statements/function/S13_A6_T2.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A6_T2.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: __func is not defined\n    at ../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A1_T5.js:13\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A1_T5.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object __func])\n    at Object (../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A1_T5.js:25)\n\n","path":"../../test262/test/built-ins/String/prototype/slice/S15.5.4.13_A1_T5.js"}
