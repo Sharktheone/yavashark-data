@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/throw/S12.13_A3_T4.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.3: Exception[3]===mycars2[0](operation .concat). Actual:  Exception[3]===Mercedes, Jeep, Suzuki\" }\n    at ../../test262/test/language/statements/throw/S12.13_A3_T4.js:29\n\n","path":"../../test262/test/language/statements/throw/S12.13_A3_T4.js"}

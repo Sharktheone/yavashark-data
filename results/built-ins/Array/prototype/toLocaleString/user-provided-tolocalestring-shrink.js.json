@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/harness/resizableArrayBufferUtils.js:67)\n\n","path":"../../test262/test/built-ins/Array/prototype/toLocaleString/user-provided-tolocalestring-shrink.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at Object (../../test262/test/built-ins/Array/prototype/toLocaleString/user-provided-tolocalestring-shrink.js:54)\n\n","path":"../../test262/test/built-ins/Array/prototype/toLocaleString/user-provided-tolocalestring-shrink.js"}

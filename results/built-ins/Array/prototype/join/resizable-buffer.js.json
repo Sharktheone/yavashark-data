@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at Object (../../test262/harness/resizableArrayBufferUtils.js:67)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"\"», «\"0,2,4,6\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js:32)\n\n","path":"../../test262/test/built-ins/Array/prototype/join/resizable-buffer.js"}
