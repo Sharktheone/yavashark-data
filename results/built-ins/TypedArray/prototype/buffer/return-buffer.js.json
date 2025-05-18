@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not a constructor\n    at ../../test262/test/built-ins/TypedArray/prototype/buffer/return-buffer.js:19\n    at anonymous (../../test262/harness/testTypedArray.js:70)\n    at testWithTypedArrayConstructors (../../test262/test/built-ins/TypedArray/prototype/buffer/return-buffer.js:17)\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/buffer/return-buffer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArray/prototype/buffer/return-buffer.js"}
