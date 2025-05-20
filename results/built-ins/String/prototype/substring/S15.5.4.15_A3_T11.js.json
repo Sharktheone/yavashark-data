@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object BooleanObj])\n    at Object (../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A3_T11.js:20)\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A3_T11.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object()\n    at Object (../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A3_T11.js:20)\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A3_T11.js"}

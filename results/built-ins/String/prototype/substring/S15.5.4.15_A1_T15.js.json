@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object NumberObj])\n    at Object (../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A1_T15.js:19)\n\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A1_T15.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/substring/S15.5.4.15_A1_T15.js"}
