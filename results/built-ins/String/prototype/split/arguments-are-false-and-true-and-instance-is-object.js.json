@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/split/arguments-are-false-and-true-and-instance-is-object.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object BooleanObj])\n    at Object (../../test262/test/built-ins/String/prototype/split/arguments-are-false-and-true-and-instance-is-object.js:19)\n\n","path":"../../test262/test/built-ins/String/prototype/split/arguments-are-false-and-true-and-instance-is-object.js"}

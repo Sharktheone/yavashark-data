@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/split/instance-is-math.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Math])\n    at Object (../../test262/test/built-ins/String/prototype/split/instance-is-math.js:17)\n\n","path":"../../test262/test/built-ins/String/prototype/split/instance-is-math.js"}

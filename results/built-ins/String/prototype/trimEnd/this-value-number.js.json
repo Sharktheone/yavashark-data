@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-number.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Number(NaN)\n    at Object (../../test262/test/built-ins/String/prototype/trimEnd/this-value-number.js:20)\n\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-number.js"}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trimStart/this-value-boolean.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Boolean(true)\n    at Object (../../test262/test/built-ins/String/prototype/trimStart/this-value-boolean.js:22)\n\n","path":"../../test262/test/built-ins/String/prototype/trimStart/this-value-boolean.js"}
