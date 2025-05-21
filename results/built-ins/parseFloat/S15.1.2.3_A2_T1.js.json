@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: parseFloat(\"\\u00091.1\") === parseFloat(\"1.1\"). Actual: NaN\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A2_T1.js:12\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A2_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A2_T1.js"}
