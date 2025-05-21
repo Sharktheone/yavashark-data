@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: parseFloat(\"-11.string\") === -11. Actual: NaN\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T5.js:14\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T5.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#5: parseFloat(\"-11.e-1string\") === -1.1. Actual: -11\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T5.js:34\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A4_T5.js"}
