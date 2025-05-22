@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: null\n    at eval:0\n    at Object (../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T7.js:15)\n    at anonymous (../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T7.js:14)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T7.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/apply/S15.3.4.3_A7_T7.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: BoundFunction is not a constructor\n    at ../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A5.js:13\n    at construct (../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A5.js:15)\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/S15.3.4.5_A5.js"}
