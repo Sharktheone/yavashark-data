@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Number(\"0x8\") must return 8 Expected SameValue(«NaN», «8») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Number/S9.3.1_A24.js:10)\n\n","path":"../../test262/test/built-ins/Number/S9.3.1_A24.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Number/S9.3.1_A24.js"}
