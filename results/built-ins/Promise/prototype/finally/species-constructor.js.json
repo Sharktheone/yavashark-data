@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object of type \"FooPromise\", found \"yavashark_env::builtins::promise::Promise\"\n    at Object (../../test262/test/built-ins/Promise/prototype/finally/species-constructor.js:20)\n\n","path":"../../test262/test/built-ins/Promise/prototype/finally/species-constructor.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/finally/species-constructor.js"}
