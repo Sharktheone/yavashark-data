@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_compiler/src/compiler/statement/for_of.rs:6:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/staging/sm/RegExp/regress-613820-1.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    (\\2(a)){2}\n     ^^\nerror: backreferences are not supported\n    at ../../test262/test/staging/sm/RegExp/regress-613820-1.js:12\n\n","path":"../../test262/test/staging/sm/RegExp/regress-613820-1.js"}

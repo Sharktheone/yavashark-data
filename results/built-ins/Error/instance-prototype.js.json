@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Error/instance-prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/instance-prototype.js:17)\n\n","path":"../../test262/test/built-ins/Error/instance-prototype.js"}

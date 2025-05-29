@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Error/internal-prototype.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/internal-prototype.js:11)\n\n","path":"../../test262/test/built-ins/Error/internal-prototype.js"}
