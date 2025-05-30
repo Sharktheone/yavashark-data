@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid value for Duration\n    at Object (../../test262/test/built-ins/Temporal/Duration/from/argument-string-fractional-units-rounding-mode.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/from/argument-string-fractional-units-rounding-mode.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/from/argument-string-fractional-units-rounding-mode.js"}
