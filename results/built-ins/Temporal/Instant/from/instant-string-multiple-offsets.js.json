@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/built-ins/Temporal/Instant/from/instant-string-multiple-offsets.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/from/instant-string-multiple-offsets.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/from/instant-string-multiple-offsets.js"}

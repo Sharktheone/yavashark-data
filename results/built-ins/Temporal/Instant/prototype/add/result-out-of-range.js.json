@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: epoch out of range\n    at Object (../../test262/test/built-ins/Temporal/Instant/prototype/add/result-out-of-range.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/result-out-of-range.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/result-out-of-range.js"}

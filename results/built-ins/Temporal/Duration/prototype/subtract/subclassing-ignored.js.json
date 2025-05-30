@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' panicked at /rustc/17067e9ac6d7ecb70e50f92c1944e545188d2359/library/core/src/time.rs:1126:31:\noverflow when subtracting durations\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/subtract/subclassing-ignored.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/subtract/subclassing-ignored.js"}
