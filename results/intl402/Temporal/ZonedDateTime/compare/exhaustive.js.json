@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'compare' of undefined\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/compare/exhaustive.js:15\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/compare/exhaustive.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/ZonedDateTime/compare/exhaustive.js"}

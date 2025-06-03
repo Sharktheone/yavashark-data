@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/staging/explicit-resource-management/disposable-stack-use-and-dispose.js:15\n    at TestDisposableStackUsewithNull (../../test262/test/staging/explicit-resource-management/disposable-stack-use-and-dispose.js:14)\n\n","path":"../../test262/test/staging/explicit-resource-management/disposable-stack-use-and-dispose.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/explicit-resource-management/disposable-stack-use-and-dispose.js"}

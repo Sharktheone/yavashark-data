@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js:21\n    at Object (../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js:20)\n\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatToParts/offset-timezone-correct.js"}

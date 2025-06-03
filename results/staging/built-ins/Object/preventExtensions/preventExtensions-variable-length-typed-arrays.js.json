@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/staging/built-ins/Object/preventExtensions/preventExtensions-variable-length-typed-arrays.js:34\n\n","path":"../../test262/test/staging/built-ins/Object/preventExtensions/preventExtensions-variable-length-typed-arrays.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/built-ins/Object/preventExtensions/preventExtensions-variable-length-typed-arrays.js"}

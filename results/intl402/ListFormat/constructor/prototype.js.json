@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/ListFormat/constructor/prototype.js:13\n\n","path":"../../test262/test/intl402/ListFormat/constructor/prototype.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/ListFormat/constructor/prototype.js"}

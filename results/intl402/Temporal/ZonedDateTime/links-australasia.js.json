@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 674..696, obj: Ident(Ident { span: 674..682, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 683..696, sym: \"ZonedDateTime\" }) }) is not a constructor\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/links-australasia.js:18\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/links-australasia.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/ZonedDateTime/links-australasia.js"}

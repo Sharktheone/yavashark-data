@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 393..415, obj: Ident(Ident { span: 393..401, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 402..415, sym: \"ZonedDateTime\" }) }) is not a constructor\n    at ../../test262/test/intl402/Temporal/ZonedDateTime/prototype/since/sub-minute-offset.js:12\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/since/sub-minute-offset.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/since/sub-minute-offset.js"}

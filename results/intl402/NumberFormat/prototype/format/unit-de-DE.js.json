@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/format/unit-de-DE.js:65\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/format/unit-de-DE.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/NumberFormat/prototype/format/unit-de-DE.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Instant nanoseconds are not within a valid epoch range.\n    at ../../test262/test/intl402/Temporal/Instant/prototype/toLocaleString/default-includes-time-not-time-zone-name.js:11\n\n","path":"../../test262/test/intl402/Temporal/Instant/prototype/toLocaleString/default-includes-time-not-time-zone-name.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/Instant/prototype/toLocaleString/default-includes-time-not-time-zone-name.js"}

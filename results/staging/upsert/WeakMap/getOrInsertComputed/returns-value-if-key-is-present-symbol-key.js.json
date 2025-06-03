@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/returns-value-if-key-is-present-symbol-key.js:22\n\n","path":"../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/returns-value-if-key-is-present-symbol-key.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/returns-value-if-key-is-present-symbol-key.js"}

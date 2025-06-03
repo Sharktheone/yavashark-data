@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid unit for Duration.total\n    at Object (../../test262/test/intl402/Temporal/Duration/prototype/total/relativeto-sub-minute-offset.js:15)\n    at ArrowFunction (../../test262/test/intl402/Temporal/Duration/prototype/total/relativeto-sub-minute-offset.js:18)\n\n","path":"../../test262/test/intl402/Temporal/Duration/prototype/total/relativeto-sub-minute-offset.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/Duration/prototype/total/relativeto-sub-minute-offset.js"}

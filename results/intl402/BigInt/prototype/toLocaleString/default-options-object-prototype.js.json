@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at Object (../../test262/test/intl402/BigInt/prototype/toLocaleString/default-options-object-prototype.js:20)\n\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/default-options-object-prototype.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/default-options-object-prototype.js"}

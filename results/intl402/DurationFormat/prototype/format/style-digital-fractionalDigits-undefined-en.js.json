@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DurationFormat/prototype/format/style-digital-fractionalDigits-undefined-en.js:69\n\n","path":"../../test262/test/intl402/DurationFormat/prototype/format/style-digital-fractionalDigits-undefined-en.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DurationFormat/prototype/format/style-digital-fractionalDigits-undefined-en.js"}

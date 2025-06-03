@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/RelativeTimeFormat/prototype/format/pl-pl-style-narrow.js:43\n\n","path":"../../test262/test/intl402/RelativeTimeFormat/prototype/format/pl-pl-style-narrow.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/RelativeTimeFormat/prototype/format/pl-pl-style-narrow.js"}

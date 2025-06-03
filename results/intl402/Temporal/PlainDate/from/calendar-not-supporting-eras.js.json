@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/intl402/Temporal/PlainDate/from/calendar-not-supporting-eras.js:11)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/from/calendar-not-supporting-eras.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/PlainDate/from/calendar-not-supporting-eras.js"}

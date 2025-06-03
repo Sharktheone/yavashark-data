@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «0») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/staging/built-ins/Object/seal/seal-variable-length-typed-arrays.js:46)\n\n","path":"../../test262/test/staging/built-ins/Object/seal/seal-variable-length-typed-arrays.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/built-ins/Object/seal/seal-variable-length-typed-arrays.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/NumberFormat/prototype/format/useGrouping-extended-en-US.js:14\n\n","path":"../../test262/test/intl402/NumberFormat/prototype/format/useGrouping-extended-en-US.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/NumberFormat/prototype/format/useGrouping-extended-en-US.js"}

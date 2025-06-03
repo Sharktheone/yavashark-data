@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DateTimeFormat/prototype/resolvedOptions/resolved-locale-with-hc-unicode.js:32\n\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/resolvedOptions/resolved-locale-with-hc-unicode.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DateTimeFormat/prototype/resolvedOptions/resolved-locale-with-hc-unicode.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid unit for Duration.total\n    at Object (../../test262/test/staging/Temporal/Duration/old/balances-differently-depending-on-relativeto.js:13)\n\n","path":"../../test262/test/staging/Temporal/Duration/old/balances-differently-depending-on-relativeto.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/Temporal/Duration/old/balances-differently-depending-on-relativeto.js"}

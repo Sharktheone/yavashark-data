@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/ListFormat/prototype/format/en-us-short.js:40\n\n","path":"../../test262/test/intl402/ListFormat/prototype/format/en-us-short.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/ListFormat/prototype/format/en-us-short.js"}

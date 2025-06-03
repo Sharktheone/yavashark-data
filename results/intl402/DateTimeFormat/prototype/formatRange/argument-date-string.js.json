@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/DateTimeFormat/prototype/formatRange/argument-date-string.js:25\n\n","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatRange/argument-date-string.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DateTimeFormat/prototype/formatRange/argument-date-string.js"}

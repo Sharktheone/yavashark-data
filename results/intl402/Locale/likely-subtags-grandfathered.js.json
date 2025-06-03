@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a RangeError but got a ReferenceError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/intl402/Locale/likely-subtags-grandfathered.js:60)\n\n","path":"../../test262/test/intl402/Locale/likely-subtags-grandfathered.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Locale/likely-subtags-grandfathered.js"}

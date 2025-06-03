@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    (z\\1){3}\n      ^^\nerror: backreferences are not supported\n    at ../../test262/test/staging/sm/RegExp/regress-576828.js:11\n\n","path":"../../test262/test/staging/sm/RegExp/regress-576828.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/RegExp/regress-576828.js"}

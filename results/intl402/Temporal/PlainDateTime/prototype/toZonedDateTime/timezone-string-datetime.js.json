@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Temporal/PlainDateTime/prototype/toZonedDateTime/timezone-string-datetime.js:13\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/toZonedDateTime/timezone-string-datetime.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/toZonedDateTime/timezone-string-datetime.js"}

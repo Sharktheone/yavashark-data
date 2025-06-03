@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/set-methods/set-intersection-other-is-set.js:10\n\n","path":"../../test262/test/staging/set-methods/set-intersection-other-is-set.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/set-methods/set-intersection-other-is-set.js"}

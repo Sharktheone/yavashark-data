@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"[object PlainDate]\"», «\"2020-01-01[u-ca=japanese]\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/staging/Intl402/Temporal/old/japanese-era.js:20)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/japanese-era.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/Intl402/Temporal/old/japanese-era.js"}

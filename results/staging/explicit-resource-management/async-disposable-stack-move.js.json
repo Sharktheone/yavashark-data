@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AsyncDisposableStack is not defined\n    at ../../test262/test/staging/explicit-resource-management/async-disposable-stack-move.js:11\n    at TestAsyncDisposableStackMoveNotSameObjects (../../test262/test/staging/explicit-resource-management/async-disposable-stack-move.js:10)\n\n","path":"../../test262/test/staging/explicit-resource-management/async-disposable-stack-move.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/explicit-resource-management/async-disposable-stack-move.js"}

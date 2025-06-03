@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"supportedLocalesOf should be supported. Expected SameValue(«\"undefined\"», «\"function\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/intl402/DurationFormat/supportedLocalesOf/basic.js:10)\n\n","path":"../../test262/test/intl402/DurationFormat/supportedLocalesOf/basic.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DurationFormat/supportedLocalesOf/basic.js"}

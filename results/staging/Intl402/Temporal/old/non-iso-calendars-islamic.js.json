@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/staging/Intl402/Temporal/old/non-iso-calendars-islamic.js:17\n    at compareFormatToPartsSnapshot (../../test262/test/staging/Intl402/Temporal/old/non-iso-calendars-islamic.js:27)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/non-iso-calendars-islamic.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/Intl402/Temporal/old/non-iso-calendars-islamic.js"}

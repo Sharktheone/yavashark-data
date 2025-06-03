@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 448..470, obj: Ident(Ident { span: 448..456, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 457..470, sym: \"PlainMonthDay\" }) }) is not a constructor\n    at ../../test262/test/intl402/Temporal/PlainMonthDay/prototype/toJSON/year-format.js:14\n\n","path":"../../test262/test/intl402/Temporal/PlainMonthDay/prototype/toJSON/year-format.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/PlainMonthDay/prototype/toJSON/year-format.js"}

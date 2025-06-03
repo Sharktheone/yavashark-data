@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/this-not-object-throw.js:17\n\n","path":"../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/this-not-object-throw.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/upsert/WeakMap/getOrInsertComputed/this-not-object-throw.js"}

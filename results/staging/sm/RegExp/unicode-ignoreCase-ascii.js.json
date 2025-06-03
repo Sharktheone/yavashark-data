@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_compiler/src/compiler/statement/for_of.rs:6:9:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/staging/sm/RegExp/unicode-ignoreCase-ascii.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/RegExp/unicode-ignoreCase-ascii.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/upsert/Map/getOrInsertComputed/returns-value-normalized-zero-key.js:22\n\n","path":"../../test262/test/staging/upsert/Map/getOrInsertComputed/returns-value-normalized-zero-key.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/upsert/Map/getOrInsertComputed/returns-value-normalized-zero-key.js"}

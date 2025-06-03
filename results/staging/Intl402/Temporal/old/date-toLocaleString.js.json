@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Object (../../test262/test/staging/Intl402/Temporal/old/date-toLocaleString.js:23)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/date-toLocaleString.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/Intl402/Temporal/old/date-toLocaleString.js"}

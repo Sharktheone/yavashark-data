@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Intl is not defined\n    at ../../test262/test/intl402/Locale/prototype/getCollations/output-array-values.js:20\n\n","path":"../../test262/test/intl402/Locale/prototype/getCollations/output-array-values.js"}
+{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Locale/prototype/getCollations/output-array-values.js"}
