@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"Parsing Duration from string: P3Y4W\nParsing Duration from string: P3Y4D\nParsing Duration from string: P3M4D\nParsing Duration from string: PT3H4.123456789S\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/from/string-with-skipped-units.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/from/string-with-skipped-units.js"}

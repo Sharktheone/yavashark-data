@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"Parsing Duration from string: PT1.03125H\nParsing Duration from string: -PT1.03125H\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/argument-string-fractional-units-rounding-mode.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/argument-string-fractional-units-rounding-mode.js"}

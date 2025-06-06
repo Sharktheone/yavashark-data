@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"Parsing Duration from string: PT0.1H0M\nParsing Duration from string: PT0.1H0.0M\nParsing Duration from string: PT0.1H0S\nParsing Duration from string: PT0.1H0.0S\nParsing Duration from string: PT0.1M0S\nParsing Duration from string: PT0.1M0.0S\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/from/argument-string-fractional-with-zero-subparts.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/from/argument-string-fractional-with-zero-subparts.js"}
