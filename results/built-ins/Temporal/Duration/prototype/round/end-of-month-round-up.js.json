@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Calendar units cannot be present without a relative point.\n    at Object (../../test262/test/built-ins/Temporal/Duration/prototype/round/end-of-month-round-up.js:20)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/end-of-month-round-up.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/end-of-month-round-up.js"}
