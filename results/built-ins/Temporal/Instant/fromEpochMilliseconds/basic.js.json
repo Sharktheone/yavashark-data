@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"fromEpochMilliseconds post epoch Expected SameValue(«217175010123n», «217175010123000000n») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Temporal/Instant/fromEpochMilliseconds/basic.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/fromEpochMilliseconds/basic.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/fromEpochMilliseconds/basic.js"}

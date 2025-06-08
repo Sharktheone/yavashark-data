@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"add positive sub-seconds Expected SameValue(«3052001n», «50003002001n») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Temporal/Instant/prototype/add/basic.js:19)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/basic.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/add/basic.js"}

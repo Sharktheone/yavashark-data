@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Instant nanoseconds are not within a valid epoch range.\n    at ../../test262/test/built-ins/Temporal/Instant/prototype/since/options-undefined.js:10\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/since/options-undefined.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/since/options-undefined.js"}
