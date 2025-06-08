@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at Object (../../test262/test/built-ins/Object/values/primitive-strings.js:10)\n\n","path":"../../test262/test/built-ins/Object/values/primitive-strings.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at Function (../../test262/test/built-ins/Object/values/primitive-strings.js:10)\n\n","path":"../../test262/test/built-ins/Object/values/primitive-strings.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at Object (../../test262/test/built-ins/String/prototype/padEnd/observable-operations.js:31)\n\n","path":"../../test262/test/built-ins/String/prototype/padEnd/observable-operations.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at Function (../../test262/test/built-ins/String/prototype/padEnd/observable-operations.js:31)\n\n","path":"../../test262/test/built-ins/String/prototype/padEnd/observable-operations.js"}

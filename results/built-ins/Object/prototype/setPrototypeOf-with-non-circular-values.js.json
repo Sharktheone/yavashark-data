@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/built-ins/Object/prototype/setPrototypeOf-with-non-circular-values.js:30)\n\n","path":"../../test262/test/built-ins/Object/prototype/setPrototypeOf-with-non-circular-values.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Function (../../test262/test/built-ins/Object/prototype/setPrototypeOf-with-non-circular-values.js:30)\n\n","path":"../../test262/test/built-ins/Object/prototype/setPrototypeOf-with-non-circular-values.js"}

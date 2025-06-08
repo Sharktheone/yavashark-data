@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(-271821-04-19)\n    at Object (../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-limits.js:20)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-limits.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(-271821-04-19)\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-limits.js:20)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-limits.js"}

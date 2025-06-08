@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at Object (../../test262/test/language/expressions/class/gen-method/yield-spread-arr-single.js:40)\n\n","path":"../../test262/test/language/expressions/class/gen-method/yield-spread-arr-single.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at Function (../../test262/test/language/expressions/class/gen-method/yield-spread-arr-single.js:40)\n\n","path":"../../test262/test/language/expressions/class/gen-method/yield-spread-arr-single.js"}

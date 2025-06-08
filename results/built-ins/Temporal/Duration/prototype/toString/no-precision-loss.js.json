@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Object (../../test262/test/built-ins/Temporal/Duration/prototype/toString/no-precision-loss.js:14)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/toString/no-precision-loss.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at Function (../../test262/test/built-ins/Temporal/Duration/prototype/toString/no-precision-loss.js:14)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/toString/no-precision-loss.js"}

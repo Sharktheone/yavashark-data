@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Incorrect ControlFlow\n    at Object (../../test262/test/language/expressions/generators/yield-identifier-non-strict.js:29)\n\n","path":"../../test262/test/language/expressions/generators/yield-identifier-non-strict.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Incorrect ControlFlow\n    at Function (../../test262/test/language/expressions/generators/yield-identifier-non-strict.js:29)\n\n","path":"../../test262/test/language/expressions/generators/yield-identifier-non-strict.js"}

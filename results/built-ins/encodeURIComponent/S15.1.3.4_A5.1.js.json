@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Object (../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A5.1.js:11)\n\n","path":"../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A5.1.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Function (../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A5.1.js:11)\n\n","path":"../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A5.1.js"}

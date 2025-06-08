@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Boolean(true)\n    at Object (../../test262/test/built-ins/Object/keys/15.2.3.14-1-2.js:11)\n\n","path":"../../test262/test/built-ins/Object/keys/15.2.3.14-1-2.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Boolean(true)\n    at Function (../../test262/test/built-ins/Object/keys/15.2.3.14-1-2.js:11)\n\n","path":"../../test262/test/built-ins/Object/keys/15.2.3.14-1-2.js"}

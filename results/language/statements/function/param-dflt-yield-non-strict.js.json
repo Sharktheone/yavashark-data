@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at Object (../../test262/test/language/statements/function/param-dflt-yield-non-strict.js:27)\n\n","path":"../../test262/test/language/statements/function/param-dflt-yield-non-strict.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at Function (../../test262/test/language/statements/function/param-dflt-yield-non-strict.js:27)\n\n","path":"../../test262/test/language/statements/function/param-dflt-yield-non-strict.js"}

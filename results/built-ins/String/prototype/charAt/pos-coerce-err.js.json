@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Object (../../test262/test/built-ins/String/prototype/charAt/pos-coerce-err.js:16)\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/pos-coerce-err.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at Function (../../test262/test/built-ins/String/prototype/charAt/pos-coerce-err.js:16)\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/pos-coerce-err.js"}
