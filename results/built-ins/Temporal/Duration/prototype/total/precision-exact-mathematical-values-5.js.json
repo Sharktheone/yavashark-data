@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid unit for Duration.total\n    at Function (../../test262/test/built-ins/Temporal/Duration/prototype/total/precision-exact-mathematical-values-5.js:16)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/total/precision-exact-mathematical-values-5.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/total/precision-exact-mathematical-values-5.js"}

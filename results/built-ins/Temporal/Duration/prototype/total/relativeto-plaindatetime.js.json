@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid unit for Duration.total\n    at Function (../../test262/test/built-ins/Temporal/Duration/prototype/total/relativeto-plaindatetime.js:45)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/total/relativeto-plaindatetime.js"}
+{"status":"FAIL","msg":"FAIL:\n RangeError\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/total/relativeto-plaindatetime.js"}
