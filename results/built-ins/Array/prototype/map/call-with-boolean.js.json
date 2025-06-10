@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/map/call-with-boolean.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at Function (../../test262/test/built-ins/Array/prototype/map/call-with-boolean.js:11)\n\n","path":"../../test262/test/built-ins/Array/prototype/map/call-with-boolean.js"}

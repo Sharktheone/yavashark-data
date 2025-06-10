@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/prefix-decrement/eval-nostrict.js"}
+{"status":"PASS","msg":"PASS:\n NaN\n","path":"../../test262/test/language/expressions/prefix-decrement/eval-nostrict.js"}

@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Iterator/prototype/toArray/get-next-method-only-once.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/toArray/get-next-method-only-once.js:16\n\n","path":"../../test262/test/built-ins/Iterator/prototype/toArray/get-next-method-only-once.js"}

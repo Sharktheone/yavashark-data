@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_array-like-primitive-non-number-length.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/concat/Array.prototype.concat_array-like-primitive-non-number-length.js"}

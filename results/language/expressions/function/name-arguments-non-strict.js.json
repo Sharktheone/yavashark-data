@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/function/name-arguments-non-strict.js"}
+{"status":"PASS","msg":"PASS:\n [object arguments]\n","path":"../../test262/test/language/expressions/function/name-arguments-non-strict.js"}

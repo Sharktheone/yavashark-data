@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/annexB/built-ins/RegExp/named-groups/non-unicode-malformed.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\k\u003ca\u003e\n    ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/annexB/built-ins/RegExp/named-groups/non-unicode-malformed.js:13\n\n","path":"../../test262/test/annexB/built-ins/RegExp/named-groups/non-unicode-malformed.js"}

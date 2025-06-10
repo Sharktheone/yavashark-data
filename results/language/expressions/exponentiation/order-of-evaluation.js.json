@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/exponentiation/order-of-evaluation.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"?ToNumeric(lhs) throws. Expected a TypeError but got a [object Test262Error]\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/language/expressions/exponentiation/order-of-evaluation.js:96)\n\n","path":"../../test262/test/language/expressions/exponentiation/order-of-evaluation.js"}

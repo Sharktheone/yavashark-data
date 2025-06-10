@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/module-imported-defer-and-eager.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/module-imported-defer-and-eager.js"}

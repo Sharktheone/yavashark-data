@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Temporal/PlainMonthDay/prototype/with/basic.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'from' of undefined\n    at ../../test262/test/built-ins/Temporal/PlainMonthDay/prototype/with/basic.js:11\n\n","path":"../../test262/test/built-ins/Temporal/PlainMonthDay/prototype/with/basic.js"}

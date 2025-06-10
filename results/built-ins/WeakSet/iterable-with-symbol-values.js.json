@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/WeakSet/iterable-with-symbol-values.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/iterable-with-symbol-values.js:21\n\n","path":"../../test262/test/built-ins/WeakSet/iterable-with-symbol-values.js"}

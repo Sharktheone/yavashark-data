@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js:11\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js"}

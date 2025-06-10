@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/statements/with/S12.10_A4_T6.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: myObj.p1 === 1. Actual:  myObj.p1 ===[object anonymous]\" }\n    at ../../test262/test/language/statements/with/S12.10_A4_T6.js:20\n\n","path":"../../test262/test/language/statements/with/S12.10_A4_T6.js"}

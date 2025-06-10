@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/eval-code/indirect/super-call.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"SyntaxError thrown (global code) Expected SameValue(«[object NativeConstructor]», «[object NativeConstructor]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/eval-code/indirect/super-call.js:25)\n\n","path":"../../test262/test/language/eval-code/indirect/super-call.js"}

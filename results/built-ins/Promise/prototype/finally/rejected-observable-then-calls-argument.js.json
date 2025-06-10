@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Promise/prototype/finally/rejected-observable-then-calls-argument.js"}
+{"status":"PASS","msg":"PASS:\n [object anonymous]\n","path":"../../test262/test/built-ins/Promise/prototype/finally/rejected-observable-then-calls-argument.js"}

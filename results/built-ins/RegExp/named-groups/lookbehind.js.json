@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/RegExp/named-groups/lookbehind.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/named-groups/lookbehind.js:12\n\n","path":"../../test262/test/built-ins/RegExp/named-groups/lookbehind.js"}

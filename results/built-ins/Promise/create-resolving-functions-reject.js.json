@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"Test262:AsyncTestFailure:Test262Error: [object Promise]\n\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Promise/create-resolving-functions-reject.js"}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Promise]\nPASS:\n [object anonymous]\n","path":"../../test262/test/built-ins/Promise/create-resolving-functions-reject.js"}

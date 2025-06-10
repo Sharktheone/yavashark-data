@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Object/prototype/__lookupSetter__/key-invalid.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a [object Test262Error] but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Object/prototype/__lookupSetter__/key-invalid.js:19)\n\n","path":"../../test262/test/built-ins/Object/prototype/__lookupSetter__/key-invalid.js"}

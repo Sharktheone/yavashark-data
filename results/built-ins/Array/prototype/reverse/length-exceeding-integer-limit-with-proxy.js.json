@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/reverse/length-exceeding-integer-limit-with-proxy.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Array/prototype/reverse/length-exceeding-integer-limit-with-proxy.js:34\n\n","path":"../../test262/test/built-ins/Array/prototype/reverse/length-exceeding-integer-limit-with-proxy.js"}

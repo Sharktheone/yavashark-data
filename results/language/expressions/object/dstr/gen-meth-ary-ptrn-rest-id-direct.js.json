@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-ary-ptrn-rest-id-direct.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/expressions/object/dstr/gen-meth-ary-ptrn-rest-id-direct.js:69)\n\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-ary-ptrn-rest-id-direct.js"}

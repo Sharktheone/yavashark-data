@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/fill/typed-array-resize.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/Array/prototype/fill/typed-array-resize.js:16\n    at ReadDataFromBuffer (../../test262/test/built-ins/Array/prototype/fill/typed-array-resize.js:40)\n\n","path":"../../test262/test/built-ins/Array/prototype/fill/typed-array-resize.js"}

@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/entries/resizable-buffer.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/Array/prototype/entries/resizable-buffer.js:20\n    at ValuesFromArrayEntries (../../test262/test/built-ins/Array/prototype/entries/resizable-buffer.js:47)\n\n","path":"../../test262/test/built-ins/Array/prototype/entries/resizable-buffer.js"}

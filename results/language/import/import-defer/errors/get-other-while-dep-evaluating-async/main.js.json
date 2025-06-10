@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-dep-evaluating-async/main.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Export `done#0` not found in module\n\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-dep-evaluating-async/main.js"}

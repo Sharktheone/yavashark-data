@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/statements/class/static-init-arguments-methods.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: arguments is not defined\n    at method (../../test262/test/language/statements/class/static-init-arguments-methods.js:44)\n\n","path":"../../test262/test/language/statements/class/static-init-arguments-methods.js"}

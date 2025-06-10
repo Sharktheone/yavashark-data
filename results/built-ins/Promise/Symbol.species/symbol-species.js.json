@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Promise/Symbol.species/symbol-species.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Promise[Symbol.species] is Promise Expected SameValue(«undefined», «[object PromiseConstructor]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Promise/Symbol.species/symbol-species.js:14)\n\n","path":"../../test262/test/built-ins/Promise/Symbol.species/symbol-species.js"}

@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/TypedArray/prototype/subarray/coerced-begin-end-grow.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/subarray/coerced-begin-end-grow.js:31\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/subarray/coerced-begin-end-grow.js"}
