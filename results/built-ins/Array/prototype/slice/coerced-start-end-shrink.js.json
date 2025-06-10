@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found Object([object Object])\n    at Function (../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-shrink.js:23)\n\n","path":"../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-shrink.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/slice/coerced-start-end-shrink.js"}

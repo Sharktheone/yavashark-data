@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/TypedArray/prototype/fill/resizable-buffer.js:16\n    at ReadDataFromBuffer (../../test262/test/built-ins/TypedArray/prototype/fill/resizable-buffer.js:36)\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/fill/resizable-buffer.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/TypedArray/prototype/fill/resizable-buffer.js"}

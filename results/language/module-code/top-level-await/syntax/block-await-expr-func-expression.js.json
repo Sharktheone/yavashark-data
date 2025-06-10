@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object anonymous]\n","path":"../../test262/test/language/module-code/top-level-await/syntax/block-await-expr-func-expression.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/module-code/top-level-await/syntax/block-await-expr-func-expression.js"}

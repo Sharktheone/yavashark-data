@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T5.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/postfix-increment/S11.3.1_A3_T5.js"}

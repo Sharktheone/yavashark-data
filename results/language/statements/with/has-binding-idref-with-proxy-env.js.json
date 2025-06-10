@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/language/statements/with/has-binding-idref-with-proxy-env.js:26\n\n","path":"../../test262/test/language/statements/with/has-binding-idref-with-proxy-env.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/statements/with/has-binding-idref-with-proxy-env.js"}

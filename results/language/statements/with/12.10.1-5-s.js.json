@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object anonymous]\n","path":"../../test262/test/language/statements/with/12.10.1-5-s.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/statements/with/12.10.1-5-s.js"}

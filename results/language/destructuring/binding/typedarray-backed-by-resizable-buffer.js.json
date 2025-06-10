@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/destructuring/binding/typedarray-backed-by-resizable-buffer.js:25\n\n","path":"../../test262/test/language/destructuring/binding/typedarray-backed-by-resizable-buffer.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/destructuring/binding/typedarray-backed-by-resizable-buffer.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at anonymous (../../test262/test/language/expressions/async-generator/dstr/dflt-ary-ptrn-rest-id-direct.js:43)\n\n","path":"../../test262/test/language/expressions/async-generator/dstr/dflt-ary-ptrn-rest-id-direct.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/async-generator/dstr/dflt-ary-ptrn-rest-id-direct.js"}

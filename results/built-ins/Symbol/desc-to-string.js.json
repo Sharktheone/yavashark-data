@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"\"», «\"toStringvalueOf\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Symbol/desc-to-string.js:29)\n\n","path":"../../test262/test/built-ins/Symbol/desc-to-string.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected primitive, got object\n    at SymbolConstructor (../../test262/test/built-ins/Symbol/desc-to-string.js:28)\n\n","path":"../../test262/test/built-ins/Symbol/desc-to-string.js"}

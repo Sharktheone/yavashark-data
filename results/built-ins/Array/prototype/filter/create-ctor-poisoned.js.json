@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a [object Test262Error] to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at anonymous (../../test262/test/built-ins/Array/prototype/filter/create-ctor-poisoned.js:29)\n\n","path":"../../test262/test/built-ins/Array/prototype/filter/create-ctor-poisoned.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/prototype/filter/create-ctor-poisoned.js"}

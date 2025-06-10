@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-bigint.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-bigint.js"}

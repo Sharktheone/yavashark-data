@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Failed to compile: Unsupported expression\n\n","path":"../../test262/test/language/expressions/optional-chaining/member-expression-async-identifier.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/expressions/optional-chaining/member-expression-async-identifier.js"}

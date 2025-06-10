@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/async-generator/dstr/ary-ptrn-rest-id-direct.js:41)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/ary-ptrn-rest-id-direct.js"}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow\n","path":"../../test262/test/language/statements/async-generator/dstr/ary-ptrn-rest-id-direct.js"}
