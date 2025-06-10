@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"equals method\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/temporalHelpers.js:215)\n    at assertInstantsEqual (../../test262/test/built-ins/Temporal/Instant/prototype/round/round-to-days.js:14)\n\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/round/round-to-days.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Instant/prototype/round/round-to-days.js"}
