@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid duration designator.\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/prototype/add/basic.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/add/basic.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/add/basic.js"}
