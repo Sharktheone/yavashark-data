@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(2000-05-02)\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/argument-string.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/argument-string.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/equals/argument-string.js"}

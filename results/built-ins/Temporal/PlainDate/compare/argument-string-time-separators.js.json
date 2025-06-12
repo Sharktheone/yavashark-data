@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found String(2000-05-02T15:23)\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-time-separators.js:19)\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-time-separators.js:17)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-time-separators.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-string-time-separators.js"}
