@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid date\n    at Function (../../test262/test/built-ins/Temporal/PlainDateTime/prototype/toPlainTime/basic.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/prototype/toPlainTime/basic.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/PlainDateTime/prototype/toPlainTime/basic.js:12\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/prototype/toPlainTime/basic.js"}
