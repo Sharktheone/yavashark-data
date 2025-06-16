@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-102.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"result2 Expected SameValue(«true», «false») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/create/15.2.3.5-4-102.js:28)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-102.js"}
