@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"large negative year formatted as 6-digit Expected SameValue(«\"[object PlainDate]\"», «\"-100000-12-03\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Temporal/PlainDate/prototype/toString/year-format.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/toString/year-format.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/prototype/toString/year-format.js"}
