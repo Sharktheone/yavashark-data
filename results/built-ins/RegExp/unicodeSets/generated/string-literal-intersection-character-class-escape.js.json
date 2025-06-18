@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ^[\\q{0|2|4|9\\uFE0F\\u20E3}\u0026\u0026\\d]+$\n      ^^\nerror: unrecognized escape sequence\n    at ../../test262/test/built-ins/RegExp/unicodeSets/generated/string-literal-intersection-character-class-escape.js:17\n\n","path":"../../test262/test/built-ins/RegExp/unicodeSets/generated/string-literal-intersection-character-class-escape.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/unicodeSets/generated/string-literal-intersection-character-class-escape.js"}

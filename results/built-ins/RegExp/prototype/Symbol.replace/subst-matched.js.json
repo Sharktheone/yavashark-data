@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    .4?.\n    ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-matched.js:26\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-matched.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-matched.js:26\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/subst-matched.js"}

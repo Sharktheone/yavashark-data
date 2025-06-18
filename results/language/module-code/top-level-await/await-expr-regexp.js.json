@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    x.y\n     ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/language/module-code/top-level-await/await-expr-regexp.js:50\n\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-regexp.js"}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-regexp.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    \\x\n      ^\nerror: incomplete escape sequence, reached end of pattern prematurely\n    at ../../test262/test/annexB/built-ins/RegExp/incomplete_hex_unicode_escape.js:13\n\n","path":"../../test262/test/annexB/built-ins/RegExp/incomplete_hex_unicode_escape.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/built-ins/RegExp/incomplete_hex_unicode_escape.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: regex parse error:\n    ^.$\n     ^\nerror: pattern can match invalid UTF-8\n    at ../../test262/test/built-ins/RegExp/dotall/without-dotall.js:19\n\n","path":"../../test262/test/built-ins/RegExp/dotall/without-dotall.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Supplementary plane matched by a single .\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/RegExp/dotall/without-dotall.js:28)\n\n","path":"../../test262/test/built-ins/RegExp/dotall/without-dotall.js"}
