@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ArrowFunction (../../test262/test/language/expressions/arrow-function/dstr/obj-ptrn-prop-id-init.js:57)\n\n","path":"../../test262/test/language/expressions/arrow-function/dstr/obj-ptrn-prop-id-init.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/arrow-function/dstr/obj-ptrn-prop-id-init.js"}

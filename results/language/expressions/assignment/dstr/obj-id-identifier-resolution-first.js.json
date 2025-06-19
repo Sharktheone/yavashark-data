@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: y does not exist on object\n    at ../../test262/test/language/expressions/assignment/dstr/obj-id-identifier-resolution-first.js:24\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-id-identifier-resolution-first.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-id-identifier-resolution-first.js"}

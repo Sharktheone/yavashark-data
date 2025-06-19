@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: 3 does not exist on object\n    at method (../../test262/test/language/expressions/object/dstr/meth-ary-ptrn-rest-obj-prop-id.js:71)\n\n","path":"../../test262/test/language/expressions/object/dstr/meth-ary-ptrn-rest-obj-prop-id.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/dstr/meth-ary-ptrn-rest-obj-prop-id.js"}

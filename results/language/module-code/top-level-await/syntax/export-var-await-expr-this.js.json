@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n\n","path":"../../test262/test/language/module-code/top-level-await/syntax/export-var-await-expr-this.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/syntax/export-var-await-expr-this.js"}

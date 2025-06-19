@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: undefined does not exist on object\n    at evalInComputedPropertyKey (../../test262/test/language/function-code/eval-param-env-with-computed-key.js:24)\n\n","path":"../../test262/test/language/function-code/eval-param-env-with-computed-key.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/eval-param-env-with-computed-key.js"}

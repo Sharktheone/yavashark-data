@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: prop does not exist on object\n    at ../../test262/test/language/expressions/assignment/dstr/obj-id-init-in.js:23\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-id-init-in.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-id-init-in.js"}

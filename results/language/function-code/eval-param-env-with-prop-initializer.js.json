@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: a does not exist on object\n    at evalInPropertyInitializer (../../test262/test/language/function-code/eval-param-env-with-prop-initializer.js:24)\n\n","path":"../../test262/test/language/function-code/eval-param-env-with-prop-initializer.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/eval-param-env-with-prop-initializer.js"}

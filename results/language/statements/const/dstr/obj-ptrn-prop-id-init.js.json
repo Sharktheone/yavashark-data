@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ../../test262/test/language/statements/const/dstr/obj-ptrn-prop-id-init.js:27\n\n","path":"../../test262/test/language/statements/const/dstr/obj-ptrn-prop-id-init.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/const/dstr/obj-ptrn-prop-id-init.js"}

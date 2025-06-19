@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-yield-ident-valid.js:24\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-yield-ident-valid.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-yield-ident-valid.js"}

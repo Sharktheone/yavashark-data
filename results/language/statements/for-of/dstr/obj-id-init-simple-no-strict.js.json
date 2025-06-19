@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: eval does not exist on object\n    at ../../test262/test/language/statements/for-of/dstr/obj-id-init-simple-no-strict.js:31\n\n","path":"../../test262/test/language/statements/for-of/dstr/obj-id-init-simple-no-strict.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/dstr/obj-id-init-simple-no-strict.js"}

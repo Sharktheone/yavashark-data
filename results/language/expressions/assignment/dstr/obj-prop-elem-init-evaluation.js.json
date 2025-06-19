@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-evaluation.js:25\n\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-evaluation.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/assignment/dstr/obj-prop-elem-init-evaluation.js"}

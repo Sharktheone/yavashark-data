@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: w does not exist on object\n    at method (../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-init.js:85)\n\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-init.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/meth-static-dflt-obj-ptrn-prop-ary-init.js"}
