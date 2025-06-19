@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: y does not exist on object\n    at method (../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-obj.js:82)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-obj-ptrn-prop-obj.js"}

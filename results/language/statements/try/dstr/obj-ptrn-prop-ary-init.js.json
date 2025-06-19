@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/dstr/obj-ptrn-prop-ary-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: w does not exist on object\n    at ../../test262/test/language/statements/try/dstr/obj-ptrn-prop-ary-init.js:30\n\n","path":"../../test262/test/language/statements/try/dstr/obj-ptrn-prop-ary-init.js"}

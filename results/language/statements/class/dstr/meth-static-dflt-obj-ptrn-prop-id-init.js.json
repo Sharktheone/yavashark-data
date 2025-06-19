@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at method (../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init.js:78)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-obj-ptrn-prop-id-init.js"}

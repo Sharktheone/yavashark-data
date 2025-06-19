@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for/dstr/let-ary-ptrn-rest-obj-prop-id.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: 3 does not exist on object\n    at ../../test262/test/language/statements/for/dstr/let-ary-ptrn-rest-obj-prop-id.js:55\n\n","path":"../../test262/test/language/statements/for/dstr/let-ary-ptrn-rest-obj-prop-id.js"}
