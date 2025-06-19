@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"15:23 Expected SameValue(«1», «6») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Temporal/PlainTime/from/argument-string.js:55)\n\n","path":"../../test262/test/built-ins/Temporal/PlainTime/from/argument-string.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainTime/from/argument-string.js"}

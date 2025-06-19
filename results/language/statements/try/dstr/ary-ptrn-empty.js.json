@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/dstr/ary-ptrn-empty.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/try/dstr/ary-ptrn-empty.js:31\n\n","path":"../../test262/test/language/statements/try/dstr/ary-ptrn-empty.js"}
