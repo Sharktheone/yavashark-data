@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 306..329, obj: Ident(Ident { span: 306..314, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 315..329, sym: \"PlainYearMonth\" }) }) is not a constructor\n    at ../../test262/test/built-ins/Temporal/PlainYearMonth/calendar-string.js:12\n\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/calendar-string.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/calendar-string.js"}
