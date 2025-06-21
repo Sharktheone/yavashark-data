@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: new Number(1) \u003e null === true\" }\n    at ../../test262/test/language/expressions/greater-than/S11.8.2_A3.1_T2.3.js:26\n\n","path":"../../test262/test/language/expressions/greater-than/S11.8.2_A3.1_T2.3.js"}
+{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_env/src/builtins/signal.rs:16:5:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/greater-than/S11.8.2_A3.1_T2.3.js"}
