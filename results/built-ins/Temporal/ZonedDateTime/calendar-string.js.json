@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Member(MemberExpr { span: 305..327, obj: Ident(Ident { span: 305..313, ctxt: #0, sym: \"Temporal\", optional: false }), prop: Ident(IdentName { span: 314..327, sym: \"ZonedDateTime\" }) }) is not a constructor\n    at ../../test262/test/built-ins/Temporal/ZonedDateTime/calendar-string.js:12\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/calendar-string.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/calendar-string.js"}
