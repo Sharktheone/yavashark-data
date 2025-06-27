@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/for-of/set-expand.js:19\n\n","path":"../../test262/test/language/statements/for-of/set-expand.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/set-expand.js:21\n\n","path":"../../test262/test/language/statements/for-of/set-expand.js"}

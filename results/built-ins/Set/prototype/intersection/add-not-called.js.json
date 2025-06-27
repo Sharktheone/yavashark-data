@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/prototype/intersection/add-not-called.js:10\n\n","path":"../../test262/test/built-ins/Set/prototype/intersection/add-not-called.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/Set/prototype/intersection/add-not-called.js:23\n\n","path":"../../test262/test/built-ins/Set/prototype/intersection/add-not-called.js"}

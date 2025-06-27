@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js:10\n\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js"}

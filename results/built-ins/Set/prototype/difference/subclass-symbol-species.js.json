@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/prototype/difference/subclass-symbol-species.js:18\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/subclass-symbol-species.js"}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/built-ins/Set/prototype/difference/subclass-symbol-species.js:22\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/subclass-symbol-species.js"}
