@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/has/return-false-target-not-extensible-using-with.js:31\n\n","path":"../../test262/test/built-ins/Proxy/has/return-false-target-not-extensible-using-with.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Proxy/has/return-false-target-not-extensible-using-with.js:38\n\n","path":"../../test262/test/built-ins/Proxy/has/return-false-target-not-extensible-using-with.js"}

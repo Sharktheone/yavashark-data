@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/language/types/reference/put-value-prop-base-primitive.js:29\n\n","path":"../../test262/test/language/types/reference/put-value-prop-base-primitive.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid left-hand side in assignment: 0\n    at ../../test262/test/language/types/reference/put-value-prop-base-primitive.js:31\n\n","path":"../../test262/test/language/types/reference/put-value-prop-base-primitive.js"}

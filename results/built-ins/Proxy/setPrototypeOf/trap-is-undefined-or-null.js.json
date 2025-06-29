@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/setPrototypeOf/trap-is-undefined-or-null.js:22\n\n","path":"../../test262/test/built-ins/Proxy/setPrototypeOf/trap-is-undefined-or-null.js"}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: not yet implemented\n    at Function (../../test262/test/built-ins/Proxy/setPrototypeOf/trap-is-undefined-or-null.js:34)\n\n","path":"../../test262/test/built-ins/Proxy/setPrototypeOf/trap-is-undefined-or-null.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js:22\n\n","path":"../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«undefined», «[object Object]») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js:26)\n\n","path":"../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js"}

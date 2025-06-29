@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/preventExtensions/call-parameters.js:27\n\n","path":"../../test262/test/built-ins/Proxy/preventExtensions/call-parameters.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Proxy/preventExtensions/call-parameters.js:29\n\n","path":"../../test262/test/built-ins/Proxy/preventExtensions/call-parameters.js"}

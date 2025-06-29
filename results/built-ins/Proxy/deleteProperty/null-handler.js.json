@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Proxy is not defined\n    at ../../test262/test/built-ins/Proxy/deleteProperty/null-handler.js:12\n\n","path":"../../test262/test/built-ins/Proxy/deleteProperty/null-handler.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a Error\" }\n    at ../../test262/harness/assert.js:95\n    at anonymous (../../test262/test/built-ins/Proxy/deleteProperty/null-handler.js:18)\n\n","path":"../../test262/test/built-ins/Proxy/deleteProperty/null-handler.js"}
