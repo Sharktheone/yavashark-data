@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"obj['constructor'] descriptor should not be enumerable\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/propertyHelper.js:128)\n    at verifyProperty (../../test262/test/built-ins/Temporal/Duration/prototype/constructor.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/constructor.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/constructor.js"}
