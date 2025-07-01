@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/prototype/__lookupSetter__/lookup-own-data.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Object/prototype/__lookupSetter__/lookup-own-data.js:20)\n\n","path":"../../test262/test/built-ins/Object/prototype/__lookupSetter__/lookup-own-data.js"}

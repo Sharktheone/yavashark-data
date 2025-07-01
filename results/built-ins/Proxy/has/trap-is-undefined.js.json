@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: not yet implemented\n    at ../../test262/test/built-ins/Proxy/has/trap-is-undefined.js:20\n\n","path":"../../test262/test/built-ins/Proxy/has/trap-is-undefined.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Proxy/has/trap-is-undefined.js:17)\n\n","path":"../../test262/test/built-ins/Proxy/has/trap-is-undefined.js"}

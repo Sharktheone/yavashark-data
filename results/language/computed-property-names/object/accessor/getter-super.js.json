@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/object/accessor/getter-super.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at Function (../../test262/test/language/computed-property-names/object/accessor/getter-super.js:25)\n\n","path":"../../test262/test/language/computed-property-names/object/accessor/getter-super.js"}

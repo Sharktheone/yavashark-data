@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at Function (../../test262/test/language/expressions/super/prop-expr-obj-val.js:29)\n\n","path":"../../test262/test/language/expressions/super/prop-expr-obj-val.js"}
