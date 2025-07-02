@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Object/create/15.2.3.5-4-280.js:18)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-280.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"data Expected SameValue(«\"data\"», «\"overrideData\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/built-ins/Object/create/15.2.3.5-4-280.js:27)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-280.js"}

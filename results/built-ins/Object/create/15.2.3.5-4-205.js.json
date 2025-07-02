@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Object/create/15.2.3.5-4-205.js:12)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-205.js"}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-205.js"}

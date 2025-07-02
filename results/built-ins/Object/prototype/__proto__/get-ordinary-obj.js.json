@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Object/prototype/__proto__/get-ordinary-obj.js:15)\n\n","path":"../../test262/test/built-ins/Object/prototype/__proto__/get-ordinary-obj.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Object/prototype/__proto__/get-ordinary-obj.js:18\n\n","path":"../../test262/test/built-ins/Object/prototype/__proto__/get-ordinary-obj.js"}

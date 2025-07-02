@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object prototype must be an object or null\n    at Function (../../test262/test/built-ins/Object/create/15.2.3.5-4-49.js:20)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-49.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"accessed !== true\" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/test/built-ins/Object/create/15.2.3.5-4-49.js:30)\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-49.js"}
