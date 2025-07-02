@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: cannot mix BigInt and Number\n    at ../../test262/test/language/expressions/postfix-increment/bigint.js:17\n\n","path":"../../test262/test/language/expressions/postfix-increment/bigint.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/postfix-increment/bigint.js"}
