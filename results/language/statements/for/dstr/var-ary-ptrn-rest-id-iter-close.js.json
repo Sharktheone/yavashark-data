@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for/dstr/var-ary-ptrn-rest-id-iter-close.js:39\n    at fn (../../test262/test/language/statements/for/dstr/var-ary-ptrn-rest-id-iter-close.js:44)\n\n","path":"../../test262/test/language/statements/for/dstr/var-ary-ptrn-rest-id-iter-close.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for/dstr/var-ary-ptrn-rest-id-iter-close.js"}

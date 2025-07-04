@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at anonymous (../../test262/test/language/expressions/function/dstr/ary-ptrn-elision-exhausted.js:67)\n\n","path":"../../test262/test/language/expressions/function/dstr/ary-ptrn-elision-exhausted.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/function/dstr/ary-ptrn-elision-exhausted.js"}

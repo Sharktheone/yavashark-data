@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at method (../../test262/test/language/statements/class/dstr/meth-static-dflt-ary-ptrn-rest-ary-empty.js:92)\n\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-ary-ptrn-rest-ary-empty.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/meth-static-dflt-ary-ptrn-rest-ary-empty.js"}

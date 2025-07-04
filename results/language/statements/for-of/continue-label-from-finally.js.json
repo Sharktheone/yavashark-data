@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/continue-label-from-finally.js:23\n\n","path":"../../test262/test/language/statements/for-of/continue-label-from-finally.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/continue-label-from-finally.js"}
