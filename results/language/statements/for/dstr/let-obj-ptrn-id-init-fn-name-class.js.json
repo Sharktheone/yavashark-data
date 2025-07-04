@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected SameValue(«\"Function\"», «\"cls\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at anonymous (../../test262/test/language/statements/for/dstr/let-obj-ptrn-id-init-fn-name-class.js:55)\n\n","path":"../../test262/test/language/statements/for/dstr/let-obj-ptrn-id-init-fn-name-class.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for/dstr/let-obj-ptrn-id-init-fn-name-class.js"}
