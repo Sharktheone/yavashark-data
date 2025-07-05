@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/S9.8.1_A10.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#9: String(.00000012345) === \"1.2345e-7\". Actual: 1.2345e+-7\" }\n    at ../../test262/test/built-ins/String/S9.8.1_A10.js:58\n\n","path":"../../test262/test/built-ins/String/S9.8.1_A10.js"}

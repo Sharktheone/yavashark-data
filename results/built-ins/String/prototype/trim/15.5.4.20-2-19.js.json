@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-19.js"}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"String.prototype.trim.call(0.0000001) Expected SameValue(«\"1e+-7\"», «\"1e-7\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-19.js:11\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-19.js"}
