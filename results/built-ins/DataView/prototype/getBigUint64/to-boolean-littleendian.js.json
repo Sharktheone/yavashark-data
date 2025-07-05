@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"ToBoolean: any object =\u003e true; no ToPrimitive Expected SameValue(«255n», «18374686479671623680n») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js:39\n\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/getBigUint64/to-boolean-littleendian.js"}
