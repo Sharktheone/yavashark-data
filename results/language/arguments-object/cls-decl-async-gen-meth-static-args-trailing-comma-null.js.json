@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/arguments-object/cls-decl-async-gen-meth-static-args-trailing-comma-null.js:72\n\n","path":"../../test262/test/language/arguments-object/cls-decl-async-gen-meth-static-args-trailing-comma-null.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/arguments-object/cls-decl-async-gen-meth-static-args-trailing-comma-null.js"}

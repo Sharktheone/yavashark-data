@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at f (../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-id.js:36)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-id.js"}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at AsyncGeneratorFunction (../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-id.js:36)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/obj-ptrn-prop-id.js"}

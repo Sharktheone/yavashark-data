@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/async-generator/yield-star-async-from-sync-iterator-inaccessible.js:55\n\n","path":"../../test262/test/language/statements/async-generator/yield-star-async-from-sync-iterator-inaccessible.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-generator/yield-star-async-from-sync-iterator-inaccessible.js"}

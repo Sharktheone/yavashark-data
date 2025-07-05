@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/async-generator/yield-star-normal-notdone-iter-value-throws.js:51\n\n","path":"../../test262/test/language/statements/async-generator/yield-star-normal-notdone-iter-value-throws.js"}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-generator/yield-star-normal-notdone-iter-value-throws.js"}
