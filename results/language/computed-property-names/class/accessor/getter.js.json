@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"The value of `new C().a` is `'A'` Expected SameValue(«[object a]», «\"A\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/language/computed-property-names/class/accessor/getter.js:13\n\n","path":"../../test262/test/language/computed-property-names/class/accessor/getter.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/class/accessor/getter.js"}

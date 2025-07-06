@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Unsupported member expression property\n    at ../../test262/test/language/expressions/class/dstr/private-meth-obj-ptrn-prop-ary-init.js:85\n    at method (../../test262/test/language/expressions/class/dstr/private-meth-obj-ptrn-prop-ary-init.js:89)\n\n","path":"../../test262/test/language/expressions/class/dstr/private-meth-obj-ptrn-prop-ary-init.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/private-meth-obj-ptrn-prop-ary-init.js"}

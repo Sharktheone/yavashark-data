@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Unsupported member expression property\n    at ../../test262/test/language/statements/class/elements/privatefieldget-success-4.js:32\n    at x (../../test262/test/language/statements/class/elements/privatefieldget-success-4.js:40)\n\n","path":"../../test262/test/language/statements/class/elements/privatefieldget-success-4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/elements/privatefieldget-success-4.js"}
