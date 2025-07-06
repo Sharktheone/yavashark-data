@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Variable not found\n    at Function (../../test262/test/language/arguments-object/cls-expr-private-gen-meth-static-args-trailing-comma-null.js:48)\n\n","path":"../../test262/test/language/arguments-object/cls-expr-private-gen-meth-static-args-trailing-comma-null.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/arguments-object/cls-expr-private-gen-meth-static-args-trailing-comma-null.js"}
