@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"get Symbol.iterator Expected a Test262Error but got a ReferenceError\" }\n    at ../../test262/harness/assert.js:95\n    at ../../test262/test/built-ins/AggregateError/errors-iterabletolist-failures.js:53\n\n","path":"../../test262/test/built-ins/AggregateError/errors-iterabletolist-failures.js"}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-hole.js:55)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-hole.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-hole.js:55)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elem-id-init-hole.js"}

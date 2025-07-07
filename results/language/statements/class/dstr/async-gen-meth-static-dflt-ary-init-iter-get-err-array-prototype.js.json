@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a TypeError but got a SyntaxError\" }\n    at ../../test262/harness/assert.js:95\n    at ../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-init-iter-get-err-array-prototype.js:69\n\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-init-iter-get-err-array-prototype.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-init-iter-get-err-array-prototype.js"}

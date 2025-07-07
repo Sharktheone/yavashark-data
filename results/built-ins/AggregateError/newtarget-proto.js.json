@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/newtarget-proto.js:33\n\n","path":"../../test262/test/built-ins/AggregateError/newtarget-proto.js"}

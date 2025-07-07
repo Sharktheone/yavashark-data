@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Symbol(Symbol { inner: Str(\"foo\") })\n    at Function (../../test262/test/built-ins/Object/assign/Target-Symbol.js:13)\n\n","path":"../../test262/test/built-ins/Object/assign/Target-Symbol.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/assign/Target-Symbol.js"}

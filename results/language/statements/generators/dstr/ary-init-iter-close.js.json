@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/statements/generators/dstr/ary-init-iter-close.js:69)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-init-iter-close.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid function parameter\n    at GeneratorFunction (../../test262/test/language/statements/generators/dstr/ary-init-iter-close.js:69)\n\n","path":"../../test262/test/language/statements/generators/dstr/ary-init-iter-close.js"}
