@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"newFunc(\"c\") Expected SameValue(«undefined», «\"c\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-3.js:18\n\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/prototype/bind/15.3.4.5.1-4-3.js"}

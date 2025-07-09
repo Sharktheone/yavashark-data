@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: __func(42,42,42) === \"object\". Actual: __func(42,42,42)===undefined\" }\n    at ../../test262/test/language/statements/function/S13_A15_T4.js:23\n\n","path":"../../test262/test/language/statements/function/S13_A15_T4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13_A15_T4.js"}
