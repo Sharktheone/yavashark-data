@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: parseFloat(\"-11e-1\") === -1.1. Actual: -11\" }\n    at ../../test262/test/built-ins/parseFloat/S15.1.2.3_A5_T4.js:22\n\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A5_T4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/parseFloat/S15.1.2.3_A5_T4.js"}
