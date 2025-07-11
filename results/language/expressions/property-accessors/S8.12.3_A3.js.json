@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: var __map={shape:\"cube\", 5:\"five\", \"6\":\"six\"}; __map[\"5\"] === \"five\". Actual: undefined\" }\n    at ../../test262/test/language/expressions/property-accessors/S8.12.3_A3.js:33\n\n","path":"../../test262/test/language/expressions/property-accessors/S8.12.3_A3.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/property-accessors/S8.12.3_A3.js"}

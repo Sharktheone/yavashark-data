@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: var obj = {}; obj.push = Array.prototype.push; obj.push(-1); obj[\"0\"] === -1. Actual: undefined\" }\n    at ../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A2_T1.js:29\n\n","path":"../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A2_T1.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/push/S15.4.4.7_A2_T1.js"}

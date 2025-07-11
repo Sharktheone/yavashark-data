@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: var obj = {}; obj[\"0\"] = 0; obj[\"3\"] = 3; obj.length = 4; obj.shift = Array.prototype.shift; obj.shift() === 0. Actual: undefined\" }\n    at ../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T4.js:22\n\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T4.js"}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/shift/S15.4.4.9_A2_T4.js"}
