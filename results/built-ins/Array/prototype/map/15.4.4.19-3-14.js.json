@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a RangeError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at ../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-14.js:17\n\n","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-14.js"}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Array/prototype/map/15.4.4.19-3-14.js"}
