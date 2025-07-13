@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/computed-property-names/basics/symbol.js","memory_kb":0,"duration":172366839}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Actual [, ] and expected [, ] should have the same contents. \" }\n    at ../../test262/harness/assert.js:18\n    at assert (../../test262/harness/compareArray.js:48)\n    at ../../test262/test/language/computed-property-names/basics/symbol.js:31\n\n","path":"../../test262/test/language/computed-property-names/basics/symbol.js","memory_kb":0,"duration":261143301}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/excessive-byteoffset-throws-sab.js:20\n\n","path":"../../test262/test/built-ins/DataView/excessive-byteoffset-throws-sab.js","memory_kb":9300,"duration":101161386}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/excessive-byteoffset-throws-sab.js:20\n\n","path":"../../test262/test/built-ins/DataView/excessive-byteoffset-throws-sab.js","memory_kb":8988,"duration":62424908}
