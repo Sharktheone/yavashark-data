@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js:41\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js:41\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js","memory_kb":0,"duration":885865644}

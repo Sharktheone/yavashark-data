@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/invoke-resolve-error-close.js:42\n\n","path":"../../test262/test/built-ins/Promise/allSettled/invoke-resolve-error-close.js"}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/invoke-resolve-error-close.js:42\n\n","path":"../../test262/test/built-ins/Promise/allSettled/invoke-resolve-error-close.js","memory_kb":0,"duration":73812882}
