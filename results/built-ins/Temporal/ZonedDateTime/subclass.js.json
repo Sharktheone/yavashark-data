@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint or number, found Undefined\n    at ../../test262/test/built-ins/Temporal/ZonedDateTime/subclass.js:13\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/subclass.js","memory_kb":0,"duration":472252934}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint or number, found Undefined\n    at ../../test262/test/built-ins/Temporal/ZonedDateTime/subclass.js:13\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/subclass.js","memory_kb":0,"duration":193484536}

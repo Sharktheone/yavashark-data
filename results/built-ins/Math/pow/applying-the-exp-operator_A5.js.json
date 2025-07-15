@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A5.js","memory_kb":0,"duration":1222772024}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Math.pow(-Infinity, Infinity) !== +Infinity\" }\n    at ../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A5.js:22\n\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A5.js","memory_kb":0,"duration":386739414}

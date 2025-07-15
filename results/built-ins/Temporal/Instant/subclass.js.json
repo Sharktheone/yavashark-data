@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint, found Undefined\n    at ../../test262/test/built-ins/Temporal/Instant/subclass.js:13\n\n","path":"../../test262/test/built-ins/Temporal/Instant/subclass.js","memory_kb":0,"duration":586213709}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint, found Undefined\n    at ../../test262/test/built-ins/Temporal/Instant/subclass.js:13\n\n","path":"../../test262/test/built-ins/Temporal/Instant/subclass.js","memory_kb":0,"duration":119563566}

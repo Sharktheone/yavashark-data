@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/proto-from-ctor-realm.js:37\n\n","path":"../../test262/test/built-ins/DisposableStack/proto-from-ctor-realm.js","memory_kb":0,"duration":144021579}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/proto-from-ctor-realm.js:37\n\n","path":"../../test262/test/built-ins/DisposableStack/proto-from-ctor-realm.js","memory_kb":0,"duration":106620666}
