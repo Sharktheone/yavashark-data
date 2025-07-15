@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Math.pow(0.999999999999999, -Infinity) !== +Infinity\" }\n    at ../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A10.js:22\n\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A10.js","memory_kb":0,"duration":163909240}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A10.js","memory_kb":0,"duration":108227460}

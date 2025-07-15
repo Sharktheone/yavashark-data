@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/switch-case-global-block-scoping.js:33\n\n","path":"../../test262/test/annexB/language/global-code/switch-case-global-block-scoping.js","memory_kb":0,"duration":94795061}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/switch-case-global-block-scoping.js:33\n\n","path":"../../test262/test/annexB/language/global-code/switch-case-global-block-scoping.js","memory_kb":0,"duration":95374021}

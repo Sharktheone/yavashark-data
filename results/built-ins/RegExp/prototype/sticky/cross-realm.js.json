@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js","memory_kb":0,"duration":217849111}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/sticky/cross-realm.js","memory_kb":0,"duration":10284043053}

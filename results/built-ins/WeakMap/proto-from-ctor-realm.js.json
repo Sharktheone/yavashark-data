@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/proto-from-ctor-realm.js:27\n\n","path":"../../test262/test/built-ins/WeakMap/proto-from-ctor-realm.js","memory_kb":0,"duration":385995545}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/proto-from-ctor-realm.js:27\n\n","path":"../../test262/test/built-ins/WeakMap/proto-from-ctor-realm.js","memory_kb":10172,"duration":48732367}
