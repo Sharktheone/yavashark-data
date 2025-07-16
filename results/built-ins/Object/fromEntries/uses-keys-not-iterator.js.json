@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js:46\n\n","path":"../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js","memory_kb":8000,"duration":140521306}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js:46\n\n","path":"../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js","memory_kb":0,"duration":736401561}

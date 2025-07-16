@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/set-contract.js:17\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js","memory_kb":0,"duration":1080874113}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/set-contract.js:17\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js","memory_kb":0,"duration":65043662}

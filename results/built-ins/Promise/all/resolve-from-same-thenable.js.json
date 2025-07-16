@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js:66\n\n","path":"../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js","memory_kb":0,"duration":2843305232}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js:66\n\n","path":"../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js","memory_kb":0,"duration":69859213}
