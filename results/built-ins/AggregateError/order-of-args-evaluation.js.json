@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/order-of-args-evaluation.js:38\n\n","path":"../../test262/test/built-ins/AggregateError/order-of-args-evaluation.js","memory_kb":0,"duration":23633144}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/order-of-args-evaluation.js:38\n\n","path":"../../test262/test/built-ins/AggregateError/order-of-args-evaluation.js","memory_kb":0,"duration":1149147930}
