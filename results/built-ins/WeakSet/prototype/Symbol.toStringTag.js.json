@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/Symbol.toStringTag.js","memory_kb":0,"duration":1244543034}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/Symbol.toStringTag.js","memory_kb":0,"duration":2892210248}
