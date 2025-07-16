@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/name.js:28\n\n","path":"../../test262/test/built-ins/AggregateError/name.js","memory_kb":0,"duration":62246845}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/name.js:28\n\n","path":"../../test262/test/built-ins/AggregateError/name.js","memory_kb":0,"duration":12031581}
