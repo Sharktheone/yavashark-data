@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/iter-next-val-err-no-close.js:53\n\n","path":"../../test262/test/built-ins/Promise/all/iter-next-val-err-no-close.js","memory_kb":0,"duration":354007936}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/iter-next-val-err-no-close.js:53\n\n","path":"../../test262/test/built-ins/Promise/all/iter-next-val-err-no-close.js","memory_kb":0,"duration":1977295709}

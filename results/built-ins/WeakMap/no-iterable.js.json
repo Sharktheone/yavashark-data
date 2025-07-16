@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/no-iterable.js:18\n\n","path":"../../test262/test/built-ins/WeakMap/no-iterable.js","memory_kb":0,"duration":4804507147}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/no-iterable.js:18\n\n","path":"../../test262/test/built-ins/WeakMap/no-iterable.js","memory_kb":0,"duration":3257615962}

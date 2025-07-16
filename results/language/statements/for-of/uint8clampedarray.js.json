@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/uint8clampedarray.js:19\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray.js","memory_kb":0,"duration":48381545}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/uint8clampedarray.js:19\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray.js","memory_kb":0,"duration":374942478}
