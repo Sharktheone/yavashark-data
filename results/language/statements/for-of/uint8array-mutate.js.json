@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/uint8array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint8array-mutate.js","memory_kb":9220,"duration":245974326}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/uint8array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint8array-mutate.js","memory_kb":8472,"duration":357380384}

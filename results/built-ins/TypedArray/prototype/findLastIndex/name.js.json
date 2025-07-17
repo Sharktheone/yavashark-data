@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/test/built-ins/TypedArray/prototype/findLastIndex/name.js:23\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLastIndex/name.js","memory_kb":0,"duration":579291713}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/test/built-ins/TypedArray/prototype/findLastIndex/name.js:23\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLastIndex/name.js","memory_kb":0,"duration":977326899}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/lookahead-quantifier-match-groups.js:27\n\n","path":"../../test262/test/built-ins/RegExp/lookahead-quantifier-match-groups.js","memory_kb":7368,"duration":50238663}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/lookahead-quantifier-match-groups.js:27\n\n","path":"../../test262/test/built-ins/RegExp/lookahead-quantifier-match-groups.js","memory_kb":0,"duration":2167807187}
