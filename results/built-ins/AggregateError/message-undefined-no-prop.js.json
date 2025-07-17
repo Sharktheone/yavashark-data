@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/message-undefined-no-prop.js:19\n\n","path":"../../test262/test/built-ins/AggregateError/message-undefined-no-prop.js","memory_kb":0,"duration":8423383}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/built-ins/AggregateError/message-undefined-no-prop.js:19\n\n","path":"../../test262/test/built-ins/AggregateError/message-undefined-no-prop.js","memory_kb":0,"duration":2817138556}
