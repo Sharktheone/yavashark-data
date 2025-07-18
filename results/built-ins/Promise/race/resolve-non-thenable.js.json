@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-non-thenable.js:37\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-non-thenable.js","memory_kb":0,"duration":53134899}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-non-thenable.js:37\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-non-thenable.js","memory_kb":0,"duration":235895342}

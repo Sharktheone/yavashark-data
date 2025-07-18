@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/all/call-resolve-element-items.js:48\n\n","path":"../../test262/test/built-ins/Promise/all/call-resolve-element-items.js","memory_kb":0,"duration":141266947}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/all/call-resolve-element-items.js:48\n\n","path":"../../test262/test/built-ins/Promise/all/call-resolve-element-items.js","memory_kb":0,"duration":252951575}

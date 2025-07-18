@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/returns-promise.js:21\n\n","path":"../../test262/test/built-ins/Promise/allSettled/returns-promise.js","memory_kb":9440,"duration":94308050}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/returns-promise.js:21\n\n","path":"../../test262/test/built-ins/Promise/allSettled/returns-promise.js","memory_kb":0,"duration":174741482}
