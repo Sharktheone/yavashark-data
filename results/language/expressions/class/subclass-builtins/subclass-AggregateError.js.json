@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AggregateError is not defined\n    at ../../test262/test/language/expressions/class/subclass-builtins/subclass-AggregateError.js:11\n\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-AggregateError.js","memory_kb":0,"duration":150983549}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/subclass-builtins/subclass-AggregateError.js","memory_kb":0,"duration":44995746}

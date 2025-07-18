@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/newtarget-proto.js:33\n\n","path":"../../test262/test/built-ins/SuppressedError/newtarget-proto.js","memory_kb":0,"duration":151868247}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/newtarget-proto.js:33\n\n","path":"../../test262/test/built-ins/SuppressedError/newtarget-proto.js","memory_kb":0,"duration":460563124}

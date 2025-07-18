@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/delete/delete-object-entry.js:19\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/delete/delete-object-entry.js","memory_kb":0,"duration":563367026}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/delete/delete-object-entry.js:19\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/delete/delete-object-entry.js","memory_kb":0,"duration":158996756}

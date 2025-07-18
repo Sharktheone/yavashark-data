@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-arg-is-undefined-reject.js","memory_kb":9488,"duration":57493118}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-arg-is-undefined-reject.js","memory_kb":6856,"duration":134566415}
