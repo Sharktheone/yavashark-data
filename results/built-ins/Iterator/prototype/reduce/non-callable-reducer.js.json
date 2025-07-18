@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/non-callable-reducer.js:22\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/non-callable-reducer.js","memory_kb":0,"duration":160690234}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/non-callable-reducer.js:22\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/non-callable-reducer.js","memory_kb":0,"duration":39839650}
