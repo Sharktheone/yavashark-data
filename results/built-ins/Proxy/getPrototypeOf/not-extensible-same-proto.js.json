@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Proxy/getPrototypeOf/not-extensible-same-proto.js:36\n\n","path":"../../test262/test/built-ins/Proxy/getPrototypeOf/not-extensible-same-proto.js","memory_kb":0,"duration":155082941}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Proxy/getPrototypeOf/not-extensible-same-proto.js:36\n\n","path":"../../test262/test/built-ins/Proxy/getPrototypeOf/not-extensible-same-proto.js","memory_kb":0,"duration":134974996}
