@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/sort/S15.4.4.11_A2.1_T1.js:16\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/S15.4.4.11_A2.1_T1.js","memory_kb":10076,"duration":63061911}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/sort/S15.4.4.11_A2.1_T1.js","memory_kb":0,"duration":2110080610}
