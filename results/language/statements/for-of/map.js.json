@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(iterator) does not exist on object\n    at ../../test262/test/language/statements/for-of/map.js:26\n\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":0,"duration":223036513}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(Symbol(iterator)) does not exist on object\n    at ../../test262/test/language/statements/for-of/map.js:26\n\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":0,"duration":158421279}
