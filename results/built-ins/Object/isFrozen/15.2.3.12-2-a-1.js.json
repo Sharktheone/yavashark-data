@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Object/isFrozen/15.2.3.12-2-a-1.js:17\n\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-2-a-1.js","memory_kb":0,"duration":195227427}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-2-a-1.js","memory_kb":0,"duration":1779443991}
