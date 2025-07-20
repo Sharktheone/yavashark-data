@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/invoke-then-error-close.js:48\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-then-error-close.js","memory_kb":9020,"duration":198013557}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/invoke-then-error-close.js:48\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-then-error-close.js","memory_kb":0,"duration":91441747}
