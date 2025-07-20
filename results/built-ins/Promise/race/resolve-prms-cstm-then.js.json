@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-prms-cstm-then.js:46\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-prms-cstm-then.js","memory_kb":0,"duration":80193923}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-prms-cstm-then.js:46\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-prms-cstm-then.js","memory_kb":0,"duration":266402696}

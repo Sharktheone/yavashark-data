@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/find/predicate-args.js:22\n\n","path":"../../test262/test/built-ins/Iterator/prototype/find/predicate-args.js","memory_kb":0,"duration":154707612}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/find/predicate-args.js:22\n\n","path":"../../test262/test/built-ins/Iterator/prototype/find/predicate-args.js","memory_kb":9912,"duration":62220081}
