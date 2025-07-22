@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/invoke-then.js:51\n\n","path":"../../test262/test/built-ins/Promise/allSettled/invoke-then.js","memory_kb":7920,"duration":120612109}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettled/invoke-then.js:51\n\n","path":"../../test262/test/built-ins/Promise/allSettled/invoke-then.js","memory_kb":0,"duration":170962952}
