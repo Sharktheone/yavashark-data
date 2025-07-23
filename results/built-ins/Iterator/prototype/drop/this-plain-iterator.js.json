@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/drop/this-plain-iterator.js:25\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/this-plain-iterator.js","memory_kb":8500,"duration":138016443}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/drop/this-plain-iterator.js:25\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/this-plain-iterator.js","memory_kb":0,"duration":635835820}

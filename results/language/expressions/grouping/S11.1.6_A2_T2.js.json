@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js:15\n\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js","memory_kb":9212,"duration":36201866}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js:15\n\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js","memory_kb":0,"duration":242531684}
