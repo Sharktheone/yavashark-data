@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21\n\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":0,"duration":2398220857}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21\n\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":8168,"duration":365080835}

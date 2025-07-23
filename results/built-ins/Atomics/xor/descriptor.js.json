@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/xor/descriptor.js:11\n\n","path":"../../test262/test/built-ins/Atomics/xor/descriptor.js","memory_kb":9512,"duration":53514741}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/xor/descriptor.js:11\n\n","path":"../../test262/test/built-ins/Atomics/xor/descriptor.js","memory_kb":9120,"duration":76839937}
