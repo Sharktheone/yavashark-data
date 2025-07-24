@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/proto.js:14\n\n","path":"../../test262/test/built-ins/SuppressedError/proto.js","memory_kb":7660,"duration":395495145}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/proto.js:14\n\n","path":"../../test262/test/built-ins/SuppressedError/proto.js","memory_kb":0,"duration":33161151}
