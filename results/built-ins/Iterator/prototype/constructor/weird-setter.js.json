@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/constructor/weird-setter.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/constructor/weird-setter.js","memory_kb":0,"duration":54326331}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/constructor/weird-setter.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/constructor/weird-setter.js","memory_kb":0,"duration":84290998}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/getFloat16/minus-zero.js:17\n\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat16/minus-zero.js","memory_kb":0,"duration":356426871}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/getFloat16/minus-zero.js:17\n\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat16/minus-zero.js","memory_kb":0,"duration":112000854}
