@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolved-sequence-mixed.js:32\n\n","path":"../../test262/test/built-ins/Promise/race/resolved-sequence-mixed.js","memory_kb":0,"duration":116079502}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolved-sequence-mixed.js:32\n\n","path":"../../test262/test/built-ins/Promise/race/resolved-sequence-mixed.js","memory_kb":9444,"duration":67381915}
