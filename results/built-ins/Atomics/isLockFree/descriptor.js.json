@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/isLockFree/descriptor.js:11\n\n","path":"../../test262/test/built-ins/Atomics/isLockFree/descriptor.js","memory_kb":10124,"duration":64521787}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/isLockFree/descriptor.js:11\n\n","path":"../../test262/test/built-ins/Atomics/isLockFree/descriptor.js","memory_kb":10256,"duration":107072467}

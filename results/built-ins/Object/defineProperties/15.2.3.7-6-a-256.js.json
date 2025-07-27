@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-256.js","memory_kb":0,"duration":88084102}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected obj[0] to equal 36, actually undefined\" }\n    at ../../test262/harness/propertyHelper.js:284\n    at verifyEqualTo (../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-256.js:31)\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-256.js","memory_kb":0,"duration":224636677}
