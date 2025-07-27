@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-b-2.js","memory_kb":0,"duration":37058006}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Array.prototype.reduce.call(obj, callbackfn) Expected SameValue(«4», «3») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-b-2.js:29\n\n","path":"../../test262/test/built-ins/Array/prototype/reduce/15.4.4.21-8-b-2.js","memory_kb":0,"duration":183916073}

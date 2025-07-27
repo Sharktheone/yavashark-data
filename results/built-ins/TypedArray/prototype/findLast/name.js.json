@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/test/built-ins/TypedArray/prototype/findLast/name.js:23\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLast/name.js","memory_kb":0,"duration":71924451}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'name' of undefined\n    at ../../test262/test/built-ins/TypedArray/prototype/findLast/name.js:23\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/findLast/name.js","memory_kb":8040,"duration":626832967}
