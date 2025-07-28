@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/invoke-builtin-match.js:26\n\n","path":"../../test262/test/built-ins/String/prototype/match/invoke-builtin-match.js","memory_kb":0,"duration":315552180}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/invoke-builtin-match.js:26\n\n","path":"../../test262/test/built-ins/String/prototype/match/invoke-builtin-match.js","memory_kb":0,"duration":288920645}

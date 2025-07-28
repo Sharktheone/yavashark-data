@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: f1(1, 2) === undefined\" }\n    at ../../test262/test/language/function-code/S10.2.1_A3.js:22\n\n","path":"../../test262/test/language/function-code/S10.2.1_A3.js","memory_kb":0,"duration":788654128}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: f1(1, 2) === undefined\" }\n    at ../../test262/test/language/function-code/S10.2.1_A3.js:22\n\n","path":"../../test262/test/language/function-code/S10.2.1_A3.js","memory_kb":0,"duration":50049719}

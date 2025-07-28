@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/race/same-reject-function.js:41\n\n","path":"../../test262/test/built-ins/Promise/race/same-reject-function.js","memory_kb":9012,"duration":194064712}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/race/same-reject-function.js:41\n\n","path":"../../test262/test/built-ins/Promise/race/same-reject-function.js","memory_kb":0,"duration":1478565750}
