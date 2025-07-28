@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/cstm-matcher-is-null.js:32\n\n","path":"../../test262/test/built-ins/String/prototype/match/cstm-matcher-is-null.js","memory_kb":0,"duration":112063885}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/cstm-matcher-is-null.js:32\n\n","path":"../../test262/test/built-ins/String/prototype/match/cstm-matcher-is-null.js","memory_kb":8596,"duration":1252202700}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: ~-2147483649 ==== ~2147483647)\" }\n    at ../../test262/test/language/expressions/bitwise-not/S9.5_A2.2_T2.js:22\n\n","path":"../../test262/test/language/expressions/bitwise-not/S9.5_A2.2_T2.js","memory_kb":0,"duration":172514210}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: ~-2147483649 ==== ~2147483647)\" }\n    at ../../test262/test/language/expressions/bitwise-not/S9.5_A2.2_T2.js:22\n\n","path":"../../test262/test/language/expressions/bitwise-not/S9.5_A2.2_T2.js","memory_kb":0,"duration":113374027}
