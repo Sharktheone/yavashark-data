@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.match/exec-invocation.js:36\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.match/exec-invocation.js","memory_kb":0,"duration":856018344}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.match/exec-invocation.js:36\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.match/exec-invocation.js","memory_kb":0,"duration":1205999253}

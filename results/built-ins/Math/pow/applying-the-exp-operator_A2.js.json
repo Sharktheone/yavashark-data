@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Math.pow(NaN, 0) !== 1\" }\n    at ../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A2.js:25\n\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A2.js","memory_kb":0,"duration":263707659}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: Math.pow(NaN, 0) !== 1\" }\n    at ../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A2.js:25\n\n","path":"../../test262/test/built-ins/Math/pow/applying-the-exp-operator_A2.js","memory_kb":0,"duration":479974195}
