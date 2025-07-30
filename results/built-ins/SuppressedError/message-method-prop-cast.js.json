@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/message-method-prop-cast.js:26\n\n","path":"../../test262/test/built-ins/SuppressedError/message-method-prop-cast.js","memory_kb":0,"duration":70922865}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/message-method-prop-cast.js:26\n\n","path":"../../test262/test/built-ins/SuppressedError/message-method-prop-cast.js","memory_kb":0,"duration":1142854556}
