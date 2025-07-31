@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/emptyList.js:22\n\n","path":"../../test262/test/built-ins/Map/groupBy/emptyList.js","memory_kb":8524,"duration":130898944}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/emptyList.js:22\n\n","path":"../../test262/test/built-ins/Map/groupBy/emptyList.js","memory_kb":10000,"duration":63374370}

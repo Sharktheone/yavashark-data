@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"memory allocation of 9223372036854775807 bytes failed\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/length-arg/is-infinity-throws-rangeerror.js","memory_kb":10516,"duration":397967444}
+{"status":"CRASH","msg":"memory allocation of 9223372036854775807 bytes failed\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors-bigint/length-arg/is-infinity-throws-rangeerror.js","memory_kb":10296,"duration":270109137}
