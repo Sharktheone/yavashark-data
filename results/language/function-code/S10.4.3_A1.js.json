@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: \"this\" leaked as: [object Object]\" }\n    at ../../test262/test/language/function-code/S10.4.3_A1.js:14\n\n","path":"../../test262/test/language/function-code/S10.4.3_A1.js","memory_kb":0,"duration":868405132}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: \"this\" leaked as: [object Object]\" }\n    at ../../test262/test/language/function-code/S10.4.3_A1.js:14\n\n","path":"../../test262/test/language/function-code/S10.4.3_A1.js","memory_kb":0,"duration":1243816391}
