@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/length.js:10)\n\n","path":"../../test262/test/built-ins/Error/length.js","memory_kb":9832,"duration":1658311190}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/length.js:10)\n\n","path":"../../test262/test/built-ins/Error/length.js","memory_kb":0,"duration":169088872}

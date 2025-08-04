@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/is-a-constructor.js","memory_kb":0,"duration":274368564}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/is-a-constructor.js","memory_kb":7628,"duration":261923964}

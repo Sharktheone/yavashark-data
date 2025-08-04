@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/instance-extensible.js:30\n\n","path":"../../test262/test/built-ins/DisposableStack/instance-extensible.js","memory_kb":8196,"duration":58121776}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/instance-extensible.js:30\n\n","path":"../../test262/test/built-ins/DisposableStack/instance-extensible.js","memory_kb":0,"duration":478920575}

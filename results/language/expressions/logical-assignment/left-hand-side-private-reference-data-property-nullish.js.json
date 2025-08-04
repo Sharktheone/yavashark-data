@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"[crates/yavashark_interpreter/src/statement/expr/assign.rs:295:25] \u0026value = Number(\n    1.0,\n)\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-assignment/left-hand-side-private-reference-data-property-nullish.js","memory_kb":0,"duration":327495926}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-assignment/left-hand-side-private-reference-data-property-nullish.js","memory_kb":0,"duration":30566276}
