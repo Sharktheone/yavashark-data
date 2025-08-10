@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/switch-dflt-global-block-scoping.js:33\n\n","path":"../../test262/test/annexB/language/global-code/switch-dflt-global-block-scoping.js","memory_kb":0,"duration":15444592}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/switch-dflt-global-block-scoping.js:33\n\n","path":"../../test262/test/annexB/language/global-code/switch-dflt-global-block-scoping.js","memory_kb":0,"duration":14240197}
