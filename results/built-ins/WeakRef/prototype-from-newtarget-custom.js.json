@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/prototype-from-newtarget-custom.js:35\n\n","path":"../../test262/test/built-ins/WeakRef/prototype-from-newtarget-custom.js","memory_kb":0,"duration":103701293}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/prototype-from-newtarget-custom.js:35\n\n","path":"../../test262/test/built-ins/WeakRef/prototype-from-newtarget-custom.js","memory_kb":8816,"duration":877431673}
