@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Function (../../test262/test/built-ins/Array/from/items-is-arraybuffer.js:17)\n\n","path":"../../test262/test/built-ins/Array/from/items-is-arraybuffer.js","memory_kb":0,"duration":1445370366}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at Function (../../test262/test/built-ins/Array/from/items-is-arraybuffer.js:17)\n\n","path":"../../test262/test/built-ins/Array/from/items-is-arraybuffer.js","memory_kb":0,"duration":12561310}
