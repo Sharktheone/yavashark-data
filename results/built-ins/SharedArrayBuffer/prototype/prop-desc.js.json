@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/prototype/prop-desc.js:13\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/prototype/prop-desc.js","memory_kb":8704,"duration":310925053}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/prototype/prop-desc.js:13\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/prototype/prop-desc.js","memory_kb":0,"duration":2523295652}

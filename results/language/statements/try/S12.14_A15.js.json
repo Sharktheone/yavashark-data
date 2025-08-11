@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.4: SwitchTest1(4)===64. Actual:  SwitchTest1(4)===32\" }\n    at ../../test262/test/language/statements/try/S12.14_A15.js:39\n\n","path":"../../test262/test/language/statements/try/S12.14_A15.js","memory_kb":0,"duration":487963585}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1.4: SwitchTest1(4)===64. Actual:  SwitchTest1(4)===32\" }\n    at ../../test262/test/language/statements/try/S12.14_A15.js:39\n\n","path":"../../test262/test/language/statements/try/S12.14_A15.js","memory_kb":0,"duration":948305714}
