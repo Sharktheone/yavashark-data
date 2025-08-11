@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/prototype/delete/does-not-break-iterators.js:24\n\n","path":"../../test262/test/built-ins/Map/prototype/delete/does-not-break-iterators.js","memory_kb":8548,"duration":212380459}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/prototype/delete/does-not-break-iterators.js:24\n\n","path":"../../test262/test/built-ins/Map/prototype/delete/does-not-break-iterators.js","memory_kb":0,"duration":179406804}
