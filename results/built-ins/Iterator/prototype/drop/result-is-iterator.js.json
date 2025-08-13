@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/drop/result-is-iterator.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/result-is-iterator.js","memory_kb":8880,"duration":47413174}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/drop/result-is-iterator.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/result-is-iterator.js","memory_kb":8672,"duration":183187585}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert  to BigInt\n    at Function (../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint.js","memory_kb":0,"duration":400592532}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert  to BigInt\n    at Function (../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/bigint-tobigint.js","memory_kb":0,"duration":1133591378}
