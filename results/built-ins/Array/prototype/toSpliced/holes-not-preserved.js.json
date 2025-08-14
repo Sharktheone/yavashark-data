@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/toSpliced/holes-not-preserved.js:33\n\n","path":"../../test262/test/built-ins/Array/prototype/toSpliced/holes-not-preserved.js","memory_kb":0,"duration":232101621}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Array/prototype/toSpliced/holes-not-preserved.js:33\n\n","path":"../../test262/test/built-ins/Array/prototype/toSpliced/holes-not-preserved.js","memory_kb":0,"duration":65086592}
