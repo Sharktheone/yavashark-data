@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at Function (../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js:54)\n\n","path":"../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js","memory_kb":0,"duration":1609802644}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at Function (../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js:54)\n\n","path":"../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js","memory_kb":12288,"duration":160125424}

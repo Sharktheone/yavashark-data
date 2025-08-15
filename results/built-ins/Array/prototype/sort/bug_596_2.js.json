@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: array.hasOwnProperty('1'). Actual: true\" }\n    at ../../test262/test/built-ins/Array/prototype/sort/bug_596_2.js:27\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/bug_596_2.js","memory_kb":0,"duration":143691117}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#3: array.hasOwnProperty('1'). Actual: true\" }\n    at ../../test262/test/built-ins/Array/prototype/sort/bug_596_2.js:27\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/bug_596_2.js","memory_kb":0,"duration":91927724}
