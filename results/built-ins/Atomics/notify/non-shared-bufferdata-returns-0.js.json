@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/notify/non-shared-bufferdata-returns-0.js:21\n\n","path":"../../test262/test/built-ins/Atomics/notify/non-shared-bufferdata-returns-0.js","memory_kb":0,"duration":2071428367}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/notify/non-shared-bufferdata-returns-0.js:21\n\n","path":"../../test262/test/built-ins/Atomics/notify/non-shared-bufferdata-returns-0.js","memory_kb":0,"duration":53923207}

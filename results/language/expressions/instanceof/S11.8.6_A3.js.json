@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: true instanceof true throw TypeError\" }\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A3.js:17\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A3.js","memory_kb":0,"duration":674209658}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: true instanceof true throw TypeError\" }\n    at ../../test262/test/language/expressions/instanceof/S11.8.6_A3.js:17\n\n","path":"../../test262/test/language/expressions/instanceof/S11.8.6_A3.js","memory_kb":0,"duration":907651397}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Instant nanoseconds are not within a valid epoch range.\n    at Function (../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/until/argument-string-limits.js:21)\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/until/argument-string-limits.js","memory_kb":0,"duration":547932082}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/until/argument-string-limits.js","memory_kb":7808,"duration":965600402}
