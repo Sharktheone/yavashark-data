@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"Expected a ReferenceError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at ../../test262/test/language/types/reference/8.7.2-1-s.js:13\n\n","path":"../../test262/test/language/types/reference/8.7.2-1-s.js","memory_kb":0,"duration":184031365}
+{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/types/reference/8.7.2-1-s.js","memory_kb":0,"duration":136259525}
