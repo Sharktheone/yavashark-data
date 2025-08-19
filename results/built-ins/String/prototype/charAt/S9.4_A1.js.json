@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(x)\n    at Function (../../test262/test/built-ins/String/prototype/charAt/S9.4_A1.js:18)\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/S9.4_A1.js","memory_kb":0,"duration":1217863857}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found String(x)\n    at Function (../../test262/test/built-ins/String/prototype/charAt/S9.4_A1.js:18)\n\n","path":"../../test262/test/built-ins/String/prototype/charAt/S9.4_A1.js","memory_kb":0,"duration":116643160}
