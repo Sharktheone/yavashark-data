@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/prototype-of-weakmap.js:10\n\n","path":"../../test262/test/built-ins/WeakMap/prototype-of-weakmap.js","memory_kb":8908,"duration":112125172}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/prototype-of-weakmap.js:10\n\n","path":"../../test262/test/built-ins/WeakMap/prototype-of-weakmap.js","memory_kb":9036,"duration":911807017}

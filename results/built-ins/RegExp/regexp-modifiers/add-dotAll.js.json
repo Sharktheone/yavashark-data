@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid token at named capture group identifier\n    at ../../test262/test/built-ins/RegExp/regexp-modifiers/add-dotAll.js:36\n\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/add-dotAll.js","memory_kb":7624,"duration":316652413}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid token at named capture group identifier\n    at ../../test262/test/built-ins/RegExp/regexp-modifiers/add-dotAll.js:36\n\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/add-dotAll.js","memory_kb":7372,"duration":310554129}

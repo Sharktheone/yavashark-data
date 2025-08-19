@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/toindex-bytelength-sab.js:47\n\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength-sab.js","memory_kb":6852,"duration":203191642}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/toindex-bytelength-sab.js:47\n\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength-sab.js","memory_kb":0,"duration":1484395051}
