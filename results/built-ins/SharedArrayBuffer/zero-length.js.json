@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/zero-length.js:21\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/zero-length.js","memory_kb":0,"duration":120460488}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/zero-length.js:21\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/zero-length.js","memory_kb":8656,"duration":111002468}
