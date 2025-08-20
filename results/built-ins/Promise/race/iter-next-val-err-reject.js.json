@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/iter-next-val-err-reject.js:48\n\n","path":"../../test262/test/built-ins/Promise/race/iter-next-val-err-reject.js","memory_kb":8912,"duration":55786538}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/iter-next-val-err-reject.js:48\n\n","path":"../../test262/test/built-ins/Promise/race/iter-next-val-err-reject.js","memory_kb":0,"duration":1503614665}
