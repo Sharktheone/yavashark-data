@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/drop/argument-effect-order.js:16\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/argument-effect-order.js","memory_kb":8780,"duration":199266539}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/drop/argument-effect-order.js:16\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/argument-effect-order.js","memory_kb":0,"duration":2368423732}
