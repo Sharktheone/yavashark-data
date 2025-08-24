@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/tostring-2.js:11)\n\n","path":"../../test262/test/built-ins/Error/tostring-2.js","memory_kb":0,"duration":619632784}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not a function\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/tostring-2.js:11)\n\n","path":"../../test262/test/built-ins/Error/tostring-2.js","memory_kb":0,"duration":1776197413}
