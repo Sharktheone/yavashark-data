@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/instance-extensible.js:30\n\n","path":"../../test262/test/built-ins/WeakRef/instance-extensible.js","memory_kb":0,"duration":128975100}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/instance-extensible.js:30\n\n","path":"../../test262/test/built-ins/WeakRef/instance-extensible.js","memory_kb":0,"duration":783739168}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExpStringIteratorPrototype/next/name.js:25\n\n","path":"../../test262/test/built-ins/RegExpStringIteratorPrototype/next/name.js","memory_kb":8288,"duration":623990008}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExpStringIteratorPrototype/next/name.js:25\n\n","path":"../../test262/test/built-ins/RegExpStringIteratorPrototype/next/name.js","memory_kb":7764,"duration":420669414}

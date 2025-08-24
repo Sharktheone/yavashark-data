@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/invoke-resolve.js:47\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-resolve.js","memory_kb":0,"duration":172384039}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/invoke-resolve.js:47\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-resolve.js","memory_kb":0,"duration":58318947}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at Function (../../test262/test/built-ins/Date/proto-from-ctor-realm-zero.js:28)\n\n","path":"../../test262/test/built-ins/Date/proto-from-ctor-realm-zero.js","memory_kb":8832,"duration":87607243}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function is not a constructor\n    at Function (../../test262/test/built-ins/Date/proto-from-ctor-realm-zero.js:28)\n\n","path":"../../test262/test/built-ins/Date/proto-from-ctor-realm-zero.js","memory_kb":0,"duration":800794331}
