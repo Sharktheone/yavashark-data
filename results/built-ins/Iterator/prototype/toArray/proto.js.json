@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/toArray/proto.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/toArray/proto.js","memory_kb":0,"duration":832308824}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/toArray/proto.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/toArray/proto.js","memory_kb":0,"duration":172745919}

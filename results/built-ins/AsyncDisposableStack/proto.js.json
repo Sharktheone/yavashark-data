@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: AsyncDisposableStack is not defined\n    at ../../test262/test/built-ins/AsyncDisposableStack/proto.js:14\n\n","path":"../../test262/test/built-ins/AsyncDisposableStack/proto.js","memory_kb":0,"duration":126643032}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: AsyncDisposableStack is not defined\n    at ../../test262/test/built-ins/AsyncDisposableStack/proto.js:14\n\n","path":"../../test262/test/built-ins/AsyncDisposableStack/proto.js","memory_kb":0,"duration":80024957}
