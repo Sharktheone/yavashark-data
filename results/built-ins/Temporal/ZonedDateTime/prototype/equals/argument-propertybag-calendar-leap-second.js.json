@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/equals/argument-propertybag-calendar-leap-second.js","memory_kb":0,"duration":30461779}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid subtag\n    at Function (../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/equals/argument-propertybag-calendar-leap-second.js:16)\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/equals/argument-propertybag-calendar-leap-second.js","memory_kb":0,"duration":236899685}
