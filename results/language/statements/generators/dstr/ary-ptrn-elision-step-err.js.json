@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at crates/yavashark_vm/src/generator.rs:96:50:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elision-step-err.js","memory_kb":0,"duration":213468853}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/generators/dstr/ary-ptrn-elision-step-err.js","memory_kb":0,"duration":352741979}

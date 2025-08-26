@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/negative-bytelength-throws-sab.js:30\n\n","path":"../../test262/test/built-ins/DataView/negative-bytelength-throws-sab.js","memory_kb":9512,"duration":69451281}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/DataView/negative-bytelength-throws-sab.js:30\n\n","path":"../../test262/test/built-ins/DataView/negative-bytelength-throws-sab.js","memory_kb":8540,"duration":27698939}
