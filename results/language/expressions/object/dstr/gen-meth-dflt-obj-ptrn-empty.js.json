@@ -1,1 +1,1 @@
-{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' panicked at /home/runner/work/yavashark/yavashark/crates/yavashark_compiler/src/compiler/pat.rs:41:18:\nnot yet implemented\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-dflt-obj-ptrn-empty.js","memory_kb":0,"duration":1821430787}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-dflt-obj-ptrn-empty.js","memory_kb":0,"duration":179400164}
