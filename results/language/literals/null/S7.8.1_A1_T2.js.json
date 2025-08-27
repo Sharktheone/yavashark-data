@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: RegExp(\"0\").exec(\"1\") === null\" }\n    at ../../test262/test/language/literals/null/S7.8.1_A1_T2.js:12\n\n","path":"../../test262/test/language/literals/null/S7.8.1_A1_T2.js","memory_kb":0,"duration":331544781}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#1: RegExp(\"0\").exec(\"1\") === null\" }\n    at ../../test262/test/language/literals/null/S7.8.1_A1_T2.js:12\n\n","path":"../../test262/test/language/literals/null/S7.8.1_A1_T2.js","memory_kb":0,"duration":224582837}

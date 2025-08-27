@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-ptrn-elision.js:80)\n\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-ptrn-elision.js","memory_kb":0,"duration":245092949}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-static-dflt-ary-ptrn-elision.js","memory_kb":0,"duration":444873934}

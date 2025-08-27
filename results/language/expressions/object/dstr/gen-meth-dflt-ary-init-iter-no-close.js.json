@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at GeneratorFunction (../../test262/test/language/expressions/object/dstr/gen-meth-dflt-ary-init-iter-no-close.js:77)\n\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-dflt-ary-init-iter-no-close.js","memory_kb":0,"duration":172285187}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/dstr/gen-meth-dflt-ary-init-iter-no-close.js","memory_kb":0,"duration":9114942}

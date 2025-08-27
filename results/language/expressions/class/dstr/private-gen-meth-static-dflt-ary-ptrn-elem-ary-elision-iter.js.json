@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at GeneratorFunction (../../test262/test/language/expressions/class/dstr/private-gen-meth-static-dflt-ary-ptrn-elem-ary-elision-iter.js:94)\n\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-static-dflt-ary-ptrn-elem-ary-elision-iter.js","memory_kb":0,"duration":257866007}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-static-dflt-ary-ptrn-elem-ary-elision-iter.js","memory_kb":0,"duration":69992757}

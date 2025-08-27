@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/statements/async-generator/dstr/ary-ptrn-elem-ary-elision-init.js:47)\n\n","path":"../../test262/test/language/statements/async-generator/dstr/ary-ptrn-elem-ary-elision-init.js","memory_kb":0,"duration":674720571}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-generator/dstr/ary-ptrn-elem-ary-elision-init.js","memory_kb":0,"duration":884881194}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/statements/class/dstr/async-gen-meth-dflt-obj-ptrn-id-init-fn-name-arrow.js:65)\n\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-dflt-obj-ptrn-id-init-fn-name-arrow.js","memory_kb":0,"duration":1247466295}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-dflt-obj-ptrn-id-init-fn-name-arrow.js","memory_kb":0,"duration":218587084}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at GeneratorFunction (../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js:61)\n\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js","memory_kb":0,"duration":345126966}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/generators/dstr/dflt-ary-ptrn-elem-ary-elem-iter.js","memory_kb":8636,"duration":309783505}
