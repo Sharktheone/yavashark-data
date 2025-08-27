@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/add/adds-symbol-element.js:12\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/add/adds-symbol-element.js","memory_kb":0,"duration":21611848}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/add/adds-symbol-element.js:12\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/add/adds-symbol-element.js","memory_kb":0,"duration":59580209}
