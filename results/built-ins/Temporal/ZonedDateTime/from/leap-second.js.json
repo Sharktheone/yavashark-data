@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: DateTime strings must contain a valid ISO time.\n    at Function (../../test262/test/built-ins/Temporal/ZonedDateTime/from/leap-second.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/from/leap-second.js","memory_kb":0,"duration":148930523}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/from/leap-second.js","memory_kb":0,"duration":112279477}

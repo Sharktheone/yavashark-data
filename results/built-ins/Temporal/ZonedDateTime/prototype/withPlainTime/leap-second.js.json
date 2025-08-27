@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: RangeError: Unexpected character found after parsing was completed.\n    at Function (../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/withPlainTime/leap-second.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/withPlainTime/leap-second.js","memory_kb":0,"duration":1688396533}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/ZonedDateTime/prototype/withPlainTime/leap-second.js","memory_kb":0,"duration":395415299}
