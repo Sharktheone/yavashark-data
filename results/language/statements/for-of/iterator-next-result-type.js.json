@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: done does not exist on object\n    at ../../test262/test/language/statements/for-of/iterator-next-result-type.js:70\n\n","path":"../../test262/test/language/statements/for-of/iterator-next-result-type.js","memory_kb":0,"duration":193024625}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: done does not exist on object\n    at ../../test262/test/language/statements/for-of/iterator-next-result-type.js:70\n\n","path":"../../test262/test/language/statements/for-of/iterator-next-result-type.js","memory_kb":0,"duration":607932847}
