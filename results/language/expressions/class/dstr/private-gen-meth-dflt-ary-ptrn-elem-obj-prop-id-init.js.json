@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at GeneratorFunction (../../test262/test/language/expressions/class/dstr/private-gen-meth-dflt-ary-ptrn-elem-obj-prop-id-init.js:100)\n\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-dflt-ary-ptrn-elem-obj-prop-id-init.js","memory_kb":0,"duration":369494097}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-dflt-ary-ptrn-elem-obj-prop-id-init.js","memory_kb":0,"duration":96348777}

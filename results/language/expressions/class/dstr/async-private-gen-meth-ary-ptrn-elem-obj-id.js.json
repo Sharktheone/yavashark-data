@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/expressions/class/dstr/async-private-gen-meth-ary-ptrn-elem-obj-id.js:71)\n\n","path":"../../test262/test/language/expressions/class/dstr/async-private-gen-meth-ary-ptrn-elem-obj-id.js","memory_kb":0,"duration":2651196238}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/class/dstr/async-private-gen-meth-ary-ptrn-elem-obj-id.js","memory_kb":0,"duration":1723093743}

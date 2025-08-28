@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/expressions/async-generator/dstr/named-obj-ptrn-prop-obj-init.js:44)\n\n","path":"../../test262/test/language/expressions/async-generator/dstr/named-obj-ptrn-prop-obj-init.js","memory_kb":0,"duration":2122864916}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/async-generator/dstr/named-obj-ptrn-prop-obj-init.js","memory_kb":0,"duration":1364249688}

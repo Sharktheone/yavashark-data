@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at AsyncGeneratorFunction (../../test262/test/language/expressions/async-generator/dstr/dflt-obj-ptrn-id-init-skipped.js:45)\n\n","path":"../../test262/test/language/expressions/async-generator/dstr/dflt-obj-ptrn-id-init-skipped.js","memory_kb":0,"duration":330925813}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/async-generator/dstr/dflt-obj-ptrn-id-init-skipped.js","memory_kb":0,"duration":282914450}
