@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Incorrect ControlFlow\n    at ../../test262/test/language/expressions/class/scope-gen-meth-paramsbody-var-open.js:35\n\n","path":"../../test262/test/language/expressions/class/scope-gen-meth-paramsbody-var-open.js","memory_kb":0,"duration":113945172}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/scope-gen-meth-paramsbody-var-open.js","memory_kb":0,"duration":377068029}

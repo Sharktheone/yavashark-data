@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Incorrect ControlFlow\n    at GeneratorFunction (../../test262/test/language/expressions/class/dstr/private-gen-meth-ary-ptrn-elem-ary-empty-init.js:93)\n\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-ary-ptrn-elem-ary-empty-init.js","memory_kb":0,"duration":1516912111}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/class/dstr/private-gen-meth-ary-ptrn-elem-ary-empty-init.js","memory_kb":0,"duration":1164088663}

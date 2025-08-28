@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Incorrect ControlFlow\n    at ../../test262/test/language/expressions/generators/scope-param-elem-var-close.js:29\n\n","path":"../../test262/test/language/expressions/generators/scope-param-elem-var-close.js","memory_kb":7828,"duration":278061727}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/generators/scope-param-elem-var-close.js","memory_kb":0,"duration":196283479}
