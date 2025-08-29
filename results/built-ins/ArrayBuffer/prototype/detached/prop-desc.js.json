@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/ArrayBuffer/prototype/detached/prop-desc.js:19\n\n","path":"../../test262/test/built-ins/ArrayBuffer/prototype/detached/prop-desc.js","memory_kb":0,"duration":109199925}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/ArrayBuffer/prototype/detached/prop-desc.js:19\n\n","path":"../../test262/test/built-ins/ArrayBuffer/prototype/detached/prop-desc.js","memory_kb":0,"duration":243453509}

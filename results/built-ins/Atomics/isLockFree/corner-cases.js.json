@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/isLockFree/corner-cases.js:11\n\n","path":"../../test262/test/built-ins/Atomics/isLockFree/corner-cases.js","memory_kb":0,"duration":995744440}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/isLockFree/corner-cases.js:11\n\n","path":"../../test262/test/built-ins/Atomics/isLockFree/corner-cases.js","memory_kb":0,"duration":165086028}

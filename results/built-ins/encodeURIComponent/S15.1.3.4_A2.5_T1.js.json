@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#E000-FFFF \" }\n    at ../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A2.5_T1.js:49\n\n","path":"../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A2.5_T1.js","memory_kb":9916,"duration":9838966372}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"#E000-FFFF \" }\n    at ../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A2.5_T1.js:49\n\n","path":"../../test262/test/built-ins/encodeURIComponent/S15.1.3.4_A2.5_T1.js","memory_kb":9828,"duration":9668713671}

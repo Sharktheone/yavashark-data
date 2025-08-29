@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/name.js:28\n\n","path":"../../test262/test/built-ins/SuppressedError/name.js","memory_kb":9184,"duration":46012781}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/name.js:28\n\n","path":"../../test262/test/built-ins/SuppressedError/name.js","memory_kb":7980,"duration":47826448}
