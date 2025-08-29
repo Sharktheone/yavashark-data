@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/if-stmt-else-decl-global-init.js:29\n\n","path":"../../test262/test/annexB/language/global-code/if-stmt-else-decl-global-init.js","memory_kb":0,"duration":52636825}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/annexB/language/global-code/if-stmt-else-decl-global-init.js:29\n\n","path":"../../test262/test/annexB/language/global-code/if-stmt-else-decl-global-init.js","memory_kb":7188,"duration":69923783}

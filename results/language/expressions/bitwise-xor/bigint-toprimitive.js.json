@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: cannot add BigInt and Number\n    at ../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js","memory_kb":10424,"duration":3154531661}
+{"status":"FAIL","msg":"FAIL:\n TypeError: cannot add BigInt and Number\n    at ../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/bitwise-xor/bigint-toprimitive.js","memory_kb":8000,"duration":64516096}
