@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: value does not exist on object\n    at Function (../../test262/test/annexB/language/expressions/yield/star-iterable-throw-emulates-undefined-throws-when-called.js:37)\n\n","path":"../../test262/test/annexB/language/expressions/yield/star-iterable-throw-emulates-undefined-throws-when-called.js","memory_kb":0,"duration":26259875}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/annexB/language/expressions/yield/star-iterable-throw-emulates-undefined-throws-when-called.js","memory_kb":0,"duration":353993606}

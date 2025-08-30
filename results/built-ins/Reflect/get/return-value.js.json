@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: p does not exist on object\n    at Function (../../test262/test/built-ins/Reflect/get/return-value.js:63)\n\n","path":"../../test262/test/built-ins/Reflect/get/return-value.js","memory_kb":0,"duration":379968188}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: p does not exist on object\n    at Function (../../test262/test/built-ins/Reflect/get/return-value.js:63)\n\n","path":"../../test262/test/built-ins/Reflect/get/return-value.js","memory_kb":0,"duration":39032972}

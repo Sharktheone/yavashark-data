@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/take/limit-tonumber.js:21\n\n","path":"../../test262/test/built-ins/Iterator/prototype/take/limit-tonumber.js","memory_kb":8804,"duration":64990761}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/take/limit-tonumber.js:21\n\n","path":"../../test262/test/built-ins/Iterator/prototype/take/limit-tonumber.js","memory_kb":0,"duration":78860634}
