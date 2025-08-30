@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/with/all-positive.js:72\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/with/all-positive.js","memory_kb":0,"duration":78120371}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Temporal/Duration/prototype/with/all-positive.js:72\n\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/with/all-positive.js","memory_kb":11036,"duration":112589127}
