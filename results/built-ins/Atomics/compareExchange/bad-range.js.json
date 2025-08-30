@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/compareExchange/bad-range.js:12\n\n","path":"../../test262/test/built-ins/Atomics/compareExchange/bad-range.js","memory_kb":0,"duration":108627534}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/compareExchange/bad-range.js:12\n\n","path":"../../test262/test/built-ins/Atomics/compareExchange/bad-range.js","memory_kb":8940,"duration":1000825605}
