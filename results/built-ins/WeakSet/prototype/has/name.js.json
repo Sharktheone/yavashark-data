@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/has/name.js:15\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/has/name.js","memory_kb":7536,"duration":64829084}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/prototype/has/name.js:15\n\n","path":"../../test262/test/built-ins/WeakSet/prototype/has/name.js","memory_kb":0,"duration":15902916}
