@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/WeakSet/is-a-constructor.js","memory_kb":0,"duration":144756111}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakSet is not defined\n    at ../../test262/test/built-ins/WeakSet/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/WeakSet/is-a-constructor.js","memory_kb":0,"duration":88506756}
