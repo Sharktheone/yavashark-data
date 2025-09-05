@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:31\n\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":0,"duration":164175680}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:31\n\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":0,"duration":157789939}
