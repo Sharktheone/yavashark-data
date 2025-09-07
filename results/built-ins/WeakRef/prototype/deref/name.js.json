@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/prototype/deref/name.js:26\n\n","path":"../../test262/test/built-ins/WeakRef/prototype/deref/name.js","memory_kb":0,"duration":286093782}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakRef is not defined\n    at ../../test262/test/built-ins/WeakRef/prototype/deref/name.js:26\n\n","path":"../../test262/test/built-ins/WeakRef/prototype/deref/name.js","memory_kb":0,"duration":631412436}
