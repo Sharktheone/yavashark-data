@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/sort/comparefn-grow.js:41\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/sort/comparefn-grow.js","memory_kb":0,"duration":47252510}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/sort/comparefn-grow.js:41\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/sort/comparefn-grow.js","memory_kb":0,"duration":41328414}

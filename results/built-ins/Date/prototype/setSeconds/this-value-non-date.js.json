@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Date/prototype/setSeconds/this-value-non-date.js","memory_kb":0,"duration":77593668}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"validation precedes input coercion Expected SameValue(«3», «0») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Date/prototype/setSeconds/this-value-non-date.js:43\n\n","path":"../../test262/test/built-ins/Date/prototype/setSeconds/this-value-non-date.js","memory_kb":0,"duration":725080870}
