@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-bigint.js","memory_kb":0,"duration":405161322}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: TypeError: Value is not a function\n\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-bigint.js","memory_kb":0,"duration":14389799}

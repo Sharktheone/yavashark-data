@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/iterator-result.js","memory_kb":0,"duration":54349125}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/iterator-result.js:43\n\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/iterator-result.js","memory_kb":0,"duration":170426727}

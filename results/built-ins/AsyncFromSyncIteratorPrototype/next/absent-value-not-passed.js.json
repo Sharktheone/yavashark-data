@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/next/absent-value-not-passed.js","memory_kb":7528,"duration":42649372}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: ReferenceError: Object is not async iterable\n\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/next/absent-value-not-passed.js","memory_kb":0,"duration":43001207}

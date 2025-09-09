@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/object/method-definition/forbidden-ext/b1/async-gen-meth-forbidden-ext-direct-access-prop-caller.js","memory_kb":0,"duration":169891610}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: TypeError: Value is not an object\n\nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/object/method-definition/forbidden-ext/b1/async-gen-meth-forbidden-ext-direct-access-prop-caller.js","memory_kb":0,"duration":46625775}

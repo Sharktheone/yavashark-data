@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-func-decl-dstr-array-empty-val-string.js","memory_kb":0,"duration":184256424}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: TypeError: expected object\n\nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-func-decl-dstr-array-empty-val-string.js","memory_kb":0,"duration":791894699}

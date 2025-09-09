@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/all/invoke-then-get-error-reject.js","memory_kb":0,"duration":99023354}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Promise/all/invoke-then-get-error-reject.js","memory_kb":10164,"duration":30186501462}
