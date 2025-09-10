@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ns is not defined\n    at ../../test262/test/language/module-code/instn-star-ambiguous.js:33\n\n","path":"../../test262/test/language/module-code/instn-star-ambiguous.js","memory_kb":0,"duration":166021207}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ns is not defined\n    at ../../test262/test/language/module-code/instn-star-ambiguous.js:33\n\n","path":"../../test262/test/language/module-code/instn-star-ambiguous.js","memory_kb":9220,"duration":2006298172}

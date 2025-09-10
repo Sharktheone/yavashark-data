@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-from-nans.js:27\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-from-nans.js","memory_kb":0,"duration":125054704}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-from-nans.js:27\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-from-nans.js","memory_kb":0,"duration":1363280439}

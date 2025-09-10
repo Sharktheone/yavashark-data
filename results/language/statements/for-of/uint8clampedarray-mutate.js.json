@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint8clampedarray-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray-mutate.js","memory_kb":0,"duration":77241059}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint8clampedarray-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint8clampedarray-mutate.js","memory_kb":0,"duration":805040713}
