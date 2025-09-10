@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/harness/regExpUtils.js:53\n    at testPropertyEscapes (../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_SignWriting.js:24)\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_SignWriting.js","memory_kb":0,"duration":4378628229}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_SignWriting.js","memory_kb":14600,"duration":34055376197}

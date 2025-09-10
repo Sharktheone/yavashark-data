@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { message: \"arr.length Expected SameValue(«3», «4») to be true\", name: \"Test262Error\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-264.js:23\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-264.js","memory_kb":0,"duration":233193236}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-264.js","memory_kb":0,"duration":1766383575}
