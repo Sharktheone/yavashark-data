@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint16Array.js:11\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint16Array.js","memory_kb":0,"duration":139263535}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint16Array.js:11\n\n","path":"../../test262/test/built-ins/ArrayIteratorPrototype/next/Uint16Array.js","memory_kb":6200,"duration":76236070}

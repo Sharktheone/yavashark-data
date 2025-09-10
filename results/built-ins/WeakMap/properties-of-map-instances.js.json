@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/properties-of-map-instances.js:10\n\n","path":"../../test262/test/built-ins/WeakMap/properties-of-map-instances.js","memory_kb":0,"duration":332152739}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/properties-of-map-instances.js:10\n\n","path":"../../test262/test/built-ins/WeakMap/properties-of-map-instances.js","memory_kb":0,"duration":204783486}
