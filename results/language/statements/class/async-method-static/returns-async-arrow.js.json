@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«[object Promise]», «1») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/class/async-method-static/returns-async-arrow.js","memory_kb":0,"duration":81631064}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«[object Promise]», «1») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/class/async-method-static/returns-async-arrow.js","memory_kb":0,"duration":317450207}

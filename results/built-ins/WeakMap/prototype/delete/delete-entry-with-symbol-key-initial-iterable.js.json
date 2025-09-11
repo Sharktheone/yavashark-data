@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/prototype/delete/delete-entry-with-symbol-key-initial-iterable.js:22\n\n","path":"../../test262/test/built-ins/WeakMap/prototype/delete/delete-entry-with-symbol-key-initial-iterable.js","memory_kb":0,"duration":1393244579}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/WeakMap/prototype/delete/delete-entry-with-symbol-key-initial-iterable.js","memory_kb":10300,"duration":31418017}

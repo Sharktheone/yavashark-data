@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: WeakMap is not defined\n    at ../../test262/test/built-ins/WeakMap/prototype/getOrInsert/adds-object-element.js:17\n\n","path":"../../test262/test/built-ins/WeakMap/prototype/getOrInsert/adds-object-element.js","memory_kb":0,"duration":1818711895}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/WeakMap/prototype/getOrInsert/adds-object-element.js","memory_kb":0,"duration":26781213}

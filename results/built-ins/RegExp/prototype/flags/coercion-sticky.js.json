@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/flags/coercion-sticky.js:16\n\n","path":"../../test262/test/built-ins/RegExp/prototype/flags/coercion-sticky.js","memory_kb":7680,"duration":8361771974}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/flags/coercion-sticky.js:16\n\n","path":"../../test262/test/built-ins/RegExp/prototype/flags/coercion-sticky.js","memory_kb":8688,"duration":214165589}
