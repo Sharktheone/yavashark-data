@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/reject-ignored-deferred.js:51\n\n","path":"../../test262/test/built-ins/Promise/race/reject-ignored-deferred.js","memory_kb":0,"duration":202949917}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/reject-ignored-deferred.js:51\n\n","path":"../../test262/test/built-ins/Promise/race/reject-ignored-deferred.js","memory_kb":9076,"duration":85011827}
