@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/any/call-reject-element-items.js:49\n\n","path":"../../test262/test/built-ins/Promise/any/call-reject-element-items.js","memory_kb":0,"duration":475428938}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/any/call-reject-element-items.js:49\n\n","path":"../../test262/test/built-ins/Promise/any/call-reject-element-items.js","memory_kb":0,"duration":1298551583}

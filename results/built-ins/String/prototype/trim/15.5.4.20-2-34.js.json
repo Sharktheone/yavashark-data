@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object(1)\n    at Function (../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-34.js:11)\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-34.js","memory_kb":8912,"duration":268075332}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object(1)\n    at Function (../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-34.js:11)\n\n","path":"../../test262/test/built-ins/String/prototype/trim/15.5.4.20-2-34.js","memory_kb":0,"duration":415088637}
