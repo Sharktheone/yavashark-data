@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/values/resizable-buffer.js:40\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/values/resizable-buffer.js","memory_kb":0,"duration":675306600}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/TypedArray/prototype/values/resizable-buffer.js:40\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/values/resizable-buffer.js","memory_kb":10740,"duration":167075715}
