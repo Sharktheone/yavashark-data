@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime.js","memory_kb":11420,"duration":111452110}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at Function (../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/from/argument-zoneddatetime.js","memory_kb":8532,"duration":117811497}
