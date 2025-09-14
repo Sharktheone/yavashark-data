@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'constructor' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/constructor.js:17\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/constructor.js","memory_kb":0,"duration":211957953}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'constructor' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/constructor.js:17\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/constructor.js","memory_kb":0,"duration":109767172}
