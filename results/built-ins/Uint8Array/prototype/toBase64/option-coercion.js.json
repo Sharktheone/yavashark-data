@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Uint8Array/prototype/toBase64/option-coercion.js:34\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/option-coercion.js","memory_kb":0,"duration":244711368}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Uint8Array/prototype/toBase64/option-coercion.js:34\n\n","path":"../../test262/test/built-ins/Uint8Array/prototype/toBase64/option-coercion.js","memory_kb":0,"duration":200828561}
