@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/coerce-unicode.js:21\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/coerce-unicode.js","memory_kb":0,"duration":382978806}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/coerce-unicode.js:21\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/coerce-unicode.js","memory_kb":0,"duration":354658382}

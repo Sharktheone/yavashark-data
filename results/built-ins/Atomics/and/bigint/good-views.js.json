@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/and/bigint/good-views.js:9\n\n","path":"../../test262/test/built-ins/Atomics/and/bigint/good-views.js","memory_kb":0,"duration":29973998}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/and/bigint/good-views.js:9\n\n","path":"../../test262/test/built-ins/Atomics/and/bigint/good-views.js","memory_kb":0,"duration":668654486}

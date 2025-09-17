@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/ArrayBuffer/prototype/resizable/name.js:19\n\n","path":"../../test262/test/built-ins/ArrayBuffer/prototype/resizable/name.js","memory_kb":8760,"duration":126904366}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/ArrayBuffer/prototype/resizable/name.js:19\n\n","path":"../../test262/test/built-ins/ArrayBuffer/prototype/resizable/name.js","memory_kb":8052,"duration":114095202}

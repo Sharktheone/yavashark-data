@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint16array.js:20\n\n","path":"../../test262/test/language/statements/for-of/uint16array.js","memory_kb":0,"duration":223886367}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint16array.js:20\n\n","path":"../../test262/test/language/statements/for-of/uint16array.js","memory_kb":0,"duration":618426638}

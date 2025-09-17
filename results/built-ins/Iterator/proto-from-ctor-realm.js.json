@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/proto-from-ctor-realm.js:15\n\n","path":"../../test262/test/built-ins/Iterator/proto-from-ctor-realm.js","memory_kb":0,"duration":621855234}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/proto-from-ctor-realm.js:15\n\n","path":"../../test262/test/built-ins/Iterator/proto-from-ctor-realm.js","memory_kb":0,"duration":118780931}
