@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «7») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/head-lhs-async.js","memory_kb":0,"duration":455178822}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «7») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/head-lhs-async.js","memory_kb":9344,"duration":57514460}
