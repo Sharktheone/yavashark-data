@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(10.0)\n    at Function (../../test262/test/built-ins/Date/prototype/toJSON/to-object.js:26)\n\n","path":"../../test262/test/built-ins/Date/prototype/toJSON/to-object.js","memory_kb":8816,"duration":214237815}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(10.0)\n    at Function (../../test262/test/built-ins/Date/prototype/toJSON/to-object.js:26)\n\n","path":"../../test262/test/built-ins/Date/prototype/toJSON/to-object.js","memory_kb":0,"duration":616298782}
