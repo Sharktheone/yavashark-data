@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(0.0)\n    at Function (../../test262/test/built-ins/Object/freeze/15.2.3.9-1.js:11)\n\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1.js","memory_kb":8920,"duration":1007308104}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(0.0)\n    at Function (../../test262/test/built-ins/Object/freeze/15.2.3.9-1.js:11)\n\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1.js","memory_kb":9496,"duration":105979718}
