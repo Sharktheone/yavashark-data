@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-non-callable.js:32\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-non-callable.js","memory_kb":8728,"duration":1706553665}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-non-callable.js:32\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-non-callable.js","memory_kb":10328,"duration":92866844}
