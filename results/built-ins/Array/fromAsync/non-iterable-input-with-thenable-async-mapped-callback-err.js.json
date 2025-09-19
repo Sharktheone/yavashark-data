@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Value is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/non-iterable-input-with-thenable-async-mapped-callback-err.js","memory_kb":0,"duration":39695158}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Value is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/non-iterable-input-with-thenable-async-mapped-callback-err.js","memory_kb":0,"duration":80553070}
