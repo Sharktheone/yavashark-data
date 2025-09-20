@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/TypedArray/Symbol.species/name.js:25\n\n","path":"../../test262/test/built-ins/TypedArray/Symbol.species/name.js","memory_kb":0,"duration":409879005}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/TypedArray/Symbol.species/name.js:25\n\n","path":"../../test262/test/built-ins/TypedArray/Symbol.species/name.js","memory_kb":0,"duration":177277344}
