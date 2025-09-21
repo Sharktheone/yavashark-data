@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-boundary-cases.js:28\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-boundary-cases.js","memory_kb":0,"duration":1386094417}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-boundary-cases.js:28\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-boundary-cases.js","memory_kb":0,"duration":5708051323}
