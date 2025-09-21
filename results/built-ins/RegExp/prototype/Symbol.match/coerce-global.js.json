@@ -1,1 +1,1 @@
-{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.match/coerce-global.js","memory_kb":0,"duration":12482540519}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.match/coerce-global.js:35\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.match/coerce-global.js","memory_kb":0,"duration":530993873}

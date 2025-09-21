@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/result-coerce-matched-global.js","memory_kb":0,"duration":12580649121}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/result-coerce-matched-global.js:52\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/result-coerce-matched-global.js","memory_kb":0,"duration":19205356111}

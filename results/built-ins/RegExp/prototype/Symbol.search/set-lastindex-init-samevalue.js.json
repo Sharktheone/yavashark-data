@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.search/set-lastindex-init-samevalue.js","memory_kb":0,"duration":13237617330}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.search/set-lastindex-init-samevalue.js:29\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.search/set-lastindex-init-samevalue.js","memory_kb":0,"duration":17610582964}
