@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/exec-invocation.js","memory_kb":0,"duration":31653608330}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/exec-invocation.js:39\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/exec-invocation.js","memory_kb":0,"duration":1492747264}

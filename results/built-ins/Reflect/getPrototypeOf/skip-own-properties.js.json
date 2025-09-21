@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js","memory_kb":0,"duration":2637252376}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Reflect/getPrototypeOf/skip-own-properties.js","memory_kb":8884,"duration":33504049151}

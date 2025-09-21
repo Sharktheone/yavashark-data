@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/g-pos-decrement.js","memory_kb":0,"duration":31541207344}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/g-pos-decrement.js:40\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/g-pos-decrement.js","memory_kb":0,"duration":2167809896}

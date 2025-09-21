@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"returns false Expected SameValue(«true», «false») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Reflect/set/receiver-is-not-object.js:39\n\n","path":"../../test262/test/built-ins/Reflect/set/receiver-is-not-object.js","memory_kb":0,"duration":3907950087}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Reflect/set/receiver-is-not-object.js","memory_kb":8180,"duration":37215881609}

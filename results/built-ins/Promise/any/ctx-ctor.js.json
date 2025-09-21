@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/any/ctx-ctor.js:28\n\n","path":"../../test262/test/built-ins/Promise/any/ctx-ctor.js","memory_kb":0,"duration":1152544408}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/any/ctx-ctor.js:28\n\n","path":"../../test262/test/built-ins/Promise/any/ctx-ctor.js","memory_kb":0,"duration":2334580661}
