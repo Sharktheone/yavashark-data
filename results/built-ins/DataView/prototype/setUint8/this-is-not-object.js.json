@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/DataView/prototype/setUint8/this-is-not-object.js","memory_kb":0,"duration":262969091}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/DataView/prototype/setUint8/this-is-not-object.js","memory_kb":0,"duration":10256035372}

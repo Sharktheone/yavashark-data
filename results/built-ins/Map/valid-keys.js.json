@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/Map/valid-keys.js:30\n\n","path":"../../test262/test/built-ins/Map/valid-keys.js","memory_kb":8600,"duration":2391192076}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert BigInt or Symbol to number\n    at ../../test262/test/built-ins/Map/valid-keys.js:30\n\n","path":"../../test262/test/built-ins/Map/valid-keys.js","memory_kb":0,"duration":348449833}

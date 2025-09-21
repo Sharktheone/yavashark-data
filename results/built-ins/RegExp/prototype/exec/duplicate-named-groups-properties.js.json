@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Duplicate capture group name\n    at ../../test262/test/built-ins/RegExp/prototype/exec/duplicate-named-groups-properties.js:11\n\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/duplicate-named-groups-properties.js","memory_kb":0,"duration":768873294}
+{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/prototype/exec/duplicate-named-groups-properties.js","memory_kb":0,"duration":12499585722}
