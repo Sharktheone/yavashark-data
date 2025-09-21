@@ -1,1 +1,1 @@
-{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Tai_Tham.js","memory_kb":0,"duration":38768136997}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Tai_Tham.js","memory_kb":12576,"duration":38251990720}

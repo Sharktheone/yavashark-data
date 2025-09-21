@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot read property 'value' of undefined\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-ignores-late-rejection.js","memory_kb":0,"duration":12028840892}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot read property 'value' of undefined\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-ignores-late-rejection.js","memory_kb":0,"duration":1058769679}

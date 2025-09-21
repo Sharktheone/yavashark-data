@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/S15.10.2.10_A4.1_T1.js","memory_kb":0,"duration":34665087644}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"#0: var arr = /\\u0000/.exec(\\u0000); arr[0] === \"\\u0000\". Actual. undefined\" }\n    at ../../test262/test/built-ins/RegExp/S15.10.2.10_A4.1_T1.js:14\n\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.10_A4.1_T1.js","memory_kb":0,"duration":5340907068}
