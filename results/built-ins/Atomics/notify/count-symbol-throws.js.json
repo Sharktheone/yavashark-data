@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-symbol-throws.js:20\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-symbol-throws.js","memory_kb":10184,"duration":936799809}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/notify/count-symbol-throws.js:20\n\n","path":"../../test262/test/built-ins/Atomics/notify/count-symbol-throws.js","memory_kb":9096,"duration":152029385}

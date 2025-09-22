@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/Atomics/Symbol.toStringTag.js","memory_kb":8648,"duration":1559856052}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/Atomics/Symbol.toStringTag.js","memory_kb":8632,"duration":44808191}
