@@ -1,1 +1,1 @@
-{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/lookBehind/captures-negative.js","memory_kb":0,"duration":35112930520}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/lookBehind/captures-negative.js:25\n\n","path":"../../test262/test/built-ins/RegExp/lookBehind/captures-negative.js","memory_kb":0,"duration":44719625}

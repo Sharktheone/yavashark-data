@@ -1,1 +1,1 @@
-{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replaceall.js","memory_kb":0,"duration":35107194778}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replaceall.js","memory_kb":0,"duration":32436306742}

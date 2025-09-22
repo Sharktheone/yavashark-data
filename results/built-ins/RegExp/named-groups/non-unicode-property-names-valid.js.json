@@ -1,1 +1,1 @@
-{"status":"RUNNER_ERROR","msg":"Failed to start process: context deadline exceeded","path":"../../test262/test/built-ins/RegExp/named-groups/non-unicode-property-names-valid.js","memory_kb":0,"duration":35107203875}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/named-groups/non-unicode-property-names-valid.js:44\n\n","path":"../../test262/test/built-ins/RegExp/named-groups/non-unicode-property-names-valid.js","memory_kb":8240,"duration":25861728850}
