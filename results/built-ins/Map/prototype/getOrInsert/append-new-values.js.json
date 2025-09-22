@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"Expected SameValue(«1», «\"valid\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Map/prototype/getOrInsert/append-new-values.js:39\n\n","path":"../../test262/test/built-ins/Map/prototype/getOrInsert/append-new-values.js","memory_kb":0,"duration":13156713553}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Map/prototype/getOrInsert/append-new-values.js","memory_kb":0,"duration":2342033850}
