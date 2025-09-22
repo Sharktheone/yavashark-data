@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Promise should be rejected when retrieving `then` property throws an error\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/resolve/arg-poisoned-then.js","memory_kb":9044,"duration":54240205}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Promise should be rejected when retrieving `then` property throws an error\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/resolve/arg-poisoned-then.js","memory_kb":7344,"duration":87852587}

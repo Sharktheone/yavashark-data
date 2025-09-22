@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Reflect/has/return-boolean.js","memory_kb":8668,"duration":33623163903}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"true from a prototype property Expected SameValue(«false», «true») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Reflect/has/return-boolean.js:40\n\n","path":"../../test262/test/built-ins/Reflect/has/return-boolean.js","memory_kb":0,"duration":10703126077}

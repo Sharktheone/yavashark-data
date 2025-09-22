@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid property name\n    at ../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Ol_Onal.js:24\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Ol_Onal.js","memory_kb":0,"duration":2118356651}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Ol_Onal.js","memory_kb":0,"duration":37653791204}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-rejected-non-obj.js","memory_kb":0,"duration":352833831}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-rejected-non-obj.js","memory_kb":0,"duration":38294072167}
