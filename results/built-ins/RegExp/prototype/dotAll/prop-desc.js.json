@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/dotAll/prop-desc.js:23\n\n","path":"../../test262/test/built-ins/RegExp/prototype/dotAll/prop-desc.js","memory_kb":0,"duration":413935616}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/RegExp/prototype/dotAll/prop-desc.js:23\n\n","path":"../../test262/test/built-ins/RegExp/prototype/dotAll/prop-desc.js","memory_kb":0,"duration":2609890574}

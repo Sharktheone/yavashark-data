@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/wait/symbol-for-timeout-throws.js:18\n\n","path":"../../test262/test/built-ins/Atomics/wait/symbol-for-timeout-throws.js","memory_kb":0,"duration":1051449988}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/wait/symbol-for-timeout-throws.js:18\n\n","path":"../../test262/test/built-ins/Atomics/wait/symbol-for-timeout-throws.js","memory_kb":0,"duration":1365485346}

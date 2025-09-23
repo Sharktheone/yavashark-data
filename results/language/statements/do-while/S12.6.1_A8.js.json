@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"#1: __odds === 5. Actual:  __odds ===10\" }\n    at ../../test262/test/language/statements/do-while/S12.6.1_A8.js:18\n\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A8.js","memory_kb":0,"duration":371809916}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A8.js","memory_kb":0,"duration":487309011}

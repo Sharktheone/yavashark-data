@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'slice' of undefined\n    at ../../test262/harness/temporalHelpers.js:350\n    at assertPlainYearMonth (../../test262/test/built-ins/Temporal/PlainYearMonth/from/leap-second.js:14)\n\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/from/leap-second.js","memory_kb":12300,"duration":54667447}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/from/leap-second.js","memory_kb":12412,"duration":77029737}
