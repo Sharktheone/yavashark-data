@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/getFloat16/return-infinity.js:19\n\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat16/return-infinity.js","memory_kb":0,"duration":1408812490}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/getFloat16/return-infinity.js:19\n\n","path":"../../test262/test/built-ins/DataView/prototype/getFloat16/return-infinity.js","memory_kb":0,"duration":217077510}

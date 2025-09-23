@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/JSON/stringify/value-string-escape-ascii.js","memory_kb":0,"duration":2953121987}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"Every ASCII 0x22 serializes to \\\" Expected SameValue(«-1», «4») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/JSON/stringify/value-string-escape-ascii.js:58\n\n","path":"../../test262/test/built-ins/JSON/stringify/value-string-escape-ascii.js","memory_kb":0,"duration":142985823}
