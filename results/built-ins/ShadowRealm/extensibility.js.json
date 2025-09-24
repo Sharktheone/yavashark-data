@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/extensibility.js:15\n\n","path":"../../test262/test/built-ins/ShadowRealm/extensibility.js","memory_kb":0,"duration":664020170}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/extensibility.js:15\n\n","path":"../../test262/test/built-ins/ShadowRealm/extensibility.js","memory_kb":8728,"duration":113833762}
