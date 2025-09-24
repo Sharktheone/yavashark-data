@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/proto.js:16\n\n","path":"../../test262/test/built-ins/Atomics/proto.js","memory_kb":0,"duration":1821773857}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/proto.js:16\n\n","path":"../../test262/test/built-ins/Atomics/proto.js","memory_kb":7788,"duration":860107752}
