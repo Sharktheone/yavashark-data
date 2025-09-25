@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/wait/length.js:27\n\n","path":"../../test262/test/built-ins/Atomics/wait/length.js","memory_kb":9236,"duration":1381942984}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/wait/length.js:27\n\n","path":"../../test262/test/built-ins/Atomics/wait/length.js","memory_kb":9668,"duration":1687148178}
