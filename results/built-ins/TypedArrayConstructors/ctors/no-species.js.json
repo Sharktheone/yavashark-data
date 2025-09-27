@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js","memory_kb":0,"duration":438246062}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Symbol(Symbol(iterator)) does not exist on object\n    at ../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js:27\n\n","path":"../../test262/test/built-ins/TypedArrayConstructors/ctors/no-species.js","memory_kb":0,"duration":52835727}
