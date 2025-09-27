@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/lookBehind/negative.js:21\n\n","path":"../../test262/test/built-ins/RegExp/lookBehind/negative.js","memory_kb":9016,"duration":52688040}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/lookBehind/negative.js:21\n\n","path":"../../test262/test/built-ins/RegExp/lookBehind/negative.js","memory_kb":8236,"duration":88034138}

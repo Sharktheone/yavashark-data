@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint32array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint32array-mutate.js","memory_kb":0,"duration":401762237}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/uint32array-mutate.js:21\n\n","path":"../../test262/test/language/statements/for-of/uint32array-mutate.js","memory_kb":0,"duration":399710058}
