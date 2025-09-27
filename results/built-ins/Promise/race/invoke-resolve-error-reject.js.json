@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/race/invoke-resolve-error-reject.js:34\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-resolve-error-reject.js","memory_kb":0,"duration":1354369976}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/race/invoke-resolve-error-reject.js:34\n\n","path":"../../test262/test/built-ins/Promise/race/invoke-resolve-error-reject.js","memory_kb":0,"duration":48557593}
