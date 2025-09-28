@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"#1: /\\;/\" }\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.4_T1.js:14\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.4_T1.js","memory_kb":0,"duration":355906108}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"#1: /\\;/\" }\n    at ../../test262/test/language/literals/regexp/S7.8.5_A1.4_T1.js:14\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A1.4_T1.js","memory_kb":0,"duration":107030087}

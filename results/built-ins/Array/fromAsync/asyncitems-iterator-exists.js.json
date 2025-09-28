@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: fromAsync does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-iterator-exists.js","memory_kb":0,"duration":83943551}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: fromAsync does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-iterator-exists.js","memory_kb":10200,"duration":95979847}
