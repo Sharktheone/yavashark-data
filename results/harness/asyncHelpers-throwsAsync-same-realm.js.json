@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Expected an object of type \"Object\", found \"yavashark_test262::test262::Test262\"\nPASS:\n undefined\n","path":"../../test262/test/harness/asyncHelpers-throwsAsync-same-realm.js","memory_kb":8656,"duration":80325512}
+{"status":"PASS","msg":"Test262:AsyncTestComplete\nPASS:\n undefined\n","path":"../../test262/test/harness/asyncHelpers-throwsAsync-same-realm.js","memory_kb":0,"duration":183001325}

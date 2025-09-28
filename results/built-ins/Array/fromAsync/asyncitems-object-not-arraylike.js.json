@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Value is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-object-not-arraylike.js","memory_kb":0,"duration":1607273301}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: fromAsync does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-object-not-arraylike.js","memory_kb":0,"duration":53983544}

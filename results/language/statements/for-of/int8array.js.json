@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/int8array.js:18\n\n","path":"../../test262/test/language/statements/for-of/int8array.js","memory_kb":0,"duration":331705371}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/int8array.js:18\n\n","path":"../../test262/test/language/statements/for-of/int8array.js","memory_kb":0,"duration":67204164}

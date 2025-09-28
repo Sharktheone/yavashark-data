@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-no-calls.js:41\n\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-no-calls.js","memory_kb":0,"duration":97102190}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but was resolved\nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-no-calls.js","memory_kb":8584,"duration":81155032}

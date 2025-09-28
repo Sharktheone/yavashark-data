@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { name: \"Test262Error\", message: \"Expected SameValue(«8», «0») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/TypedArray/prototype/byteOffset/resized-out-of-bounds.js:29\n\n","path":"../../test262/test/built-ins/TypedArray/prototype/byteOffset/resized-out-of-bounds.js","memory_kb":0,"duration":402643435}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/TypedArray/prototype/byteOffset/resized-out-of-bounds.js","memory_kb":0,"duration":1210158216}
