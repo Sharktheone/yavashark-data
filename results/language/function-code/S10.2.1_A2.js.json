@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/S10.2.1_A2.js","memory_kb":0,"duration":411052440}
+{"status":"PARSE_ERROR","msg":"PARSE_ERROR:\n\"Identifier 'x' has already been declared\"\n\nthread 'main' panicked at crates/yavashark_test262/src/utils.rs:69:25:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/function-code/S10.2.1_A2.js","memory_kb":0,"duration":251871717}

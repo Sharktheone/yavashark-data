@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Atomics is not defined\n    at ../../test262/test/built-ins/Atomics/waitAsync/descriptor.js:17\n\n","path":"../../test262/test/built-ins/Atomics/waitAsync/descriptor.js","memory_kb":0,"duration":440710045}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Atomics/waitAsync/descriptor.js","memory_kb":0,"duration":178126775}

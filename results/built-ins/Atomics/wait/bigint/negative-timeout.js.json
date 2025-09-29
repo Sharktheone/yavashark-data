@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js:12\n\n","path":"../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js","memory_kb":0,"duration":110599981}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found BigInt(0)\n    at Function (../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js:17)\n\n","path":"../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js","memory_kb":0,"duration":221929250}

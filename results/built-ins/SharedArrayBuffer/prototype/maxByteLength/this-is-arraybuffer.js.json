@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SharedArrayBuffer is not defined\n    at ../../test262/test/built-ins/SharedArrayBuffer/prototype/maxByteLength/this-is-arraybuffer.js:16\n\n","path":"../../test262/test/built-ins/SharedArrayBuffer/prototype/maxByteLength/this-is-arraybuffer.js","memory_kb":0,"duration":3672962226}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/SharedArrayBuffer/prototype/maxByteLength/this-is-arraybuffer.js","memory_kb":0,"duration":7028000720}
