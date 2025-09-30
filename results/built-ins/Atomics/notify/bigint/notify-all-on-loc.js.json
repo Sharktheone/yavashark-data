@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29\n\n","path":"../../test262/test/built-ins/Atomics/notify/bigint/notify-all-on-loc.js","memory_kb":0,"duration":73043591}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29\n\n","path":"../../test262/test/built-ins/Atomics/notify/bigint/notify-all-on-loc.js","memory_kb":0,"duration":612910115}
