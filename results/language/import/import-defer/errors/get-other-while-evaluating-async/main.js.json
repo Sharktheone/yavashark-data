@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Export `done#0` not found in module\n\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating-async/main.js","memory_kb":0,"duration":404490629}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Export `done#0` not found in module\n\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating-async/main.js","memory_kb":0,"duration":110444707}
