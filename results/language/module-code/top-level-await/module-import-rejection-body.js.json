@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object(function Function() { [native code] }) but got Object([object Object])\n\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-body.js","memory_kb":0,"duration":570384415}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object(function Function() { [native code] }) but got Object([object Object])\n\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-body.js","memory_kb":0,"duration":697962269}
