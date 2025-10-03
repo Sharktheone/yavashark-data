@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «4») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-array-elem-init-yield-expr.js","memory_kb":8436,"duration":52686731}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «4») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-array-elem-init-yield-expr.js","memory_kb":11336,"duration":361880534}
