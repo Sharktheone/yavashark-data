@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ../../test262/test/language/statements/class/super/in-constructor.js:16\n\n","path":"../../test262/test/language/statements/class/super/in-constructor.js","memory_kb":9260,"duration":245753081}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x does not exist on object\n    at ../../test262/test/language/statements/class/super/in-constructor.js:16\n\n","path":"../../test262/test/language/statements/class/super/in-constructor.js","memory_kb":0,"duration":124976708}
