@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: in_for is not defined\n    at ../../test262/test/language/statements/for/S12.6.3_A2.js:29\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A2.js","memory_kb":0,"duration":760406011}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: in_for is not defined\n    at ../../test262/test/language/statements/for/S12.6.3_A2.js:29\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A2.js","memory_kb":0,"duration":245684453}

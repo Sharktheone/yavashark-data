@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n function anonymous() { [native code] }\n","path":"../../test262/test/built-ins/AsyncFunction/is-a-constructor.js","memory_kb":12160,"duration":203307375}
+{"status":"PASS","msg":"PASS:\n function () { } \n","path":"../../test262/test/built-ins/AsyncFunction/is-a-constructor.js","memory_kb":12240,"duration":310290986}
