@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint, found Object([object Object])\n    at asIntN (../../test262/test/built-ins/BigInt/asIntN/order-of-steps.js:31)\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/order-of-steps.js","memory_kb":0,"duration":353918263}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected bigint, found Object([object Object])\n    at asIntN (../../test262/test/built-ins/BigInt/asIntN/order-of-steps.js:31)\n\n","path":"../../test262/test/built-ins/BigInt/asIntN/order-of-steps.js","memory_kb":0,"duration":3680153537}
