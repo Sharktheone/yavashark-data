@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: toString called on non-function\n    at String (../../test262/test/built-ins/Temporal/Now/toStringTag/string.js:10)\n\n","path":"../../test262/test/built-ins/Temporal/Now/toStringTag/string.js","memory_kb":0,"duration":72838702}
+{"status":"FAIL","msg":"FAIL:\n TypeError: toString called on non-function\n    at String (../../test262/test/built-ins/Temporal/Now/toStringTag/string.js:10)\n\n","path":"../../test262/test/built-ins/Temporal/Now/toStringTag/string.js","memory_kb":0,"duration":29887148}

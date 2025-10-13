@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: not yet implemented\n    at getOwnPropertyDescriptor (../../test262/test/built-ins/Proxy/getOwnPropertyDescriptor/resultdesc-return-configurable.js:26)\n\n","path":"../../test262/test/built-ins/Proxy/getOwnPropertyDescriptor/resultdesc-return-configurable.js","memory_kb":0,"duration":215321291}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Proxy/getOwnPropertyDescriptor/resultdesc-return-configurable.js","memory_kb":0,"duration":125461563}
