@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected Promise.all().then to queue second '1,3,2,4'\nPASS:\n 3\n","path":"../../test262/test/built-ins/Promise/all/S25.4.4.1_A7.2_T1.js","memory_kb":0,"duration":62554424}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected Promise.all().then to queue second '1,3,2,4'\nPASS:\n 3\n","path":"../../test262/test/built-ins/Promise/all/S25.4.4.1_A7.2_T1.js","memory_kb":0,"duration":107137855}

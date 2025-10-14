@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/setUint16/immutable-buffer.js:24\n\n","path":"../../test262/test/built-ins/DataView/prototype/setUint16/immutable-buffer.js","memory_kb":0,"duration":183974577}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/setUint16/immutable-buffer.js:24\n\n","path":"../../test262/test/built-ins/DataView/prototype/setUint16/immutable-buffer.js","memory_kb":0,"duration":3699615361}
