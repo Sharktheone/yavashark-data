@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#0080-07FF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js:49\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js","memory_kb":10212,"duration":783324403}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#0080-07FF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js:49\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A2.2_T1.js","memory_kb":10476,"duration":2225123407}
