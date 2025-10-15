@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«false», «true») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/language/expressions/async-generator/expression-yield-star-before-newline.js","memory_kb":9684,"duration":244553743}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«false», «true») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/language/expressions/async-generator/expression-yield-star-before-newline.js","memory_kb":8916,"duration":161116155}
