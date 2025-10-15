@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n\n","path":"../../test262/test/language/import/import-defer/errors/get-self-while-defer-evaluating/main.js","memory_kb":0,"duration":647795367}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n\n","path":"../../test262/test/language/import/import-defer/errors/get-self-while-defer-evaluating/main.js","memory_kb":9132,"duration":73917104}
