@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-limit.js:24\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-limit.js","memory_kb":1904,"duration":264073855}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-limit.js:24\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-limit.js","memory_kb":7780,"duration":807444399}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at setPrototypeOf (../../test262/test/language/expressions/object/method.js:20)\n\n","path":"../../test262/test/language/expressions/object/method.js","memory_kb":0,"duration":302715270}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Right-hand side of 'instanceof' is not a constructor\n    at setPrototypeOf (../../test262/test/language/expressions/object/method.js:20)\n\n","path":"../../test262/test/language/expressions/object/method.js","memory_kb":0,"duration":168270936}

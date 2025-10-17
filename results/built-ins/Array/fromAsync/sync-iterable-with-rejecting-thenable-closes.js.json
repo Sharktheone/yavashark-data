@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:SyntaxError: Illegal yield statement\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/sync-iterable-with-rejecting-thenable-closes.js","memory_kb":7272,"duration":61664223}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:SyntaxError: Illegal yield statement\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/sync-iterable-with-rejecting-thenable-closes.js","memory_kb":6780,"duration":40810466}

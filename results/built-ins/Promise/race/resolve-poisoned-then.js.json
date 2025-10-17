@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/race/resolve-poisoned-then.js","memory_kb":7268,"duration":51609542}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/race/resolve-poisoned-then.js","memory_kb":7552,"duration":383672618}

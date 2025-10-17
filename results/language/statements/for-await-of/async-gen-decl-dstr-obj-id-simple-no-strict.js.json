@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «1») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-id-simple-no-strict.js","memory_kb":3308,"duration":59619488}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «1») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-id-simple-no-strict.js","memory_kb":11072,"duration":368283027}

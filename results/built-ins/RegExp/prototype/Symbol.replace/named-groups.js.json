@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/named-groups.js:29\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/named-groups.js","memory_kb":7160,"duration":93265901}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.replace/named-groups.js:29\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.replace/named-groups.js","memory_kb":2040,"duration":341498963}

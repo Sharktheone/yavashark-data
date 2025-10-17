@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/callable.js:10\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/callable.js","memory_kb":9704,"duration":129880045}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/callable.js:10\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/callable.js","memory_kb":7804,"duration":378053731}
