@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js:13\n\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js","memory_kb":0,"duration":303659273}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js:13\n\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js","memory_kb":3320,"duration":2576767653}

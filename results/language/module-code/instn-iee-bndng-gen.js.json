@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: B is not defined\n    at ../../test262/test/language/module-code/instn-iee-bndng-gen.js:44\n\n","path":"../../test262/test/language/module-code/instn-iee-bndng-gen.js","memory_kb":0,"duration":568987031}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: B is not defined\n    at ../../test262/test/language/module-code/instn-iee-bndng-gen.js:44\n\n","path":"../../test262/test/language/module-code/instn-iee-bndng-gen.js","memory_kb":6436,"duration":53271278}
