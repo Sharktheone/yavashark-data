@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/prototype/constructor.js:20\n\n","path":"../../test262/test/built-ins/SuppressedError/prototype/constructor.js","memory_kb":7508,"duration":169574605}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SuppressedError is not defined\n    at ../../test262/test/built-ins/SuppressedError/prototype/constructor.js:20\n\n","path":"../../test262/test/built-ins/SuppressedError/prototype/constructor.js","memory_kb":10768,"duration":179177891}

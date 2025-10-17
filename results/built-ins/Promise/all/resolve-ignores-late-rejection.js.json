@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «42») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/all/resolve-ignores-late-rejection.js","memory_kb":9856,"duration":181236677}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«undefined», «42») to be true\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/all/resolve-ignores-late-rejection.js","memory_kb":7680,"duration":60968014}

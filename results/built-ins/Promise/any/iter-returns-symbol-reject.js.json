@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/iter-returns-symbol-reject.js:25)\n\n","path":"../../test262/test/built-ins/Promise/any/iter-returns-symbol-reject.js","memory_kb":8828,"duration":90902016}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/iter-returns-symbol-reject.js:25)\n\n","path":"../../test262/test/built-ins/Promise/any/iter-returns-symbol-reject.js","memory_kb":8020,"duration":113261116}

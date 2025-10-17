@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js:54)\n\n","path":"../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js","memory_kb":11248,"duration":1104964777}
+{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js:54)\n\n","path":"../../test262/test/built-ins/Proxy/get-fn-realm-recursive.js","memory_kb":10624,"duration":116523526}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: cannot mix BigInt and Number\n    at ../../test262/test/language/expressions/bitwise-or/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/bitwise-or/bigint-toprimitive.js","memory_kb":0,"duration":90921722}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/bitwise-or/bigint-toprimitive.js","memory_kb":0,"duration":931671054}
