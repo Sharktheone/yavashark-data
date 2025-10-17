@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/built-ins/Promise/proto-from-ctor-realm.js:29)\n\n","path":"../../test262/test/built-ins/Promise/proto-from-ctor-realm.js","memory_kb":9972,"duration":171706008}
+{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/built-ins/Promise/proto-from-ctor-realm.js:29)\n\n","path":"../../test262/test/built-ins/Promise/proto-from-ctor-realm.js","memory_kb":10112,"duration":586668468}

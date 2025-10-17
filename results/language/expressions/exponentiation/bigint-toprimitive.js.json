@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: cannot mix BigInt and Number\n    at ../../test262/test/language/expressions/exponentiation/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/exponentiation/bigint-toprimitive.js","memory_kb":9960,"duration":93988122}
+{"status":"FAIL","msg":"FAIL:\n TypeError: cannot mix BigInt and Number\n    at ../../test262/test/language/expressions/exponentiation/bigint-toprimitive.js:60\n\n","path":"../../test262/test/language/expressions/exponentiation/bigint-toprimitive.js","memory_kb":6656,"duration":453192864}

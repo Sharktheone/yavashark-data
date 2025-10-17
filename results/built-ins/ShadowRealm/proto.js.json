@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/proto.js:15\n\n","path":"../../test262/test/built-ins/ShadowRealm/proto.js","memory_kb":7652,"duration":101160179}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/proto.js:15\n\n","path":"../../test262/test/built-ins/ShadowRealm/proto.js","memory_kb":0,"duration":2973438456}

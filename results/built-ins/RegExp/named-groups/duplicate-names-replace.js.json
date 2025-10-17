@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Duplicate capture group name\n    at ../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replace.js:10\n\n","path":"../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replace.js","memory_kb":0,"duration":1476367549}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Duplicate capture group name\n    at ../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replace.js:10\n\n","path":"../../test262/test/built-ins/RegExp/named-groups/duplicate-names-replace.js","memory_kb":7936,"duration":92013622}

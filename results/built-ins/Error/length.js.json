@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not callable\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/length.js:10)\n\n","path":"../../test262/test/built-ins/Error/length.js","memory_kb":6648,"duration":103378730}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ErrorObjConstructor is not callable\n    at ErrorObjConstructor (../../test262/test/built-ins/Error/length.js:10)\n\n","path":"../../test262/test/built-ins/Error/length.js","memory_kb":0,"duration":829111334}
