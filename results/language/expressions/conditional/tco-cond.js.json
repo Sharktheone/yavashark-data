@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/conditional/tco-cond.js","memory_kb":5476,"duration":114660140}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/expressions/conditional/tco-cond.js:17)\n    at ../../test262/test/language/expressions/conditional/tco-cond.js:12\n\n","path":"../../test262/test/language/expressions/conditional/tco-cond.js","memory_kb":5076,"duration":119588443}

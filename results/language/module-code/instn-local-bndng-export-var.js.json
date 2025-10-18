@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: test262 is not defined\n    at ../../test262/test/language/module-code/instn-local-bndng-export-var.js:23\n\n","path":"../../test262/test/language/module-code/instn-local-bndng-export-var.js","memory_kb":3456,"duration":91555502}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: test262 is not defined\n    at ../../test262/test/language/module-code/instn-local-bndng-export-var.js:23\n\n","path":"../../test262/test/language/module-code/instn-local-bndng-export-var.js","memory_kb":8048,"duration":698439020}

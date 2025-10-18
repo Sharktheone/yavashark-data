@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/tagged-template/tco-call.js","memory_kb":0,"duration":764152665}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/tagged-template/tco-call.js","memory_kb":69424,"duration":2952258376}

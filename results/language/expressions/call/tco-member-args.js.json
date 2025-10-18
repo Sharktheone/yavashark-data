@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/call/tco-member-args.js","memory_kb":7092,"duration":64790376}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/expressions/call/tco-member-args.js:17)\n    at ../../test262/test/language/expressions/call/tco-member-args.js:12\n\n","path":"../../test262/test/language/expressions/call/tco-member-args.js","memory_kb":9736,"duration":151865423}

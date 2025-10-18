@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-243-2.js","memory_kb":2660,"duration":250805089}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected a TypeError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-243-2.js:26\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-243-2.js","memory_kb":11040,"duration":110290287}

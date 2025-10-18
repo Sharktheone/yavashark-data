@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid stack index\n    at next (../../test262/test/language/expressions/yield/rhs-regexp.js:38)\n\n","path":"../../test262/test/language/expressions/yield/rhs-regexp.js","memory_kb":10596,"duration":108491221}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid stack index\n    at next (../../test262/test/language/expressions/yield/rhs-regexp.js:38)\n\n","path":"../../test262/test/language/expressions/yield/rhs-regexp.js","memory_kb":7888,"duration":909388226}

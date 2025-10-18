@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/statements/function/13.2-19-b-3gs.js","memory_kb":7796,"duration":97932543}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected a TypeError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:101\n    at ../../test262/test/language/statements/function/13.2-19-b-3gs.js:14\n\n","path":"../../test262/test/language/statements/function/13.2-19-b-3gs.js","memory_kb":10224,"duration":192067097}

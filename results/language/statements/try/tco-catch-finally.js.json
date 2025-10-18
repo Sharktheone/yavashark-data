@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"SKIP\nPASS:\n undefined\n","path":"../../test262/test/language/statements/try/tco-catch-finally.js","memory_kb":6784,"duration":148425856}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/statements/try/tco-catch-finally.js:18)\n    at ../../test262/test/language/statements/try/tco-catch-finally.js:12\n\n","path":"../../test262/test/language/statements/try/tco-catch-finally.js","memory_kb":0,"duration":530698515}

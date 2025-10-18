@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-poisoned-then.js","memory_kb":8944,"duration":134170153}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-poisoned-then.js","memory_kb":7248,"duration":72066825}

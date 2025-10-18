@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Map/Symbol.species/symbol-species-name.js:17\n\n","path":"../../test262/test/built-ins/Map/Symbol.species/symbol-species-name.js","memory_kb":0,"duration":286911249}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Map/Symbol.species/symbol-species-name.js:17\n\n","path":"../../test262/test/built-ins/Map/Symbol.species/symbol-species-name.js","memory_kb":7664,"duration":81108620}

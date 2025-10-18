@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/evaluate/descriptor.js:11\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/evaluate/descriptor.js","memory_kb":8052,"duration":132405036}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/evaluate/descriptor.js:11\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/evaluate/descriptor.js","memory_kb":10336,"duration":2093497769}

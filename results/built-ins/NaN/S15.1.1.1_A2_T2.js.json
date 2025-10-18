@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Assignment to constant variable\n    at ../../test262/test/built-ins/NaN/S15.1.1.1_A2_T2.js:12\n\n","path":"../../test262/test/built-ins/NaN/S15.1.1.1_A2_T2.js","memory_kb":4992,"duration":433325242}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/NaN/S15.1.1.1_A2_T2.js","memory_kb":10320,"duration":1282206209}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: Value is not an object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-string-reject.js","memory_kb":8112,"duration":66272429}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: Value is not an object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-string-reject.js","memory_kb":9684,"duration":153377091}

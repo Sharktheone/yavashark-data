@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Actual [dep, sync] and expected [] should have the same contents. \nPASS:\n [object Object]\n","path":"../../test262/test/language/expressions/dynamic-import/import-defer/sync/main.js","memory_kb":10880,"duration":112619308}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Actual [dep, sync] and expected [] should have the same contents. \nPASS:\n [object Object]\n","path":"../../test262/test/language/expressions/dynamic-import/import-defer/sync/main.js","memory_kb":0,"duration":228963015}
