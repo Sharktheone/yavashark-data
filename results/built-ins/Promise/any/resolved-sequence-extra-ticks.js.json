@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«2», «4») to be true\nPASS:\n 4\n","path":"../../test262/test/built-ins/Promise/any/resolved-sequence-extra-ticks.js","memory_kb":10328,"duration":283863477}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«2», «4») to be true\nPASS:\n 4\n","path":"../../test262/test/built-ins/Promise/any/resolved-sequence-extra-ticks.js","memory_kb":8944,"duration":149553790}

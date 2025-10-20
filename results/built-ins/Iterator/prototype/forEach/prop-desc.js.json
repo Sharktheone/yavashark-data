@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/forEach/prop-desc.js:21\n\n","path":"../../test262/test/built-ins/Iterator/prototype/forEach/prop-desc.js","memory_kb":10188,"duration":100794670}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/forEach/prop-desc.js:21\n\n","path":"../../test262/test/built-ins/Iterator/prototype/forEach/prop-desc.js","memory_kb":9740,"duration":122559031}

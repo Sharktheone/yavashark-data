@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at apply (../../test262/test/built-ins/Proxy/apply/trap-is-undefined-target-is-proxy.js:31)\n\n","path":"../../test262/test/built-ins/Proxy/apply/trap-is-undefined-target-is-proxy.js","memory_kb":8160,"duration":77473114}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at apply (../../test262/test/built-ins/Proxy/apply/trap-is-undefined-target-is-proxy.js:31)\n\n","path":"../../test262/test/built-ins/Proxy/apply/trap-is-undefined-target-is-proxy.js","memory_kb":1820,"duration":107497079}

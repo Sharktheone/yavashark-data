@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/prototype/keys/returns-iterator-empty.js:21\n\n","path":"../../test262/test/built-ins/Map/prototype/keys/returns-iterator-empty.js","memory_kb":8108,"duration":48640203}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/prototype/keys/returns-iterator-empty.js:21\n\n","path":"../../test262/test/built-ins/Map/prototype/keys/returns-iterator-empty.js","memory_kb":0,"duration":155178162}

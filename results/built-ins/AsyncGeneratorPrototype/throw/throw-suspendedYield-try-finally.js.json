@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n [object Object]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/throw/throw-suspendedYield-try-finally.js","memory_kb":6220,"duration":60323377}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/throw/throw-suspendedYield-try-finally.js","memory_kb":9072,"duration":154342784}

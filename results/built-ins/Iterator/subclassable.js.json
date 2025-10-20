@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/subclassable.js:16\n\n","path":"../../test262/test/built-ins/Iterator/subclassable.js","memory_kb":8172,"duration":52066274}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/subclassable.js:16\n\n","path":"../../test262/test/built-ins/Iterator/subclassable.js","memory_kb":7884,"duration":45592398}

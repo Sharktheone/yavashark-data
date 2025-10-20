@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/coerce-limit.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/coerce-limit.js","memory_kb":9308,"duration":247723615}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/coerce-limit.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/coerce-limit.js","memory_kb":3568,"duration":118437648}
