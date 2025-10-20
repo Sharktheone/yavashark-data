@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js","memory_kb":10964,"duration":50729675}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js:26)\n\n","path":"../../test262/test/built-ins/Array/prototype/keys/resizable-buffer.js","memory_kb":0,"duration":27646829}

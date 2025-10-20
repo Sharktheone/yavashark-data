@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/invoke-resolve-get-error-reject.js:31)\n\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-error-reject.js","memory_kb":7696,"duration":589765634}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/invoke-resolve-get-error-reject.js:31)\n\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-error-reject.js","memory_kb":0,"duration":268566253}
