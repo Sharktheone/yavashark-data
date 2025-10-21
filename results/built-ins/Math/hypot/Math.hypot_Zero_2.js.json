@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Math.hypot(0) Expected SameValue(«NaN», «0») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js:11\n\n","path":"../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js","memory_kb":0,"duration":943187961}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Math/hypot/Math.hypot_Zero_2.js","memory_kb":0,"duration":45725700}
