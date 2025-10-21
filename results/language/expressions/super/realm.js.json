@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/language/expressions/super/realm.js:35)\n\n","path":"../../test262/test/language/expressions/super/realm.js","memory_kb":0,"duration":115619742}
+{"status":"FAIL","msg":"FAIL:\n TypeError: anonymous is not a constructor\n    at construct (../../test262/test/language/expressions/super/realm.js:35)\n\n","path":"../../test262/test/language/expressions/super/realm.js","memory_kb":0,"duration":184591218}
