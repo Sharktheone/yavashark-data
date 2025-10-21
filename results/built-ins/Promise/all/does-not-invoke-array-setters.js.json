@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Promise/all/does-not-invoke-array-setters.js:36)\n\n","path":"../../test262/test/built-ins/Promise/all/does-not-invoke-array-setters.js","memory_kb":0,"duration":50255890}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Promise/all/does-not-invoke-array-setters.js:36)\n\n","path":"../../test262/test/built-ins/Promise/all/does-not-invoke-array-setters.js","memory_kb":0,"duration":139906450}
