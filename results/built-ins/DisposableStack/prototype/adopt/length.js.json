@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/prototype/adopt/length.js:27\n\n","path":"../../test262/test/built-ins/DisposableStack/prototype/adopt/length.js","memory_kb":8280,"duration":40063943}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: DisposableStack is not defined\n    at ../../test262/test/built-ins/DisposableStack/prototype/adopt/length.js:27\n\n","path":"../../test262/test/built-ins/DisposableStack/prototype/adopt/length.js","memory_kb":8140,"duration":89525121}
