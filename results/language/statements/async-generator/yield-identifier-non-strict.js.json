@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«NaN», «43») to be true\nPASS:\n undefined\n","path":"../../test262/test/language/statements/async-generator/yield-identifier-non-strict.js","memory_kb":0,"duration":335888434}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«NaN», «43») to be true\nPASS:\n undefined\n","path":"../../test262/test/language/statements/async-generator/yield-identifier-non-strict.js","memory_kb":0,"duration":270780106}
