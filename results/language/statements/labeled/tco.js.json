@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/statements/labeled/tco.js:17)\n    at ../../test262/test/language/statements/labeled/tco.js:12\n\n","path":"../../test262/test/language/statements/labeled/tco.js","memory_kb":0,"duration":51636288}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/labeled/tco.js","memory_kb":46892,"duration":1432506823}

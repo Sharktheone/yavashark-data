@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/statements/if/tco-else-body.js:17)\n    at ../../test262/test/language/statements/if/tco-else-body.js:12\n\n","path":"../../test262/test/language/statements/if/tco-else-body.js","memory_kb":0,"duration":4950650}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/if/tco-else-body.js","memory_kb":49548,"duration":1125638509}

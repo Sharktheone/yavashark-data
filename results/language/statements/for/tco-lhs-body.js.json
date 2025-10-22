@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/statements/for/tco-lhs-body.js:19)\n    at ../../test262/test/language/statements/for/tco-lhs-body.js:12\n\n","path":"../../test262/test/language/statements/for/tco-lhs-body.js","memory_kb":0,"duration":851967680}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/for/tco-lhs-body.js","memory_kb":0,"duration":1308405822}

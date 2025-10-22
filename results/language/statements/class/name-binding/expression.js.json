@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: C is not defined\n    at ../../test262/test/language/statements/class/name-binding/expression.js:14\n\n","path":"../../test262/test/language/statements/class/name-binding/expression.js","memory_kb":0,"duration":73397519}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: C is not defined\n    at ../../test262/test/language/statements/class/name-binding/expression.js:14\n\n","path":"../../test262/test/language/statements/class/name-binding/expression.js","memory_kb":0,"duration":231271387}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at f (../../test262/test/language/statements/try/tco-catch-finally.js:18)\n    at ../../test262/test/language/statements/try/tco-catch-finally.js:12\n\n","path":"../../test262/test/language/statements/try/tco-catch-finally.js","memory_kb":0,"duration":27900179}
+{"status":"CRASH","msg":"\nthread 'main' has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/try/tco-catch-finally.js","memory_kb":48972,"duration":1945658248}
