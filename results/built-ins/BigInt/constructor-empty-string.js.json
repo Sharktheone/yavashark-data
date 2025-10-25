@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert empty string to BigInt\n    at BigIntConstructor (../../test262/test/built-ins/BigInt/constructor-empty-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-empty-string.js","memory_kb":0,"duration":41028558}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert empty string to BigInt\n    at BigIntConstructor (../../test262/test/built-ins/BigInt/constructor-empty-string.js:23)\n\n","path":"../../test262/test/built-ins/BigInt/constructor-empty-string.js","memory_kb":0,"duration":245117381}
