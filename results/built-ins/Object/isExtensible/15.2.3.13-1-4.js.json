@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at isExtensible (../../test262/test/built-ins/Object/isExtensible/15.2.3.13-1-4.js:9)\n\n","path":"../../test262/test/built-ins/Object/isExtensible/15.2.3.13-1-4.js","memory_kb":0,"duration":248579089}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at isExtensible (../../test262/test/built-ins/Object/isExtensible/15.2.3.13-1-4.js:9)\n\n","path":"../../test262/test/built-ins/Object/isExtensible/15.2.3.13-1-4.js","memory_kb":0,"duration":214963050}
