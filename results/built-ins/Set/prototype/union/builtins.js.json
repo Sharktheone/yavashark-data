@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Set/prototype/union/builtins.js:10)\n\n","path":"../../test262/test/built-ins/Set/prototype/union/builtins.js","memory_kb":0,"duration":227315191}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Set/prototype/union/builtins.js:10)\n\n","path":"../../test262/test/built-ins/Set/prototype/union/builtins.js","memory_kb":0,"duration":379618867}
