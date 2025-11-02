@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/map/proto.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/map/proto.js","memory_kb":7124,"duration":88963840}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/map/proto.js:11\n\n","path":"../../test262/test/built-ins/Iterator/prototype/map/proto.js","memory_kb":0,"duration":166140882}
