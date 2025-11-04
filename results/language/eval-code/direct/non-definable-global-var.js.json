@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: error is not defined\n    at ../../test262/test/language/eval-code/direct/non-definable-global-var.js:40\n\n","path":"../../test262/test/language/eval-code/direct/non-definable-global-var.js","memory_kb":0,"duration":1853419030}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: error is not defined\n    at ../../test262/test/language/eval-code/direct/non-definable-global-var.js:40\n\n","path":"../../test262/test/language/eval-code/direct/non-definable-global-var.js","memory_kb":0,"duration":264413654}
