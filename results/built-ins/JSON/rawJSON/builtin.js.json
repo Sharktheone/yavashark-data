@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/JSON/rawJSON/builtin.js:32)\n\n","path":"../../test262/test/built-ins/JSON/rawJSON/builtin.js","memory_kb":0,"duration":176741879}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/JSON/rawJSON/builtin.js:32)\n\n","path":"../../test262/test/built-ins/JSON/rawJSON/builtin.js","memory_kb":0,"duration":1061874661}
