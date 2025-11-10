@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/is-a-constructor.js","memory_kb":0,"duration":203719737}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/is-a-constructor.js:22\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/is-a-constructor.js","memory_kb":6240,"duration":294017803}
