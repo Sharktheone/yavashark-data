@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/built-ins/JSON/stringify/value-string-escape-unicode.js:11\n\n","path":"../../test262/test/built-ins/JSON/stringify/value-string-escape-unicode.js","memory_kb":0,"duration":110297559}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/built-ins/JSON/stringify/value-string-escape-unicode.js:11\n\n","path":"../../test262/test/built-ins/JSON/stringify/value-string-escape-unicode.js","memory_kb":0,"duration":152117290}

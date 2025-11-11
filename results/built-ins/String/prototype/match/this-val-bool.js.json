@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/this-val-bool.js:18\n\n","path":"../../test262/test/built-ins/String/prototype/match/this-val-bool.js","memory_kb":7012,"duration":328803716}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/String/prototype/match/this-val-bool.js:18\n\n","path":"../../test262/test/built-ins/String/prototype/match/this-val-bool.js","memory_kb":0,"duration":2594108716}
