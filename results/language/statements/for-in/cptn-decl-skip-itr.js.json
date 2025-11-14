@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Undefined is not an object\n    at eval (eval:0)\n    at ../../test262/test/language/statements/for-in/cptn-decl-skip-itr.js:22\n\n","path":"../../test262/test/language/statements/for-in/cptn-decl-skip-itr.js","memory_kb":0,"duration":40050386}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Undefined is not an object\n    at eval (eval:0)\n    at ../../test262/test/language/statements/for-in/cptn-decl-skip-itr.js:22\n\n","path":"../../test262/test/language/statements/for-in/cptn-decl-skip-itr.js","memory_kb":0,"duration":902661630}
