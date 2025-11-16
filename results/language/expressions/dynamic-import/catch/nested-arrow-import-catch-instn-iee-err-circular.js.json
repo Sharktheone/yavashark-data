@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (38815) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/dynamic-import/catch/nested-arrow-import-catch-instn-iee-err-circular.js","memory_kb":38800,"duration":2006374462}
+{"status":"CRASH","msg":"\nthread 'main' (38825) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/dynamic-import/catch/nested-arrow-import-catch-instn-iee-err-circular.js","memory_kb":34048,"duration":1224228053}

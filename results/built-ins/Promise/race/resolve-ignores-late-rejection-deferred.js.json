@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«», «9») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js","memory_kb":0,"duration":1050334744}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«», «9») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/resolve-ignores-late-rejection-deferred.js","memory_kb":0,"duration":1421099212}

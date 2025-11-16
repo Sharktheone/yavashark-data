@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Null is not an object\n    at ../../test262/test/language/statements/for-in/let-identifier-with-newline.js:15\n\n","path":"../../test262/test/language/statements/for-in/let-identifier-with-newline.js","memory_kb":0,"duration":9186301}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Null is not an object\n    at ../../test262/test/language/statements/for-in/let-identifier-with-newline.js:15\n\n","path":"../../test262/test/language/statements/for-in/let-identifier-with-newline.js","memory_kb":0,"duration":15220414}

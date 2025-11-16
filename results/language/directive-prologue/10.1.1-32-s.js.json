@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: anotherVariable is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-32-s.js:17\n\n","path":"../../test262/test/language/directive-prologue/10.1.1-32-s.js","memory_kb":0,"duration":195003060}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: anotherVariable is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-32-s.js:17\n\n","path":"../../test262/test/language/directive-prologue/10.1.1-32-s.js","memory_kb":0,"duration":277035928}
