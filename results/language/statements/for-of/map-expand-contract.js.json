@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map-expand-contract.js:18\n\n","path":"../../test262/test/language/statements/for-of/map-expand-contract.js","memory_kb":0,"duration":19682030}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map-expand-contract.js:18\n\n","path":"../../test262/test/language/statements/for-of/map-expand-contract.js","memory_kb":0,"duration":1440220762}
