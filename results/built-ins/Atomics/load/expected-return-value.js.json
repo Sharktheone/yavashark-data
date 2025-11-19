@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Index out of bounds\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:38\n\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":0,"duration":1857446028}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Index out of bounds\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:38\n\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":0,"duration":51416658}
