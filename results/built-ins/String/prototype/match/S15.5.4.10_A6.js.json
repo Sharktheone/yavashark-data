@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A6.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A6.js","memory_kb":0,"duration":689793174}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A6.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A6.js","memory_kb":0,"duration":5278913932}

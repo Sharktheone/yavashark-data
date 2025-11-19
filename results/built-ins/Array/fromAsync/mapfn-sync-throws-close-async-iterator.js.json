@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: sync mapfn throwing should close iterator\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/mapfn-sync-throws-close-async-iterator.js","memory_kb":0,"duration":31216102}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: sync mapfn throwing should close iterator\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/mapfn-sync-throws-close-async-iterator.js","memory_kb":0,"duration":11111023}
