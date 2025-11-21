@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object NativeConstructor]) but got Object([object Object])\n\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-tick.js","memory_kb":0,"duration":723689717}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object NativeConstructor]) but got Object([object Object])\n\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection-tick.js","memory_kb":0,"duration":271921810}
