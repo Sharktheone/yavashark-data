@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(1.0)\n    at call (../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js:31)\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js","memory_kb":0,"duration":46394352}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(1.0)\n    at call (../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js:31)\n\n","path":"../../test262/test/built-ins/Promise/prototype/catch/invokes-then.js","memory_kb":0,"duration":1660385176}
