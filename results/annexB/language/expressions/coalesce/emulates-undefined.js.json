@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: unresolved is not defined\n    at ../../test262/test/annexB/language/expressions/coalesce/emulates-undefined.js:20\n\n","path":"../../test262/test/annexB/language/expressions/coalesce/emulates-undefined.js","memory_kb":0,"duration":43432370}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: unresolved is not defined\n    at ../../test262/test/annexB/language/expressions/coalesce/emulates-undefined.js:20\n\n","path":"../../test262/test/annexB/language/expressions/coalesce/emulates-undefined.js","memory_kb":0,"duration":406089891}
