@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'writable' of undefined\n    at verifyNotWritable (../../test262/harness/propertyHelper.js:307)\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-246.js:34\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-246.js","memory_kb":0,"duration":1993013572}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-3-246.js","memory_kb":7328,"duration":70167513}

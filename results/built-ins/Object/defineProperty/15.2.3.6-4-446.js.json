@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'enumerable' of undefined\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-446.js:42\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-446.js","memory_kb":0,"duration":95878489}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-446.js","memory_kb":0,"duration":163149452}

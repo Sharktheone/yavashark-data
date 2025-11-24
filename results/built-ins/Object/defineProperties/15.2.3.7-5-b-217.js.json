@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"obj.hasOwnProperty(\"property\") !== true\" }\n    at assert (../../test262/harness/assert.js:18)\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-217.js:19\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-217.js","memory_kb":0,"duration":3250460315}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-5-b-217.js","memory_kb":0,"duration":11955600}
