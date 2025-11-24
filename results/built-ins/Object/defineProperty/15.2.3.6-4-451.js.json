@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-451.js","memory_kb":0,"duration":2317490071}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"propertyDefineCorrect !== true\" }\n    at assert (../../test262/harness/assert.js:18)\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-451.js:28\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-451.js","memory_kb":0,"duration":303876612}
