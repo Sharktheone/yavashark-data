@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (54247) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/switch/tco-case-body-dflt.js","memory_kb":10916,"duration":1762306611}
+{"status":"CRASH","msg":"\nthread 'main' (54226) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/switch/tco-case-body-dflt.js","memory_kb":49248,"duration":1427136561}

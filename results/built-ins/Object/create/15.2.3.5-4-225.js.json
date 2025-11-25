@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"newObj.prop Expected SameValue(«undefined», «121») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Object/create/15.2.3.5-4-225.js:20\n\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-225.js","memory_kb":0,"duration":158136231}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/create/15.2.3.5-4-225.js","memory_kb":0,"duration":217236477}

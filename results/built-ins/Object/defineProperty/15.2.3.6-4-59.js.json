@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected obj[foo] to equal 0, actually undefined\" }\n    at verifyEqualTo (../../test262/harness/propertyHelper.js:284)\n    at ../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-59.js:29\n\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-59.js","memory_kb":0,"duration":284372722}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Object/defineProperty/15.2.3.6-4-59.js","memory_kb":0,"duration":151571750}
