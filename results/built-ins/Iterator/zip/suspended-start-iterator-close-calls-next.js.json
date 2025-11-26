@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/zip/suspended-start-iterator-close-calls-next.js:68\n\n","path":"../../test262/test/built-ins/Iterator/zip/suspended-start-iterator-close-calls-next.js","memory_kb":0,"duration":2357712390}
