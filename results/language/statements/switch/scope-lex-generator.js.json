@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"[object Function]\"\n\n","path":"../../test262/test/language/statements/switch/scope-lex-generator.js","memory_kb":0,"duration":293902329}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"[object Function]\"\n\n","path":"../../test262/test/language/statements/switch/scope-lex-generator.js","memory_kb":8036,"duration":180655917}
