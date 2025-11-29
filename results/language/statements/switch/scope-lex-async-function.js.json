@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"function () { } \"\n\n","path":"../../test262/test/language/statements/switch/scope-lex-async-function.js","memory_kb":0,"duration":18439503}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"function () { } \"\n\n","path":"../../test262/test/language/statements/switch/scope-lex-async-function.js","memory_kb":0,"duration":111876712}
