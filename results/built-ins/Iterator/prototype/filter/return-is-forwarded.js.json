@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/filter/return-is-forwarded.js:15\n\n","path":"../../test262/test/built-ins/Iterator/prototype/filter/return-is-forwarded.js","memory_kb":0,"duration":168664479}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/filter/return-is-forwarded.js:15\n\n","path":"../../test262/test/built-ins/Iterator/prototype/filter/return-is-forwarded.js","memory_kb":0,"duration":119882682}
