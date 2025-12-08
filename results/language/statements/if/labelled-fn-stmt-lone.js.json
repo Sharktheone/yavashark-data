@@ -1,1 +1,1 @@
-{"status":"PARSE_SUCCESS_ERROR","msg":"PARSE_SUCCESS_ERROR: Expected error but parsed successfully\n\nthread 'main' (54476) panicked at crates/yavashark_test262/src/utils.rs:112:21:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/language/statements/if/labelled-fn-stmt-lone.js","memory_kb":0,"duration":20898412}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/if/labelled-fn-stmt-lone.js","memory_kb":0,"duration":1949233406}
