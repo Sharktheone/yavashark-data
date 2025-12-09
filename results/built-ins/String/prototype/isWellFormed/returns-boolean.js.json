@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/built-ins/String/prototype/isWellFormed/returns-boolean.js:18\n\n","path":"../../test262/test/built-ins/String/prototype/isWellFormed/returns-boolean.js","memory_kb":0,"duration":106338181}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/built-ins/String/prototype/isWellFormed/returns-boolean.js:18\n\n","path":"../../test262/test/built-ins/String/prototype/isWellFormed/returns-boolean.js","memory_kb":0,"duration":6649157332}
