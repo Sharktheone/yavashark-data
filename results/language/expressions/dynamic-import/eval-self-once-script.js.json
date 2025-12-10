@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n    at ../../test262/test/language/expressions/dynamic-import/eval-self-once-script.js:30\n\n","path":"../../test262/test/language/expressions/dynamic-import/eval-self-once-script.js","memory_kb":0,"duration":461127501}
+{"status":"PASS","msg":"PASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/dynamic-import/eval-self-once-script.js","memory_kb":0,"duration":364555399}
