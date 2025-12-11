@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at call (../../test262/test/built-ins/Array/prototype/sort/comparefn-shrink.js:39)\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/comparefn-shrink.js","memory_kb":0,"duration":53764214}
+{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at call (../../test262/test/built-ins/Array/prototype/sort/comparefn-shrink.js:39)\n\n","path":"../../test262/test/built-ins/Array/prototype/sort/comparefn-shrink.js","memory_kb":0,"duration":202710747}
