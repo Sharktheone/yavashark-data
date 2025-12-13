@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The value of sequence.length is expected to be 4 Expected SameValue(«2», «4») to be true\nPASS:\n 4\n","path":"../../test262/test/built-ins/Promise/race/S25.4.4.3_A7.1_T1.js","memory_kb":0,"duration":806273079}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The value of sequence.length is expected to be 4 Expected SameValue(«2», «4») to be true\nPASS:\n 4\n","path":"../../test262/test/built-ins/Promise/race/S25.4.4.3_A7.1_T1.js","memory_kb":0,"duration":174205611}
