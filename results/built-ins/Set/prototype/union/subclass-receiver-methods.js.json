@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass-receiver-methods.js:36\n\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass-receiver-methods.js","memory_kb":0,"duration":475446771}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass-receiver-methods.js:36\n\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass-receiver-methods.js","memory_kb":7888,"duration":112096541}
