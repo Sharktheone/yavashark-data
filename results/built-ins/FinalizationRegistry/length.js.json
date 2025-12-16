@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/length.js:27\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/length.js","memory_kb":0,"duration":2649754839}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/length.js:27\n\n","path":"../../test262/test/built-ins/FinalizationRegistry/length.js","memory_kb":0,"duration":1579918324}
