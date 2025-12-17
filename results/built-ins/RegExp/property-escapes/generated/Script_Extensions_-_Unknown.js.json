@@ -1,1 +1,1 @@
-{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_Extensions_-_Unknown.js","memory_kb":41004,"duration":30055985411}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid property name\n    at ../../test262/test/built-ins/RegExp/property-escapes/generated/Script_Extensions_-_Unknown.js:757\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_Extensions_-_Unknown.js","memory_kb":88232,"duration":12948968044}
