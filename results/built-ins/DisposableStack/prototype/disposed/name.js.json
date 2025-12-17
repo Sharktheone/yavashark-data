@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/DisposableStack/prototype/disposed/name.js:21\n\n","path":"../../test262/test/built-ins/DisposableStack/prototype/disposed/name.js","memory_kb":0,"duration":379223765}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/DisposableStack/prototype/disposed/name.js:21\n\n","path":"../../test262/test/built-ins/DisposableStack/prototype/disposed/name.js","memory_kb":0,"duration":1526782724}
