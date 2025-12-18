@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found BigInt(0)\n    at wait (../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js:17)\n\n","path":"../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js","memory_kb":0,"duration":189127568}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected a number, found BigInt(0)\n    at wait (../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js:17)\n\n","path":"../../test262/test/built-ins/Atomics/wait/bigint/negative-timeout.js","memory_kb":8408,"duration":364833379}

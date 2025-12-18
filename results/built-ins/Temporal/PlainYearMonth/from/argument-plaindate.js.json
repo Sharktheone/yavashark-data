@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at assertPlainYearMonth (../../test262/harness/temporalHelpers.js:357)\n    at ../../test262/test/built-ins/Temporal/PlainYearMonth/from/argument-plaindate.js:13\n\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/from/argument-plaindate.js","memory_kb":0,"duration":179991751}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainYearMonth/from/argument-plaindate.js","memory_kb":0,"duration":375905153}

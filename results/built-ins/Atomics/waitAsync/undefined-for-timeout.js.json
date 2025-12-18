@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/undefined-for-timeout.js:41)\n\n","path":"../../test262/test/built-ins/Atomics/waitAsync/undefined-for-timeout.js","memory_kb":0,"duration":242656419}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/undefined-for-timeout.js:41)\n\n","path":"../../test262/test/built-ins/Atomics/waitAsync/undefined-for-timeout.js","memory_kb":0,"duration":1431150207}
