@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/reducer-this.js:25\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/reducer-this.js","memory_kb":0,"duration":155780236}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/reduce/reducer-this.js:25\n\n","path":"../../test262/test/built-ins/Iterator/prototype/reduce/reducer-this.js","memory_kb":0,"duration":89799901}
