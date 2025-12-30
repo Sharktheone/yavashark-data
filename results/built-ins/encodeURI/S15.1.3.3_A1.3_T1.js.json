@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#D800-DBFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":9296,"duration":2639586665}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#D800-DBFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58\n\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":9536,"duration":1302164586}
