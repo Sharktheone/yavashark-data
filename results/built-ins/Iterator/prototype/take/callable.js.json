@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/take/callable.js:10\n\n","path":"../../test262/test/built-ins/Iterator/prototype/take/callable.js","memory_kb":0,"duration":397367131}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/take/callable.js:10\n\n","path":"../../test262/test/built-ins/Iterator/prototype/take/callable.js","memory_kb":0,"duration":75052099}
