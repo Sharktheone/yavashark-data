@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/RegExp/split-trace.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/staging/sm/RegExp/split-trace.js:104\n\n","path":"../../test262/test/staging/sm/RegExp/split-trace.js","memory_kb":0,"duration":500344962}

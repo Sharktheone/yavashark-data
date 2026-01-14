@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/String/search-GetMethod.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/String/search-GetMethod.js:21\n\n","path":"../../test262/test/staging/sm/String/search-GetMethod.js","memory_kb":0,"duration":1512864671}

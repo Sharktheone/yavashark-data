@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/String/iterator_edge_cases.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at TestStringIteratorPrototypeConfusion (../../test262/test/staging/sm/String/iterator_edge_cases.js:14)\n    at ../../test262/test/staging/sm/String/iterator_edge_cases.js:20\n\n","path":"../../test262/test/staging/sm/String/iterator_edge_cases.js","memory_kb":0,"duration":90470803}

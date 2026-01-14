@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/class/superCallOrder.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/class/superCallOrder.js:13)\n\n","path":"../../test262/test/staging/sm/class/superCallOrder.js","memory_kb":0,"duration":182812856}

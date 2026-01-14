@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/prototype/map/callable.js:10\n\n","path":"../../test262/test/built-ins/Iterator/prototype/map/callable.js","memory_kb":0,"duration":174527328}
+{"status":"PASS","msg":"PASS:\n [object Iterator Helper]\n","path":"../../test262/test/built-ins/Iterator/prototype/map/callable.js","memory_kb":0,"duration":29706023}

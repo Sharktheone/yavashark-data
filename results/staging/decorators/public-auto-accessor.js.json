@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/decorators/public-auto-accessor.js","memory_kb":0,"duration":0}
+{"status":"NOT_IMPLEMENTED","msg":"\nthread 'main' (60481) panicked at crates/yavashark_interpreter/src/class.rs:208:45:\nnot yet implemented: AutoAccessor\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/staging/decorators/public-auto-accessor.js","memory_kb":0,"duration":339875940}

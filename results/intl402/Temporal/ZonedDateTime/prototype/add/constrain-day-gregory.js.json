@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/add/constrain-day-gregory.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Day out of range.\n    at add (../../test262/test/intl402/Temporal/ZonedDateTime/prototype/add/constrain-day-gregory.js:55)\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/add/constrain-day-gregory.js","memory_kb":0,"duration":627982117}

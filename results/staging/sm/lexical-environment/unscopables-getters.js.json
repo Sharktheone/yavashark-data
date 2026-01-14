@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/sm/lexical-environment/unscopables-getters.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected SameValue(«\"env1.x\"», «\"global x\"») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/staging/sm/lexical-environment/unscopables-getters.js:24\n\n","path":"../../test262/test/staging/sm/lexical-environment/unscopables-getters.js","memory_kb":0,"duration":389897963}

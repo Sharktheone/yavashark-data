@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Iterator is not defined\n    at ../../test262/test/built-ins/Iterator/zipKeyed/options-padding.js:34\n\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/options-padding.js","memory_kb":0,"duration":838969301}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/options-padding.js","memory_kb":0,"duration":356391013}

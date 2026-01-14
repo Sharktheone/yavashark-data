@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/DateTimeFormat/test-option-hour12.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Invalid value undefined returned for property hour12.\" }\n    at testOption (../../test262/harness/testIntl.js:1993)\n    at ../../test262/test/intl402/DateTimeFormat/test-option-hour12.js:11\n\n","path":"../../test262/test/intl402/DateTimeFormat/test-option-hour12.js","memory_kb":0,"duration":433321210}

@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/staging/Intl402/Temporal/old/property-bags.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Offsets could not be determined without disambiguation\n    at from (../../test262/test/staging/Intl402/Temporal/old/property-bags.js:40)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/property-bags.js","memory_kb":0,"duration":301134533}

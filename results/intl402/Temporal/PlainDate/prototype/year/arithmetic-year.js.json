@@ -1,1 +1,1 @@
-{"status":"SKIP","msg":"skip","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/year/arithmetic-year.js","memory_kb":0,"duration":0}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at from (../../test262/test/intl402/Temporal/PlainDate/prototype/year/arithmetic-year.js:128)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/prototype/year/arithmetic-year.js","memory_kb":0,"duration":97932780}
