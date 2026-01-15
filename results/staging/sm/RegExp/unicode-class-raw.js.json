@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/staging/sm/RegExp/unicode-class-raw.js:18\n\n","path":"../../test262/test/staging/sm/RegExp/unicode-class-raw.js","memory_kb":0,"duration":271062347}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/staging/sm/RegExp/unicode-class-raw.js:18\n\n","path":"../../test262/test/staging/sm/RegExp/unicode-class-raw.js","memory_kb":0,"duration":527722455}
