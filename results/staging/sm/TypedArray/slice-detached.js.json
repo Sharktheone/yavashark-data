@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: ArrayBuffer is detached\n    at slice (../../test262/test/staging/sm/TypedArray/slice-detached.js:52)\n\n","path":"../../test262/test/staging/sm/TypedArray/slice-detached.js","memory_kb":0,"duration":1280229014}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ArrayBuffer is detached\n    at slice (../../test262/test/staging/sm/TypedArray/slice-detached.js:52)\n\n","path":"../../test262/test/staging/sm/TypedArray/slice-detached.js","memory_kb":0,"duration":698106163}

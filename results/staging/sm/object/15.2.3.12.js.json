@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/15.2.3.12.js:15)\n\n","path":"../../test262/test/staging/sm/object/15.2.3.12.js","memory_kb":0,"duration":893419128}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/15.2.3.12.js:15)\n\n","path":"../../test262/test/staging/sm/object/15.2.3.12.js","memory_kb":0,"duration":288892950}

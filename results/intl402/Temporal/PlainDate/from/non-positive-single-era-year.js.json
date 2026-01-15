@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at from (../../test262/test/intl402/Temporal/PlainDate/from/non-positive-single-era-year.js:23)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/from/non-positive-single-era-year.js","memory_kb":0,"duration":490966046}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at from (../../test262/test/intl402/Temporal/PlainDate/from/non-positive-single-era-year.js:23)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/from/non-positive-single-era-year.js","memory_kb":0,"duration":194042808}
