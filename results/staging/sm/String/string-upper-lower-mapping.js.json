@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/staging/sm/String/string-upper-lower-mapping.js:14\n\n","path":"../../test262/test/staging/sm/String/string-upper-lower-mapping.js","memory_kb":93956,"duration":2534114050}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid wtf-8 surrogate\n    at ../../test262/test/staging/sm/String/string-upper-lower-mapping.js:14\n\n","path":"../../test262/test/staging/sm/String/string-upper-lower-mapping.js","memory_kb":94164,"duration":2902761472}

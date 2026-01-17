@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'writable' of undefined\n    at ../../test262/test/staging/sm/Function/function-name.js:41\n\n","path":"../../test262/test/staging/sm/Function/function-name.js","memory_kb":0,"duration":127878169}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'writable' of undefined\n    at ../../test262/test/staging/sm/Function/function-name.js:41\n\n","path":"../../test262/test/staging/sm/Function/function-name.js","memory_kb":0,"duration":675281519}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Class constructor cannot be invoked without 'new'\n    at a (../../test262/test/staging/sm/class/methodOverwrites.js:17)\n\n","path":"../../test262/test/staging/sm/class/methodOverwrites.js","memory_kb":0,"duration":122016600}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Class constructor cannot be invoked without 'new'\n    at a (../../test262/test/staging/sm/class/methodOverwrites.js:17)\n\n","path":"../../test262/test/staging/sm/class/methodOverwrites.js","memory_kb":0,"duration":108779227}

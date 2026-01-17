@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/staging/sm/Array/from_basics.js:41)\n\n","path":"../../test262/test/staging/sm/Array/from_basics.js","memory_kb":10840,"duration":273684425}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/staging/sm/Array/from_basics.js:41)\n\n","path":"../../test262/test/staging/sm/Array/from_basics.js","memory_kb":0,"duration":20148223}
