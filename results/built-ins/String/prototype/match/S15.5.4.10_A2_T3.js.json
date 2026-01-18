@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1: __string = \"123456abcde7890\"; __string.match(/\\d{1}/g).length=== 10. Actual: 1\" }\n    at ../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A2_T3.js:17\n\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A2_T3.js","memory_kb":0,"duration":99815296}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/match/S15.5.4.10_A2_T3.js","memory_kb":0,"duration":120908303}

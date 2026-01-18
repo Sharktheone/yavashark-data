@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/staging/sm/regress/regress-449627.js","memory_kb":0,"duration":1140558657}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert undefined to stringable\n    at _searchString (../../test262/test/staging/sm/regress/regress-449627.js:47)\n    at _init (../../test262/test/staging/sm/regress/regress-449627.js:34)\n    at ../../test262/test/staging/sm/regress/regress-449627.js:111\n\n","path":"../../test262/test/staging/sm/regress/regress-449627.js","memory_kb":0,"duration":671073165}

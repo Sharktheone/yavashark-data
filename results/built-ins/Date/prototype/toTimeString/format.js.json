@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Date/prototype/toTimeString/format.js","memory_kb":0,"duration":20422599}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected SameValue(«null», «null») to be false\" }\n    at ../../test262/harness/assert.js:65\n    at ../../test262/test/built-ins/Date/prototype/toTimeString/format.js:15\n\n","path":"../../test262/test/built-ins/Date/prototype/toTimeString/format.js","memory_kb":0,"duration":111766775}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'type' of undefined\n    at find (../../test262/test/staging/Intl402/Temporal/old/date-time-format.js:15)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/date-time-format.js","memory_kb":9688,"duration":320018127}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'type' of undefined\n    at find (../../test262/test/staging/Intl402/Temporal/old/date-time-format.js:15)\n\n","path":"../../test262/test/staging/Intl402/Temporal/old/date-time-format.js","memory_kb":0,"duration":399946283}

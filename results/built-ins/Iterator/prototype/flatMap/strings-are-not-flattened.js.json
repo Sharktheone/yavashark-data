@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Iterator/prototype/flatMap/strings-are-not-flattened.js:26)\n\n","path":"../../test262/test/built-ins/Iterator/prototype/flatMap/strings-are-not-flattened.js","memory_kb":0,"duration":200912655}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/flatMap/strings-are-not-flattened.js","memory_kb":0,"duration":552588340}

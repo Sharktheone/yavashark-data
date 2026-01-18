@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'globalName' of undefined\n    at ../../test262/test/staging/sm/Array/from_realms.js:41\n\n","path":"../../test262/test/staging/sm/Array/from_realms.js","memory_kb":0,"duration":658949896}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'globalName' of undefined\n    at ../../test262/test/staging/sm/Array/from_realms.js:41\n\n","path":"../../test262/test/staging/sm/Array/from_realms.js","memory_kb":0,"duration":95643789}

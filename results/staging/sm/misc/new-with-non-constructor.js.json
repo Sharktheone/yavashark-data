@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Function.bind must be called on a function\n    at bind (../../test262/test/staging/sm/misc/new-with-non-constructor.js:21)\n\n","path":"../../test262/test/staging/sm/misc/new-with-non-constructor.js","memory_kb":0,"duration":346640668}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Function.bind must be called on a function\n    at bind (../../test262/test/staging/sm/misc/new-with-non-constructor.js:21)\n\n","path":"../../test262/test/staging/sm/misc/new-with-non-constructor.js","memory_kb":0,"duration":302807550}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid token at named capture group identifier\n    at ../../test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-alternatives-outside.js:36\n\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-alternatives-outside.js","memory_kb":0,"duration":2852011658}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/regexp-modifiers/remove-multiline-does-not-affect-alternatives-outside.js","memory_kb":0,"duration":932276547}

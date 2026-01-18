@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-trailing-chars.js:17\n\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-trailing-chars.js","memory_kb":9216,"duration":643135995}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/prototype/Symbol.split/str-trailing-chars.js","memory_kb":0,"duration":3313266080}

@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"memory allocation of 1125899906842632 bytes failed\n","path":"../../test262/test/staging/sm/BigInt/large-bit-length.js","memory_kb":1582940,"duration":24154786429}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/staging/sm/BigInt/large-bit-length.js","memory_kb":1583276,"duration":30304017355}
