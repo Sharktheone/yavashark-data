@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: String(abcdef) is not an object\n    at ../../test262/test/staging/sm/statements/for-inof-loop-const-declaration.js:16\n\n","path":"../../test262/test/staging/sm/statements/for-inof-loop-const-declaration.js","memory_kb":0,"duration":576176968}
+{"status":"FAIL","msg":"FAIL:\n TypeError: String(abcdef) is not an object\n    at ../../test262/test/staging/sm/statements/for-inof-loop-const-declaration.js:16\n\n","path":"../../test262/test/staging/sm/statements/for-inof-loop-const-declaration.js","memory_kb":0,"duration":1579350894}

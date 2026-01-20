@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Element is not iterable\n    at zip (../../test262/test/built-ins/Iterator/zip/iterator-zip-iteration.js:86)\n\n","path":"../../test262/test/built-ins/Iterator/zip/iterator-zip-iteration.js","memory_kb":8776,"duration":562690412}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Element is not iterable\n    at zip (../../test262/test/built-ins/Iterator/zip/iterator-zip-iteration.js:86)\n\n","path":"../../test262/test/built-ins/Iterator/zip/iterator-zip-iteration.js","memory_kb":0,"duration":93210606}

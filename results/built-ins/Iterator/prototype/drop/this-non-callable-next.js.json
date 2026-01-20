@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at call (../../test262/test/built-ins/Iterator/prototype/drop/this-non-callable-next.js:15)\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/this-non-callable-next.js","memory_kb":0,"duration":366581679}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at call (../../test262/test/built-ins/Iterator/prototype/drop/this-non-callable-next.js:15)\n\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/this-non-callable-next.js","memory_kb":0,"duration":227480756}

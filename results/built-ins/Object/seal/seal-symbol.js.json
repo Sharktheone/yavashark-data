@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Symbol(Symbol { inner: Str(\"\") })\n    at seal (../../test262/test/built-ins/Object/seal/seal-symbol.js:36)\n\n","path":"../../test262/test/built-ins/Object/seal/seal-symbol.js","memory_kb":0,"duration":360298310}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Symbol(Symbol { inner: Str(\"\") })\n    at seal (../../test262/test/built-ins/Object/seal/seal-symbol.js:36)\n\n","path":"../../test262/test/built-ins/Object/seal/seal-symbol.js","memory_kb":0,"duration":1970112303}
