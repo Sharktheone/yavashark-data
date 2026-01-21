@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ns is not defined\n    at ../../test262/test/language/module-code/instn-star-props-dflt-keep-indirect.js:35\n\n","path":"../../test262/test/language/module-code/instn-star-props-dflt-keep-indirect.js","memory_kb":8624,"duration":240487728}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ns is not defined\n    at ../../test262/test/language/module-code/instn-star-props-dflt-keep-indirect.js:35\n\n","path":"../../test262/test/language/module-code/instn-star-props-dflt-keep-indirect.js","memory_kb":8560,"duration":108435870}

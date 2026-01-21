@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(42.0)\n    at call (../../test262/test/staging/sm/Number/15.7.4.2.js:20)\n\n","path":"../../test262/test/staging/sm/Number/15.7.4.2.js","memory_kb":10060,"duration":46311427}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(42.0)\n    at call (../../test262/test/staging/sm/Number/15.7.4.2.js:20)\n\n","path":"../../test262/test/staging/sm/Number/15.7.4.2.js","memory_kb":0,"duration":155314522}
