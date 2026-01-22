@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Locale/prototype/getWeekInfo/output-object-keys.js:24\n\n","path":"../../test262/test/intl402/Locale/prototype/getWeekInfo/output-object-keys.js","memory_kb":8056,"duration":2038071692}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Locale/prototype/getWeekInfo/output-object-keys.js:24\n\n","path":"../../test262/test/intl402/Locale/prototype/getWeekInfo/output-object-keys.js","memory_kb":0,"duration":382017056}

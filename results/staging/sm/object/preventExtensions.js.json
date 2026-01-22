@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at preventExtensions (../../test262/test/staging/sm/object/preventExtensions.js:14)\n\n","path":"../../test262/test/staging/sm/object/preventExtensions.js","memory_kb":0,"duration":3278636242}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at preventExtensions (../../test262/test/staging/sm/object/preventExtensions.js:14)\n\n","path":"../../test262/test/staging/sm/object/preventExtensions.js","memory_kb":0,"duration":152091715}
