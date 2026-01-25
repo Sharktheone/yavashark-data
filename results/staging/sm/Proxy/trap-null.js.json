@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/trap-null.js:52)\n\n","path":"../../test262/test/staging/sm/Proxy/trap-null.js","memory_kb":0,"duration":143994638}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/trap-null.js:52)\n\n","path":"../../test262/test/staging/sm/Proxy/trap-null.js","memory_kb":0,"duration":264360721}
