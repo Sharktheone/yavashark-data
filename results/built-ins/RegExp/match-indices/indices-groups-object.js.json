@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at exec (../../test262/test/built-ins/RegExp/match-indices/indices-groups-object.js:37)\n\n","path":"../../test262/test/built-ins/RegExp/match-indices/indices-groups-object.js","memory_kb":0,"duration":291370658}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at exec (../../test262/test/built-ins/RegExp/match-indices/indices-groups-object.js:37)\n\n","path":"../../test262/test/built-ins/RegExp/match-indices/indices-groups-object.js","memory_kb":0,"duration":109590141}
