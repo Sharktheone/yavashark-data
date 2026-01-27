@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/staging/sm/Proxy/regress-bug950407.js:13\n\n","path":"../../test262/test/staging/sm/Proxy/regress-bug950407.js","memory_kb":0,"duration":277667761}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/staging/sm/Proxy/regress-bug950407.js:13\n\n","path":"../../test262/test/staging/sm/Proxy/regress-bug950407.js","memory_kb":0,"duration":259975079}

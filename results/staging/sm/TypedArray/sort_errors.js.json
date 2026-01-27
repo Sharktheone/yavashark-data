@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: ArrayBuffer is detached\n    at sort (../../test262/test/staging/sm/TypedArray/sort_errors.js:22)\n\n","path":"../../test262/test/staging/sm/TypedArray/sort_errors.js","memory_kb":0,"duration":98831688}
+{"status":"FAIL","msg":"FAIL:\n TypeError: ArrayBuffer is detached\n    at sort (../../test262/test/staging/sm/TypedArray/sort_errors.js:22)\n\n","path":"../../test262/test/staging/sm/TypedArray/sort_errors.js","memory_kb":0,"duration":74414829}

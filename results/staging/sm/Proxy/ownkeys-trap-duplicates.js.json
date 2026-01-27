@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at ../../test262/test/staging/sm/Proxy/ownkeys-trap-duplicates.js:14\n\n","path":"../../test262/test/staging/sm/Proxy/ownkeys-trap-duplicates.js","memory_kb":0,"duration":236485651}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at ../../test262/test/staging/sm/Proxy/ownkeys-trap-duplicates.js:14\n\n","path":"../../test262/test/staging/sm/Proxy/ownkeys-trap-duplicates.js","memory_kb":0,"duration":294632035}
