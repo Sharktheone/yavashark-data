@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: \"tried to read @@unscopables\"\n    at ../../test262/test/staging/sm/lexical-environment/unscopables-ignored.js:17\n\n","path":"../../test262/test/staging/sm/lexical-environment/unscopables-ignored.js","memory_kb":0,"duration":232494558}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: \"tried to read @@unscopables\"\n    at ../../test262/test/staging/sm/lexical-environment/unscopables-ignored.js:17\n\n","path":"../../test262/test/staging/sm/lexical-environment/unscopables-ignored.js","memory_kb":0,"duration":3206674935}
