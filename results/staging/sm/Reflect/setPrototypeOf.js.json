@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at setPrototypeOf (../../test262/test/staging/sm/Reflect/setPrototypeOf.js:35)\n\n","path":"../../test262/test/staging/sm/Reflect/setPrototypeOf.js","memory_kb":0,"duration":296062839}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at setPrototypeOf (../../test262/test/staging/sm/Reflect/setPrototypeOf.js:35)\n\n","path":"../../test262/test/staging/sm/Reflect/setPrototypeOf.js","memory_kb":0,"duration":132464689}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid identifier part character: U+005C\n    at NativeConstructor (../../test262/test/staging/sm/syntax/let-as-label.js:16)\n\n","path":"../../test262/test/staging/sm/syntax/let-as-label.js","memory_kb":0,"duration":788709535}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid identifier part character: U+005C\n    at NativeConstructor (../../test262/test/staging/sm/syntax/let-as-label.js:16)\n\n","path":"../../test262/test/staging/sm/syntax/let-as-label.js","memory_kb":0,"duration":958500407}
