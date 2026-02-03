@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (59526) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/extensions/recursion.js","memory_kb":47860,"duration":889152319}
+{"status":"CRASH","msg":"\nthread 'main' (59517) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/extensions/recursion.js","memory_kb":48100,"duration":1401110687}
