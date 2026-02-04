@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected SameValue(«\"asyncDispose\"», «undefined») to be true\" }\n    at ../../test262/harness/assert.js:49\n    at ../../test262/test/built-ins/Symbol/asyncDispose/no-key.js:9\n\n","path":"../../test262/test/built-ins/Symbol/asyncDispose/no-key.js","memory_kb":0,"duration":109412652}
+{"status":"SKIP","msg":"SKIP\n","path":"../../test262/test/built-ins/Symbol/asyncDispose/no-key.js","memory_kb":0,"duration":3106034036}
