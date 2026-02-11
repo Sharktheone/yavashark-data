@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (59526) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/class/superPropProxies.js","memory_kb":44248,"duration":1798795789}
+{"status":"CRASH","msg":"\nthread 'main' (59488) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/class/superPropProxies.js","memory_kb":44412,"duration":3683274087}
