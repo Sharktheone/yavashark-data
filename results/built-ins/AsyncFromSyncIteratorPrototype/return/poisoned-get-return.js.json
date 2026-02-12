@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/poisoned-get-return.js","memory_kb":0,"duration":162614125}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/poisoned-get-return.js","memory_kb":4148,"duration":737384506}
