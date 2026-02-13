@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js:25\n\n","path":"../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js","memory_kb":3960,"duration":193087499}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js:25\n\n","path":"../../test262/test/built-ins/Proxy/set/trap-is-null-receiver.js","memory_kb":3968,"duration":88982252}

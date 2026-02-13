@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: 'this' must be global object, got undefined\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-invoke-nonstrict.js","memory_kb":0,"duration":69980795}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: 'this' must be global object, got undefined\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/rxn-handler-fulfilled-invoke-nonstrict.js","memory_kb":6992,"duration":76832007}

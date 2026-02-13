@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«1», «3») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/next/request-queue-order.js","memory_kb":4368,"duration":77716470}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«1», «3») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/next/request-queue-order.js","memory_kb":7168,"duration":76229371}
