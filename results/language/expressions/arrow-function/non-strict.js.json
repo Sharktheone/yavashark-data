@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/language/expressions/arrow-function/non-strict.js:20\n\n","path":"../../test262/test/language/expressions/arrow-function/non-strict.js","memory_kb":7124,"duration":214025864}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/language/expressions/arrow-function/non-strict.js:20\n\n","path":"../../test262/test/language/expressions/arrow-function/non-strict.js","memory_kb":4020,"duration":116549204}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js","memory_kb":8156,"duration":101813103}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/combines-sets.js","memory_kb":2192,"duration":66239047}
