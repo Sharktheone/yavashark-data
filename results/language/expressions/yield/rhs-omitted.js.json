@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/yield/rhs-omitted.js:42)\n\n","path":"../../test262/test/language/expressions/yield/rhs-omitted.js","memory_kb":6904,"duration":235932086}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/yield/rhs-omitted.js:42)\n\n","path":"../../test262/test/language/expressions/yield/rhs-omitted.js","memory_kb":0,"duration":752106579}
