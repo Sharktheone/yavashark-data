@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'return' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/return/name.js:26\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/return/name.js","memory_kb":7924,"duration":171337635}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'return' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/return/name.js:26\n\n","path":"../../test262/test/built-ins/GeneratorPrototype/return/name.js","memory_kb":0,"duration":179925254}

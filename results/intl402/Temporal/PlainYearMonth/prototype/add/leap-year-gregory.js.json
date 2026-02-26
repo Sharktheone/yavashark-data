@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Day out of range.\n    at add (../../test262/test/intl402/Temporal/PlainYearMonth/prototype/add/leap-year-gregory.js:34)\n\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/add/leap-year-gregory.js","memory_kb":12936,"duration":2091909160}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/add/leap-year-gregory.js","memory_kb":13240,"duration":712944391}
