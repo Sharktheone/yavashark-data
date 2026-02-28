@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass.js","memory_kb":4360,"duration":84748849}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass.js","memory_kb":2856,"duration":91060722}
