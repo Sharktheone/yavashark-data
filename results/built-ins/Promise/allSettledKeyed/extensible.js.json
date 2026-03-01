@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Promise/allSettledKeyed/extensible.js:14)\n\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/extensible.js","memory_kb":1836,"duration":34700369}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Promise/allSettledKeyed/extensible.js:14)\n\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/extensible.js","memory_kb":5136,"duration":123044148}

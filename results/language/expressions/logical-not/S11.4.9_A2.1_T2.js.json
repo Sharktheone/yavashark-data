@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: !x throw ReferenceError. Actual: Test262Error: #1.1: !x throw ReferenceError. Actual: true\" }\n    at ../../test262/test/language/expressions/logical-not/S11.4.9_A2.1_T2.js:17\n\n","path":"../../test262/test/language/expressions/logical-not/S11.4.9_A2.1_T2.js","memory_kb":0,"duration":192208741}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-not/S11.4.9_A2.1_T2.js","memory_kb":0,"duration":176144253}

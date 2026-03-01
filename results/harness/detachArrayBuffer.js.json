@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Error: Expected a ReferenceError, but a \"TypeError\" was thrown.\n    at ../../test262/test/harness/detachArrayBuffer.js:22\n\n","path":"../../test262/test/harness/detachArrayBuffer.js","memory_kb":0,"duration":234945104}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/detachArrayBuffer.js","memory_kb":0,"duration":293340342}

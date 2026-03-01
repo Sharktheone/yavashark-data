@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'prototype' of undefined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js","memory_kb":0,"duration":1398061426}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js","memory_kb":9672,"duration":167294974}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: 1 - y throw ReferenceError. Actual: Test262Error: #1.1: 1 - y throw ReferenceError. Actual: NaN\" }\n    at ../../test262/test/language/expressions/subtraction/S11.6.2_A2.1_T3.js:17\n\n","path":"../../test262/test/language/expressions/subtraction/S11.6.2_A2.1_T3.js","memory_kb":0,"duration":20111216}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/subtraction/S11.6.2_A2.1_T3.js","memory_kb":0,"duration":242407504}

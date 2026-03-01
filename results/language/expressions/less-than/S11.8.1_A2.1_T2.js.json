@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: x \u003c 1 throw ReferenceError. Actual: Test262Error: #1.1: x \u003c 1 throw ReferenceError. Actual: false\" }\n    at ../../test262/test/language/expressions/less-than/S11.8.1_A2.1_T2.js:17\n\n","path":"../../test262/test/language/expressions/less-than/S11.8.1_A2.1_T2.js","memory_kb":9044,"duration":85431432}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/less-than/S11.8.1_A2.1_T2.js","memory_kb":0,"duration":1077086214}

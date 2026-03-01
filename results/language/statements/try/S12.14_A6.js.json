@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#3: Sequence evaluation of commands try/catch/finally(with exception) is 1. try, 2. catch, 3. finally\" }\n    at ../../test262/test/language/statements/try/S12.14_A6.js:51\n\n","path":"../../test262/test/language/statements/try/S12.14_A6.js","memory_kb":0,"duration":459245648}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/S12.14_A6.js","memory_kb":0,"duration":1773377217}

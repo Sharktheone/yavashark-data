@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: x || (x = true) throw ReferenceError. Actual: Test262Error: #1.1: x || (x = true) throw ReferenceError. Actual: true\" }\n    at ../../test262/test/language/expressions/logical-or/S11.11.2_A2.4_T3.js:18\n\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A2.4_T3.js","memory_kb":0,"duration":146549357}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/logical-or/S11.11.2_A2.4_T3.js","memory_kb":0,"duration":130540186}

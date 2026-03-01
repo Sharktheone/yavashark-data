@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Expected a ReferenceError but got a TypeError\" }\n    at ../../test262/harness/assert.js:95\n    at ../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-2.js:12\n\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-2.js","memory_kb":0,"duration":36402014}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/some/15.4.4.17-4-2.js","memory_kb":0,"duration":277359471}

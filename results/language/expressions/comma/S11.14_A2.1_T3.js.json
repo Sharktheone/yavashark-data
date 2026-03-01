@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: 1, y throw ReferenceError. Actual: Test262Error: #1.1: 1, y throw ReferenceError. Actual: undefined\" }\n    at ../../test262/test/language/expressions/comma/S11.14_A2.1_T3.js:17\n\n","path":"../../test262/test/language/expressions/comma/S11.14_A2.1_T3.js","memory_kb":0,"duration":625708393}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/comma/S11.14_A2.1_T3.js","memory_kb":0,"duration":718515429}

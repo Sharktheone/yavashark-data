@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: 1 | y throw ReferenceError. Actual: Test262Error: #1.1: 1 | y throw ReferenceError. Actual: 1\" }\n    at ../../test262/test/language/expressions/bitwise-or/S11.10.3_A2.1_T3.js:17\n\n","path":"../../test262/test/language/expressions/bitwise-or/S11.10.3_A2.1_T3.js","memory_kb":0,"duration":2743142608}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/bitwise-or/S11.10.3_A2.1_T3.js","memory_kb":4992,"duration":101801034}

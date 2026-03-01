@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#0: \"x=x\" lead to throwing exception\" }\n    at ../../test262/test/language/statements/function/S13.2.1_A7_T3.js:25\n\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T3.js","memory_kb":0,"duration":638225585}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/S13.2.1_A7_T3.js:50\n\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T3.js","memory_kb":2604,"duration":1055887363}

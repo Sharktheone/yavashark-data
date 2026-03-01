@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#0: \"x=x\" lead to throwing exception\" }\n    at ../../test262/test/language/statements/function/S13.2.1_A7_T4.js:24\n\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T4.js","memory_kb":0,"duration":677417707}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T4.js","memory_kb":0,"duration":745861419}

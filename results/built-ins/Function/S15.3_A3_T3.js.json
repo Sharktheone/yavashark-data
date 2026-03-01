@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"The result of evaluating (e instanceof ReferenceError) is expected to be true\" }\n    at assert (../../test262/harness/assert.js:18)\n    at ../../test262/test/built-ins/Function/S15.3_A3_T3.js:25\n\n","path":"../../test262/test/built-ins/Function/S15.3_A3_T3.js","memory_kb":0,"duration":126155761}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Function/S15.3_A3_T3.js","memory_kb":6944,"duration":738911033}

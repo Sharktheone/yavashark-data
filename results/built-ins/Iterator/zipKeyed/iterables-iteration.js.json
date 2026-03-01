@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Property is not iterable\n    at zipKeyed (../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration.js:46)\n\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration.js","memory_kb":0,"duration":233793318}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Property is not iterable\n    at zipKeyed (../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration.js:46)\n\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration.js","memory_kb":2300,"duration":43003076}
