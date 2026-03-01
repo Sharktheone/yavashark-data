@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A2.js","memory_kb":0,"duration":179456072}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1: 'do __in__do = \"reached\"; while (abbracadabra)' lead to throwing exception\" }\n    at ../../test262/test/language/statements/do-while/S12.6.1_A2.js:18\n\n","path":"../../test262/test/language/statements/do-while/S12.6.1_A2.js","memory_kb":0,"duration":134421532}

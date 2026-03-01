@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1: \"__in__deepest__loop=__in__deepest__loop\" does not lead to throwing exception\" }\n    at ../../test262/test/language/statements/for/S12.6.3_A10.1_T2.js:19\n\n","path":"../../test262/test/language/statements/for/S12.6.3_A10.1_T2.js","memory_kb":7108,"duration":83880558}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for/S12.6.3_A10.1_T2.js","memory_kb":5448,"duration":337153475}

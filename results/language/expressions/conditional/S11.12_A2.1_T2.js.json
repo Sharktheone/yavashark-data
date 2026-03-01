@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/conditional/S11.12_A2.1_T2.js","memory_kb":0,"duration":286713771}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: x ? true : false throw ReferenceError. Actual: Test262Error: #1.1: x ? true : false throw ReferenceError. Actual: false\" }\n    at ../../test262/test/language/expressions/conditional/S11.12_A2.1_T2.js:17\n\n","path":"../../test262/test/language/expressions/conditional/S11.12_A2.1_T2.js","memory_kb":0,"duration":1360717429}

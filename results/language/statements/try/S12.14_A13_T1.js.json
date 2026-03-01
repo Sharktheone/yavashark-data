@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/try/S12.14_A13_T1.js","memory_kb":0,"duration":1261864512}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#3: x3===1. Actual: x3===undefined\" }\n    at ../../test262/test/language/statements/try/S12.14_A13_T1.js:52\n\n","path":"../../test262/test/language/statements/try/S12.14_A13_T1.js","memory_kb":0,"duration":666263143}

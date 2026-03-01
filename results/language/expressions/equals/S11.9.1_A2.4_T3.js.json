@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A2.4_T3.js","memory_kb":0,"duration":101189877}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: x == (x = 1) throw ReferenceError. Actual: Test262Error: #1.1: x == (x = 1) throw ReferenceError. Actual: true\" }\n    at ../../test262/test/language/expressions/equals/S11.9.1_A2.4_T3.js:17\n\n","path":"../../test262/test/language/expressions/equals/S11.9.1_A2.4_T3.js","memory_kb":0,"duration":149885669}

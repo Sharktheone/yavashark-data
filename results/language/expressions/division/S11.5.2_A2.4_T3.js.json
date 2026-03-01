@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/division/S11.5.2_A2.4_T3.js","memory_kb":0,"duration":256250835}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: x / (x = 1) throw ReferenceError. Actual: Test262Error: #1.1: x / (x = 1) throw ReferenceError. Actual: 1\" }\n    at ../../test262/test/language/expressions/division/S11.5.2_A2.4_T3.js:17\n\n","path":"../../test262/test/language/expressions/division/S11.5.2_A2.4_T3.js","memory_kb":0,"duration":2695581992}

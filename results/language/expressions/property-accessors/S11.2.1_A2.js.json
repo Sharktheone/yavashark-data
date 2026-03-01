@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A2.js","memory_kb":0,"duration":116493260}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"#1.2: object[1] throw ReferenceError. Actual: [object Error]\" }\n    at ../../test262/test/language/expressions/property-accessors/S11.2.1_A2.js:19\n\n","path":"../../test262/test/language/expressions/property-accessors/S11.2.1_A2.js","memory_kb":0,"duration":228139726}
