@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot destructure null or undefined\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-multiple-calls.js","memory_kb":2900,"duration":72347012}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot destructure null or undefined\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-multiple-calls.js","memory_kb":2620,"duration":38666555}
