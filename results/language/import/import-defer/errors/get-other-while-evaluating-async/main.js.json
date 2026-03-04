@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (47331) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating-async/main.js","memory_kb":78576,"duration":7390779056}
+{"status":"CRASH","msg":"\nthread 'main' (47404) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating-async/main.js","memory_kb":78436,"duration":7810551826}

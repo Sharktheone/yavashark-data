@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"\" }\n    at ../../test262/test/language/statements/with/unscopables-get-err.js:32\n\n","path":"../../test262/test/language/statements/with/unscopables-get-err.js","memory_kb":2492,"duration":4478797043}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"\" }\n    at ../../test262/test/language/statements/with/unscopables-get-err.js:32\n\n","path":"../../test262/test/language/statements/with/unscopables-get-err.js","memory_kb":0,"duration":803839960}
