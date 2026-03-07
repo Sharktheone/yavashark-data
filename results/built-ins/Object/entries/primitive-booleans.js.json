@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Boolean(true)\n    at entries (../../test262/test/built-ins/Object/entries/primitive-booleans.js:10)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-booleans.js","memory_kb":4404,"duration":160028248}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Boolean(true)\n    at entries (../../test262/test/built-ins/Object/entries/primitive-booleans.js:10)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-booleans.js","memory_kb":2692,"duration":67462200}
