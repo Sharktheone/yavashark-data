@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (44897) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/logical-or/tco-right.js","memory_kb":44448,"duration":3202568314}
+{"status":"CRASH","msg":"\nthread 'main' (44934) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/logical-or/tco-right.js","memory_kb":44596,"duration":1582275151}
