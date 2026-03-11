@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29\n\n","path":"../../test262/test/built-ins/Atomics/waitAsync/no-spurious-wakeup-no-operation.js","memory_kb":2156,"duration":43637327}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29\n\n","path":"../../test262/test/built-ins/Atomics/waitAsync/no-spurious-wakeup-no-operation.js","memory_kb":5656,"duration":194960220}
