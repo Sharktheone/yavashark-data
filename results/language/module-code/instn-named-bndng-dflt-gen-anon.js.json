@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: g is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-dflt-gen-anon.js:49\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-dflt-gen-anon.js","memory_kb":4400,"duration":145658727}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: g is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-dflt-gen-anon.js:49\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-dflt-gen-anon.js","memory_kb":7760,"duration":146094312}
