@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/Symbol.toStringTag.js:19\n\n","path":"../../test262/test/built-ins/SetIteratorPrototype/Symbol.toStringTag.js","memory_kb":4176,"duration":138817962}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/Symbol.toStringTag.js:19\n\n","path":"../../test262/test/built-ins/SetIteratorPrototype/Symbol.toStringTag.js","memory_kb":4076,"duration":1816855180}
