@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/importValue/name.js:22\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/importValue/name.js","memory_kb":8264,"duration":144980426}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/importValue/name.js:22\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/importValue/name.js","memory_kb":3988,"duration":107186015}

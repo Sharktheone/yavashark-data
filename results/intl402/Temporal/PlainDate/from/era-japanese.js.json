@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at from (../../test262/test/intl402/Temporal/PlainDate/from/era-japanese.js:14)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/from/era-japanese.js","memory_kb":8772,"duration":1810889058}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid date\n    at from (../../test262/test/intl402/Temporal/PlainDate/from/era-japanese.js:14)\n\n","path":"../../test262/test/intl402/Temporal/PlainDate/from/era-japanese.js","memory_kb":12044,"duration":187016085}
