@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«», «[object Object]») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-thenable.js","memory_kb":7308,"duration":128081617}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«», «[object Object]») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-thenable.js","memory_kb":2372,"duration":126495173}
