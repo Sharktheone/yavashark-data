@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-poisoned-then.js","memory_kb":2192,"duration":58214463}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-poisoned-then.js","memory_kb":7276,"duration":75614668}
