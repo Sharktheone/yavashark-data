@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/harness/sm/non262-Set-shell.js:17\n    at ../../test262/harness/sm/non262-Set-shell.js:4\n\n","path":"../../test262/test/staging/sm/Set/difference.js","memory_kb":0,"duration":350746368}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/harness/sm/non262-Set-shell.js:17\n    at ../../test262/harness/sm/non262-Set-shell.js:4\n\n","path":"../../test262/test/staging/sm/Set/difference.js","memory_kb":9540,"duration":171449646}
