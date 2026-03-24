@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/import-and-export-propagates-binding.js","memory_kb":0,"duration":105861790}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/import-and-export-propagates-binding.js","memory_kb":2264,"duration":83601198}
