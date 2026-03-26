@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/TypedArray/Symbol.species/prop-desc.js:18\n\n","path":"../../test262/test/built-ins/TypedArray/Symbol.species/prop-desc.js","memory_kb":9288,"duration":163223277}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/TypedArray/Symbol.species/prop-desc.js:18\n\n","path":"../../test262/test/built-ins/TypedArray/Symbol.species/prop-desc.js","memory_kb":6632,"duration":748121413}
