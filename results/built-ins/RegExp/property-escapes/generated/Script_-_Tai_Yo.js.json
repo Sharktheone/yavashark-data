@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid property name\n    at ../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Tai_Yo.js:24\n\n","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Tai_Yo.js","memory_kb":6988,"duration":1030193510}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/built-ins/RegExp/property-escapes/generated/Script_-_Tai_Yo.js","memory_kb":20188,"duration":30659229185}
