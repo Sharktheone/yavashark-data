@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at entries (../../test262/test/built-ins/Object/entries/primitive-strings.js:10)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-strings.js","memory_kb":2876,"duration":161891152}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at entries (../../test262/test/built-ins/Object/entries/primitive-strings.js:10)\n\n","path":"../../test262/test/built-ins/Object/entries/primitive-strings.js","memory_kb":4768,"duration":67080282}
