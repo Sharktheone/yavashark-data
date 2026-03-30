@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: adopt does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/adopt/puts-value-onDisposeAsync-on-top-of-stack.js","memory_kb":3364,"duration":154547889}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: adopt does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/adopt/puts-value-onDisposeAsync-on-top-of-stack.js","memory_kb":2832,"duration":102490095}
