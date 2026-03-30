@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at BoundFunction (../../test262/test/staging/sm/TypedArray/from_string.js:15)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_string.js","memory_kb":6808,"duration":236383130}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at BoundFunction (../../test262/test/staging/sm/TypedArray/from_string.js:15)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_string.js","memory_kb":0,"duration":148166651}
