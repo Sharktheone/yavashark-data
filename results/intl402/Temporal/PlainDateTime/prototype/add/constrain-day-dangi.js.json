@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Day out of range.\n    at add (../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/constrain-day-dangi.js:172)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/constrain-day-dangi.js","memory_kb":13036,"duration":1237837755}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/constrain-day-dangi.js","memory_kb":13064,"duration":1572162942}
