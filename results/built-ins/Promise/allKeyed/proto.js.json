@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert undefined or null to object\n    at getPrototypeOf (../../test262/test/built-ins/Promise/allKeyed/proto.js:13)\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/proto.js","memory_kb":0,"duration":37516118}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert undefined or null to object\n    at getPrototypeOf (../../test262/test/built-ins/Promise/allKeyed/proto.js:13)\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/proto.js","memory_kb":0,"duration":1543275837}
