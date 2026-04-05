@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21\n\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":5716,"duration":171385195}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21\n\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":4084,"duration":85818909}
