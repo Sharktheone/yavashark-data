@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at defineProperties (../../test262/test/staging/sm/object/15.2.3.7-01.js:55)\n\n","path":"../../test262/test/staging/sm/object/15.2.3.7-01.js","memory_kb":7696,"duration":67656746}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at defineProperties (../../test262/test/staging/sm/object/15.2.3.7-01.js:55)\n\n","path":"../../test262/test/staging/sm/object/15.2.3.7-01.js","memory_kb":4520,"duration":88650068}

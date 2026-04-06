@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Expected object, found Null\nPASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/dynamic-import/namespace/promise-then-ns-set-prototype-of-null.js","memory_kb":9872,"duration":200983653}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/dynamic-import/namespace/promise-then-ns-set-prototype-of-null.js","memory_kb":11012,"duration":167858096}
