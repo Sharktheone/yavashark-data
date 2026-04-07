@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'throw' of undefined\n    at ../../test262/test/staging/sm/generators/delegating-yield-2.js:16\n\n","path":"../../test262/test/staging/sm/generators/delegating-yield-2.js","memory_kb":5504,"duration":1029570769}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'throw' of undefined\n    at ../../test262/test/staging/sm/generators/delegating-yield-2.js:16\n\n","path":"../../test262/test/staging/sm/generators/delegating-yield-2.js","memory_kb":2332,"duration":130970531}
