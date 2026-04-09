@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/intl402/Locale/prototype/firstDayOfWeek/name.js:16\n\n","path":"../../test262/test/intl402/Locale/prototype/firstDayOfWeek/name.js","memory_kb":6864,"duration":89789833}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/intl402/Locale/prototype/firstDayOfWeek/name.js:16\n\n","path":"../../test262/test/intl402/Locale/prototype/firstDayOfWeek/name.js","memory_kb":2616,"duration":57890471}
