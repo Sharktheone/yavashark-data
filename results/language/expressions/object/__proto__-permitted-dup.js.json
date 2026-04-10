@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/object/__proto__-permitted-dup.js:36\n\n","path":"../../test262/test/language/expressions/object/__proto__-permitted-dup.js","memory_kb":8632,"duration":385795219}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/expressions/object/__proto__-permitted-dup.js:36\n\n","path":"../../test262/test/language/expressions/object/__proto__-permitted-dup.js","memory_kb":7824,"duration":166785846}
