@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/String/prototype/localeCompare/taint-Intl-Collator.js:14\n\n","path":"../../test262/test/intl402/String/prototype/localeCompare/taint-Intl-Collator.js","memory_kb":11816,"duration":223344484}
+{"status":"PASS","msg":"PASS:\n -1\n","path":"../../test262/test/intl402/String/prototype/localeCompare/taint-Intl-Collator.js","memory_kb":11904,"duration":146888034}
