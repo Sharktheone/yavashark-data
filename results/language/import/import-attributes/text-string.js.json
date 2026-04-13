@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (2..8, ExpectedSemiForExprStmt { expr: 0..1 }) }\n\n","path":"../../test262/test/language/import/import-attributes/text-string.js","memory_kb":0,"duration":484845245}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (2..8, ExpectedSemiForExprStmt { expr: 0..1 }) }\n\n","path":"../../test262/test/language/import/import-attributes/text-string.js","memory_kb":0,"duration":190785346}

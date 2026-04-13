@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: SymbolSymbol(iterator)) does not exist on object\n    at from (../../test262/test/staging/sm/TypedArray/from_basics.js:27)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_basics.js","memory_kb":0,"duration":377359149}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: SymbolSymbol(iterator)) does not exist on object\n    at from (../../test262/test/staging/sm/TypedArray/from_basics.js:27)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_basics.js","memory_kb":11304,"duration":189295590}
