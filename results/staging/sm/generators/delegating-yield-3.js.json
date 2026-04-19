@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/staging/sm/generators/delegating-yield-3.js:15\n\n","path":"../../test262/test/staging/sm/generators/delegating-yield-3.js","memory_kb":5928,"duration":148615234}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/staging/sm/generators/delegating-yield-3.js:15\n\n","path":"../../test262/test/staging/sm/generators/delegating-yield-3.js","memory_kb":456,"duration":861167959}

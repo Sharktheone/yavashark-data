@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/13.0_4-17gs.js","memory_kb":0,"duration":112951290}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Cannot assign to 'eval' in strict mode\n    at ../../test262/test/language/statements/function/13.0_4-17gs.js:12\n\n","path":"../../test262/test/language/statements/function/13.0_4-17gs.js","memory_kb":0,"duration":143850701}
