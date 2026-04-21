@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Identifier 'eval' is not allowed in strict mode\n    at NativeConstructor (../../test262/test/built-ins/Function/15.3.2.1-11-4-s.js:13)\n\n","path":"../../test262/test/built-ins/Function/15.3.2.1-11-4-s.js","memory_kb":0,"duration":100993528}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Identifier 'eval' is not allowed in strict mode\n    at NativeConstructor (../../test262/test/built-ins/Function/15.3.2.1-11-4-s.js:13)\n\n","path":"../../test262/test/built-ins/Function/15.3.2.1-11-4-s.js","memory_kb":0,"duration":143845244}
