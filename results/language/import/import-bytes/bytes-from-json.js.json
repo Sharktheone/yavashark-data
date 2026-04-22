@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (5..6, ExpectedSemiForExprStmt { expr: 2..5 }) }\n\n","path":"../../test262/test/language/import/import-bytes/bytes-from-json.js","memory_kb":0,"duration":213940481}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (5..6, ExpectedSemiForExprStmt { expr: 2..5 }) }\n\n","path":"../../test262/test/language/import/import-bytes/bytes-from-json.js","memory_kb":0,"duration":751753729}
