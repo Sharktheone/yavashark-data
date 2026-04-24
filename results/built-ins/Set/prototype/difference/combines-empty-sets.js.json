@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js","memory_kb":4044,"duration":273184613}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-empty-sets.js","memory_kb":2112,"duration":3603339090}
