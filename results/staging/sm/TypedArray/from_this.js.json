@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at from (../../test262/test/staging/sm/TypedArray/from_this.js:30)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_this.js","memory_kb":11752,"duration":380186184}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at from (../../test262/test/staging/sm/TypedArray/from_this.js:30)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_this.js","memory_kb":0,"duration":756697254}

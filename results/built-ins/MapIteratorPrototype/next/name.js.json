@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/name.js:22\n\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/name.js","memory_kb":7016,"duration":48485690}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/name.js:22\n\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/name.js","memory_kb":8792,"duration":86683582}
