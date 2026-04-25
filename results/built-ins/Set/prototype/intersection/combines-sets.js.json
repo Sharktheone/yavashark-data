@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/combines-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/intersection/combines-sets.js","memory_kb":7400,"duration":214185092}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/combines-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/intersection/combines-sets.js","memory_kb":4800,"duration":440456087}

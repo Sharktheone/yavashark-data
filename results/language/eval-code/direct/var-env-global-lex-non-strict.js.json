@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":6896,"duration":82023877}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":2884,"duration":158828534}

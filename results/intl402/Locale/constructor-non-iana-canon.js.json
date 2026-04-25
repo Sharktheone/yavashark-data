@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid language tag: posix\n    at ../../test262/test/intl402/Locale/constructor-non-iana-canon.js:94\n\n","path":"../../test262/test/intl402/Locale/constructor-non-iana-canon.js","memory_kb":3648,"duration":601557914}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid language tag: posix\n    at ../../test262/test/intl402/Locale/constructor-non-iana-canon.js:94\n\n","path":"../../test262/test/intl402/Locale/constructor-non-iana-canon.js","memory_kb":2648,"duration":189775263}

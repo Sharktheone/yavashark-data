@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid time value\n    at toTemporalInstant (../../test262/test/staging/sm/Date/to-temporal-instant.js:12)\n\n","path":"../../test262/test/staging/sm/Date/to-temporal-instant.js","memory_kb":3408,"duration":38410471}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid time value\n    at toTemporalInstant (../../test262/test/staging/sm/Date/to-temporal-instant.js:12)\n\n","path":"../../test262/test/staging/sm/Date/to-temporal-instant.js","memory_kb":0,"duration":1444560765}
