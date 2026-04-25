@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Cannot assign to 'eval' in strict mode\n    at ../../test262/test/language/statements/function/13.0_4-17gs.js:12\n\n","path":"../../test262/test/language/statements/function/13.0_4-17gs.js","memory_kb":6624,"duration":358172563}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Cannot assign to 'eval' in strict mode\n    at ../../test262/test/language/statements/function/13.0_4-17gs.js:12\n\n","path":"../../test262/test/language/statements/function/13.0_4-17gs.js","memory_kb":0,"duration":292702218}
