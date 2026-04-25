@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Promise/Symbol.species/return-value.js:14\n\n","path":"../../test262/test/built-ins/Promise/Symbol.species/return-value.js","memory_kb":2180,"duration":148341651}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Promise/Symbol.species/return-value.js:14\n\n","path":"../../test262/test/built-ins/Promise/Symbol.species/return-value.js","memory_kb":2640,"duration":135868104}

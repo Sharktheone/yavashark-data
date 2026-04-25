@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (16..17, ExpectedSemiForExprStmt { expr: 8..16 }) }\n\n","path":"../../test262/test/language/import/import-attributes/json-extensibility-object.js","memory_kb":4796,"duration":152737299}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (16..17, ExpectedSemiForExprStmt { expr: 8..16 }) }\n\n","path":"../../test262/test/language/import/import-attributes/json-extensibility-object.js","memory_kb":0,"duration":300024203}
