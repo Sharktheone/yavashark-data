@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/ArrayBuffer/getter-name.js:11\n\n","path":"../../test262/test/staging/sm/ArrayBuffer/getter-name.js","memory_kb":2792,"duration":250788278}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/ArrayBuffer/getter-name.js:11\n\n","path":"../../test262/test/staging/sm/ArrayBuffer/getter-name.js","memory_kb":7076,"duration":146000441}
