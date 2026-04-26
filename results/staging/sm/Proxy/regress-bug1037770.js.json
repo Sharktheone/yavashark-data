@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/staging/sm/Proxy/regress-bug1037770.js","memory_kb":0,"duration":2180361514}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Assignment to constant variable\n    at ../../test262/test/staging/sm/Proxy/regress-bug1037770.js:13\n\n","path":"../../test262/test/staging/sm/Proxy/regress-bug1037770.js","memory_kb":2848,"duration":125002333}

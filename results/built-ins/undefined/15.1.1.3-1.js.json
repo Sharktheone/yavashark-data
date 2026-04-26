@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/undefined/15.1.1.3-1.js","memory_kb":2972,"duration":55994462}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Assignment to constant variable\n    at ../../test262/test/built-ins/undefined/15.1.1.3-1.js:10\n\n","path":"../../test262/test/built-ins/undefined/15.1.1.3-1.js","memory_kb":7872,"duration":98783244}

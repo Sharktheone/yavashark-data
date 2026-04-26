@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15)\n\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":6692,"duration":927088367}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15)\n\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":7344,"duration":59647740}
