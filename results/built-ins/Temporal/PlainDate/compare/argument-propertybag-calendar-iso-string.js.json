@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: unknown calendar\n    at compare (../../test262/test/built-ins/Temporal/PlainDate/compare/argument-propertybag-calendar-iso-string.js:21)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-propertybag-calendar-iso-string.js","memory_kb":5228,"duration":266916285}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDate/compare/argument-propertybag-calendar-iso-string.js","memory_kb":0,"duration":2939941827}

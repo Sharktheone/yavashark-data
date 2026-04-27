@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (143..144, ExpectedSemiForExprStmt { expr: 135..142 }) }\n\n","path":"../../test262/test/language/import/import-attributes/text-javascript.js","memory_kb":8392,"duration":110083928}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (143..144, ExpectedSemiForExprStmt { expr: 135..142 }) }\n\n","path":"../../test262/test/language/import/import-attributes/text-javascript.js","memory_kb":8464,"duration":113835942}
