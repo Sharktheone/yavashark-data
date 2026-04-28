@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Promise/executor-function-extensible.js:21)\n\n","path":"../../test262/test/built-ins/Promise/executor-function-extensible.js","memory_kb":3692,"duration":64874062}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Promise/executor-function-extensible.js:21)\n\n","path":"../../test262/test/built-ins/Promise/executor-function-extensible.js","memory_kb":0,"duration":920823106}

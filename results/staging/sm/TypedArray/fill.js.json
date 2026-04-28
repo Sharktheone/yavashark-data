@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: TypedArray is out of bounds\n    at fill (../../test262/test/staging/sm/TypedArray/fill.js:26)\n\n","path":"../../test262/test/staging/sm/TypedArray/fill.js","memory_kb":11556,"duration":384462512}
+{"status":"FAIL","msg":"FAIL:\n RangeError: TypedArray is out of bounds\n    at fill (../../test262/test/staging/sm/TypedArray/fill.js:26)\n\n","path":"../../test262/test/staging/sm/TypedArray/fill.js","memory_kb":0,"duration":527312657}

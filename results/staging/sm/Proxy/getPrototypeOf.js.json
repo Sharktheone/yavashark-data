@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75)\n\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":0,"duration":964878733}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75)\n\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":2448,"duration":169793282}
