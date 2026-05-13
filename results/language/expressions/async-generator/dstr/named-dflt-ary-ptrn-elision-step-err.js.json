@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Generator is already running\n    at next (../../test262/test/language/expressions/async-generator/dstr/named-dflt-ary-ptrn-elision-step-err.js:52)\n\n","path":"../../test262/test/language/expressions/async-generator/dstr/named-dflt-ary-ptrn-elision-step-err.js","memory_kb":0,"duration":1117705776}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/dstr/named-dflt-ary-ptrn-elision-step-err.js","memory_kb":2780,"duration":23620487}

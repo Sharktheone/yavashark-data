@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Generator is already running\n    at next (../../test262/test/language/statements/class/dstr/async-gen-meth-ary-ptrn-rest-id-iter-step-err.js:74)\n\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-ary-ptrn-rest-id-iter-step-err.js","memory_kb":0,"duration":188167637}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/dstr/async-gen-meth-ary-ptrn-rest-id-iter-step-err.js","memory_kb":0,"duration":31056257}

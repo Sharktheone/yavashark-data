@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Generator is already running\n    at next (../../test262/test/language/statements/for-of/dstr/const-ary-ptrn-elision-step-err.js:68)\n\n","path":"../../test262/test/language/statements/for-of/dstr/const-ary-ptrn-elision-step-err.js","memory_kb":0,"duration":997065423}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/dstr/const-ary-ptrn-elision-step-err.js","memory_kb":0,"duration":130880268}

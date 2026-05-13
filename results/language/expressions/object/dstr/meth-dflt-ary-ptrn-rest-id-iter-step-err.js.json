@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Generator is already running\n    at next (../../test262/test/language/expressions/object/dstr/meth-dflt-ary-ptrn-rest-id-iter-step-err.js:70)\n\n","path":"../../test262/test/language/expressions/object/dstr/meth-dflt-ary-ptrn-rest-id-iter-step-err.js","memory_kb":0,"duration":589122855}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/dstr/meth-dflt-ary-ptrn-rest-id-iter-step-err.js","memory_kb":0,"duration":170867906}
