@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/staging/sm/extensions/mutable-proto-special-form.js:42\n\n","path":"../../test262/test/staging/sm/extensions/mutable-proto-special-form.js","memory_kb":0,"duration":1111803550}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/staging/sm/extensions/mutable-proto-special-form.js:42\n\n","path":"../../test262/test/staging/sm/extensions/mutable-proto-special-form.js","memory_kb":0,"duration":145729918}
