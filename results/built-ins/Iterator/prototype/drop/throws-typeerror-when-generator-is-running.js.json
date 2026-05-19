@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (13812) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/throws-typeerror-when-generator-is-running.js","memory_kb":44328,"duration":1536500631}
+{"status":"CRASH","msg":"\nthread 'main' (13870) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/built-ins/Iterator/prototype/drop/throws-typeerror-when-generator-is-running.js","memory_kb":32316,"duration":1475528249}
