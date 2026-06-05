@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid TypedArray constructor\n    at call (../../test262/test/staging/sm/TypedArray/from_constructor.js:13)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_constructor.js","memory_kb":0,"duration":191967519}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid TypedArray constructor\n    at call (../../test262/test/staging/sm/TypedArray/from_constructor.js:13)\n\n","path":"../../test262/test/staging/sm/TypedArray/from_constructor.js","memory_kb":10752,"duration":92782019}

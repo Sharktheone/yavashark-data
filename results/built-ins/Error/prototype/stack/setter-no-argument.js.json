@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/Error/prototype/stack/setter-no-argument.js:19\n\n","path":"../../test262/test/built-ins/Error/prototype/stack/setter-no-argument.js","memory_kb":0,"duration":256619474}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/built-ins/Error/prototype/stack/setter-no-argument.js:19\n\n","path":"../../test262/test/built-ins/Error/prototype/stack/setter-no-argument.js","memory_kb":4456,"duration":65462609}
