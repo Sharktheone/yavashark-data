@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/generators/yield-spread-arr-single.js:33)\n\n","path":"../../test262/test/language/expressions/generators/yield-spread-arr-single.js","memory_kb":2872,"duration":100951988}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/generators/yield-spread-arr-single.js:33)\n\n","path":"../../test262/test/language/expressions/generators/yield-spread-arr-single.js","memory_kb":7144,"duration":278387140}

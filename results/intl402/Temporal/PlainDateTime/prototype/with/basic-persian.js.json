@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-persian.js","memory_kb":12380,"duration":272041820}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-persian.js:34)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-persian.js","memory_kb":11168,"duration":213754308}

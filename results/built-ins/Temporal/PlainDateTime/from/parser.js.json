@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js","memory_kb":8752,"duration":346609937}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js","memory_kb":8736,"duration":66813452}

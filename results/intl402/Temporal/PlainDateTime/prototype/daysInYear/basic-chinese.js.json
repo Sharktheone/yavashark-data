@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInYear/basic-chinese.js","memory_kb":11040,"duration":227073875}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInYear/basic-chinese.js:97)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInYear/basic-chinese.js","memory_kb":6944,"duration":234992744}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-chinese.js","memory_kb":13008,"duration":1245572615}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-chinese.js:17)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-chinese.js","memory_kb":10716,"duration":229578957}

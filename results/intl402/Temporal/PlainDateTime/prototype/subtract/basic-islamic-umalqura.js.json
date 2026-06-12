@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-islamic-umalqura.js","memory_kb":12856,"duration":975045270}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-islamic-umalqura.js:111)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-islamic-umalqura.js","memory_kb":12844,"duration":1842898270}

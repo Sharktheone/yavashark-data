@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-ethiopic.js","memory_kb":12764,"duration":230239279}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-ethiopic.js:24)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-ethiopic.js","memory_kb":8932,"duration":125041243}

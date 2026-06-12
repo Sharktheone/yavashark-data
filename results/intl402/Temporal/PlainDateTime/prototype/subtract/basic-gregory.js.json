@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-gregory.js","memory_kb":13168,"duration":1162195586}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-gregory.js:22)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-gregory.js","memory_kb":9204,"duration":248988492}

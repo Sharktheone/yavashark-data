@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthsInYear/basic-japanese.js","memory_kb":10180,"duration":943763731}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthsInYear/basic-japanese.js:16)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthsInYear/basic-japanese.js","memory_kb":8224,"duration":379133093}

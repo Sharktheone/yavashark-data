@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-coptic.js","memory_kb":12432,"duration":245992966}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-coptic.js:34)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/with/basic-coptic.js","memory_kb":9944,"duration":112201668}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-islamic-civil.js","memory_kb":13076,"duration":2118932880}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-islamic-civil.js:17)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-islamic-civil.js","memory_kb":10452,"duration":195358458}
