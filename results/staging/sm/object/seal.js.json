@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at seal (../../test262/test/staging/sm/object/seal.js:14)\n\n","path":"../../test262/test/staging/sm/object/seal.js","memory_kb":3944,"duration":1736571056}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at seal (../../test262/test/staging/sm/object/seal.js:14)\n\n","path":"../../test262/test/staging/sm/object/seal.js","memory_kb":5332,"duration":1538669756}
