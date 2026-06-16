@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/ZonedDateTime/prototype/with/dst-defaults.js:11)\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/with/dst-defaults.js","memory_kb":0,"duration":236534326}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/ZonedDateTime/prototype/with/dst-defaults.js:11)\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/with/dst-defaults.js","memory_kb":8708,"duration":175276794}

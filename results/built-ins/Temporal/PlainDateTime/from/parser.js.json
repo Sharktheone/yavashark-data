@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js","memory_kb":10496,"duration":263676363}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js:11)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/parser.js","memory_kb":8592,"duration":104422923}
