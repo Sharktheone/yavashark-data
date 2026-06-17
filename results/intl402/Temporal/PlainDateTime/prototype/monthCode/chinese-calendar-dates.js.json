@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/chinese-calendar-dates.js:43)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/chinese-calendar-dates.js","memory_kb":8520,"duration":224988201}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/chinese-calendar-dates.js","memory_kb":12896,"duration":1068869302}

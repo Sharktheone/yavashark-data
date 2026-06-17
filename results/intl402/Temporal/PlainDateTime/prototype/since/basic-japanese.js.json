@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-japanese.js:17)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-japanese.js","memory_kb":8312,"duration":291280154}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-japanese.js","memory_kb":12756,"duration":3843189916}

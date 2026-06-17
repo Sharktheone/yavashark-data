@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-propertybag-optional-properties.js:29)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-propertybag-optional-properties.js","memory_kb":0,"duration":86789706}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-propertybag-optional-properties.js","memory_kb":9296,"duration":47170059}

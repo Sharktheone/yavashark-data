@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/proleptic-roc.js:20)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/proleptic-roc.js","memory_kb":0,"duration":1228783867}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/proleptic-roc.js","memory_kb":12940,"duration":622967444}

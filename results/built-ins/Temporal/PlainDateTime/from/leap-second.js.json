@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/leap-second.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/leap-second.js","memory_kb":10200,"duration":128464826}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/leap-second.js","memory_kb":10876,"duration":113071125}

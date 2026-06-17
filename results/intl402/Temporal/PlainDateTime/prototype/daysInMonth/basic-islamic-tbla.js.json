@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInMonth/basic-islamic-tbla.js:53)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInMonth/basic-islamic-tbla.js","memory_kb":1804,"duration":54574749}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/daysInMonth/basic-islamic-tbla.js","memory_kb":0,"duration":1320097651}

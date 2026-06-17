@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/no-leap-months-persian.js:14)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/no-leap-months-persian.js","memory_kb":5108,"duration":107568388}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/monthCode/no-leap-months-persian.js","memory_kb":10572,"duration":1706406580}

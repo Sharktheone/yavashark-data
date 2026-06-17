@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/ZonedDateTime/prototype/hoursInDay/dst-basic.js:22)\n\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/hoursInDay/dst-basic.js","memory_kb":0,"duration":998979556}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/ZonedDateTime/prototype/hoursInDay/dst-basic.js","memory_kb":6664,"duration":225774612}

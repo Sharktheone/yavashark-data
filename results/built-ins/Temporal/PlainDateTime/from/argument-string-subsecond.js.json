@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-subsecond.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-subsecond.js","memory_kb":0,"duration":72133198}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-string-subsecond.js","memory_kb":12008,"duration":130693498}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/month-boundary-japanese.js:21)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/month-boundary-japanese.js","memory_kb":11308,"duration":228994978}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/add/month-boundary-japanese.js","memory_kb":0,"duration":1424944523}

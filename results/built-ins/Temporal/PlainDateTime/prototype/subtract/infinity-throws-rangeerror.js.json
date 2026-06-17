@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/prototype/subtract/infinity-throws-rangeerror.js:13)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/prototype/subtract/infinity-throws-rangeerror.js","memory_kb":2100,"duration":47231776}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/prototype/subtract/infinity-throws-rangeerror.js","memory_kb":10996,"duration":111717628}

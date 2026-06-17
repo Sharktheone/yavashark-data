@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/wrapping-at-end-of-month-persian.js:15)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/wrapping-at-end-of-month-persian.js","memory_kb":9828,"duration":212277488}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/wrapping-at-end-of-month-persian.js","memory_kb":12500,"duration":462554571}

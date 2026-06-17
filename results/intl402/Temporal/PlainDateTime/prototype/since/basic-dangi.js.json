@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-dangi.js:17)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-dangi.js","memory_kb":10776,"duration":356404748}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/since/basic-dangi.js","memory_kb":4124,"duration":3854852680}

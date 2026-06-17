@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-plaindatetime.js:12)\n\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-plaindatetime.js","memory_kb":8264,"duration":131379072}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/PlainDateTime/from/argument-plaindatetime.js","memory_kb":11716,"duration":120590422}

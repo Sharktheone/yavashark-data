@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-roc.js:22)\n\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-roc.js","memory_kb":0,"duration":1614090929}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainDateTime/prototype/subtract/basic-roc.js","memory_kb":12648,"duration":1151655717}
