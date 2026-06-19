@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid enum variant string\n    at toString (../../test262/test/intl402/Temporal/PlainYearMonth/prototype/toString/calendarname-never.js:17)\n\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/toString/calendarname-never.js","memory_kb":7404,"duration":1283266905}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/toString/calendarname-never.js","memory_kb":2728,"duration":210463631}

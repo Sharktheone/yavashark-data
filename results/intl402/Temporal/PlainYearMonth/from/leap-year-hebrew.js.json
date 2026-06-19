@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid enum variant string\n    at assertPlainYearMonth (../../test262/harness/temporalHelpers.js:384)\n    at ../../test262/test/intl402/Temporal/PlainYearMonth/from/leap-year-hebrew.js:36\n\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/from/leap-year-hebrew.js","memory_kb":0,"duration":1067358662}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/from/leap-year-hebrew.js","memory_kb":0,"duration":672876521}
