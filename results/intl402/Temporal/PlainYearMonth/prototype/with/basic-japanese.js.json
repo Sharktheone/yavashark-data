@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/with/basic-japanese.js","memory_kb":4044,"duration":606252638}
+{"status":"FAIL","msg":"FAIL:\n RangeError: Invalid enum variant string\n    at assertPlainYearMonth (../../test262/harness/temporalHelpers.js:384)\n    at ../../test262/test/intl402/Temporal/PlainYearMonth/prototype/with/basic-japanese.js:27\n\n","path":"../../test262/test/intl402/Temporal/PlainYearMonth/prototype/with/basic-japanese.js","memory_kb":10480,"duration":471126587}
