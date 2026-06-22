@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/description.js:14)\n\n","path":"../../test262/test/intl402/FallbackSymbol/description.js","memory_kb":3416,"duration":84197946}
+{"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/description.js:14)\n\n","path":"../../test262/test/intl402/FallbackSymbol/description.js","memory_kb":6876,"duration":80231721}
