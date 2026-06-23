@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (49044) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/verify-dfs.js","memory_kb":71904,"duration":7461581375}
+{"status":"CRASH","msg":"\nthread 'main' (49077) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/verify-dfs.js","memory_kb":71764,"duration":6537395723}

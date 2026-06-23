@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-second.js:34\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-second.js","memory_kb":0,"duration":875208285}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-second.js:34\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-second.js","memory_kb":8784,"duration":102693881}
