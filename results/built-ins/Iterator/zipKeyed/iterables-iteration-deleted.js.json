@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at zipKeyed (../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration-deleted.js:46)\n\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration-deleted.js","memory_kb":5644,"duration":279589607}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at zipKeyed (../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration-deleted.js:46)\n\n","path":"../../test262/test/built-ins/Iterator/zipKeyed/iterables-iteration-deleted.js","memory_kb":2900,"duration":123490504}

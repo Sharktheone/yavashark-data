@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-contract.js:17\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js","memory_kb":0,"duration":289756853}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-contract.js:17\n\n","path":"../../test262/test/language/statements/for-of/set-contract.js","memory_kb":9060,"duration":107199256}
