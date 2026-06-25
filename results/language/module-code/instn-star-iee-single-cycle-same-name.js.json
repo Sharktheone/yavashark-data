@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (48756) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/instn-star-iee-single-cycle-same-name.js","memory_kb":40268,"duration":2796295502}
+{"status":"CRASH","msg":"\nthread 'main' (48624) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/instn-star-iee-single-cycle-same-name.js","memory_kb":40268,"duration":6464772641}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"name\": \"Test262Error\", \"message\": \"Code unit: d800 Expected SameValue(«\"a\\\\�\"», «\"a\\\\�\"») to be true\" }\n    at ../../test262/harness/assert.js:91\n    at ../../test262/test/language/literals/regexp/S7.8.5_A2.4_T2.js:38\n\n","path":"../../test262/test/language/literals/regexp/S7.8.5_A2.4_T2.js","memory_kb":10080,"duration":23918995596}
+{"status":"TIMEOUT","msg":"Test timed out","path":"../../test262/test/language/literals/regexp/S7.8.5_A2.4_T2.js","memory_kb":10176,"duration":30035924315}
