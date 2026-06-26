@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at next (../../test262/test/staging/sm/Iterator/from/wrap-next-not-object-throws.js:25)\n\n","path":"../../test262/test/staging/sm/Iterator/from/wrap-next-not-object-throws.js","memory_kb":2328,"duration":398627165}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at next (../../test262/test/staging/sm/Iterator/from/wrap-next-not-object-throws.js:25)\n\n","path":"../../test262/test/staging/sm/Iterator/from/wrap-next-not-object-throws.js","memory_kb":2756,"duration":115593763}
