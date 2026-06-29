@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-empty-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-empty-sets.js","memory_kb":9996,"duration":224144018}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-empty-sets.js:15\n\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-empty-sets.js","memory_kb":4912,"duration":2959204240}
