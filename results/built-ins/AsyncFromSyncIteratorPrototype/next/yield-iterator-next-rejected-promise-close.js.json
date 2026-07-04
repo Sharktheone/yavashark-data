@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«0», «1») to be true\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/next/yield-iterator-next-rejected-promise-close.js","memory_kb":0,"duration":778426391}
+{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Expected SameValue(«0», «1») to be true\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/next/yield-iterator-next-rejected-promise-close.js","memory_kb":6808,"duration":102107841}

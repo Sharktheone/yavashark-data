@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/compare-array-message.js","memory_kb":0,"duration":1355047439}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Symbol(Symbol { inner: Str(\"1\"), is_registered: false })\n    at ../../test262/harness/assert.js:150\n    at ../../test262/test/harness/compare-array-message.js:16\n\n","path":"../../test262/test/harness/compare-array-message.js","memory_kb":0,"duration":1622068767}

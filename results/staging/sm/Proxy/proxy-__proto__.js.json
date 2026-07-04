@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Proxy/proxy-__proto__.js:14\n\n","path":"../../test262/test/staging/sm/Proxy/proxy-__proto__.js","memory_kb":8336,"duration":2269679957}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Proxy/proxy-__proto__.js:14\n\n","path":"../../test262/test/staging/sm/Proxy/proxy-__proto__.js","memory_kb":0,"duration":2196763085}

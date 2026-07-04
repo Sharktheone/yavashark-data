@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n 0\n","path":"../../test262/test/intl402/Number/prototype/toLocaleString/taint-Intl-NumberFormat.js","memory_kb":9836,"duration":198141750}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(0.0)\n    at toLocaleString (../../test262/test/intl402/Number/prototype/toLocaleString/taint-Intl-NumberFormat.js:14)\n\n","path":"../../test262/test/intl402/Number/prototype/toLocaleString/taint-Intl-NumberFormat.js","memory_kb":11488,"duration":231542554}

@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-16.js","memory_kb":0,"duration":91214099}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Boolean(false)\n    at call (../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-16.js:14)\n    at ../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-16.js:22\n\n","path":"../../test262/test/built-ins/Array/prototype/forEach/15.4.4.18-7-c-ii-16.js","memory_kb":0,"duration":419071587}

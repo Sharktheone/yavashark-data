@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/equals/symbol-strict-equality-comparison.js","memory_kb":0,"duration":235216045}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Symbol(Symbol { inner: Str(\"66\"), is_registered: false })\n    at valueOf (../../test262/test/language/expressions/equals/symbol-strict-equality-comparison.js:13)\n\n","path":"../../test262/test/language/expressions/equals/symbol-strict-equality-comparison.js","memory_kb":0,"duration":116246092}
