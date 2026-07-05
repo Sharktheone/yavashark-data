@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found BigInt(10)\n    at toString (../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js","memory_kb":0,"duration":157441656}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found BigInt(10)\n    at toString (../../test262/test/built-ins/BigInt/prototype/toString/a-z.js:19)\n\n","path":"../../test262/test/built-ins/BigInt/prototype/toString/a-z.js","memory_kb":0,"duration":319322700}

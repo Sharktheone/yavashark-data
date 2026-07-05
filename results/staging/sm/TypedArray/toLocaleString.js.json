@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(1.0)\n    at toLocaleString (../../test262/test/staging/sm/TypedArray/toLocaleString.js:40)\n\n","path":"../../test262/test/staging/sm/TypedArray/toLocaleString.js","memory_kb":16,"duration":478395019}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Number(1.0)\n    at toLocaleString (../../test262/test/staging/sm/TypedArray/toLocaleString.js:40)\n\n","path":"../../test262/test/staging/sm/TypedArray/toLocaleString.js","memory_kb":11528,"duration":194940709}
