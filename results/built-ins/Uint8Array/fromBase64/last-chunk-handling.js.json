@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid padding\n    at fromBase64 (../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js:17)\n\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js","memory_kb":2148,"duration":106931785}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Invalid padding\n    at fromBase64 (../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js:17)\n\n","path":"../../test262/test/built-ins/Uint8Array/fromBase64/last-chunk-handling.js","memory_kb":9584,"duration":1031172533}
