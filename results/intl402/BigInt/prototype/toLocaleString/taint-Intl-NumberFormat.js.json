@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found BigInt(0)\n    at toLocaleString (../../test262/test/intl402/BigInt/prototype/toLocaleString/taint-Intl-NumberFormat.js:15)\n\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/taint-Intl-NumberFormat.js","memory_kb":11396,"duration":281651493}
+{"status":"PASS","msg":"PASS:\n 0\n","path":"../../test262/test/intl402/BigInt/prototype/toLocaleString/taint-Intl-NumberFormat.js","memory_kb":9708,"duration":185112497}

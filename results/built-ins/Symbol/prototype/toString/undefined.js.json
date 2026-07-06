@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected an object, found Symbol(Symbol { inner: Str(\"\"), is_registered: false })\n    at toString (../../test262/test/built-ins/Symbol/prototype/toString/undefined.js:23)\n\n","path":"../../test262/test/built-ins/Symbol/prototype/toString/undefined.js","memory_kb":0,"duration":79376727}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Symbol/prototype/toString/undefined.js","memory_kb":6860,"duration":57951335}
