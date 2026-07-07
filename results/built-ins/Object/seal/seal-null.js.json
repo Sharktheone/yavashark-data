@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at seal (../../test262/test/built-ins/Object/seal/seal-null.js:36)\n\n","path":"../../test262/test/built-ins/Object/seal/seal-null.js","memory_kb":8580,"duration":102402729}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at seal (../../test262/test/built-ins/Object/seal/seal-null.js:36)\n\n","path":"../../test262/test/built-ins/Object/seal/seal-null.js","memory_kb":2560,"duration":43137062}
