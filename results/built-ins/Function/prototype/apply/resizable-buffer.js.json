@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at apply (../../test262/test/built-ins/Function/prototype/apply/resizable-buffer.js:49)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/resizable-buffer.js","memory_kb":0,"duration":95414780}
+{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at apply (../../test262/test/built-ins/Function/prototype/apply/resizable-buffer.js:49)\n\n","path":"../../test262/test/built-ins/Function/prototype/apply/resizable-buffer.js","memory_kb":8056,"duration":367348774}
