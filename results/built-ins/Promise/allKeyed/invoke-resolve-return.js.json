@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/allKeyed/invoke-resolve-return.js:43\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/invoke-resolve-return.js","memory_kb":0,"duration":393037901}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Promise/allKeyed/invoke-resolve-return.js:43\n\n","path":"../../test262/test/built-ins/Promise/allKeyed/invoke-resolve-return.js","memory_kb":4300,"duration":292374315}
