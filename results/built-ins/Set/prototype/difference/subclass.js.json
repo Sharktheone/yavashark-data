@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/subclass.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/subclass.js","memory_kb":6028,"duration":281464881}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/subclass.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/difference/subclass.js","memory_kb":2564,"duration":162468271}

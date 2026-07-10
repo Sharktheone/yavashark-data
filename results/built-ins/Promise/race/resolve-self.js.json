@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":0,"duration":287182516}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44\n\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":5652,"duration":118090037}
