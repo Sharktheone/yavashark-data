@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorTDZReturnUndefined.js:10\n\n","path":"../../test262/test/staging/sm/class/derivedConstructorTDZReturnUndefined.js","memory_kb":0,"duration":1543030317}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorTDZReturnUndefined.js:10\n\n","path":"../../test262/test/staging/sm/class/derivedConstructorTDZReturnUndefined.js","memory_kb":6152,"duration":67645607}

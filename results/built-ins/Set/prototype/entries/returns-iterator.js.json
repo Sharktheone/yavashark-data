@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Set/prototype/entries/returns-iterator.js:25\n\n","path":"../../test262/test/built-ins/Set/prototype/entries/returns-iterator.js","memory_kb":5852,"duration":169224843}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Set/prototype/entries/returns-iterator.js:25\n\n","path":"../../test262/test/built-ins/Set/prototype/entries/returns-iterator.js","memory_kb":3732,"duration":97070884}
