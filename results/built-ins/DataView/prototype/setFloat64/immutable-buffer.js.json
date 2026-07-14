@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/setFloat64/immutable-buffer.js:24\n\n","path":"../../test262/test/built-ins/DataView/prototype/setFloat64/immutable-buffer.js","memory_kb":5996,"duration":48360305}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/DataView/prototype/setFloat64/immutable-buffer.js:24\n\n","path":"../../test262/test/built-ins/DataView/prototype/setFloat64/immutable-buffer.js","memory_kb":0,"duration":336889624}
