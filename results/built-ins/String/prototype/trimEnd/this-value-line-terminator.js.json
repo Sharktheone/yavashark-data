@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-line-terminator.js","memory_kb":2556,"duration":1142396033}
+{"status":"CRASH","msg":"\nthread 'main' (24409) panicked at crates/yavashark_string/src/lib.rs:423:21:\ninternal error: entered unreachable code\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/String/prototype/trimEnd/this-value-line-terminator.js","memory_kb":7204,"duration":1122658653}
