@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js","memory_kb":2576,"duration":572529994}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js:17\n\n","path":"../../test262/test/built-ins/ShadowRealm/prototype/Symbol.toStringTag.js","memory_kb":3596,"duration":275933995}

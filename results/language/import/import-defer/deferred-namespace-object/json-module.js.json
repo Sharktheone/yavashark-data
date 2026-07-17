@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (13..14, ExpectedSemiForExprStmt { expr: 4..13 }) }\n\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/json-module.js","memory_kb":0,"duration":164543615}
+{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (13..14, ExpectedSemiForExprStmt { expr: 4..13 }) }\n\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/json-module.js","memory_kb":0,"duration":132260184}
