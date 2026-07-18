@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-dflt-fun-named.js:46\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-dflt-fun-named.js","memory_kb":6112,"duration":100527421}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-dflt-fun-named.js:46\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-dflt-fun-named.js","memory_kb":0,"duration":1760066830}
