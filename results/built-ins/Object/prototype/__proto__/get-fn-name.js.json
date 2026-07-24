@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Object/prototype/__proto__/get-fn-name.js:19\n\n","path":"../../test262/test/built-ins/Object/prototype/__proto__/get-fn-name.js","memory_kb":7056,"duration":464496612}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Object/prototype/__proto__/get-fn-name.js:19\n\n","path":"../../test262/test/built-ins/Object/prototype/__proto__/get-fn-name.js","memory_kb":6928,"duration":147242435}

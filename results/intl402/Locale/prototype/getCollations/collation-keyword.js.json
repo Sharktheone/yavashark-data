@@ -1,0 +1,1 @@
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Locale/prototype/getCollations/collation-keyword.js:30\n\n","path":"../../test262/test/intl402/Locale/prototype/getCollations/collation-keyword.js","memory_kb":2492,"duration":139295531}

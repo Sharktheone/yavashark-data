@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at ../../test262/harness/sm/non262-TypedArray-shell.js:37\n\n","path":"../../test262/test/staging/sm/TypedArray/set-wrapped.js","memory_kb":8388,"duration":192753839}
+{"status":"FAIL","msg":"FAIL:\n TypeError: TypedArray detached\n    at ../../test262/harness/sm/non262-TypedArray-shell.js:37\n\n","path":"../../test262/test/staging/sm/TypedArray/set-wrapped.js","memory_kb":8252,"duration":369128535}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: f2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-fun.js:44\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-fun.js","memory_kb":1964,"duration":176067983}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: f2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-fun.js:44\n\n","path":"../../test262/test/language/module-code/instn-named-bndng-fun.js","memory_kb":4944,"duration":176804935}
