@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at toLocaleString (../../test262/test/staging/sm/TypedArray/toLocaleString-detached.js:13)\n\n","path":"../../test262/test/staging/sm/TypedArray/toLocaleString-detached.js","memory_kb":7056,"duration":265267939}
+{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at toLocaleString (../../test262/test/staging/sm/TypedArray/toLocaleString-detached.js:13)\n\n","path":"../../test262/test/staging/sm/TypedArray/toLocaleString-detached.js","memory_kb":6848,"duration":88055126}
