@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/per-realm.js:14)\n\n","path":"../../test262/test/intl402/FallbackSymbol/per-realm.js","memory_kb":2624,"duration":121259840}
+{"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/per-realm.js:14)\n\n","path":"../../test262/test/intl402/FallbackSymbol/per-realm.js","memory_kb":5404,"duration":1286074881}
