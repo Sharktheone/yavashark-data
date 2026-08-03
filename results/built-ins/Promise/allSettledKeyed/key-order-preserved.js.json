@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettledKeyed/key-order-preserved.js:46\n\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/key-order-preserved.js","memory_kb":2916,"duration":39357771}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allSettledKeyed/key-order-preserved.js:46\n\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/key-order-preserved.js","memory_kb":6632,"duration":41094099}

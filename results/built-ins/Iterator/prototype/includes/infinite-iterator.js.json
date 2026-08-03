@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/infinite-iterator.js:16\n\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/infinite-iterator.js","memory_kb":0,"duration":143071011}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/infinite-iterator.js:16\n\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/infinite-iterator.js","memory_kb":0,"duration":30064050}
