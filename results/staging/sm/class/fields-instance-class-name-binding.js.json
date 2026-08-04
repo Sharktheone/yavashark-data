@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: Inner is not defined\n    at ../../test262/test/staging/sm/class/fields-instance-class-name-binding.js:20\n\n","path":"../../test262/test/staging/sm/class/fields-instance-class-name-binding.js","memory_kb":0,"duration":140183908}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: Inner is not defined\n    at ../../test262/test/staging/sm/class/fields-instance-class-name-binding.js:20\n\n","path":"../../test262/test/staging/sm/class/fields-instance-class-name-binding.js","memory_kb":5708,"duration":3658887619}
