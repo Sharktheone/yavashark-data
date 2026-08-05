@@ -1,1 +1,1 @@
-{"status":"CRASH","msg":"\nthread 'main' (50785) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/instn-star-props-circular.js","memory_kb":38640,"duration":6520098703}
+{"status":"CRASH","msg":"\nthread 'main' (50811) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/instn-star-props-circular.js","memory_kb":19504,"duration":1587023720}
