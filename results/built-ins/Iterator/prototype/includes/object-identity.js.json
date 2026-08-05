@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/object-identity.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/object-identity.js","memory_kb":6500,"duration":197327821}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/object-identity.js:20\n\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/object-identity.js","memory_kb":3272,"duration":359311786}
