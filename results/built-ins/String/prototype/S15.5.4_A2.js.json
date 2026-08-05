@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at ../../test262/test/built-ins/String/prototype/S15.5.4_A2.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/S15.5.4_A2.js","memory_kb":4796,"duration":2800514901}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at ../../test262/test/built-ins/String/prototype/S15.5.4_A2.js:12\n\n","path":"../../test262/test/built-ins/String/prototype/S15.5.4_A2.js","memory_kb":5180,"duration":171236975}
