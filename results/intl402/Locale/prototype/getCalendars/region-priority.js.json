@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Locale/prototype/getCalendars/region-priority.js:71\n\n","path":"../../test262/test/intl402/Locale/prototype/getCalendars/region-priority.js","memory_kb":0,"duration":1122139327}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/intl402/Locale/prototype/getCalendars/region-priority.js:71\n\n","path":"../../test262/test/intl402/Locale/prototype/getCalendars/region-priority.js","memory_kb":528,"duration":55886020}

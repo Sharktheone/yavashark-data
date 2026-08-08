@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js","memory_kb":0,"duration":807932838}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected SameValue(«undefined», «\"first value\"») to be true\" }\n    at ../../test262/harness/assert.js:92\n    at ../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js:47\n\n","path":"../../test262/test/built-ins/Object/fromEntries/uses-keys-not-iterator.js","memory_kb":0,"duration":686267536}
