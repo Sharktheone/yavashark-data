@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#2: var object = {0 : 1; \"1\" : \"x\"; o : {}}; object[\"1\"] === \"x\". Actual: undefined\" }\n    at ../../test262/test/language/expressions/object/S11.1.5_A3.js:21\n\n","path":"../../test262/test/language/expressions/object/S11.1.5_A3.js","memory_kb":0,"duration":2903148868}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/object/S11.1.5_A3.js","memory_kb":4596,"duration":169544868}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"arr.hasOwnProperty(\"4294967296\") !== true\" }\n    at assert (../../test262/harness/assert.js:61)\n    at ../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-181.js:19\n\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-181.js","memory_kb":0,"duration":82008318}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Object/defineProperties/15.2.3.7-6-a-181.js","memory_kb":0,"duration":87063094}
