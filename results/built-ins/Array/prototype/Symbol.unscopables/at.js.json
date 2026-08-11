@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'at' of undefined\n    at ../../test262/test/built-ins/Array/prototype/Symbol.unscopables/at.js:20\n\n","path":"../../test262/test/built-ins/Array/prototype/Symbol.unscopables/at.js","memory_kb":0,"duration":383581362}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'at' of undefined\n    at ../../test262/test/built-ins/Array/prototype/Symbol.unscopables/at.js:20\n\n","path":"../../test262/test/built-ins/Array/prototype/Symbol.unscopables/at.js","memory_kb":0,"duration":58500890}
