@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/Iterator/from/proxy-not-wrapped.js:25\n\n","path":"../../test262/test/staging/sm/Iterator/from/proxy-not-wrapped.js","memory_kb":0,"duration":385224495}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/Iterator/from/proxy-not-wrapped.js:25\n\n","path":"../../test262/test/staging/sm/Iterator/from/proxy-not-wrapped.js","memory_kb":0,"duration":1616441251}
