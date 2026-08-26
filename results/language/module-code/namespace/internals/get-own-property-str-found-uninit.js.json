@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-uninit.js","memory_kb":6724,"duration":176017783}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-uninit.js","memory_kb":5152,"duration":295540905}
