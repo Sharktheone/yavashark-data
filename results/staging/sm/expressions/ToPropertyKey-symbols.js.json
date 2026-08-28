@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/expressions/ToPropertyKey-symbols.js:51\n\n","path":"../../test262/test/staging/sm/expressions/ToPropertyKey-symbols.js","memory_kb":3340,"duration":101639603}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/expressions/ToPropertyKey-symbols.js:51\n\n","path":"../../test262/test/staging/sm/expressions/ToPropertyKey-symbols.js","memory_kb":12104,"duration":1497788431}
