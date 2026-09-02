@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#D800 differs\" }\n    at ../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A2.1_T1.js:20\n\n","path":"../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A2.1_T1.js","memory_kb":10408,"duration":6300737418}
+{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#D800 differs\" }\n    at ../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A2.1_T1.js:20\n\n","path":"../../test262/test/built-ins/decodeURIComponent/S15.1.3.2_A2.1_T1.js","memory_kb":10376,"duration":3769010283}
