@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/appends-new-values.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/union/appends-new-values.js","memory_kb":6288,"duration":2073120332}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/appends-new-values.js:17\n\n","path":"../../test262/test/built-ins/Set/prototype/union/appends-new-values.js","memory_kb":16,"duration":900770960}
