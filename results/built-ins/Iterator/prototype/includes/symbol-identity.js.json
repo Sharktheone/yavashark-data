@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/symbol-identity.js:13\n\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/symbol-identity.js","memory_kb":4308,"duration":1633088765}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/symbol-identity.js:13:1\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/symbol-identity.js","memory_kb":0,"duration":141121980}
