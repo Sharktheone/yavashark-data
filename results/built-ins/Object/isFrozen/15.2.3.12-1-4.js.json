@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at isFrozen (../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-4.js:11:18)\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-4.js","memory_kb":7888,"duration":1397904851}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found String(abc)\n    at isFrozen (../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-4.js:11:18)\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-4.js","memory_kb":0,"duration":333885192}

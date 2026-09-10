@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'throw' of undefined\n    at ../../test262/test/built-ins/AsyncGeneratorPrototype/throw/length.js:29:1\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/throw/length.js","memory_kb":9384,"duration":1428141001}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'throw' of undefined\n    at ../../test262/test/built-ins/AsyncGeneratorPrototype/throw/length.js:29:1\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/throw/length.js","memory_kb":10520,"duration":93917378}

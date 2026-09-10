@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/subclass.js","memory_kb":0,"duration":274776195}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/symmetricDifference/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/symmetricDifference/subclass.js","memory_kb":9220,"duration":157106348}

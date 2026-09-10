@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js:70:1\n","path":"../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js","memory_kb":4288,"duration":227990402}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js:70:1\n","path":"../../test262/test/built-ins/Promise/all/resolve-from-same-thenable.js","memory_kb":5592,"duration":94795736}
