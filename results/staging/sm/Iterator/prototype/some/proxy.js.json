@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at toString (../../test262/test/staging/sm/Iterator/prototype/some/proxy.js:19:25)\n","path":"../../test262/test/staging/sm/Iterator/prototype/some/proxy.js","memory_kb":0,"duration":34041423}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected string, found Object([object Object])\n    at toString (../../test262/test/staging/sm/Iterator/prototype/some/proxy.js:19:25)\n","path":"../../test262/test/staging/sm/Iterator/prototype/some/proxy.js","memory_kb":0,"duration":1788889580}
