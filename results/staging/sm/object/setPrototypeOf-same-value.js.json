@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/object/setPrototypeOf-same-value.js:17:1)\n","path":"../../test262/test/staging/sm/object/setPrototypeOf-same-value.js","memory_kb":9192,"duration":22794849}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/object/setPrototypeOf-same-value.js:17:1)\n","path":"../../test262/test/staging/sm/object/setPrototypeOf-same-value.js","memory_kb":0,"duration":147082127}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/join/contents-nullish.js:10:1\n","path":"../../test262/test/built-ins/Iterator/prototype/join/contents-nullish.js","memory_kb":0,"duration":88830788}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/join/contents-nullish.js:10:1\n","path":"../../test262/test/built-ins/Iterator/prototype/join/contents-nullish.js","memory_kb":10448,"duration":140893079}

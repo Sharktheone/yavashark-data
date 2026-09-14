@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/prototype/proto.js:13:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/prototype/proto.js","memory_kb":0,"duration":85040841}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/prototype/proto.js:13:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/prototype/proto.js","memory_kb":9264,"duration":1266761533}
