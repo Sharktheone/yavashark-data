@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/staging/sm/Atomics/cross-compartment.js:25:3\n","path":"../../test262/test/staging/sm/Atomics/cross-compartment.js","memory_kb":5684,"duration":356831166}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/staging/sm/Atomics/cross-compartment.js:25:3\n","path":"../../test262/test/staging/sm/Atomics/cross-compartment.js","memory_kb":0,"duration":713727963}

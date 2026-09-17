@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js","memory_kb":6856,"duration":173112765}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-same-sets.js","memory_kb":4064,"duration":407292077}
