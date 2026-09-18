@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/sub/expected-return-value.js:35:1\n","path":"../../test262/test/built-ins/Atomics/sub/expected-return-value.js","memory_kb":0,"duration":480491548}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/sub/expected-return-value.js:35:1\n","path":"../../test262/test/built-ins/Atomics/sub/expected-return-value.js","memory_kb":3848,"duration":1325724045}

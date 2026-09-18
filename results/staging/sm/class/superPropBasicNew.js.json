@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropBasicNew.js:21:1\n","path":"../../test262/test/staging/sm/class/superPropBasicNew.js","memory_kb":9284,"duration":93460799}
+{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropBasicNew.js:21:1\n","path":"../../test262/test/staging/sm/class/superPropBasicNew.js","memory_kb":5452,"duration":1748898542}

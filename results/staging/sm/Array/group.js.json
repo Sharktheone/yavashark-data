@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":0,"duration":682179579}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":10408,"duration":174119614}
