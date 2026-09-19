@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: await is not defined\n    at ../../test262/test/language/module-code/top-level-await/await-expr-regexp.js:50:1\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-regexp.js","memory_kb":0,"duration":296985384}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: await is not defined\n    at ../../test262/test/language/module-code/top-level-await/await-expr-regexp.js:50:1\n","path":"../../test262/test/language/module-code/top-level-await/await-expr-regexp.js","memory_kb":2804,"duration":211259994}

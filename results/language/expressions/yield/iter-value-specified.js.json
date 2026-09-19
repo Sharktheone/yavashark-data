@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid stack index\n    at next (../../test262/test/language/expressions/yield/iter-value-specified.js:24:10)\n","path":"../../test262/test/language/expressions/yield/iter-value-specified.js","memory_kb":0,"duration":5526284}
+{"status":"FAIL","msg":"FAIL:\n RuntimeError: Invalid stack index\n    at next (../../test262/test/language/expressions/yield/iter-value-specified.js:24:10)\n","path":"../../test262/test/language/expressions/yield/iter-value-specified.js","memory_kb":0,"duration":93521294}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/built-ins/Object/setPrototypeOf/bigint.js:16:18)\n","path":"../../test262/test/built-ins/Object/setPrototypeOf/bigint.js","memory_kb":0,"duration":319747733}
+{"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/built-ins/Object/setPrototypeOf/bigint.js:16:18)\n","path":"../../test262/test/built-ins/Object/setPrototypeOf/bigint.js","memory_kb":0,"duration":107375501}
