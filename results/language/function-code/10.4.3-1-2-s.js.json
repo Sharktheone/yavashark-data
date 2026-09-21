@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"bar.call(\"1\") Expected SameValue(«\"string\"», «\"object\"») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/language/function-code/10.4.3-1-2-s.js:22:1\n","path":"../../test262/test/language/function-code/10.4.3-1-2-s.js","memory_kb":0,"duration":725071128}
+{"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/function-code/10.4.3-1-2-s.js","memory_kb":0,"duration":492004385}

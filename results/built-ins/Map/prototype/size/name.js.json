@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"name descriptor value should be get size; name value should be get size\" }\n    at assert (../../test262/harness/assert.js:61:3)\n    at verifyProperty (../../test262/harness/propertyHelper.js:128:5)\n    at ../../test262/test/built-ins/Map/prototype/size/name.js:20:1\n","path":"../../test262/test/built-ins/Map/prototype/size/name.js","memory_kb":5908,"duration":109866781}
+{"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Map/prototype/size/name.js","memory_kb":9484,"duration":84644676}

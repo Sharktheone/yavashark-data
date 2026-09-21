@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: bareword is not defined\n    at ../../test262/test/staging/sm/Proxy/global-receiver.js:36:1\n","path":"../../test262/test/staging/sm/Proxy/global-receiver.js","memory_kb":0,"duration":158713170}
+{"status":"FAIL","msg":"FAIL:\n ReferenceError: bareword is not defined\n    at ../../test262/test/staging/sm/Proxy/global-receiver.js:36:1\n","path":"../../test262/test/staging/sm/Proxy/global-receiver.js","memory_kb":0,"duration":137514402}
