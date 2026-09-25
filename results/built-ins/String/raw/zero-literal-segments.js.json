@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/zero-literal-segments.js:9:18)\n","path":"../../test262/test/built-ins/String/raw/zero-literal-segments.js","memory_kb":0,"duration":95743423}
+{"cpu_time":3250000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/zero-literal-segments.js:9:18)\n","path":"../../test262/test/built-ins/String/raw/zero-literal-segments.js","memory_kb":75300,"duration":24516211}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/staticConstructor.js:14:1\n","path":"../../test262/test/staging/sm/class/staticConstructor.js","memory_kb":0,"duration":131461214}
+{"cpu_time":3247000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/staticConstructor.js:14:1\n","path":"../../test262/test/staging/sm/class/staticConstructor.js","memory_kb":79612,"duration":10793741}

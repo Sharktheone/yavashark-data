@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/reject-from-same-thenable.js:57:1\n","path":"../../test262/test/built-ins/Promise/race/reject-from-same-thenable.js","memory_kb":0,"duration":5692403151}
+{"cpu_time":3723000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/reject-from-same-thenable.js:57:1\n","path":"../../test262/test/built-ins/Promise/race/reject-from-same-thenable.js","memory_kb":77696,"duration":31250890}

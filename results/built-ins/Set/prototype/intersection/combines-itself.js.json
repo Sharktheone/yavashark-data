@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/combines-itself.js:14:1\n","path":"../../test262/test/built-ins/Set/prototype/intersection/combines-itself.js","memory_kb":0,"duration":434179342}
+{"cpu_time":3509000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/combines-itself.js:14:1\n","path":"../../test262/test/built-ins/Set/prototype/intersection/combines-itself.js","memory_kb":72372,"duration":65213144}

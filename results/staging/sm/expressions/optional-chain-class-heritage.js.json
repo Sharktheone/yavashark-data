@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/expressions/optional-chain-class-heritage.js:13:1\n","path":"../../test262/test/staging/sm/expressions/optional-chain-class-heritage.js","memory_kb":3332,"duration":151250056}
+{"cpu_time":3006000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/expressions/optional-chain-class-heritage.js:13:1\n","path":"../../test262/test/staging/sm/expressions/optional-chain-class-heritage.js","memory_kb":79616,"duration":16124303}

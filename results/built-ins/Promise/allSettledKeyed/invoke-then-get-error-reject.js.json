@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/invoke-then-get-error-reject.js","memory_kb":4492,"duration":310085363}
+{"cpu_time":3590000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/invoke-then-get-error-reject.js","memory_kb":72372,"duration":23126128}

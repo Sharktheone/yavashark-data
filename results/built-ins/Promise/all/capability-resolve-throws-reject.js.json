@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Promise incorrectly fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/all/capability-resolve-throws-reject.js","memory_kb":0,"duration":190950838}
+{"cpu_time":3880000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Promise incorrectly fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/all/capability-resolve-throws-reject.js","memory_kb":72244,"duration":49539318}

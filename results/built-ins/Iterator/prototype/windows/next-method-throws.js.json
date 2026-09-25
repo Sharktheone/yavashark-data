@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/windows/next-method-throws.js:21:1\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/next-method-throws.js","memory_kb":0,"duration":327045356}
+{"cpu_time":3301000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/next-method-throws.js","memory_kb":65772,"duration":26668812}

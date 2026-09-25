@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/built-ins/Proxy/preventExtensions/trap-is-undefined-target-is-proxy.js","memory_kb":3228,"duration":173382483}
+{"cpu_time":3225000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/built-ins/Proxy/preventExtensions/trap-is-undefined-target-is-proxy.js","memory_kb":77568,"duration":28906829}

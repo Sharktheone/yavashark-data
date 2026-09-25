@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-zero-and-negative-zero.js:10:1\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-zero-and-negative-zero.js","memory_kb":0,"duration":378205732}
+{"cpu_time":3670000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-zero-and-negative-zero.js","memory_kb":75176,"duration":60330700}

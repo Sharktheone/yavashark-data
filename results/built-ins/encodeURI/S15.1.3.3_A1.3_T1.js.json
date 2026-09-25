@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#D800-DBFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":10664,"duration":914395086}
+{"cpu_time":46779000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#D800-DBFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":77568,"duration":413941496}

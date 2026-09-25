@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/chunks/chunks-size-1.js:21:1\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/chunks-size-1.js","memory_kb":0,"duration":319687213}
+{"cpu_time":3681000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/chunks-size-1.js","memory_kb":72244,"duration":18757421}

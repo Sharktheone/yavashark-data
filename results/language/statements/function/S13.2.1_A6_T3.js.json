@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/function/S13.2.1_A6_T3.js:22:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A6_T3.js","memory_kb":0,"duration":152422795}
+{"cpu_time":3210000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/language/statements/function/S13.2.1_A6_T3.js:22:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A6_T3.js","memory_kb":77568,"duration":19205591}

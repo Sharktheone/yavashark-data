@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-default.js:10:1\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-default.js","memory_kb":0,"duration":256834793}
+{"cpu_time":3293000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/skipped-elements-default.js","memory_kb":79616,"duration":16440897}

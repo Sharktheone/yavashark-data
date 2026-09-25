@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/this-constructor-with-readonly-elements.js","memory_kb":9548,"duration":104800640}
+{"cpu_time":3840000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/this-constructor-with-readonly-elements.js","memory_kb":77696,"duration":25181859}

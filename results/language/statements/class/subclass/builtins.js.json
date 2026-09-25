@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Failed to convert to value\n    at ../../test262/test/language/statements/class/subclass/builtins.js:12:5\n","path":"../../test262/test/language/statements/class/subclass/builtins.js","memory_kb":0,"duration":289262675}
+{"cpu_time":3712000,"status":"FAIL","msg":"FAIL:\n TypeError: Failed to convert to value\n    at ../../test262/test/language/statements/class/subclass/builtins.js:12:5\n","path":"../../test262/test/language/statements/class/subclass/builtins.js","memory_kb":72116,"duration":40479757}

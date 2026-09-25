@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/add-not-called.js:23:1\n","path":"../../test262/test/built-ins/Set/prototype/difference/add-not-called.js","memory_kb":0,"duration":215402378}
+{"cpu_time":3258000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/add-not-called.js:23:1\n","path":"../../test262/test/built-ins/Set/prototype/difference/add-not-called.js","memory_kb":79612,"duration":14237353}

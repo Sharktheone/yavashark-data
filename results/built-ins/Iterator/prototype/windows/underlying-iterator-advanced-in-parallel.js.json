@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/windows/underlying-iterator-advanced-in-parallel.js:19:1\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/underlying-iterator-advanced-in-parallel.js","memory_kb":3116,"duration":267540192}
+{"cpu_time":3918000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/underlying-iterator-advanced-in-parallel.js","memory_kb":75300,"duration":43424906}

@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/next/name.js:26:1\n","path":"../../test262/test/built-ins/GeneratorPrototype/next/name.js","memory_kb":0,"duration":306859958}
+{"cpu_time":4202000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'next' of undefined\n    at ../../test262/test/built-ins/GeneratorPrototype/next/name.js:26:1\n","path":"../../test262/test/built-ins/GeneratorPrototype/next/name.js","memory_kb":79616,"duration":4402106}

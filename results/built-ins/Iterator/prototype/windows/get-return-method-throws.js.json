@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/windows/get-return-method-throws.js:24:1\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/get-return-method-throws.js","memory_kb":6564,"duration":259228814}
+{"cpu_time":3417000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/get-return-method-throws.js","memory_kb":77440,"duration":26223026}

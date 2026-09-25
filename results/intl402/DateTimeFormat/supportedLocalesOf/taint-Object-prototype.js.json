@@ -1,1 +1,1 @@
-{"status":"PASS","msg":"PASS:\n [object Intl.DateTimeFormat]\n","path":"../../test262/test/intl402/DateTimeFormat/supportedLocalesOf/taint-Object-prototype.js","memory_kb":10696,"duration":166684883}
+{"cpu_time":7421000,"status":"PASS","msg":"PASS:\n [object Intl.DateTimeFormat]\n","path":"../../test262/test/intl402/DateTimeFormat/supportedLocalesOf/taint-Object-prototype.js","memory_kb":79616,"duration":25519452}

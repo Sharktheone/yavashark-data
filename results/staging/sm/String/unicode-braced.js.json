@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (1..260, InvalidUnicodeEscape) }\n    at eval (../../test262/test/staging/sm/String/unicode-braced.js:48:18)\n","path":"../../test262/test/staging/sm/String/unicode-braced.js","memory_kb":51824,"duration":7477596941}
+{"cpu_time":139017000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (1..260, InvalidUnicodeEscape) }\n    at eval (../../test262/test/staging/sm/String/unicode-braced.js:48:18)\n","path":"../../test262/test/staging/sm/String/unicode-braced.js","memory_kb":74536,"duration":1041548541}

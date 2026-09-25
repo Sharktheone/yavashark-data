@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: length is not defined\n    at ../../test262/test/built-ins/Proxy/has/trap-is-undefined-using-with.js:23:3\n","path":"../../test262/test/built-ins/Proxy/has/trap-is-undefined-using-with.js","memory_kb":0,"duration":106245177}
+{"cpu_time":3526000,"status":"FAIL","msg":"FAIL:\n ReferenceError: length is not defined\n    at ../../test262/test/built-ins/Proxy/has/trap-is-undefined-using-with.js:23:3\n","path":"../../test262/test/built-ins/Proxy/has/trap-is-undefined-using-with.js","memory_kb":77440,"duration":28194139}

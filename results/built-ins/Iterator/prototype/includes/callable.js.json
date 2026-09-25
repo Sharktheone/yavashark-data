@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'call' of undefined\n    at ../../test262/test/built-ins/Iterator/prototype/includes/callable.js:14:1\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/callable.js","memory_kb":0,"duration":169717872}
+{"cpu_time":3219000,"status":"PASS","msg":"PASS:\n true\n","path":"../../test262/test/built-ins/Iterator/prototype/includes/callable.js","memory_kb":77440,"duration":32499271}

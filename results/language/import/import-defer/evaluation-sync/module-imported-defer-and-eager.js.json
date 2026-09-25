@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/module-imported-defer-and-eager.js","memory_kb":0,"duration":94056621}
+{"cpu_time":3317000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/module-imported-defer-and-eager.js","memory_kb":79744,"duration":12361046}

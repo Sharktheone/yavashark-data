@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: \"'this' had incorrect value!\"\n    at ../../test262/test/language/function-code/10.4.3-1-46gs.js:23:5\n","path":"../../test262/test/language/function-code/10.4.3-1-46gs.js","memory_kb":6552,"duration":504808241}
+{"cpu_time":2996000,"status":"FAIL","msg":"FAIL:\n Uncaught: \"'this' had incorrect value!\"\n    at ../../test262/test/language/function-code/10.4.3-1-46gs.js:23:5\n","path":"../../test262/test/language/function-code/10.4.3-1-46gs.js","memory_kb":79616,"duration":7716907}

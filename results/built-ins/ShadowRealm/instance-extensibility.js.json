@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/instance-extensibility.js:24:1\n","path":"../../test262/test/built-ins/ShadowRealm/instance-extensibility.js","memory_kb":0,"duration":2092947560}
+{"cpu_time":4425000,"status":"FAIL","msg":"FAIL:\n ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/instance-extensibility.js:24:1\n","path":"../../test262/test/built-ins/ShadowRealm/instance-extensibility.js","memory_kb":74408,"duration":49301864}

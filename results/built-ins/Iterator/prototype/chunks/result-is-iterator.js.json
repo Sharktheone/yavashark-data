@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/chunks/result-is-iterator.js:15:1\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/result-is-iterator.js","memory_kb":0,"duration":428455444}
+{"cpu_time":3213000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/result-is-iterator.js","memory_kb":77696,"duration":59662128}

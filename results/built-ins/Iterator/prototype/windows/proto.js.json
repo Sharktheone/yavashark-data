@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert undefined or null to object\n    at getPrototypeOf (../../test262/test/built-ins/Iterator/prototype/windows/proto.js:11:18)\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/proto.js","memory_kb":0,"duration":354686286}
+{"cpu_time":3561000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/windows/proto.js","memory_kb":75300,"duration":33172744}

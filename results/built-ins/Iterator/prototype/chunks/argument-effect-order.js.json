@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected a RangeError but got a TypeError\" }\n    at ../../test262/harness/assert.js:138:7\n    at ../../test262/test/built-ins/Iterator/prototype/chunks/argument-effect-order.js:31:1\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/argument-effect-order.js","memory_kb":0,"duration":146846062}
+{"cpu_time":3406000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/argument-effect-order.js","memory_kb":63576,"duration":32473532}

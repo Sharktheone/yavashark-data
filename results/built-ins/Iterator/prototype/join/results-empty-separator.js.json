@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/join/results-empty-separator.js:10:1\n","path":"../../test262/test/built-ins/Iterator/prototype/join/results-empty-separator.js","memory_kb":0,"duration":209782252}
+{"cpu_time":3290000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Iterator/prototype/join/results-empty-separator.js","memory_kb":74408,"duration":38533267}

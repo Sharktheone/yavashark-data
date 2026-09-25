@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#2: length property has the attributes {DontEnum}\" }\n    at ../../test262/test/built-ins/String/S15.5.5.1_A2.js:24:5\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A2.js","memory_kb":5188,"duration":266753664}
+{"cpu_time":3340000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#2: length property has the attributes {DontEnum}\" }\n    at ../../test262/test/built-ins/String/S15.5.5.1_A2.js:24:5\n","path":"../../test262/test/built-ins/String/S15.5.5.1_A2.js","memory_kb":74408,"duration":37860904}

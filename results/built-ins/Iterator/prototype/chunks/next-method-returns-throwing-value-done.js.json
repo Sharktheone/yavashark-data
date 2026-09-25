@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Iterator/prototype/chunks/next-method-returns-throwing-value-done.js:27:1\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/next-method-returns-throwing-value-done.js","memory_kb":0,"duration":419925235}
+{"cpu_time":3508000,"status":"PASS","msg":"PASS:\n [object Object]\n","path":"../../test262/test/built-ins/Iterator/prototype/chunks/next-method-returns-throwing-value-done.js","memory_kb":59852,"duration":25968412}

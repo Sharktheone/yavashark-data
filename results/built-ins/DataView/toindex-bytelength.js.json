@@ -1,1 +1,1 @@
-{"status":"FAIL","msg":"FAIL:\n RangeError: Expected non-negative number\n    at ../../test262/test/built-ins/DataView/toindex-bytelength.js:47:1\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength.js","memory_kb":2172,"duration":114294844}
+{"cpu_time":3303000,"status":"FAIL","msg":"FAIL:\n RangeError: Expected non-negative number\n    at ../../test262/test/built-ins/DataView/toindex-bytelength.js:47:1\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength.js","memory_kb":77440,"duration":41102364}
