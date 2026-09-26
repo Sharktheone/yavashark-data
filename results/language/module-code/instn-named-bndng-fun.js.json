@@ -1,1 +1,1 @@
-{"cpu_time":3169000,"status":"FAIL","msg":"FAIL:\n ReferenceError: f2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-fun.js:44:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-fun.js","memory_kb":77440,"duration":25379326}
+{"cpu_time":3070000,"status":"FAIL","msg":"FAIL:\n ReferenceError: f2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-fun.js:44:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-fun.js","memory_kb":96516,"duration":21637382}

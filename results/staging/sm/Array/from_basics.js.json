@@ -1,1 +1,1 @@
-{"cpu_time":5887000,"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/staging/sm/Array/from_basics.js:41:18)\n","path":"../../test262/test/staging/sm/Array/from_basics.js","memory_kb":77568,"duration":52254467}
+{"cpu_time":5913000,"status":"FAIL","msg":"FAIL:\n ReferenceError: length does not exist on object\n    at from (../../test262/test/staging/sm/Array/from_basics.js:41:18)\n","path":"../../test262/test/staging/sm/Array/from_basics.js","memory_kb":87676,"duration":51155178}

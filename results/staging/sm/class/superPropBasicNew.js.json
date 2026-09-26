@@ -1,1 +1,1 @@
-{"cpu_time":3268000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropBasicNew.js:21:1\n","path":"../../test262/test/staging/sm/class/superPropBasicNew.js","memory_kb":79616,"duration":12737372}
+{"cpu_time":2914000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropBasicNew.js:21:1\n","path":"../../test262/test/staging/sm/class/superPropBasicNew.js","memory_kb":96644,"duration":3146520}

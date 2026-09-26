@@ -1,1 +1,1 @@
-{"cpu_time":3404000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-keys-binding-uninit.js","memory_kb":75300,"duration":28493172}
+{"cpu_time":3086000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-keys-binding-uninit.js","memory_kb":96516,"duration":28858195}

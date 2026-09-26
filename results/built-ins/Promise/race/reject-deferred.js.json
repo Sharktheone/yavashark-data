@@ -1,1 +1,1 @@
-{"cpu_time":3655000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/reject-deferred.js","memory_kb":65772,"duration":31433405}
+{"cpu_time":3552000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/reject-deferred.js","memory_kb":94452,"duration":21132474}

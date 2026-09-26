@@ -1,1 +1,1 @@
-{"cpu_time":3621000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected SameValue(«», «42») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/resolve-ignores-late-rejection.js","memory_kb":77696,"duration":23823594}
+{"cpu_time":3730000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected SameValue(«», «42») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/resolve-ignores-late-rejection.js","memory_kb":94324,"duration":39688627}

@@ -1,1 +1,1 @@
-{"cpu_time":3597000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44:1\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":77440,"duration":27321348}
+{"cpu_time":3385000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44:1\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":94324,"duration":19746550}

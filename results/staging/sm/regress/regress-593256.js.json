@@ -1,1 +1,1 @@
-{"cpu_time":3444000,"status":"FAIL","msg":"FAIL:\n TypeError: Undefined is not an object\n    at eval:0:0\n    at ../../test262/test/staging/sm/regress/regress-593256.js:20:1\n","path":"../../test262/test/staging/sm/regress/regress-593256.js","memory_kb":77440,"duration":18155644}
+{"cpu_time":3409000,"status":"FAIL","msg":"FAIL:\n TypeError: Undefined is not an object\n    at eval:0:0\n    at ../../test262/test/staging/sm/regress/regress-593256.js:20:1\n","path":"../../test262/test/staging/sm/regress/regress-593256.js","memory_kb":96516,"duration":28706163}

@@ -1,1 +1,1 @@
-{"cpu_time":3606000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/built-ins/Object/S15.2.1.1_A1_T3.js:35:3)\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A1_T3.js","memory_kb":72372,"duration":41371277}
+{"cpu_time":3810000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/built-ins/Object/S15.2.1.1_A1_T3.js:35:3)\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A1_T3.js","memory_kb":94324,"duration":17129833}

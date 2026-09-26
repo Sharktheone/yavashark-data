@@ -1,1 +1,1 @@
-{"cpu_time":4116000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/throw/poisoned-get-throw.js","memory_kb":77440,"duration":39753065}
+{"cpu_time":3759000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/throw/poisoned-get-throw.js","memory_kb":92040,"duration":33048056}

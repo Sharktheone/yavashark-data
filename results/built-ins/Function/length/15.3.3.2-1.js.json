@@ -1,1 +1,1 @@
-{"cpu_time":3664000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'value' of undefined\n    at ../../test262/test/built-ins/Function/length/15.3.3.2-1.js:11:1\n","path":"../../test262/test/built-ins/Function/length/15.3.3.2-1.js","memory_kb":77440,"duration":32496985}
+{"cpu_time":3210000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'value' of undefined\n    at ../../test262/test/built-ins/Function/length/15.3.3.2-1.js:11:1\n","path":"../../test262/test/built-ins/Function/length/15.3.3.2-1.js","memory_kb":94452,"duration":23963532}

@@ -1,1 +1,1 @@
-{"cpu_time":5449000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":74408,"duration":79806807}
+{"cpu_time":4848000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":87676,"duration":54842470}

@@ -1,1 +1,1 @@
-{"cpu_time":3195000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/language/statements/function/S13.2.2_A3_T1.js:26:1\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T1.js","memory_kb":70028,"duration":27341307}
+{"cpu_time":3061000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/language/statements/function/S13.2.2_A3_T1.js:26:1\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T1.js","memory_kb":96644,"duration":17670751}

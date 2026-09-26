@@ -1,1 +1,1 @@
-{"cpu_time":3124000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Identifier 'baz' has already been declared\n    at ../../test262/test/built-ins/Function/15.3.2.1-11-8-s.js:14:1\n","path":"../../test262/test/built-ins/Function/15.3.2.1-11-8-s.js","memory_kb":77440,"duration":23642733}
+{"cpu_time":3038000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Identifier 'baz' has already been declared\n    at ../../test262/test/built-ins/Function/15.3.2.1-11-8-s.js:14:1\n","path":"../../test262/test/built-ins/Function/15.3.2.1-11-8-s.js","memory_kb":96516,"duration":17454315}

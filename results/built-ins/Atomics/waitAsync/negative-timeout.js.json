@@ -1,1 +1,1 @@
-{"cpu_time":3714000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/negative-timeout.js:25:1)\n","path":"../../test262/test/built-ins/Atomics/waitAsync/negative-timeout.js","memory_kb":77440,"duration":16000509}
+{"cpu_time":3703000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/negative-timeout.js:25:1)\n","path":"../../test262/test/built-ins/Atomics/waitAsync/negative-timeout.js","memory_kb":92296,"duration":20759105}

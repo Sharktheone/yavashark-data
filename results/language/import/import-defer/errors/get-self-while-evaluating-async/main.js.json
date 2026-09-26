@@ -1,1 +1,1 @@
-{"cpu_time":3317000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/import/import-defer/errors/get-self-while-evaluating-async/main.js","memory_kb":77440,"duration":48112659}
+{"cpu_time":3160000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/import/import-defer/errors/get-self-while-evaluating-async/main.js","memory_kb":96644,"duration":23817634}

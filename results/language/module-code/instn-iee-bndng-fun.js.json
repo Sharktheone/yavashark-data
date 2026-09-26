@@ -1,1 +1,1 @@
-{"cpu_time":3153000,"status":"FAIL","msg":"FAIL:\n ReferenceError: B is not defined\n    at ../../test262/test/language/module-code/instn-iee-bndng-fun.js:42:1\n","path":"../../test262/test/language/module-code/instn-iee-bndng-fun.js","memory_kb":77568,"duration":29420293}
+{"cpu_time":3106000,"status":"FAIL","msg":"FAIL:\n ReferenceError: B is not defined\n    at ../../test262/test/language/module-code/instn-iee-bndng-fun.js:42:1\n","path":"../../test262/test/language/module-code/instn-iee-bndng-fun.js","memory_kb":96516,"duration":21794618}

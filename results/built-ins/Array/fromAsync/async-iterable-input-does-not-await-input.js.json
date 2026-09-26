@@ -1,1 +1,1 @@
-{"cpu_time":4111000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/async-iterable-input-does-not-await-input.js","memory_kb":59852,"duration":57589898}
+{"cpu_time":3727000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/async-iterable-input-does-not-await-input.js","memory_kb":92040,"duration":14003241}

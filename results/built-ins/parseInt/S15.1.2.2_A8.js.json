@@ -1,1 +1,1 @@
-{"cpu_time":4097000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#0001-002F \" }\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js:32:13\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js","memory_kb":77440,"duration":18774978}
+{"cpu_time":4339000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#0001-002F \" }\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js:32:13\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js","memory_kb":92040,"duration":46049540}

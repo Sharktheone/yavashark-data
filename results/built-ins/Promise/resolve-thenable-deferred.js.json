@@ -1,1 +1,1 @@
-{"cpu_time":3331000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be fulfilled with the provided value.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-thenable-deferred.js","memory_kb":77568,"duration":30023934}
+{"cpu_time":3368000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be fulfilled with the provided value.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-thenable-deferred.js","memory_kb":96516,"duration":35531838}

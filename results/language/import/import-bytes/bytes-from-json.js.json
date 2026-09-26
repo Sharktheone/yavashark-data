@@ -1,1 +1,1 @@
-{"cpu_time":3259000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (5..6, ExpectedSemiForExprStmt { expr: 2..5 }) }\n","path":"../../test262/test/language/import/import-bytes/bytes-from-json.js","memory_kb":65772,"duration":16921745}
+{"cpu_time":3260000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (5..6, ExpectedSemiForExprStmt { expr: 2..5 }) }\n","path":"../../test262/test/language/import/import-bytes/bytes-from-json.js","memory_kb":96516,"duration":32423709}

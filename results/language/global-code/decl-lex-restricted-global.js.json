@@ -1,1 +1,1 @@
-{"cpu_time":3262000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js","memory_kb":65772,"duration":29739472}
+{"cpu_time":2968000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js","memory_kb":96516,"duration":26489350}

@@ -1,1 +1,1 @@
-{"cpu_time":3217000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-init.js","memory_kb":77440,"duration":21643396}
+{"cpu_time":3154000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-init.js","memory_kb":96644,"duration":23229663}

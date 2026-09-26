@@ -1,1 +1,1 @@
-{"cpu_time":3729000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/does-not-invoke-array-setters.js","memory_kb":77696,"duration":34377174}
+{"cpu_time":3594000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/does-not-invoke-array-setters.js","memory_kb":92296,"duration":24486867}

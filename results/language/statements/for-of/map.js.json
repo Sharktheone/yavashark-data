@@ -1,1 +1,1 @@
-{"cpu_time":3330000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map.js:26:1\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":77440,"duration":21634605}
+{"cpu_time":3284000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map.js:26:1\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":96516,"duration":13051376}

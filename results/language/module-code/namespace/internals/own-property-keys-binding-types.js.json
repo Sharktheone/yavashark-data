@@ -1,1 +1,1 @@
-{"cpu_time":3376000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/own-property-keys-binding-types.js","memory_kb":79744,"duration":15235377}
+{"cpu_time":3220000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/own-property-keys-binding-types.js","memory_kb":96516,"duration":21448747}

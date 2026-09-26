@@ -1,1 +1,1 @@
-{"cpu_time":3474000,"status":"FAIL","msg":"FAIL:\n TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/uint8clamped-constructor.js:12:5\n","path":"../../test262/test/staging/sm/TypedArray/uint8clamped-constructor.js","memory_kb":77440,"duration":27311155}
+{"cpu_time":3360000,"status":"FAIL","msg":"FAIL:\n TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/uint8clamped-constructor.js:12:5\n","path":"../../test262/test/staging/sm/TypedArray/uint8clamped-constructor.js","memory_kb":96516,"duration":28595817}

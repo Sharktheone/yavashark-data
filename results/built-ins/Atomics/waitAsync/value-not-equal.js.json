@@ -1,1 +1,1 @@
-{"cpu_time":4020000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/value-not-equal.js:43:1)\n","path":"../../test262/test/built-ins/Atomics/waitAsync/value-not-equal.js","memory_kb":77440,"duration":32013907}
+{"cpu_time":3813000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at all (../../test262/test/built-ins/Atomics/waitAsync/value-not-equal.js:43:1)\n","path":"../../test262/test/built-ins/Atomics/waitAsync/value-not-equal.js","memory_kb":92040,"duration":36214437}

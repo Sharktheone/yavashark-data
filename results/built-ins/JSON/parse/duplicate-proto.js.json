@@ -1,1 +1,1 @@
-{"cpu_time":3336000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15:14)\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":72244,"duration":20486304}
+{"cpu_time":3094000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15:14)\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":96516,"duration":16344217}

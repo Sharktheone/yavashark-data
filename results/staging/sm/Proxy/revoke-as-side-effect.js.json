@@ -1,1 +1,1 @@
-{"cpu_time":3529000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/revoke-as-side-effect.js:24:18)\n","path":"../../test262/test/staging/sm/Proxy/revoke-as-side-effect.js","memory_kb":77440,"duration":21995212}
+{"cpu_time":3276000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/revoke-as-side-effect.js:24:18)\n","path":"../../test262/test/staging/sm/Proxy/revoke-as-side-effect.js","memory_kb":96520,"duration":28218961}

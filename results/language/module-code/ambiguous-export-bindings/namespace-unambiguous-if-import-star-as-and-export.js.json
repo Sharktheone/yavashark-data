@@ -1,1 +1,1 @@
-{"cpu_time":3089000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-star-as-and-export.js","memory_kb":79740,"duration":12619674}
+{"cpu_time":3225000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-star-as-and-export.js","memory_kb":96516,"duration":33161259}
