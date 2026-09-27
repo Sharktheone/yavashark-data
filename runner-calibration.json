@@ -2,6 +2,80 @@
   "version": 1,
   "environments": {
     "github-linux-4": {
+      "benchmarks": {
+        "048b5d1356bd018e3af72e777508ec18f0f4fa24fdef0aed5602001695638e5d": {
+          "runs": 1,
+          "mean_seconds": 1.916065347
+        },
+        "1bd67e99eaae87e3314cd1c3741b9c851fdb7ba36350a4832e1eca6bc01e2c6a": {
+          "runs": 1,
+          "mean_seconds": 14.273273348
+        },
+        "201aad1a7b7ee5419a1ce96ed54ace6235b04adb05c8ce42879964dfa44d17d9": {
+          "runs": 1,
+          "mean_seconds": 1.032767895
+        },
+        "358be168ad5d0cf1da405217935ba7bfc29ae2e127d56a3034c0943bd88e74f2": {
+          "runs": 1,
+          "mean_seconds": 5.3346117025
+        },
+        "38c320192033832a8a98d0da3e2dc17045934ed01c0f625a464a3f992568faeb": {
+          "runs": 1,
+          "mean_seconds": 1.0120075725
+        },
+        "466579a540c690f19aafa6f54b0c604e84dd66abca867c72a50b0175fc432f78": {
+          "runs": 1,
+          "mean_seconds": 15.537418943
+        },
+        "4815e379a96871600774741a65cb854eb2a6bddd97cba626ef1929ae19d43c71": {
+          "runs": 1,
+          "mean_seconds": 1.959958185
+        },
+        "494a0b2158b5ac5554b39fa45c47bece13dfea9250458bf6795640f9ba404513": {
+          "runs": 1,
+          "mean_seconds": 10.091491759
+        },
+        "59c15eb24489dcc139b5112bb6d6a4f3c0f8c5cc1dfd3cee2ccf7c2e96dcf95c": {
+          "runs": 1,
+          "mean_seconds": 1.9025402465
+        },
+        "5e8181a555ad2c48f6a3dff57ce54e6b1c27d98f78b0b058c230f59794f693e0": {
+          "runs": 1,
+          "mean_seconds": 19.098985261
+        },
+        "6851b0a18a168ba77baa09b4b1a2997f3e23bdcbc316a235fef13a96f0249a71": {
+          "runs": 1,
+          "mean_seconds": 1.898504563
+        },
+        "71ded0814d5efa6b192f13118a950ac423dd52574908a3c65047bc15696aafe0": {
+          "runs": 1,
+          "mean_seconds": 9.285392946
+        },
+        "71ef66059a2c7a32e3f18c28a21bbc947702005bda95112a1ab0d1293c70f910": {
+          "runs": 1,
+          "mean_seconds": 1.024202583
+        },
+        "76f18459597f0bdbf9a0b7362e47192a85855ecdce89168076c630191d362eb6": {
+          "runs": 1,
+          "mean_seconds": 1.924656827
+        },
+        "8eceb037b8999dde1ce7efe9bca92f86f7ad8b5f87778c861fb8739d4581032e": {
+          "runs": 1,
+          "mean_seconds": 18.7624618915
+        },
+        "95cf37ac0335103428e9c8f0d7a46449aa42ef4493400810ee5ebab94d03e810": {
+          "runs": 1,
+          "mean_seconds": 2.0492553605
+        },
+        "b6043ed041b9a047bc52b6d66ed563b760501b8c9d351a0c06a61ba49e750e7d": {
+          "runs": 1,
+          "mean_seconds": 1.005698428
+        },
+        "c1d5db84e1be2168ef8bd48778e02188354d238e721eef0ce3963de0395c7d72": {
+          "runs": 1,
+          "mean_seconds": 2.8240309
+        }
+      },
       "os": "linux",
       "cpus": 4,
       "runs": 4,
@@ -427167,7 +427241,15 @@
           "timeouts": 0
         }
       },
-      "updated": "2026-09-27T16:14:48Z"
+      "settings": {
+        "risky_cpus": 2,
+        "fast_workers": 2,
+        "medium_workers": 2,
+        "slow_workers": 2,
+        "risky_workers": 96
+      },
+      "bench_runs": 1,
+      "updated": "2026-09-27T16:24:36Z"
     }
   }
 }
