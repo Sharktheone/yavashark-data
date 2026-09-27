@@ -1,1 +1,1 @@
-{"cpu_time":3724000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Promise]\nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/async-function/try-throw-finally-reject.js","memory_kb":92168,"duration":46836331}
+{"cpu_time":3687000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Promise]\nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/expressions/async-function/try-throw-finally-reject.js","memory_kb":92284,"duration":19292471}

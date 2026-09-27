@@ -1,1 +1,1 @@
-{"cpu_time":3786000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/resolve-poisoned-then.js","memory_kb":92296,"duration":30731076}
+{"cpu_time":3598000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/race/resolve-poisoned-then.js","memory_kb":92284,"duration":23096622}

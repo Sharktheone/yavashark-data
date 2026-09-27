@@ -1,1 +1,1 @@
-{"cpu_time":3670000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/resolves-empty-object.js","memory_kb":94324,"duration":36398608}
+{"cpu_time":3406000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/resolves-empty-object.js","memory_kb":94448,"duration":14762631}

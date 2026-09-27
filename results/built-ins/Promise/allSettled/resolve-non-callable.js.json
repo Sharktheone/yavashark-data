@@ -1,1 +1,1 @@
-{"cpu_time":3516000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected true but got false\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-non-callable.js","memory_kb":92168,"duration":20453717}
+{"cpu_time":3610000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected true but got false\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/allSettled/resolve-non-callable.js","memory_kb":94444,"duration":12993139}
