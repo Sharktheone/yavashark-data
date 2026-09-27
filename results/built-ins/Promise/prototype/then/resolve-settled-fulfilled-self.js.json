@@ -1,1 +1,1 @@
-{"cpu_time":3500000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-self.js","memory_kb":101032,"duration":31818106}
+{"cpu_time":3301000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-settled-fulfilled-self.js","memory_kb":98716,"duration":20281636}

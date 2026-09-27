@@ -1,1 +1,1 @@
-{"cpu_time":3640000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-generator/yield-star-throw-notdone-iter-value-throws.js","memory_kb":92412,"duration":14172707}
+{"cpu_time":4629000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/async-generator/yield-star-throw-notdone-iter-value-throws.js","memory_kb":92388,"duration":55245870}

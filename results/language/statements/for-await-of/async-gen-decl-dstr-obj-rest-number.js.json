@@ -1,1 +1,1 @@
-{"cpu_time":3466000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-rest-number.js","memory_kb":92284,"duration":14236150}
+{"cpu_time":3355000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nTest262:AsyncTestComplete\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-rest-number.js","memory_kb":92388,"duration":32021741}

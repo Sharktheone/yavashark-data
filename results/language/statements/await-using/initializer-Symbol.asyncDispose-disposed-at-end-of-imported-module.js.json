@@ -1,1 +1,1 @@
-{"cpu_time":3159000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n","path":"../../test262/test/language/statements/await-using/initializer-Symbol.asyncDispose-disposed-at-end-of-imported-module.js","memory_kb":100908,"duration":38037616}
+{"cpu_time":3162000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n","path":"../../test262/test/language/statements/await-using/initializer-Symbol.asyncDispose-disposed-at-end-of-imported-module.js","memory_kb":98712,"duration":31907953}

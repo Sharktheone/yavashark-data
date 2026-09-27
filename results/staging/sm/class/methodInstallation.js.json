@@ -1,1 +1,1 @@
-{"cpu_time":4922000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/class/methodInstallation.js:19:1\n","path":"../../test262/test/staging/sm/class/methodInstallation.js","memory_kb":88080,"duration":50916038}
+{"cpu_time":5166000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot convert a Symbol value to a string\n    at ../../test262/test/staging/sm/class/methodInstallation.js:19:1\n","path":"../../test262/test/staging/sm/class/methodInstallation.js","memory_kb":90332,"duration":39274290}

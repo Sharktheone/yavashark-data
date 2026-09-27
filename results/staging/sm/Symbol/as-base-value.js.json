@@ -1,1 +1,1 @@
-{"cpu_time":3334000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/staging/sm/Symbol/as-base-value.js:50:22)\n","path":"../../test262/test/staging/sm/Symbol/as-base-value.js","memory_kb":94444,"duration":11967327}
+{"cpu_time":4018000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/staging/sm/Symbol/as-base-value.js:50:22)\n","path":"../../test262/test/staging/sm/Symbol/as-base-value.js","memory_kb":94484,"duration":41400109}

@@ -1,1 +1,1 @@
-{"cpu_time":3606000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/disposeAsync/explicit-await-skipped-when-empty.js","memory_kb":92284,"duration":17798217}
+{"cpu_time":4180000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/disposeAsync/explicit-await-skipped-when-empty.js","memory_kb":92388,"duration":29731862}

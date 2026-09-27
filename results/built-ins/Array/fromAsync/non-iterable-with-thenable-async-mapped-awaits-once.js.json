@@ -1,1 +1,1 @@
-{"cpu_time":3769000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/non-iterable-with-thenable-async-mapped-awaits-once.js","memory_kb":92288,"duration":53530377}
+{"cpu_time":4140000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/non-iterable-with-thenable-async-mapped-awaits-once.js","memory_kb":92388,"duration":46273946}

@@ -1,1 +1,1 @@
-{"cpu_time":3386000,"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/yield/rhs-primitive.js:38:10)\n","path":"../../test262/test/language/expressions/yield/rhs-primitive.js","memory_kb":94444,"duration":24252069}
+{"cpu_time":2968000,"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/expressions/yield/rhs-primitive.js:38:10)\n","path":"../../test262/test/language/expressions/yield/rhs-primitive.js","memory_kb":94484,"duration":25141530}

@@ -1,1 +1,1 @@
-{"cpu_time":4040000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75:18)\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":88208,"duration":29979198}
+{"cpu_time":4878000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75:18)\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":92388,"duration":42487463}

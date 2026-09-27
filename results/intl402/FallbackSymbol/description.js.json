@@ -1,1 +1,1 @@
-{"cpu_time":3296000,"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/description.js:14:21)\n","path":"../../test262/test/intl402/FallbackSymbol/description.js","memory_kb":98588,"duration":37456535}
+{"cpu_time":3411000,"status":"FAIL","msg":"FAIL:\n TypeError: DateTimeFormatConstructor is not callable\n    at call (../../test262/test/intl402/FallbackSymbol/description.js:14:21)\n","path":"../../test262/test/intl402/FallbackSymbol/description.js","memory_kb":98720,"duration":23918978}

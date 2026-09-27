@@ -1,1 +1,1 @@
-{"cpu_time":3129000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/regress/regress-636364.js:16:1\n","path":"../../test262/test/staging/sm/regress/regress-636364.js","memory_kb":98844,"duration":24961747}
+{"cpu_time":3126000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/regress/regress-636364.js:16:1\n","path":"../../test262/test/staging/sm/regress/regress-636364.js","memory_kb":98712,"duration":24986891}

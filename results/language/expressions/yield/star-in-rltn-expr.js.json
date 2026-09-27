@@ -1,1 +1,1 @@
-{"cpu_time":3384000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at next (../../test262/test/language/expressions/yield/star-in-rltn-expr.js:26:14)\n","path":"../../test262/test/language/expressions/yield/star-in-rltn-expr.js","memory_kb":98588,"duration":15579046}
+{"cpu_time":3082000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at next (../../test262/test/language/expressions/yield/star-in-rltn-expr.js:26:14)\n","path":"../../test262/test/language/expressions/yield/star-in-rltn-expr.js","memory_kb":98592,"duration":20649510}

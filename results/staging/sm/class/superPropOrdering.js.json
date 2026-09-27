@@ -1,1 +1,1 @@
-{"cpu_time":3410000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropOrdering.js:83:1\n","path":"../../test262/test/staging/sm/class/superPropOrdering.js","memory_kb":94448,"duration":8902954}
+{"cpu_time":4189000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropOrdering.js:83:1\n","path":"../../test262/test/staging/sm/class/superPropOrdering.js","memory_kb":92384,"duration":41874939}

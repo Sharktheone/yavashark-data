@@ -1,1 +1,1 @@
-{"cpu_time":3178000,"status":"FAIL","msg":"FAIL:\n ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/text-empty.js","memory_kb":101028,"duration":25486514}
+{"cpu_time":3650000,"status":"FAIL","msg":"FAIL:\n ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/text-empty.js","memory_kb":98836,"duration":31508235}

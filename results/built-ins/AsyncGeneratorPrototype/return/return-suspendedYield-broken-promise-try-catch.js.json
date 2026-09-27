@@ -1,1 +1,1 @@
-{"cpu_time":4098000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/return/return-suspendedYield-broken-promise-try-catch.js","memory_kb":92284,"duration":23976862}
+{"cpu_time":4285000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncGeneratorPrototype/return/return-suspendedYield-broken-promise-try-catch.js","memory_kb":92388,"duration":35440959}

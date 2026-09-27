@@ -1,1 +1,1 @@
-{"cpu_time":3720000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-multiple-calls.js","memory_kb":92412,"duration":55186580}
+{"cpu_time":4449000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve-get-once-multiple-calls.js","memory_kb":92388,"duration":42070429}

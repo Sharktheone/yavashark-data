@@ -1,1 +1,1 @@
-{"cpu_time":3158000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Map/getter-name.js:11:1\n","path":"../../test262/test/staging/sm/Map/getter-name.js","memory_kb":100904,"duration":27396396}
+{"cpu_time":2844000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Map/getter-name.js:11:1\n","path":"../../test262/test/staging/sm/Map/getter-name.js","memory_kb":98712,"duration":19759139}

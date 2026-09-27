@@ -1,1 +1,1 @@
-{"cpu_time":3137000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/regress/regress-672892.js:13:1\n","path":"../../test262/test/staging/sm/regress/regress-672892.js","memory_kb":98716,"duration":26302992}
+{"cpu_time":2696000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/regress/regress-672892.js:13:1\n","path":"../../test262/test/staging/sm/regress/regress-672892.js","memory_kb":98712,"duration":32785370}

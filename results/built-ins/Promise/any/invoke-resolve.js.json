@@ -1,1 +1,1 @@
-{"cpu_time":3305000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/invoke-resolve.js:31:1)\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve.js","memory_kb":96556,"duration":18414348}
+{"cpu_time":3377000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at any (../../test262/test/built-ins/Promise/any/invoke-resolve.js:31:1)\n","path":"../../test262/test/built-ins/Promise/any/invoke-resolve.js","memory_kb":96504,"duration":32352611}

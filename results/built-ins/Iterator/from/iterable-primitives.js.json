@@ -1,1 +1,1 @@
-{"cpu_time":3336000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Iterator/from/iterable-primitives.js:31:21)\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js","memory_kb":96552,"duration":23960549}
+{"cpu_time":3013000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at from (../../test262/test/built-ins/Iterator/from/iterable-primitives.js:31:21)\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js","memory_kb":98592,"duration":28413425}
