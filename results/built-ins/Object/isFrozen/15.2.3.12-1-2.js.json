@@ -1,1 +1,1 @@
-{"cpu_time":3330000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at isFrozen (../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-2.js:11:18)\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-2.js","memory_kb":98712,"duration":42980452}
+{"cpu_time":1642000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Null\n    at isFrozen (../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-2.js:11:18)\n","path":"../../test262/test/built-ins/Object/isFrozen/15.2.3.12-1-2.js","memory_kb":88172,"duration":1746183}

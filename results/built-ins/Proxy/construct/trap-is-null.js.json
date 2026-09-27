@@ -1,1 +1,1 @@
-{"cpu_time":3405000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at construct (../../test262/test/built-ins/Proxy/construct/trap-is-null.js:46:11)\n","path":"../../test262/test/built-ins/Proxy/construct/trap-is-null.js","memory_kb":94484,"duration":29426495}
+{"cpu_time":1740000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at construct (../../test262/test/built-ins/Proxy/construct/trap-is-null.js:46:11)\n","path":"../../test262/test/built-ins/Proxy/construct/trap-is-null.js","memory_kb":86296,"duration":1855615}

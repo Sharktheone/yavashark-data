@@ -1,1 +1,1 @@
-{"cpu_time":3527000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-poisoned-then.js","memory_kb":96504,"duration":15417273}
+{"cpu_time":1768000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/prototype/then/resolve-pending-rejected-poisoned-then.js","memory_kb":86424,"duration":1876134}

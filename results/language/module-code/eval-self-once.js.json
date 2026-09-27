@@ -1,1 +1,1 @@
-{"cpu_time":3833000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/eval-self-once.js","memory_kb":98716,"duration":58500567}
+{"cpu_time":1642000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/eval-self-once.js","memory_kb":86292,"duration":1726713}

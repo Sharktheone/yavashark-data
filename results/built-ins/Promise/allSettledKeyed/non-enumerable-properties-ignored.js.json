@@ -1,1 +1,1 @@
-{"cpu_time":3762000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/non-enumerable-properties-ignored.js","memory_kb":94484,"duration":26660051}
+{"cpu_time":2171000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/non-enumerable-properties-ignored.js","memory_kb":86304,"duration":2309312}

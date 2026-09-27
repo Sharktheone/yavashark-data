@@ -1,1 +1,1 @@
-{"cpu_time":4288000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/all/reject-immed.js","memory_kb":94484,"duration":53932937}
+{"cpu_time":1918000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should not be fulfilled.\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/all/reject-immed.js","memory_kb":86180,"duration":2022667}

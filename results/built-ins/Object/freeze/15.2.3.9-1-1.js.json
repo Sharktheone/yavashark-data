@@ -1,1 +1,1 @@
-{"cpu_time":2856000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at freeze (../../test262/test/built-ins/Object/freeze/15.2.3.9-1-1.js:11:18)\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1-1.js","memory_kb":98712,"duration":34509395}
+{"cpu_time":1616000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at freeze (../../test262/test/built-ins/Object/freeze/15.2.3.9-1-1.js:11:18)\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1-1.js","memory_kb":88420,"duration":1713841}

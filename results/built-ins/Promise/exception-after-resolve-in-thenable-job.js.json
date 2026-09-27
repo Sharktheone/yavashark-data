@@ -1,1 +1,1 @@
-{"cpu_time":4154000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Object]\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/exception-after-resolve-in-thenable-job.js","memory_kb":94484,"duration":47264763}
+{"cpu_time":2008000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: [object Object]\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/exception-after-resolve-in-thenable-job.js","memory_kb":86176,"duration":2153632}

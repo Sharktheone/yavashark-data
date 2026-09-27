@@ -1,1 +1,1 @@
-{"cpu_time":3010000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Array/fromAsync/builtin.js:24:8)\n","path":"../../test262/test/built-ins/Array/fromAsync/builtin.js","memory_kb":98712,"duration":23807385}
+{"cpu_time":1732000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/built-ins/Array/fromAsync/builtin.js:24:8)\n","path":"../../test262/test/built-ins/Array/fromAsync/builtin.js","memory_kb":88548,"duration":1853253}

@@ -1,1 +1,1 @@
-{"cpu_time":3785000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-last.js:34:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-last.js","memory_kb":92516,"duration":41557578}
+{"cpu_time":1770000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-last.js:34:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-last.js","memory_kb":86304,"duration":1884678}

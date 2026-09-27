@@ -1,1 +1,1 @@
-{"cpu_time":3397000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be fulfilled with the provided value.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-prms-cstm-then-deferred.js","memory_kb":96636,"duration":30605897}
+{"cpu_time":1778000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be fulfilled with the provided value.\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/resolve-prms-cstm-then-deferred.js","memory_kb":86292,"duration":1899184}

@@ -1,1 +1,1 @@
-{"cpu_time":6147000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at exec (../../test262/test/built-ins/RegExp/named-groups/groups-object.js:37:16)\n","path":"../../test262/test/built-ins/RegExp/named-groups/groups-object.js","memory_kb":90332,"duration":66247105}
+{"cpu_time":3096000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object or null\n    at exec (../../test262/test/built-ins/RegExp/named-groups/groups-object.js:37:16)\n","path":"../../test262/test/built-ins/RegExp/named-groups/groups-object.js","memory_kb":81912,"duration":3300768}

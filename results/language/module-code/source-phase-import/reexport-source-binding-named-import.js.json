@@ -1,1 +1,1 @@
-{"cpu_time":3157000,"status":"FAIL","msg":"FAIL:\n RuntimeError: No such file or directory (os error 2)\n","path":"../../test262/test/language/module-code/source-phase-import/reexport-source-binding-named-import.js","memory_kb":98836,"duration":11555101}
+{"cpu_time":1898000,"status":"FAIL","msg":"FAIL:\n RuntimeError: No such file or directory (os error 2)\n","path":"../../test262/test/language/module-code/source-phase-import/reexport-source-binding-named-import.js","memory_kb":88280,"duration":2016780}

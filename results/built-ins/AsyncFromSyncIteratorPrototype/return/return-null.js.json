@@ -1,1 +1,1 @@
-{"cpu_time":5092000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/return-null.js","memory_kb":92516,"duration":69344211}
+{"cpu_time":2667000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/return-null.js","memory_kb":86180,"duration":3031109}

@@ -1,1 +1,1 @@
-{"cpu_time":4907000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected SameValue(«1», «0») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/iter-step-err-no-close.js","memory_kb":92388,"duration":32732197}
+{"cpu_time":2791000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected SameValue(«1», «0») to be true\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/Promise/any/iter-step-err-no-close.js","memory_kb":86180,"duration":3066649}

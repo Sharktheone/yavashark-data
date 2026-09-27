@@ -1,1 +1,1 @@
-{"cpu_time":3402000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/iteration.js:16:1\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/iteration.js","memory_kb":98716,"duration":26064843}
+{"cpu_time":1799000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/iteration.js:16:1\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/iteration.js","memory_kb":88432,"duration":1875997}

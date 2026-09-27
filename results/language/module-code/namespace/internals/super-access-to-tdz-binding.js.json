@@ -1,1 +1,1 @@
-{"cpu_time":3322000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/super-access-to-tdz-binding.js","memory_kb":98840,"duration":18458394}
+{"cpu_time":1591000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/super-access-to-tdz-binding.js","memory_kb":88300,"duration":1706736}

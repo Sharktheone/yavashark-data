@@ -1,1 +1,1 @@
-{"cpu_time":3640000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":98836,"duration":29577591}
+{"cpu_time":1626000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":88300,"duration":1739322}

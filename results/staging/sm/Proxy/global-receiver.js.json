@@ -1,1 +1,1 @@
-{"cpu_time":4234000,"status":"FAIL","msg":"FAIL:\n ReferenceError: bareword is not defined\n    at ../../test262/test/staging/sm/Proxy/global-receiver.js:36:1\n","path":"../../test262/test/staging/sm/Proxy/global-receiver.js","memory_kb":98720,"duration":44810750}
+{"cpu_time":1696000,"status":"FAIL","msg":"FAIL:\n ReferenceError: bareword is not defined\n    at ../../test262/test/staging/sm/Proxy/global-receiver.js:36:1\n","path":"../../test262/test/staging/sm/Proxy/global-receiver.js","memory_kb":86304,"duration":1804581}

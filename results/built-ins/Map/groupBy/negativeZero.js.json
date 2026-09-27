@@ -1,1 +1,1 @@
-{"cpu_time":3820000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/negativeZero.js:27:1\n","path":"../../test262/test/built-ins/Map/groupBy/negativeZero.js","memory_kb":98716,"duration":52586012}
+{"cpu_time":2021000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/negativeZero.js:27:1\n","path":"../../test262/test/built-ins/Map/groupBy/negativeZero.js","memory_kb":86160,"duration":2118563}

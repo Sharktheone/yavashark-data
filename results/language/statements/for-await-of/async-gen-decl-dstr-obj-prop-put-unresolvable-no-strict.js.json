@@ -1,1 +1,1 @@
-{"cpu_time":4356000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-prop-put-unresolvable-no-strict.js","memory_kb":92388,"duration":42749892}
+{"cpu_time":2472000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-prop-put-unresolvable-no-strict.js","memory_kb":86180,"duration":2691418}

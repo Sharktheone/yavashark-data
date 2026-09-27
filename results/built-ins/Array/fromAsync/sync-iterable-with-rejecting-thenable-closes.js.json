@@ -1,1 +1,1 @@
-{"cpu_time":4344000,"status":"FAIL","msg":"Test262:AsyncTestFailure:SyntaxError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/sync-iterable-with-rejecting-thenable-closes.js","memory_kb":92384,"duration":27552270}
+{"cpu_time":1978000,"status":"FAIL","msg":"Test262:AsyncTestFailure:SyntaxError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/sync-iterable-with-rejecting-thenable-closes.js","memory_kb":86180,"duration":2061992}

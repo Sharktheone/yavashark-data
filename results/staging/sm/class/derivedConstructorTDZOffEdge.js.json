@@ -1,1 +1,1 @@
-{"cpu_time":3486000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorTDZOffEdge.js:10:1\n","path":"../../test262/test/staging/sm/class/derivedConstructorTDZOffEdge.js","memory_kb":98836,"duration":29584223}
+{"cpu_time":1638000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorTDZOffEdge.js:10:1\n","path":"../../test262/test/staging/sm/class/derivedConstructorTDZOffEdge.js","memory_kb":88304,"duration":1743647}
