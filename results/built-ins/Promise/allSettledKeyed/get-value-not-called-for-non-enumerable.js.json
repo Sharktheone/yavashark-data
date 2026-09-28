@@ -1,1 +1,1 @@
-{"cpu_time":1946000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/get-value-not-called-for-non-enumerable.js","memory_kb":86300,"duration":2037945}
+{"cpu_time":3157000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/allSettledKeyed/get-value-not-called-for-non-enumerable.js","memory_kb":84296,"duration":3300223}

@@ -1,1 +1,1 @@
-{"cpu_time":18504000,"status":"CRASH","msg":"\nthread 'main' (6722) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/built-ins/Iterator/concat/throws-typeerror-when-generator-is-running-next.js","memory_kb":72568,"duration":873982629}
+{"cpu_time":28718000,"status":"CRASH","msg":"\nthread 'main' (6870) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/built-ins/Iterator/concat/throws-typeerror-when-generator-is-running-next.js","memory_kb":76940,"duration":1094744401}

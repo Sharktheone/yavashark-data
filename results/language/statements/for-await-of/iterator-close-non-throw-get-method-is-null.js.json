@@ -1,1 +1,1 @@
-{"cpu_time":1875000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Error: Break outside of loop\nPASS:\n undefined\n","path":"../../test262/test/language/statements/for-await-of/iterator-close-non-throw-get-method-is-null.js","memory_kb":86304,"duration":1994543}
+{"cpu_time":2871000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Error: Break outside of loop\nPASS:\n undefined\n","path":"../../test262/test/language/statements/for-await-of/iterator-close-non-throw-get-method-is-null.js","memory_kb":84296,"duration":3081150}

@@ -1,1 +1,1 @@
-{"cpu_time":1612000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/isFrozen.js:14:18)\n","path":"../../test262/test/staging/sm/object/isFrozen.js","memory_kb":88304,"duration":1726345}
+{"cpu_time":2495000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/isFrozen.js:14:18)\n","path":"../../test262/test/staging/sm/object/isFrozen.js","memory_kb":86268,"duration":2620174}

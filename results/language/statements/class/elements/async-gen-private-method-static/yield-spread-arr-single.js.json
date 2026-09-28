@@ -1,1 +1,1 @@
-{"cpu_time":1850000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/elements/async-gen-private-method-static/yield-spread-arr-single.js","memory_kb":86304,"duration":1972515}
+{"cpu_time":2901000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Expected SameValue(«1», «3») to be true\nPASS:\n undefined\n","path":"../../test262/test/language/statements/class/elements/async-gen-private-method-static/yield-spread-arr-single.js","memory_kb":84168,"duration":3042122}

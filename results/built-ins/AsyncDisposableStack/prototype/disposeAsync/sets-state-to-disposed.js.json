@@ -1,1 +1,1 @@
-{"cpu_time":1884000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/disposeAsync/sets-state-to-disposed.js","memory_kb":86304,"duration":2012377}
+{"cpu_time":3165000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncDisposableStack/prototype/disposeAsync/sets-state-to-disposed.js","memory_kb":84296,"duration":3358584}

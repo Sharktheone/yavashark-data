@@ -1,1 +1,1 @@
-{"cpu_time":1772000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/intersection/subclass.js","memory_kb":86432,"duration":1895887}
+{"cpu_time":2530000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/intersection/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/intersection/subclass.js","memory_kb":84164,"duration":2686420}

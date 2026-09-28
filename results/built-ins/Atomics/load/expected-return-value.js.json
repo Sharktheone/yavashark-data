@@ -1,1 +1,1 @@
-{"cpu_time":1853000,"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:38:1\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":86432,"duration":1983861}
+{"cpu_time":2866000,"status":"FAIL","msg":"FAIL:\n TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/load/expected-return-value.js:38:1\n","path":"../../test262/test/built-ins/Atomics/load/expected-return-value.js","memory_kb":84296,"duration":2978706}

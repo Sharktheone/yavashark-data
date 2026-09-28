@@ -1,1 +1,1 @@
-{"cpu_time":1676000,"status":"FAIL","msg":"FAIL:\n ReferenceError: attr is not defined\n    at ../../test262/test/built-ins/Proxy/has/call-with.js:31:3\n","path":"../../test262/test/built-ins/Proxy/has/call-with.js","memory_kb":86160,"duration":1787877}
+{"cpu_time":2472000,"status":"FAIL","msg":"FAIL:\n ReferenceError: attr is not defined\n    at ../../test262/test/built-ins/Proxy/has/call-with.js:31:3\n","path":"../../test262/test/built-ins/Proxy/has/call-with.js","memory_kb":86408,"duration":2601289}

@@ -1,1 +1,1 @@
-{"cpu_time":1986000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-contract-expand.js:22:1\n","path":"../../test262/test/language/statements/for-of/set-contract-expand.js","memory_kb":86292,"duration":2083671}
+{"cpu_time":2552000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-contract-expand.js:22:1\n","path":"../../test262/test/language/statements/for-of/set-contract-expand.js","memory_kb":84292,"duration":2704800}

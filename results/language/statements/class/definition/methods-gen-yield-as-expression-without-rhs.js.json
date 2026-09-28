@@ -1,1 +1,1 @@
-{"cpu_time":1975000,"status":"FAIL","msg":"FAIL:\n RuntimeError: invalid stack\n    at next (../../test262/test/language/statements/class/definition/methods-gen-yield-as-expression-without-rhs.js:44:10)\n","path":"../../test262/test/language/statements/class/definition/methods-gen-yield-as-expression-without-rhs.js","memory_kb":86288,"duration":2105797}
+{"cpu_time":2746000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/class/definition/methods-gen-yield-as-expression-without-rhs.js","memory_kb":84284,"duration":2908910}

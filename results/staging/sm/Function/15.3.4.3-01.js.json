@@ -1,1 +1,1 @@
-{"cpu_time":2628000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at apply (../../test262/test/staging/sm/Function/15.3.4.3-01.js:53:1)\n","path":"../../test262/test/staging/sm/Function/15.3.4.3-01.js","memory_kb":86180,"duration":2873292}
+{"cpu_time":3099000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at apply (../../test262/test/staging/sm/Function/15.3.4.3-01.js:53:1)\n","path":"../../test262/test/staging/sm/Function/15.3.4.3-01.js","memory_kb":84176,"duration":3217880}

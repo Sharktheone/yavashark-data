@@ -1,1 +1,1 @@
-{"cpu_time":1869000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/key-order-preserved.js:46:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/key-order-preserved.js","memory_kb":86304,"duration":1952770}
+{"cpu_time":2994000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/key-order-preserved.js:46:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/key-order-preserved.js","memory_kb":84296,"duration":3169640}

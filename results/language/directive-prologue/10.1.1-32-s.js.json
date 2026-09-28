@@ -1,1 +1,1 @@
-{"cpu_time":1710000,"status":"FAIL","msg":"FAIL:\n ReferenceError: anotherVariable is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-32-s.js:17:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-32-s.js","memory_kb":88296,"duration":1820491}
+{"cpu_time":2502000,"status":"FAIL","msg":"FAIL:\n ReferenceError: anotherVariable is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-32-s.js:17:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-32-s.js","memory_kb":88404,"duration":2635950}

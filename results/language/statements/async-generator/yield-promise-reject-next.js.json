@@ -1,1 +1,1 @@
-{"cpu_time":1862000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Promise incorrectly resolved.\nPASS:\n undefined\n","path":"../../test262/test/language/statements/async-generator/yield-promise-reject-next.js","memory_kb":86304,"duration":1976291}
+{"cpu_time":2844000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Promise incorrectly resolved.\nPASS:\n undefined\n","path":"../../test262/test/language/statements/async-generator/yield-promise-reject-next.js","memory_kb":84296,"duration":3016195}

@@ -1,1 +1,1 @@
-{"cpu_time":1660000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-export-star-as-from.js","memory_kb":88412,"duration":1764396}
+{"cpu_time":2614000,"status":"FAIL","msg":"FAIL:\n RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-export-star-as-from.js","memory_kb":88404,"duration":2755925}

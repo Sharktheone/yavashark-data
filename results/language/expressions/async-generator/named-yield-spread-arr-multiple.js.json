@@ -1,1 +1,1 @@
-{"cpu_time":1797000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-yield-spread-arr-multiple.js","memory_kb":86176,"duration":1880361}
+{"cpu_time":2902000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Actual [undefined] and expected [a, b, c] should have the same contents. \nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-yield-spread-arr-multiple.js","memory_kb":84296,"duration":3087119}

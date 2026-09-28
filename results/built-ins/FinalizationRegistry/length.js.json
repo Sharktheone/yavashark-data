@@ -1,1 +1,1 @@
-{"cpu_time":2859000,"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/length.js:27:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/length.js","memory_kb":86052,"duration":3114524}
+{"cpu_time":3447000,"status":"FAIL","msg":"FAIL:\n ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/length.js:27:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/length.js","memory_kb":84048,"duration":3606593}

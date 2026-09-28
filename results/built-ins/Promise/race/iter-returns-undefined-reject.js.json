@@ -1,1 +1,1 @@
-{"cpu_time":1976000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-undefined-reject.js","memory_kb":86288,"duration":2113004}
+{"cpu_time":2680000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: The promise should be rejected, but threw an exception: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Promise/race/iter-returns-undefined-reject.js","memory_kb":86280,"duration":2871487}

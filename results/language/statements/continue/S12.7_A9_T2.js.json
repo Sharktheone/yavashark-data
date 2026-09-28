@@ -1,1 +1,1 @@
-{"cpu_time":1690000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal continue statement\n    at ../../test262/test/language/statements/continue/S12.7_A9_T2.js:12:1\n","path":"../../test262/test/language/statements/continue/S12.7_A9_T2.js","memory_kb":88428,"duration":1825823}
+{"cpu_time":2388000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Illegal continue statement\n    at ../../test262/test/language/statements/continue/S12.7_A9_T2.js:12:1\n","path":"../../test262/test/language/statements/continue/S12.7_A9_T2.js","memory_kb":88276,"duration":2530754}

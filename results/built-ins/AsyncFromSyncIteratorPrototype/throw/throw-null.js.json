@@ -1,1 +1,1 @@
-{"cpu_time":2540000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: the iterator is completed\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/throw/throw-null.js","memory_kb":86052,"duration":2787347}
+{"cpu_time":3210000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: the iterator is completed\nPASS:\n undefined\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/throw/throw-null.js","memory_kb":84048,"duration":3425178}

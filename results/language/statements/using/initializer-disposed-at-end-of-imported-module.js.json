@@ -1,1 +1,1 @@
-{"cpu_time":1680000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n","path":"../../test262/test/language/statements/using/initializer-disposed-at-end-of-imported-module.js","memory_kb":88552,"duration":1920688}
+{"cpu_time":2448000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n","path":"../../test262/test/language/statements/using/initializer-disposed-at-end-of-imported-module.js","memory_kb":88404,"duration":2590054}

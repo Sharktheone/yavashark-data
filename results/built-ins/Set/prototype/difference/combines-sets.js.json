@@ -1,1 +1,1 @@
-{"cpu_time":1968000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/combines-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-sets.js","memory_kb":86292,"duration":2103633}
+{"cpu_time":2683000,"status":"FAIL","msg":"FAIL:\n TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/difference/combines-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/difference/combines-sets.js","memory_kb":84156,"duration":2871981}

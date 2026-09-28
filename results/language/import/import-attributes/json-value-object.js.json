@@ -1,1 +1,1 @@
-{"cpu_time":2943000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (16..17, ExpectedSemiForExprStmt { expr: 8..16 }) }\n","path":"../../test262/test/language/import/import-attributes/json-value-object.js","memory_kb":86052,"duration":3911119}
+{"cpu_time":3448000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Error { error: (16..17, ExpectedSemiForExprStmt { expr: 8..16 }) }\n","path":"../../test262/test/language/import/import-attributes/json-value-object.js","memory_kb":84048,"duration":3568659}

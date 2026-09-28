@@ -1,1 +1,1 @@
-{"cpu_time":2408000,"status":"FAIL","msg":"FAIL:\n TypeError: Element is not iterable\n    at zip (../../test262/test/built-ins/Iterator/zip/iterables-iteration.js:77:1)\n","path":"../../test262/test/built-ins/Iterator/zip/iterables-iteration.js","memory_kb":86180,"duration":2571275}
+{"cpu_time":4050000,"status":"FAIL","msg":"FAIL:\n TypeError: Element is not iterable\n    at zip (../../test262/test/built-ins/Iterator/zip/iterables-iteration.js:77:1)\n","path":"../../test262/test/built-ins/Iterator/zip/iterables-iteration.js","memory_kb":84300,"duration":4201069}

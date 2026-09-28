@@ -1,1 +1,1 @@
-{"cpu_time":1724000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/language/statements/for-of/dstr/obj-rest-number.js:32:1\n","path":"../../test262/test/language/statements/for-of/dstr/obj-rest-number.js","memory_kb":86300,"duration":1836476}
+{"cpu_time":2490000,"status":"FAIL","msg":"FAIL:\n TypeError: expected object\n    at ../../test262/test/language/statements/for-of/dstr/obj-rest-number.js:32:1\n","path":"../../test262/test/language/statements/for-of/dstr/obj-rest-number.js","memory_kb":84164,"duration":2615845}

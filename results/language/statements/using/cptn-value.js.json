@@ -1,1 +1,1 @@
-{"cpu_time":1928000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n    at eval (../../test262/test/language/statements/using/cptn-value.js:17:3)\n","path":"../../test262/test/language/statements/using/cptn-value.js","memory_kb":88172,"duration":2017510}
+{"cpu_time":2459000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Unsupported declaration type\n    at eval (../../test262/test/language/statements/using/cptn-value.js:17:3)\n","path":"../../test262/test/language/statements/using/cptn-value.js","memory_kb":86268,"duration":2594994}

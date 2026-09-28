@@ -1,1 +1,1 @@
-{"cpu_time":1705000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/groupLength.js:17:1\n","path":"../../test262/test/built-ins/Map/groupBy/groupLength.js","memory_kb":88304,"duration":1834082}
+{"cpu_time":2345000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/groupLength.js:17:1\n","path":"../../test262/test/built-ins/Map/groupBy/groupLength.js","memory_kb":86276,"duration":2440746}

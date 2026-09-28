@@ -1,1 +1,1 @@
-{"cpu_time":1680000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/next/iteration.js:17:1\n","path":"../../test262/test/built-ins/SetIteratorPrototype/next/iteration.js","memory_kb":88428,"duration":1800948}
+{"cpu_time":2665000,"status":"FAIL","msg":"FAIL:\n TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/next/iteration.js:17:1\n","path":"../../test262/test/built-ins/SetIteratorPrototype/next/iteration.js","memory_kb":88404,"duration":2800107}

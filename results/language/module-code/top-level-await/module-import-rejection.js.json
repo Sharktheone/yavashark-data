@@ -1,1 +1,1 @@
-{"cpu_time":1712000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object NativeConstructor]) but got Object([object Object])\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection.js","memory_kb":88432,"duration":1783445}
+{"cpu_time":2620000,"status":"FAIL","msg":"FAIL:\n RuntimeError: Expected error of type Object([object NativeConstructor]) but got Object([object Object])\n","path":"../../test262/test/language/module-code/top-level-await/module-import-rejection.js","memory_kb":86268,"duration":2785866}
