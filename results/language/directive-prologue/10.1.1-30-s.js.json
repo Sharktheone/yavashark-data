@@ -1,1 +1,1 @@
-{"cpu_time":2640000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected a SyntaxError to be thrown but no exception was thrown at all\" }\n    at ../../test262/harness/assert.js:144:3\n    at ../../test262/test/language/directive-prologue/10.1.1-30-s.js:14:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-30-s.js","memory_kb":86280,"duration":2827536}
+{"cpu_time":1908000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/directive-prologue/10.1.1-30-s.js","memory_kb":86212,"duration":2040828}

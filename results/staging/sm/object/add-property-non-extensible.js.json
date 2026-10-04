@@ -1,1 +1,1 @@
-{"cpu_time":3740000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected SameValue(«[object Object]», «undefined») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/staging/sm/object/add-property-non-extensible.js:81:1\n","path":"../../test262/test/staging/sm/object/add-property-non-extensible.js","memory_kb":84176,"duration":3883748}
+{"cpu_time":2316000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/staging/sm/object/add-property-non-extensible.js","memory_kb":84024,"duration":2434484}

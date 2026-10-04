@@ -1,1 +1,1 @@
-{"cpu_time":3152000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-prop-put-unresolvable-no-strict.js","memory_kb":84172,"duration":3338641}
+{"cpu_time":2248000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: unresolvable is not defined\nPASS:\n [object Promise]\n","path":"../../test262/test/language/statements/for-await-of/async-gen-decl-dstr-obj-prop-put-unresolvable-no-strict.js","memory_kb":84024,"duration":2375382}

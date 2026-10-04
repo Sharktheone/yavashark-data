@@ -1,1 +1,1 @@
-{"cpu_time":2481000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected SameValue(«\"object\"», «\"undefined\"») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/language/eval-code/indirect/lex-env-distinct-const.js:25:1\n","path":"../../test262/test/language/eval-code/indirect/lex-env-distinct-const.js","memory_kb":88404,"duration":2606846}
+{"cpu_time":2206000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/indirect/lex-env-distinct-const.js","memory_kb":88384,"duration":2339948}

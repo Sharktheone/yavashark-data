@@ -1,1 +1,1 @@
-{"cpu_time":2523000,"status":"FAIL","msg":"FAIL:\n ReferenceError: foo is not defined\n    at ../../test262/test/language/expressions/arrow-function/non-strict.js:20:1\n","path":"../../test262/test/language/expressions/arrow-function/non-strict.js","memory_kb":88276,"duration":2668481}
+{"cpu_time":1867000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: foo is not defined\n    at ../../test262/test/language/expressions/arrow-function/non-strict.js:20:1\n","path":"../../test262/test/language/expressions/arrow-function/non-strict.js","memory_kb":88388,"duration":2030473}

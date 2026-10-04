@@ -1,1 +1,1 @@
-{"cpu_time":2719000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"#1: myObj.p1 !== 1\" }\n    at ../../test262/test/language/statements/with/S12.10_A5_T2.js:21:3\n","path":"../../test262/test/language/statements/with/S12.10_A5_T2.js","memory_kb":86152,"duration":2839964}
+{"cpu_time":1845000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"#1: myObj.p1 !== 1\" }\n    at ../../test262/test/language/statements/with/S12.10_A5_T2.js:21:3\n","path":"../../test262/test/language/statements/with/S12.10_A5_T2.js","memory_kb":86212,"duration":1986481}

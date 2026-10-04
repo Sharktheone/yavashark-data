@@ -1,1 +1,1 @@
-{"cpu_time":2408000,"status":"FAIL","msg":"FAIL:\n TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/set-no-iterable.js:21:1\n","path":"../../test262/test/built-ins/Set/set-no-iterable.js","memory_kb":88404,"duration":2514984}
+{"cpu_time":2190000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/Set/set-no-iterable.js:21:1\n","path":"../../test262/test/built-ins/Set/set-no-iterable.js","memory_kb":88384,"duration":2319795}

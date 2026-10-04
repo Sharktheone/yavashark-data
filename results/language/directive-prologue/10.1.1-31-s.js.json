@@ -1,1 +1,1 @@
-{"cpu_time":2558000,"status":"FAIL","msg":"FAIL:\n ReferenceError: anotherVariable is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-31-s.js:18:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-31-s.js","memory_kb":88276,"duration":2707274}
+{"cpu_time":2036000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: public is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-31-s.js:17:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-31-s.js","memory_kb":88384,"duration":2164465}

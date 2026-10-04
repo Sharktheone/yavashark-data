@@ -1,1 +1,1 @@
-{"cpu_time":10159000,"status":"FAIL","msg":"FAIL:\n TypeError: Expected object, found Number(1.0)\n    at entries (../../test262/test/staging/sm/object/entries.js:66:18)\n","path":"../../test262/test/staging/sm/object/entries.js","memory_kb":76940,"duration":10606903}
+{"cpu_time":9948000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Number(1.0)\n    at entries (../../test262/test/staging/sm/object/entries.js:66:18)\n","path":"../../test262/test/staging/sm/object/entries.js","memory_kb":72552,"duration":10769993}

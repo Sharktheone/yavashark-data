@@ -1,1 +1,1 @@
-{"cpu_time":2820000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"new Error.toString() returns \"Error\" Expected SameValue(«\"Error: undefined\"», «\"Error\"») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/built-ins/Error/tostring-1.js:9:1\n","path":"../../test262/test/built-ins/Error/tostring-1.js","memory_kb":86408,"duration":3034807}
+{"cpu_time":2275000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Error/tostring-1.js","memory_kb":86084,"duration":2396372}

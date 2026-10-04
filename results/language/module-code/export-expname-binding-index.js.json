@@ -1,1 +1,1 @@
-{"cpu_time":2652000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/export-expname-binding-index.js","memory_kb":86268,"duration":2781963}
+{"cpu_time":1883000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/export-expname-binding-index.js","memory_kb":88260,"duration":1991770}

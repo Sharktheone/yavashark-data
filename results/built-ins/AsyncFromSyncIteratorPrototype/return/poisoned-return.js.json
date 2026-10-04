@@ -1,1 +1,1 @@
-{"cpu_time":2814000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/poisoned-return.js","memory_kb":84304,"duration":2951734}
+{"cpu_time":2982000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nTest262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n [object Promise]\n","path":"../../test262/test/built-ins/AsyncFromSyncIteratorPrototype/return/poisoned-return.js","memory_kb":84024,"duration":3111602}

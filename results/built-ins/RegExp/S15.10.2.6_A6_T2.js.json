@@ -1,1 +1,1 @@
-{"cpu_time":1704000,"status":"PARSE_SUCCESS_ERROR","msg":"PARSE_SUCCESS_ERROR:\n\"Nothing to repeat at position 3\"\n\nthread 'main' (58901) panicked at crates/yavashark_test262/src/utils.rs:81:25:\nexplicit panic\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T2.js","memory_kb":88404,"duration":1845373}
+{"cpu_time":2388000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/S15.10.2.6_A6_T2.js","memory_kb":90264,"duration":2517257}

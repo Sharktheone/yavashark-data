@@ -1,1 +1,1 @@
-{"cpu_time":2468000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Strict indirect eval leaked a top level declaration\" }\n    at ../../test262/test/language/eval-code/indirect/var-env-var-strict.js:14:5\n","path":"../../test262/test/language/eval-code/indirect/var-env-var-strict.js","memory_kb":86280,"duration":2643802}
+{"cpu_time":1952000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/indirect/var-env-var-strict.js","memory_kb":86332,"duration":2063882}

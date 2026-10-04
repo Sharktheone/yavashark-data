@@ -1,1 +1,1 @@
-{"cpu_time":3155000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: \nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-yield-star-sync-return.js","memory_kb":84304,"duration":3945784}
+{"cpu_time":3018000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nTest262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-yield-star-sync-return.js","memory_kb":84024,"duration":3169151}

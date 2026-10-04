@@ -1,1 +1,1 @@
-{"cpu_time":3265000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: \nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-array-remove.js","memory_kb":84172,"duration":3414054}
+{"cpu_time":2898000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: fromAsync does not exist on object\nTest262:AsyncTestFailure:ReferenceError: fromAsync does not exist on object\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/asyncitems-array-remove.js","memory_kb":84152,"duration":3026340}

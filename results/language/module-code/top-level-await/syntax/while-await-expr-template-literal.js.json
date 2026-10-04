@@ -1,1 +1,1 @@
-{"cpu_time":2356000,"status":"FAIL","msg":"FAIL:\n ReferenceError: await is not defined\n    at ../../test262/test/language/module-code/top-level-await/syntax/while-await-expr-template-literal.js:47:1\n","path":"../../test262/test/language/module-code/top-level-await/syntax/while-await-expr-template-literal.js","memory_kb":88404,"duration":2480733}
+{"cpu_time":1746000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/module-code/top-level-await/syntax/while-await-expr-template-literal.js","memory_kb":90396,"duration":1854690}

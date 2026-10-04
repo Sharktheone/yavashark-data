@@ -1,1 +1,1 @@
-{"cpu_time":2944000,"status":"FAIL","msg":"FAIL:\n TypeError: Cannot read property 'constructor' of undefined\n    at ../../test262/test/language/eval-code/indirect/switch-case-decl-strict.js:31:1\n","path":"../../test262/test/language/eval-code/indirect/switch-case-decl-strict.js","memory_kb":86396,"duration":3093376}
+{"cpu_time":2286000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/indirect/switch-case-decl-strict.js","memory_kb":88260,"duration":2427474}

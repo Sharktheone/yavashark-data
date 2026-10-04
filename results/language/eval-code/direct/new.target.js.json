@@ -1,1 +1,1 @@
-{"cpu_time":2564000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected SameValue(«\"undefined\"», «\"object\"») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/language/eval-code/direct/new.target.js:23:1\n","path":"../../test262/test/language/eval-code/direct/new.target.js","memory_kb":86276,"duration":2720178}
+{"cpu_time":2350000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/eval-code/direct/new.target.js","memory_kb":88400,"duration":2459989}

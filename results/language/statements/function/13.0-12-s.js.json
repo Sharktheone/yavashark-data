@@ -1,1 +1,1 @@
-{"cpu_time":2396000,"status":"FAIL","msg":"FAIL:\n SyntaxError: Cannot assign to 'eval' in strict mode\n    at ../../test262/test/language/statements/function/13.0-12-s.js:16:1\n","path":"../../test262/test/language/statements/function/13.0-12-s.js","memory_kb":86268,"duration":2551394}
+{"cpu_time":2029000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/function/13.0-12-s.js","memory_kb":88260,"duration":2190929}

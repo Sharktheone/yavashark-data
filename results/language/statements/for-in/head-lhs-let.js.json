@@ -1,1 +1,1 @@
-{"cpu_time":3232000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"IdentifierReference Expected SameValue(«undefined», «\"key\"») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/language/statements/for-in/head-lhs-let.js:29:1\n","path":"../../test262/test/language/statements/for-in/head-lhs-let.js","memory_kb":86408,"duration":3360995}
+{"cpu_time":1831000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-in/head-lhs-let.js","memory_kb":86216,"duration":1972049}

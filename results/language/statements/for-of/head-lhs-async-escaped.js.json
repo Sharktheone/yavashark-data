@@ -1,1 +1,1 @@
-{"cpu_time":2820000,"status":"FAIL","msg":"FAIL:\n Uncaught: { \"message\": \"Expected SameValue(«undefined», «7») to be true\" }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/language/statements/for-of/head-lhs-async-escaped.js:18:1\n","path":"../../test262/test/language/statements/for-of/head-lhs-async-escaped.js","memory_kb":84296,"duration":2983214}
+{"cpu_time":2458000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/language/statements/for-of/head-lhs-async-escaped.js","memory_kb":86216,"duration":2580881}

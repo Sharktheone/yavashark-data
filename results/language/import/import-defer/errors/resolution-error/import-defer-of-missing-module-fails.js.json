@@ -1,1 +1,1 @@
-{"cpu_time":3075000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Error: The module should throw\nPASS:\n undefined\n","path":"../../test262/test/language/import/import-defer/errors/resolution-error/import-defer-of-missing-module-fails.js","memory_kb":84176,"duration":3169648}
+{"cpu_time":2304000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Error: The module should throw\nPASS:\n undefined\n","path":"../../test262/test/language/import/import-defer/errors/resolution-error/import-defer-of-missing-module-fails.js","memory_kb":84024,"duration":2400609}
