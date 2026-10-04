@@ -1,1 +1,1 @@
-{"cpu_time":1957000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Number(NaN)\n    at seal (../../test262/test/built-ins/Object/seal/seal-nan.js:36:18)\n","path":"../../test262/test/built-ins/Object/seal/seal-nan.js","memory_kb":88384,"duration":2069003}
+{"cpu_time":2436000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Number(NaN)\n    at seal (../../test262/test/built-ins/Object/seal/seal-nan.js:36:18)\n","path":"../../test262/test/built-ins/Object/seal/seal-nan.js","memory_kb":88320,"duration":2587993}

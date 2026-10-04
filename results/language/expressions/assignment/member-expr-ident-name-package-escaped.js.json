@@ -1,1 +1,1 @@
-{"cpu_time":1400000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Strict\nError { error: (555..567, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/assignment/member-expr-ident-name-package-escaped.js","memory_kb":86204,"duration":1538617}
+{"cpu_time":1755000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Strict\nError { error: (555..567, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/assignment/member-expr-ident-name-package-escaped.js","memory_kb":88448,"duration":1990587}

@@ -1,1 +1,1 @@
-{"cpu_time":1736000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (488..498, ExpectedIdent) }\n","path":"../../test262/test/language/statements/class/class-name-ident-await-escaped.js","memory_kb":90264,"duration":1966930}
+{"cpu_time":1758000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (488..498, ExpectedIdent) }\n","path":"../../test262/test/language/statements/class/class-name-ident-await-escaped.js","memory_kb":88440,"duration":1884316}

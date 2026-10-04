@@ -1,1 +1,1 @@
-{"cpu_time":2198000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Invalid language tag: posix\n    at ../../test262/test/intl402/Locale/constructor-non-iana-canon.js:94:5\n","path":"../../test262/test/intl402/Locale/constructor-non-iana-canon.js","memory_kb":84024,"duration":2347656}
+{"cpu_time":2856000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Invalid language tag: posix\n    at ../../test262/test/intl402/Locale/constructor-non-iana-canon.js:94:5\n","path":"../../test262/test/intl402/Locale/constructor-non-iana-canon.js","memory_kb":84132,"duration":2962834}

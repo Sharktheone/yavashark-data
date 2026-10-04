@@ -1,1 +1,1 @@
-{"cpu_time":1873000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/superCallInvalidBase.js:9:1\n","path":"../../test262/test/staging/sm/class/superCallInvalidBase.js","memory_kb":88384,"duration":2022611}
+{"cpu_time":2522000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/superCallInvalidBase.js:9:1\n","path":"../../test262/test/staging/sm/class/superCallInvalidBase.js","memory_kb":88192,"duration":2699643}

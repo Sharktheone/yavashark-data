@@ -1,1 +1,1 @@
-{"cpu_time":1912000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropHomeObject.js:32:1\n","path":"../../test262/test/staging/sm/class/superPropHomeObject.js","memory_kb":86332,"duration":2071390}
+{"cpu_time":2638000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropHomeObject.js:32:1\n","path":"../../test262/test/staging/sm/class/superPropHomeObject.js","memory_kb":88452,"duration":2808084}

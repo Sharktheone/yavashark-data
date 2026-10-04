@@ -1,1 +1,1 @@
-{"cpu_time":1789000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/Symbol.toStringTag.js","memory_kb":88132,"duration":1927456}
+{"cpu_time":2472000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/Symbol.toStringTag.js","memory_kb":88448,"duration":2614151}

@@ -1,1 +1,1 @@
-{"cpu_time":1962000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at call (../../test262/test/built-ins/Proxy/apply/trap-is-undefined.js:41:11)\n","path":"../../test262/test/built-ins/Proxy/apply/trap-is-undefined.js","memory_kb":88268,"duration":2123069}
+{"cpu_time":2396000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at call (../../test262/test/built-ins/Proxy/apply/trap-is-undefined.js:41:11)\n","path":"../../test262/test/built-ins/Proxy/apply/trap-is-undefined.js","memory_kb":88448,"duration":2532088}

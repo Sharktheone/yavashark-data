@@ -1,1 +1,1 @@
-{"cpu_time":2044000,"status":"FAIL","msg":"FAIL:\n Strict: TypeError: expected object\n    at toLocaleString (../../test262/test/staging/sm/Array/toLocaleString.js:20:32)\n","path":"../../test262/test/staging/sm/Array/toLocaleString.js","memory_kb":88260,"duration":2155534}
+{"cpu_time":2605000,"status":"FAIL","msg":"FAIL:\n Strict: TypeError: expected object\n    at toLocaleString (../../test262/test/staging/sm/Array/toLocaleString.js:20:32)\n","path":"../../test262/test/staging/sm/Array/toLocaleString.js","memory_kb":88448,"duration":2733975}

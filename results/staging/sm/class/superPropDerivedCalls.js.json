@@ -1,1 +1,1 @@
-{"cpu_time":2057000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropDerivedCalls.js:80:1\n","path":"../../test262/test/staging/sm/class/superPropDerivedCalls.js","memory_kb":88268,"duration":2182860}
+{"cpu_time":2520000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superPropDerivedCalls.js:80:1\n","path":"../../test262/test/staging/sm/class/superPropDerivedCalls.js","memory_kb":88448,"duration":2657082}

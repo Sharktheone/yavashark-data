@@ -1,1 +1,1 @@
-{"cpu_time":2022000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/zero-literal-segments.js:9:18)\n","path":"../../test262/test/built-ins/String/raw/zero-literal-segments.js","memory_kb":88384,"duration":2143791}
+{"cpu_time":2698000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/zero-literal-segments.js:9:18)\n","path":"../../test262/test/built-ins/String/raw/zero-literal-segments.js","memory_kb":88320,"duration":2838561}

@@ -1,1 +1,1 @@
-{"cpu_time":1910000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/Symbol.iterator.js","memory_kb":88384,"duration":2846720}
+{"cpu_time":2353000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/Symbol.iterator.js","memory_kb":88192,"duration":2520978}

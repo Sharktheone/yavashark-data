@@ -1,1 +1,1 @@
-{"cpu_time":1284000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1902..1903, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/initializer-disposed-at-end-of-forstatement.js","memory_kb":90264,"duration":1384159}
+{"cpu_time":1759000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1902..1903, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/initializer-disposed-at-end-of-forstatement.js","memory_kb":88440,"duration":1965650}

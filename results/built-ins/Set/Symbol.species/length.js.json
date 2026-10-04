@@ -1,1 +1,1 @@
-{"cpu_time":2608000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Set/Symbol.species/length.js:28:1\n","path":"../../test262/test/built-ins/Set/Symbol.species/length.js","memory_kb":83896,"duration":2724546}
+{"cpu_time":3670000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Set/Symbol.species/length.js:28:1\n","path":"../../test262/test/built-ins/Set/Symbol.species/length.js","memory_kb":84140,"duration":3902719}

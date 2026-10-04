@@ -1,1 +1,1 @@
-{"cpu_time":1970000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/toPropertyKey.js:24:1\n","path":"../../test262/test/built-ins/Map/groupBy/toPropertyKey.js","memory_kb":88260,"duration":2067625}
+{"cpu_time":2707000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/toPropertyKey.js:24:1\n","path":"../../test262/test/built-ins/Map/groupBy/toPropertyKey.js","memory_kb":88448,"duration":3002574}
