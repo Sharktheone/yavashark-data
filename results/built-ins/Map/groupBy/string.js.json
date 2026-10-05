@@ -1,1 +1,1 @@
-{"cpu_time":2611000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/string.js:16:1\n","path":"../../test262/test/built-ins/Map/groupBy/string.js","memory_kb":88320,"duration":2923919}
+{"cpu_time":2718000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/string.js:16:1\n","path":"../../test262/test/built-ins/Map/groupBy/string.js","memory_kb":88400,"duration":2870769}

@@ -1,1 +1,1 @@
-{"cpu_time":2770000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at construct (../../test262/test/built-ins/Proxy/construct/trap-is-null.js:46:11)\n","path":"../../test262/test/built-ins/Proxy/construct/trap-is-null.js","memory_kb":86248,"duration":2881712}
+{"cpu_time":2856000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at construct (../../test262/test/built-ins/Proxy/construct/trap-is-null.js:46:11)\n","path":"../../test262/test/built-ins/Proxy/construct/trap-is-null.js","memory_kb":88408,"duration":2982907}
