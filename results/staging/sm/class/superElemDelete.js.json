@@ -1,1 +1,1 @@
-{"cpu_time":2546000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superElemDelete.js:59:1\n","path":"../../test262/test/staging/sm/class/superElemDelete.js","memory_kb":88400,"duration":2694659}
+{"cpu_time":1955000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/class/superElemDelete.js:59:1\n","path":"../../test262/test/staging/sm/class/superElemDelete.js","memory_kb":88232,"duration":2198195}

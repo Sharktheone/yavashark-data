@@ -1,1 +1,1 @@
-{"cpu_time":4886000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":84040,"duration":5461882}
+{"cpu_time":3732000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/Array/group.js:20:3)\n","path":"../../test262/test/staging/sm/Array/group.js","memory_kb":85416,"duration":4209657}

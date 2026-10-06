@@ -1,1 +1,1 @@
-{"cpu_time":3376000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/name.js:22:1\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/name.js","memory_kb":84168,"duration":3612846}
+{"cpu_time":2643000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/MapIteratorPrototype/next/name.js:22:1\n","path":"../../test262/test/built-ins/MapIteratorPrototype/next/name.js","memory_kb":86056,"duration":2897074}

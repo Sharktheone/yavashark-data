@@ -1,1 +1,1 @@
-{"cpu_time":2402000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/delete-exported-init.js","memory_kb":90540,"duration":2511470}
+{"cpu_time":1949000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/delete-exported-init.js","memory_kb":88224,"duration":2168905}

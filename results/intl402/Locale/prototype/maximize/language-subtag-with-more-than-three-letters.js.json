@@ -1,0 +1,1 @@
+{"cpu_time":1994000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Invalid language tag: abcdefgh\n    at ../../test262/test/intl402/Locale/prototype/maximize/language-subtag-with-more-than-three-letters.js:20:1\n","path":"../../test262/test/intl402/Locale/prototype/maximize/language-subtag-with-more-than-three-letters.js","memory_kb":90340,"duration":2235000}

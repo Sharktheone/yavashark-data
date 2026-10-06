@@ -1,1 +1,1 @@
-{"cpu_time":2650000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/set-is-subset-of-empty-index.js:8:1\n","path":"../../test262/test/staging/set-is-subset-of-empty-index.js","memory_kb":90540,"duration":2793561}
+{"cpu_time":1939000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/set-is-subset-of-empty-index.js:8:1\n","path":"../../test262/test/staging/set-is-subset-of-empty-index.js","memory_kb":88228,"duration":2170237}

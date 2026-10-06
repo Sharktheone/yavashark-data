@@ -1,1 +1,1 @@
-{"cpu_time":2688000,"status":"FAIL","msg":"FAIL:\n Sloppy: Error: Expected a Test262Error, but no error was thrown.\n    at ../../test262/test/harness/assert-throws-same-realm.js:29:3\n","path":"../../test262/test/harness/assert-throws-same-realm.js","memory_kb":88532,"duration":2813063}
+{"cpu_time":1913000,"status":"FAIL","msg":"FAIL:\n Sloppy: Error: Expected a Test262Error, but no error was thrown.\n    at ../../test262/test/harness/assert-throws-same-realm.js:29:3\n","path":"../../test262/test/harness/assert-throws-same-realm.js","memory_kb":88360,"duration":2195875}

@@ -1,1 +1,1 @@
-{"cpu_time":3240000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75:18)\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":84292,"duration":3371854}
+{"cpu_time":2386000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/getPrototypeOf.js:75:18)\n","path":"../../test262/test/staging/sm/Proxy/getPrototypeOf.js","memory_kb":86052,"duration":2622714}
