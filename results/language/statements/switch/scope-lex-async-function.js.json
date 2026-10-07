@@ -1,1 +1,1 @@
-{"cpu_time":1794000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"function () { } \"\n","path":"../../test262/test/language/statements/switch/scope-lex-async-function.js","memory_kb":88228,"duration":2031142}
+{"cpu_time":1620000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"function () { } \"\n","path":"../../test262/test/language/statements/switch/scope-lex-async-function.js","memory_kb":87600,"duration":1800068}

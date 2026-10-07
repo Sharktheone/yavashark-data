@@ -1,1 +1,1 @@
-{"cpu_time":1855000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'writable' of undefined\n    at ../../test262/test/staging/sm/Function/function-name.js:41:1\n","path":"../../test262/test/staging/sm/Function/function-name.js","memory_kb":88228,"duration":2098925}
+{"cpu_time":1767000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'writable' of undefined\n    at ../../test262/test/staging/sm/Function/function-name.js:41:1\n","path":"../../test262/test/staging/sm/Function/function-name.js","memory_kb":87600,"duration":1951613}

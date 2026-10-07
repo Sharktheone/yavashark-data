@@ -1,1 +1,1 @@
-{"cpu_time":2039000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/get-nested-namespace-props-nrml.js","memory_kb":88232,"duration":2639460}
+{"cpu_time":1770000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/get-nested-namespace-props-nrml.js","memory_kb":85452,"duration":2193546}

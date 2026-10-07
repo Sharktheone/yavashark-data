@@ -1,1 +1,1 @@
-{"cpu_time":1355000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (496..506, Expected(\"{\", \"\u003clexing error\u003e\")) }\n","path":"../../test262/test/language/expressions/class/class-name-ident-await-escaped.js","memory_kb":90344,"duration":1606397}
+{"cpu_time":1142000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (496..506, Expected(\"{\", \"\u003clexing error\u003e\")) }\n","path":"../../test262/test/language/expressions/class/class-name-ident-await-escaped.js","memory_kb":87596,"duration":1362422}

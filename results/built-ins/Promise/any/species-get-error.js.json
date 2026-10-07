@@ -1,1 +1,1 @@
-{"cpu_time":2016000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at call (../../test262/test/built-ins/Promise/any/species-get-error.js:28:1)\n","path":"../../test262/test/built-ins/Promise/any/species-get-error.js","memory_kb":88232,"duration":2276032}
+{"cpu_time":1867000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at call (../../test262/test/built-ins/Promise/any/species-get-error.js:28:1)\n","path":"../../test262/test/built-ins/Promise/any/species-get-error.js","memory_kb":85580,"duration":2069876}

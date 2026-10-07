@@ -1,1 +1,1 @@
-{"cpu_time":111158000,"status":"CRASH","msg":"\nthread 'main' (6712) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating/main.js","memory_kb":74552,"duration":3505123517}
+{"cpu_time":100060000,"status":"CRASH","msg":"\nthread 'main' (6617) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/import/import-defer/errors/get-other-while-evaluating/main.js","memory_kb":67816,"duration":3204994906}

@@ -1,1 +1,1 @@
-{"cpu_time":2101000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-bytes/bytes-from-empty.js","memory_kb":88228,"duration":2372782}
+{"cpu_time":1669000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-bytes/bytes-from-empty.js","memory_kb":87600,"duration":2031583}

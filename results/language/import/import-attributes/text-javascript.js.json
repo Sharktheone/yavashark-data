@@ -1,1 +1,1 @@
-{"cpu_time":1831000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (143..144, ExpectedSemiForExprStmt { expr: 135..142 }) }\n","path":"../../test262/test/language/import/import-attributes/text-javascript.js","memory_kb":88224,"duration":2435127}
+{"cpu_time":1769000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (143..144, ExpectedSemiForExprStmt { expr: 135..142 }) }\n","path":"../../test262/test/language/import/import-attributes/text-javascript.js","memory_kb":87472,"duration":2107278}

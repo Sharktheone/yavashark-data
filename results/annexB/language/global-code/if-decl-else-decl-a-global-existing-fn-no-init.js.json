@@ -1,1 +1,1 @@
-{"cpu_time":1351000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1106..1114, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-decl-a-global-existing-fn-no-init.js","memory_kb":90344,"duration":1555905}
+{"cpu_time":1258000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1106..1114, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-decl-a-global-existing-fn-no-init.js","memory_kb":87596,"duration":1477683}
