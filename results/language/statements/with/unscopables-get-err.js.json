@@ -1,1 +1,1 @@
-{"cpu_time":1778000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"\" }\n    at ../../test262/test/language/statements/with/unscopables-get-err.js:32:5\n","path":"../../test262/test/language/statements/with/unscopables-get-err.js","memory_kb":85452,"duration":1993764}
+{"cpu_time":2055000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"\" }\n    at ../../test262/test/language/statements/with/unscopables-get-err.js:32:5\n","path":"../../test262/test/language/statements/with/unscopables-get-err.js","memory_kb":86252,"duration":2194120}

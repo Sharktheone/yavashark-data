@@ -1,1 +1,1 @@
-{"cpu_time":97933000,"status":"CRASH","msg":"\nthread 'main' (6582) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/top-level-await/pending-async-dep-from-cycle.js","memory_kb":67176,"duration":3115847202}
+{"cpu_time":103264000,"status":"CRASH","msg":"\nthread 'main' (6712) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/module-code/top-level-await/pending-async-dep-from-cycle.js","memory_kb":76820,"duration":3303998454}

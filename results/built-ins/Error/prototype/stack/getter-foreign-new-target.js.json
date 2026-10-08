@@ -1,1 +1,1 @@
-{"cpu_time":1894000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Error/prototype/stack/getter-foreign-new-target.js:23:1\n","path":"../../test262/test/built-ins/Error/prototype/stack/getter-foreign-new-target.js","memory_kb":85476,"duration":2110300}
+{"cpu_time":2932000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Error/prototype/stack/getter-foreign-new-target.js","memory_kb":86400,"duration":3073253}

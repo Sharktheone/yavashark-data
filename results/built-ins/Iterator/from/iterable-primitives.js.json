@@ -1,1 +1,1 @@
-{"cpu_time":1872000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at from (../../test262/test/built-ins/Iterator/from/iterable-primitives.js:31:21)\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js","memory_kb":85456,"duration":2078573}
+{"cpu_time":2112000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at from (../../test262/test/built-ins/Iterator/from/iterable-primitives.js:31:21)\n","path":"../../test262/test/built-ins/Iterator/from/iterable-primitives.js","memory_kb":86388,"duration":2230195}

@@ -1,1 +1,1 @@
-{"cpu_time":7252000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"#DC00-DFFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js:47:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js","memory_kb":66536,"duration":7743902}
+{"cpu_time":11072000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"#DC00-DFFF \" }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js:47:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.1_T2.js","memory_kb":76820,"duration":12097025}

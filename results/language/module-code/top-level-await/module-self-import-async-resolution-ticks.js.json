@@ -1,1 +1,1 @@
-{"cpu_time":1746000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/top-level-await/module-self-import-async-resolution-ticks.js","memory_kb":87600,"duration":1969747}
+{"cpu_time":1948000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/top-level-await/module-self-import-async-resolution-ticks.js","memory_kb":88412,"duration":2067516}

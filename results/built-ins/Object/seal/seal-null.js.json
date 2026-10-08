@@ -1,1 +1,1 @@
-{"cpu_time":1703000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at seal (../../test262/test/built-ins/Object/seal/seal-null.js:36:18)\n","path":"../../test262/test/built-ins/Object/seal/seal-null.js","memory_kb":87600,"duration":1897030}
+{"cpu_time":2016000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at seal (../../test262/test/built-ins/Object/seal/seal-null.js:36:18)\n","path":"../../test262/test/built-ins/Object/seal/seal-null.js","memory_kb":88412,"duration":2162315}

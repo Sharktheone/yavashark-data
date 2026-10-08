@@ -1,1 +1,1 @@
-{"cpu_time":1824000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/expressions/dynamic-import/reuse-namespace-object-from-import.js","memory_kb":87600,"duration":2154519}
+{"cpu_time":1972000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/expressions/dynamic-import/reuse-namespace-object-from-import.js","memory_kb":88412,"duration":2097914}

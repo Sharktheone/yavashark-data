@@ -1,1 +1,1 @@
-{"cpu_time":1938000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-last.js:34:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-last.js","memory_kb":83780,"duration":2148460}
+{"cpu_time":2212000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/allKeyed/reject-last.js:34:1\n","path":"../../test262/test/built-ins/Promise/allKeyed/reject-last.js","memory_kb":84212,"duration":2350368}

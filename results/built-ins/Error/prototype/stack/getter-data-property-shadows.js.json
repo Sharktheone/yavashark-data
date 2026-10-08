@@ -1,1 +1,1 @@
-{"cpu_time":1880000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/built-ins/Error/prototype/stack/getter-data-property-shadows.js:20:1\n","path":"../../test262/test/built-ins/Error/prototype/stack/getter-data-property-shadows.js","memory_kb":83780,"duration":2151634}
+{"cpu_time":2790000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Error/prototype/stack/getter-data-property-shadows.js","memory_kb":84216,"duration":2912939}
