@@ -1,1 +1,1 @@
-{"cpu_time":1469000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (521..530, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/assignment/member-expr-ident-name-with-escaped.js","memory_kb":90408,"duration":1725421}
+{"cpu_time":996000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (521..530, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/assignment/member-expr-ident-name-with-escaped.js","memory_kb":90384,"duration":1103344}

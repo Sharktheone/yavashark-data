@@ -1,1 +1,1 @@
-{"cpu_time":2162000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/eval-gtbndng-indirect-update-as.js","memory_kb":88480,"duration":2554622}
+{"cpu_time":1631000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/eval-gtbndng-indirect-update-as.js","memory_kb":88392,"duration":1736331}

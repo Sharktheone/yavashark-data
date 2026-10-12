@@ -1,1 +1,1 @@
-{"cpu_time":1861000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/has-property-sym-found.js","memory_kb":88224,"duration":2116562}
+{"cpu_time":1552000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/has-property-sym-found.js","memory_kb":90388,"duration":1669461}

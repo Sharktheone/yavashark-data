@@ -1,1 +1,1 @@
-{"cpu_time":3012000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Should not be fulfilled\nPASS:\n [object Promise]\n","path":"../../test262/test/language/module-code/top-level-await/dynamic-import-rejection.js","memory_kb":84544,"duration":3357234}
+{"cpu_time":2106000,"status":"FAIL","msg":"Test262:AsyncTestFailure:Test262Error: Test262Error: Should not be fulfilled\nPASS:\n [object Promise]\n","path":"../../test262/test/language/module-code/top-level-await/dynamic-import-rejection.js","memory_kb":86224,"duration":2379770}

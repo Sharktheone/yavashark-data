@@ -1,1 +1,1 @@
-{"cpu_time":2060000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: Variable not found\nPASS:\n undefined\n","path":"../../test262/test/language/statements/await-using/syntax/await-using-declaring-let-split-across-two-lines.js","memory_kb":88232,"duration":2278392}
+{"cpu_time":1784000,"status":"FAIL","msg":"Test262:AsyncTestFailure:ReferenceError: Variable not found\nPASS:\n undefined\n","path":"../../test262/test/language/statements/await-using/syntax/await-using-declaring-let-split-across-two-lines.js","memory_kb":88136,"duration":1861366}

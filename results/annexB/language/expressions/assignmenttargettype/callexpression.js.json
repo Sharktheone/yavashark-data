@@ -1,1 +1,1 @@
-{"cpu_time":1413000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (893..896, InvalidAssignTarget) }\n","path":"../../test262/test/annexB/language/expressions/assignmenttargettype/callexpression.js","memory_kb":90536,"duration":1637871}
+{"cpu_time":1007000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (893..896, InvalidAssignTarget) }\n","path":"../../test262/test/annexB/language/expressions/assignmenttargettype/callexpression.js","memory_kb":90512,"duration":1080471}

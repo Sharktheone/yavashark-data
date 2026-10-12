@@ -1,1 +1,1 @@
-{"cpu_time":1882000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-propertyIsEnumerable-binding-uninit.js","memory_kb":88224,"duration":2156370}
+{"cpu_time":1524000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-propertyIsEnumerable-binding-uninit.js","memory_kb":90388,"duration":1633821}
