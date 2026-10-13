@@ -1,1 +1,1 @@
-{"cpu_time":1570000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: \"'this' had incorrect value!\"\n    at ../../test262/test/language/function-code/10.4.3-1-39gs.js:21:5\n","path":"../../test262/test/language/function-code/10.4.3-1-39gs.js","memory_kb":90516,"duration":1691704}
+{"cpu_time":2720000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: \"'this' had incorrect value!\"\n    at ../../test262/test/language/function-code/10.4.3-1-39gs.js:21:5\n","path":"../../test262/test/language/function-code/10.4.3-1-39gs.js","memory_kb":88516,"duration":19194209}
