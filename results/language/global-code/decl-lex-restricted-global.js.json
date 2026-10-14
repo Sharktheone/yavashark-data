@@ -1,1 +1,1 @@
-{"cpu_time":2018000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js","memory_kb":88256,"duration":2276128}
+{"cpu_time":2220000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/global-code/decl-lex-restricted-global.js","memory_kb":88500,"duration":2355513}

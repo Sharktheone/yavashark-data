@@ -1,1 +1,1 @@
-{"cpu_time":2208000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at freeze (../../test262/test/built-ins/Object/freeze/15.2.3.9-1-2.js:11:18)\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1-2.js","memory_kb":88516,"duration":2462549}
+{"cpu_time":2244000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at freeze (../../test262/test/built-ins/Object/freeze/15.2.3.9-1-2.js:11:18)\n","path":"../../test262/test/built-ins/Object/freeze/15.2.3.9-1-2.js","memory_kb":88372,"duration":2386383}
