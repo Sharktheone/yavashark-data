@@ -1,1 +1,1 @@
-{"cpu_time":2525000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-sets.js","memory_kb":86440,"duration":2738472}
+{"cpu_time":2448000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/combines-sets.js:15:1\n","path":"../../test262/test/built-ins/Set/prototype/union/combines-sets.js","memory_kb":86312,"duration":2580379}

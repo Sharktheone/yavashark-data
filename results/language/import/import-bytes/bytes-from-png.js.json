@@ -1,1 +1,1 @@
-{"cpu_time":2490000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: stream did not contain valid UTF-8\n","path":"../../test262/test/language/import/import-bytes/bytes-from-png.js","memory_kb":88476,"duration":2876370}
+{"cpu_time":2352000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: stream did not contain valid UTF-8\n","path":"../../test262/test/language/import/import-bytes/bytes-from-png.js","memory_kb":86312,"duration":2459822}

@@ -1,1 +1,1 @@
-{"cpu_time":1828000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1571..1579, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-stmt-global-existing-var-update.js","memory_kb":88464,"duration":2135430}
+{"cpu_time":1814000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1571..1579, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-stmt-global-existing-var-update.js","memory_kb":88344,"duration":2046213}

@@ -1,1 +1,1 @@
-{"cpu_time":2707000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map.js:26:1\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":86308,"duration":3073526}
+{"cpu_time":2675000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map.js:26:1\n","path":"../../test262/test/language/statements/for-of/map.js","memory_kb":86440,"duration":2848237}

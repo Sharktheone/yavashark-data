@@ -1,1 +1,1 @@
-{"cpu_time":2636000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/staging/sm/Symbol/as-base-value.js:50:22)\n","path":"../../test262/test/staging/sm/Symbol/as-base-value.js","memory_kb":86312,"duration":2877200}
+{"cpu_time":2574000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/staging/sm/Symbol/as-base-value.js:50:22)\n","path":"../../test262/test/staging/sm/Symbol/as-base-value.js","memory_kb":86312,"duration":2708918}

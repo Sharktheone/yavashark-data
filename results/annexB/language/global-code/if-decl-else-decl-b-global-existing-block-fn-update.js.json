@@ -1,1 +1,1 @@
-{"cpu_time":1789000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1611..1619, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-decl-b-global-existing-block-fn-update.js","memory_kb":88464,"duration":2099816}
+{"cpu_time":1830000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1611..1619, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-else-decl-b-global-existing-block-fn-update.js","memory_kb":88344,"duration":1940855}
