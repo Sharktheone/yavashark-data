@@ -1,1 +1,1 @@
-{"cpu_time":2360000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/callback-arg.js:25:1\n","path":"../../test262/test/built-ins/Map/groupBy/callback-arg.js","memory_kb":88244,"duration":2479144}
+{"cpu_time":2614000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/callback-arg.js:25:1\n","path":"../../test262/test/built-ins/Map/groupBy/callback-arg.js","memory_kb":86308,"duration":2896308}

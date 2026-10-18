@@ -1,1 +1,1 @@
-{"cpu_time":1709000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1568..1573, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/class/decorator/syntax/valid/decorator-call-expr-identifier-reference.js","memory_kb":90368,"duration":1857406}
+{"cpu_time":1904000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1568..1573, ExpectedIdent) }\n","path":"../../test262/test/language/expressions/class/decorator/syntax/valid/decorator-call-expr-identifier-reference.js","memory_kb":88464,"duration":2155358}

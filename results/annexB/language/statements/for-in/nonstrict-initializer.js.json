@@ -1,1 +1,1 @@
-{"cpu_time":1734000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (336..337, Expected(\";\", \")\")) }\n","path":"../../test262/test/annexB/language/statements/for-in/nonstrict-initializer.js","memory_kb":90368,"duration":1875129}
+{"cpu_time":1691000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (336..337, Expected(\";\", \")\")) }\n","path":"../../test262/test/annexB/language/statements/for-in/nonstrict-initializer.js","memory_kb":88332,"duration":1967430}

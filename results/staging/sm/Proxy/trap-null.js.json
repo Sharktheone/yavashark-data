@@ -1,1 +1,1 @@
-{"cpu_time":2549000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/trap-null.js:52:18)\n","path":"../../test262/test/staging/sm/Proxy/trap-null.js","memory_kb":88244,"duration":2678723}
+{"cpu_time":2577000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at getPrototypeOf (../../test262/test/staging/sm/Proxy/trap-null.js:52:18)\n","path":"../../test262/test/staging/sm/Proxy/trap-null.js","memory_kb":86308,"duration":2846033}

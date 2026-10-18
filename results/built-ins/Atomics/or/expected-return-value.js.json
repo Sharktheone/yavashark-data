@@ -1,1 +1,1 @@
-{"cpu_time":2616000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/or/expected-return-value.js:37:1\n","path":"../../test262/test/built-ins/Atomics/or/expected-return-value.js","memory_kb":86172,"duration":2779111}
+{"cpu_time":2631000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid typed array index\n    at ../../test262/test/built-ins/Atomics/or/expected-return-value.js:37:1\n","path":"../../test262/test/built-ins/Atomics/or/expected-return-value.js","memory_kb":86316,"duration":2942386}

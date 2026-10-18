@@ -1,1 +1,1 @@
-{"cpu_time":2649000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at next (../../test262/test/language/expressions/yield/star-string.js:17:10)\n","path":"../../test262/test/language/expressions/yield/star-string.js","memory_kb":88244,"duration":2827872}
+{"cpu_time":2587000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at next (../../test262/test/language/expressions/yield/star-string.js:17:10)\n","path":"../../test262/test/language/expressions/yield/star-string.js","memory_kb":86308,"duration":2867734}

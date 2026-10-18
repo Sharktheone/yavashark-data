@@ -1,1 +1,1 @@
-{"cpu_time":2214000,"status":"FAIL","msg":"FAIL:\n Strict: RuntimeError: Expected error but got \"5\"\n","path":"../../test262/test/language/identifier-resolution/assign-to-global-undefined.js","memory_kb":88500,"duration":2333402}
+{"cpu_time":2253000,"status":"FAIL","msg":"FAIL:\n Strict: RuntimeError: Expected error but got \"5\"\n","path":"../../test262/test/language/identifier-resolution/assign-to-global-undefined.js","memory_kb":88344,"duration":2510448}

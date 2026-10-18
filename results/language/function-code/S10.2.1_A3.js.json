@@ -1,1 +1,1 @@
-{"cpu_time":2252000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { \"message\": \"#1: f1(1, 2) === undefined\" }\n    at ../../test262/test/language/function-code/S10.2.1_A3.js:22:3\n","path":"../../test262/test/language/function-code/S10.2.1_A3.js","memory_kb":88372,"duration":2391410}
+{"cpu_time":2432000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: #1: f1(1, 2) === undefined }\n    at ../../test262/test/language/function-code/S10.2.1_A3.js:22:3\n","path":"../../test262/test/language/function-code/S10.2.1_A3.js","memory_kb":88476,"duration":2669226}
