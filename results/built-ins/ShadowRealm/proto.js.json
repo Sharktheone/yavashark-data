@@ -1,1 +1,1 @@
-{"cpu_time":2370000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/proto.js:15:1\n","path":"../../test262/test/built-ins/ShadowRealm/proto.js","memory_kb":86312,"duration":2499704}
+{"cpu_time":2272000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: ShadowRealm is not defined\n    at ../../test262/test/built-ins/ShadowRealm/proto.js:15:1\n","path":"../../test262/test/built-ins/ShadowRealm/proto.js","memory_kb":88260,"duration":2529990}

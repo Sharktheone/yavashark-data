@@ -1,1 +1,1 @@
-{"cpu_time":2656000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: g2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-gen.js:46:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-gen.js","memory_kb":86440,"duration":2794643}
+{"cpu_time":2328000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: g2 is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-gen.js:46:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-gen.js","memory_kb":88260,"duration":3179987}

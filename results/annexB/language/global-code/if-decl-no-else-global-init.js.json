@@ -1,1 +1,1 @@
-{"cpu_time":2158000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1388..1396, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-no-else-global-init.js","memory_kb":88344,"duration":2324723}
+{"cpu_time":1754000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1388..1396, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/global-code/if-decl-no-else-global-init.js","memory_kb":88384,"duration":2018153}

@@ -1,1 +1,1 @@
-{"cpu_time":3965000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/Reflect/argumentsList.js:34:5\n","path":"../../test262/test/staging/sm/Reflect/argumentsList.js","memory_kb":84012,"duration":6342638}
+{"cpu_time":3813000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/Reflect/argumentsList.js:34:5\n","path":"../../test262/test/staging/sm/Reflect/argumentsList.js","memory_kb":84076,"duration":4054718}
