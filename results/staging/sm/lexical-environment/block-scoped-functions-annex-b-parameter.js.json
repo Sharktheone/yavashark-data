@@ -1,1 +1,1 @@
-{"cpu_time":1944000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (329..337, DeclNotAllowed) }\n","path":"../../test262/test/staging/sm/lexical-environment/block-scoped-functions-annex-b-parameter.js","memory_kb":88384,"duration":2159400}
+{"cpu_time":1595000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (329..337, DeclNotAllowed) }\n","path":"../../test262/test/staging/sm/lexical-environment/block-scoped-functions-annex-b-parameter.js","memory_kb":86212,"duration":1700080}
