@@ -1,1 +1,1 @@
-{"cpu_time":2054000,"status":"FAIL","msg":"FAIL:\n Strict: RuntimeError: Not implemented\n    at call (../../test262/test/staging/sm/object/toLocaleString-01.js:19:32)\n","path":"../../test262/test/staging/sm/object/toLocaleString-01.js","memory_kb":85700,"duration":2150339}
+{"cpu_time":2038000,"status":"FAIL","msg":"FAIL:\n Strict: RuntimeError: Not implemented\n    at call (../../test262/test/staging/sm/object/toLocaleString-01.js:19:32)\n","path":"../../test262/test/staging/sm/object/toLocaleString-01.js","memory_kb":85452,"duration":2118340}

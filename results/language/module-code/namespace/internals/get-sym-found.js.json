@@ -1,1 +1,1 @@
-{"cpu_time":2040000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-sym-found.js","memory_kb":85828,"duration":2169637}
+{"cpu_time":1972000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-sym-found.js","memory_kb":85580,"duration":2061363}

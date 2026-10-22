@@ -1,1 +1,1 @@
-{"cpu_time":2162000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-props-dflt-keep-local.js","memory_kb":85828,"duration":2261984}
+{"cpu_time":1996000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-props-dflt-keep-local.js","memory_kb":85452,"duration":2083137}

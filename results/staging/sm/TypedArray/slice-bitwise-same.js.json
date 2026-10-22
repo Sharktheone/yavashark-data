@@ -1,1 +1,1 @@
-{"cpu_time":4072000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/slice-bitwise-same.js:77:9\n","path":"../../test262/test/staging/sm/TypedArray/slice-bitwise-same.js","memory_kb":80768,"duration":6043334}
+{"cpu_time":4641000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/slice-bitwise-same.js:77:9\n","path":"../../test262/test/staging/sm/TypedArray/slice-bitwise-same.js","memory_kb":81664,"duration":5161467}
