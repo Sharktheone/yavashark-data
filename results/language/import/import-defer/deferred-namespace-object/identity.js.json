@@ -1,1 +1,1 @@
-{"cpu_time":2042000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/identity.js","memory_kb":84812,"duration":2132832}
+{"cpu_time":2581000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/identity.js","memory_kb":85100,"duration":2746327}

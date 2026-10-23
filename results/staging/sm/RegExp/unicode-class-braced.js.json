@@ -1,1 +1,1 @@
-{"cpu_time":1491000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (2907..2915, BadCharacterEscapeSequence { expected: \"4 hex characters\" }) }\n","path":"../../test262/test/staging/sm/RegExp/unicode-class-braced.js","memory_kb":87116,"duration":1574808}
+{"cpu_time":1868000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (2907..2915, BadCharacterEscapeSequence { expected: \"4 hex characters\" }) }\n","path":"../../test262/test/staging/sm/RegExp/unicode-class-braced.js","memory_kb":86120,"duration":1982962}
