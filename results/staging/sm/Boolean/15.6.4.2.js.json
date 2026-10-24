@@ -1,1 +1,1 @@
-{"cpu_time":3036000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected an object, found Boolean(true)\n    at call (../../test262/test/staging/sm/Boolean/15.6.4.2.js:20:18)\n","path":"../../test262/test/staging/sm/Boolean/15.6.4.2.js","memory_kb":84848,"duration":3178505}
+{"cpu_time":2479000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected an object, found Boolean(true)\n    at call (../../test262/test/staging/sm/Boolean/15.6.4.2.js:20:18)\n","path":"../../test262/test/staging/sm/Boolean/15.6.4.2.js","memory_kb":83616,"duration":2631151}

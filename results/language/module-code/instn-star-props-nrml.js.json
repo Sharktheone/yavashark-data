@@ -1,1 +1,1 @@
-{"cpu_time":2709000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-props-nrml.js","memory_kb":85100,"duration":2829002}
+{"cpu_time":2172000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-props-nrml.js","memory_kb":84380,"duration":2321835}

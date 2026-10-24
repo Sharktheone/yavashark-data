@@ -1,1 +1,1 @@
-{"cpu_time":6248000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: TypedArray detached\n    at ../../test262/harness/sm/non262-TypedArray-shell.js:37:21\n","path":"../../test262/test/staging/sm/TypedArray/has-property-op.js","memory_kb":80640,"duration":6671198}
+{"cpu_time":5319000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: TypedArray detached\n    at ../../test262/harness/sm/non262-TypedArray-shell.js:37:21\n","path":"../../test262/test/staging/sm/TypedArray/has-property-op.js","memory_kb":76612,"duration":5634531}
