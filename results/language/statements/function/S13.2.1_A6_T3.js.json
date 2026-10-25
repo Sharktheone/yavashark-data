@@ -1,1 +1,1 @@
-{"cpu_time":2012000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/language/statements/function/S13.2.1_A6_T3.js:22:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A6_T3.js","memory_kb":84892,"duration":2095475}
+{"cpu_time":2020000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/language/statements/function/S13.2.1_A6_T3.js:22:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A6_T3.js","memory_kb":86352,"duration":2134215}

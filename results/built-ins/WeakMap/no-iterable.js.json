@@ -1,1 +1,1 @@
-{"cpu_time":2220000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakMap/no-iterable.js:20:1\n","path":"../../test262/test/built-ins/WeakMap/no-iterable.js","memory_kb":84508,"duration":2357920}
+{"cpu_time":2040000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakMap/no-iterable.js:20:1\n","path":"../../test262/test/built-ins/WeakMap/no-iterable.js","memory_kb":85456,"duration":2129837}
