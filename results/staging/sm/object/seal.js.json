@@ -1,1 +1,1 @@
-{"cpu_time":2042000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at seal (../../test262/test/staging/sm/object/seal.js:14:18)\n","path":"../../test262/test/staging/sm/object/seal.js","memory_kb":86608,"duration":2157681}
+{"cpu_time":2513000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at seal (../../test262/test/staging/sm/object/seal.js:14:18)\n","path":"../../test262/test/staging/sm/object/seal.js","memory_kb":85608,"duration":2643063}

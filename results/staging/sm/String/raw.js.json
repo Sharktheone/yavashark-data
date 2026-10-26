@@ -1,1 +1,1 @@
-{"cpu_time":2228000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: length does not exist on object\n    at raw (../../test262/test/staging/sm/String/raw.js:19:18)\n","path":"../../test262/test/staging/sm/String/raw.js","memory_kb":85076,"duration":2330480}
+{"cpu_time":2878000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: length does not exist on object\n    at raw (../../test262/test/staging/sm/String/raw.js:19:18)\n","path":"../../test262/test/staging/sm/String/raw.js","memory_kb":84968,"duration":3006728}

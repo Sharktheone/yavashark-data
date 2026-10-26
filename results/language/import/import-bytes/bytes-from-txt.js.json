@@ -1,1 +1,1 @@
-{"cpu_time":2063000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (6..11, ExpectedSemiForExprStmt { expr: 0..5 }) }\n","path":"../../test262/test/language/import/import-bytes/bytes-from-txt.js","memory_kb":85456,"duration":2163493}
+{"cpu_time":2499000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (6..11, ExpectedSemiForExprStmt { expr: 0..5 }) }\n","path":"../../test262/test/language/import/import-bytes/bytes-from-txt.js","memory_kb":85480,"duration":2665453}

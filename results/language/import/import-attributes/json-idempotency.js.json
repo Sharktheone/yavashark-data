@@ -1,1 +1,1 @@
-{"cpu_time":2106000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-idempotency.js","memory_kb":85968,"duration":2236959}
+{"cpu_time":2604000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-idempotency.js","memory_kb":85480,"duration":2742445}

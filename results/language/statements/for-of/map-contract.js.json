@@ -1,1 +1,1 @@
-{"cpu_time":2064000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map-contract.js:17:1\n","path":"../../test262/test/language/statements/for-of/map-contract.js","memory_kb":86352,"duration":2177049}
+{"cpu_time":4730000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/map-contract.js:17:1\n","path":"../../test262/test/language/statements/for-of/map-contract.js","memory_kb":85608,"duration":4871557}
