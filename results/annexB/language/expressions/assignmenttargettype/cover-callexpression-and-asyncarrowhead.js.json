@@ -1,1 +1,1 @@
-{"cpu_time":1845000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (730..737, InvalidAssignTarget) }\n","path":"../../test262/test/annexB/language/expressions/assignmenttargettype/cover-callexpression-and-asyncarrowhead.js","memory_kb":86984,"duration":1962596}
+{"cpu_time":1435000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (730..737, InvalidAssignTarget) }\n","path":"../../test262/test/annexB/language/expressions/assignmenttargettype/cover-callexpression-and-asyncarrowhead.js","memory_kb":85480,"duration":1500796}
