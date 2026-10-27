@@ -1,1 +1,1 @@
-{"cpu_time":2049000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at from (../../test262/test/staging/sm/Array/from_primitive.js:22:22)\n","path":"../../test262/test/staging/sm/Array/from_primitive.js","memory_kb":83688,"duration":2152730}
+{"cpu_time":2898000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at from (../../test262/test/staging/sm/Array/from_primitive.js:22:22)\n","path":"../../test262/test/staging/sm/Array/from_primitive.js","memory_kb":84912,"duration":3059126}

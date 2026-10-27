@@ -1,1 +1,1 @@
-{"cpu_time":1914000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-expname-from-string-binding.js","memory_kb":85096,"duration":2007394}
+{"cpu_time":2496000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-expname-from-string-binding.js","memory_kb":85552,"duration":2661380}

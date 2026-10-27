@@ -1,1 +1,1 @@
-{"cpu_time":5525000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: TypedArray is out of bounds\n    at fill (../../test262/test/staging/sm/TypedArray/fill.js:26:22)\n","path":"../../test262/test/staging/sm/TypedArray/fill.js","memory_kb":78092,"duration":5876136}
+{"cpu_time":8709000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: TypedArray is out of bounds\n    at fill (../../test262/test/staging/sm/TypedArray/fill.js:26:22)\n","path":"../../test262/test/staging/sm/TypedArray/fill.js","memory_kb":78912,"duration":9052486}
