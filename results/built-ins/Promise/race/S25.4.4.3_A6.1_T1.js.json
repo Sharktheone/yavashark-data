@@ -1,1 +1,1 @@
-{"cpu_time":3090000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at race (../../test262/test/built-ins/Promise/race/S25.4.4.3_A6.1_T1.js:14:9)\n","path":"../../test262/test/built-ins/Promise/race/S25.4.4.3_A6.1_T1.js","memory_kb":84468,"duration":3295285}
+{"cpu_time":2803000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at race (../../test262/test/built-ins/Promise/race/S25.4.4.3_A6.1_T1.js:14:9)\n","path":"../../test262/test/built-ins/Promise/race/S25.4.4.3_A6.1_T1.js","memory_kb":83668,"duration":2935313}

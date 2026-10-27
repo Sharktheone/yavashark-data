@@ -1,1 +1,1 @@
-{"cpu_time":2487000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/has-property-str-not-found.js","memory_kb":85608,"duration":2601942}
+{"cpu_time":2455000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/has-property-str-not-found.js","memory_kb":86472,"duration":2585309}

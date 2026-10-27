@@ -1,1 +1,1 @@
-{"cpu_time":2826000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at call (../../test262/test/staging/sm/Array/toLocaleString-01.js:16:18)\n","path":"../../test262/test/staging/sm/Array/toLocaleString-01.js","memory_kb":85480,"duration":2997544}
+{"cpu_time":2613000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at call (../../test262/test/staging/sm/Array/toLocaleString-01.js:16:18)\n","path":"../../test262/test/staging/sm/Array/toLocaleString-01.js","memory_kb":85832,"duration":2741552}

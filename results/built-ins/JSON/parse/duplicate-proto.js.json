@@ -1,1 +1,1 @@
-{"cpu_time":2604000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15:14)\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":85480,"duration":2727076}
+{"cpu_time":2548000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object or null\n    at parse (../../test262/test/built-ins/JSON/parse/duplicate-proto.js:15:14)\n","path":"../../test262/test/built-ins/JSON/parse/duplicate-proto.js","memory_kb":86088,"duration":2733688}

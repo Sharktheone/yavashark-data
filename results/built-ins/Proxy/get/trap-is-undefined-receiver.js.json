@@ -1,1 +1,1 @@
-{"cpu_time":2805000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/built-ins/Proxy/get/trap-is-undefined-receiver.js:24:1\n","path":"../../test262/test/built-ins/Proxy/get/trap-is-undefined-receiver.js","memory_kb":85480,"duration":2932509}
+{"cpu_time":2646000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/built-ins/Proxy/get/trap-is-undefined-receiver.js:24:1\n","path":"../../test262/test/built-ins/Proxy/get/trap-is-undefined-receiver.js","memory_kb":85832,"duration":2793159}

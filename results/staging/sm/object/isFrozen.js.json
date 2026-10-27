@@ -1,1 +1,1 @@
-{"cpu_time":2524000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/isFrozen.js:14:18)\n","path":"../../test262/test/staging/sm/object/isFrozen.js","memory_kb":85608,"duration":2645173}
+{"cpu_time":2512000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at isFrozen (../../test262/test/staging/sm/object/isFrozen.js:14:18)\n","path":"../../test262/test/staging/sm/object/isFrozen.js","memory_kb":86472,"duration":2674408}

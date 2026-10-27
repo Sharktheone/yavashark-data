@@ -1,1 +1,1 @@
-{"cpu_time":2506000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/parse-export-empty.js","memory_kb":85480,"duration":2649983}
+{"cpu_time":2408000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/parse-export-empty.js","memory_kb":85960,"duration":2772105}

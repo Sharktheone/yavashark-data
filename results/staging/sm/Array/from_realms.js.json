@@ -1,1 +1,1 @@
-{"cpu_time":2835000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'globalName' of undefined\n    at ../../test262/test/staging/sm/Array/from_realms.js:41:1\n","path":"../../test262/test/staging/sm/Array/from_realms.js","memory_kb":84968,"duration":2946455}
+{"cpu_time":2811000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'globalName' of undefined\n    at ../../test262/test/staging/sm/Array/from_realms.js:41:1\n","path":"../../test262/test/staging/sm/Array/from_realms.js","memory_kb":84812,"duration":2953692}
