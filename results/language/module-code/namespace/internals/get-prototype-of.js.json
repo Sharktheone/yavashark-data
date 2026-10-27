@@ -1,1 +1,1 @@
-{"cpu_time":2482000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-prototype-of.js","memory_kb":86064,"duration":2633906}
+{"cpu_time":2476000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-prototype-of.js","memory_kb":85984,"duration":2587163}

@@ -1,1 +1,1 @@
-{"cpu_time":2603000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakSet/get-add-method-failure.js:26:1\n","path":"../../test262/test/built-ins/WeakSet/get-add-method-failure.js","memory_kb":85424,"duration":2740146}
+{"cpu_time":2665000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakSet/get-add-method-failure.js:26:1\n","path":"../../test262/test/built-ins/WeakSet/get-add-method-failure.js","memory_kb":85472,"duration":2814696}

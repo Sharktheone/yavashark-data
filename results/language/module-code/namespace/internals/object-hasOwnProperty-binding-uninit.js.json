@@ -1,1 +1,1 @@
-{"cpu_time":2666000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-hasOwnProperty-binding-uninit.js","memory_kb":86064,"duration":2791264}
+{"cpu_time":2551000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/object-hasOwnProperty-binding-uninit.js","memory_kb":85984,"duration":2696128}

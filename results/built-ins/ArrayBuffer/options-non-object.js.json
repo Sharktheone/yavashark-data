@@ -1,1 +1,1 @@
-{"cpu_time":2677000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21:1\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":85424,"duration":2842638}
+{"cpu_time":2644000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at ../../test262/test/built-ins/ArrayBuffer/options-non-object.js:21:1\n","path":"../../test262/test/built-ins/ArrayBuffer/options-non-object.js","memory_kb":85472,"duration":2809887}
