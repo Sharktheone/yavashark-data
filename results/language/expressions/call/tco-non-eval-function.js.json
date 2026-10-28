@@ -1,1 +1,1 @@
-{"cpu_time":33369000,"status":"CRASH","msg":"\nthread 'main' (6884) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/call/tco-non-eval-function.js","memory_kb":71424,"duration":1293310088}
+{"cpu_time":25867000,"status":"CRASH","msg":"\nthread 'main' (6627) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/expressions/call/tco-non-eval-function.js","memory_kb":72576,"duration":1000827973}

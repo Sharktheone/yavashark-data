@@ -1,1 +1,1 @@
-{"cpu_time":2970000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-once.js","memory_kb":85984,"duration":3075931}
+{"cpu_time":2078000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-once.js","memory_kb":85588,"duration":2189687}
