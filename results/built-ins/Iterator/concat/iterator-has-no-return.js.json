@@ -1,0 +1,1 @@
+{"cpu_time":2639000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not a function\n    at return (../../test262/test/built-ins/Iterator/concat/iterator-has-no-return.js:51:30)\n","path":"../../test262/test/built-ins/Iterator/concat/iterator-has-no-return.js","memory_kb":87392,"duration":2773047}

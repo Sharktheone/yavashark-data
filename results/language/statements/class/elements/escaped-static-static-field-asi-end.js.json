@@ -1,0 +1,1 @@
+{"cpu_time":1811000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (481..492, Unexpected { got: \"\u003clexing error\u003e\", expected: \"identifier, string literal, numeric literal or [ for the computed key\" }) }\n","path":"../../test262/test/language/statements/class/elements/escaped-static-static-field-asi-end.js","memory_kb":87392,"duration":1919315}

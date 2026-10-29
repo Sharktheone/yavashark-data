@@ -1,1 +1,1 @@
-{"cpu_time":2055000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/S13.2.1_A7_T3.js:50:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T3.js","memory_kb":85332,"duration":2186613}
+{"cpu_time":3010000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: x is not defined\n    at ../../test262/test/language/statements/function/S13.2.1_A7_T3.js:50:1\n","path":"../../test262/test/language/statements/function/S13.2.1_A7_T3.js","memory_kb":85732,"duration":3189020}
