@@ -1,1 +1,1 @@
-{"cpu_time":1912000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nVariable conflicts with lexical binding: a\n","path":"../../test262/test/language/statements/let/syntax/escaped-let.js","memory_kb":87396,"duration":2028110}
+{"cpu_time":1508000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nVariable conflicts with lexical binding: a\n","path":"../../test262/test/language/statements/let/syntax/escaped-let.js","memory_kb":87416,"duration":1627442}

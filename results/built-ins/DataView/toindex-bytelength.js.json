@@ -1,1 +1,1 @@
-{"cpu_time":2878000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Expected non-negative number\n    at ../../test262/test/built-ins/DataView/toindex-bytelength.js:47:1\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength.js","memory_kb":85732,"duration":3028099}
+{"cpu_time":2129000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Expected non-negative number\n    at ../../test262/test/built-ins/DataView/toindex-bytelength.js:47:1\n","path":"../../test262/test/built-ins/DataView/toindex-bytelength.js","memory_kb":84740,"duration":2236138}

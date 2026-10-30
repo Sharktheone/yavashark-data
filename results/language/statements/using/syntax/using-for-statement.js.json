@@ -1,1 +1,1 @@
-{"cpu_time":1799000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (319..320, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-for-statement.js","memory_kb":87264,"duration":1934764}
+{"cpu_time":1511000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (319..320, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-for-statement.js","memory_kb":87540,"duration":1626269}

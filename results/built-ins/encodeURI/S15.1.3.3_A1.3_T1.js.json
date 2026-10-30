@@ -1,1 +1,1 @@
-{"cpu_time":29031000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: #D800-DBFF  }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":87264,"duration":29191093}
+{"cpu_time":23237000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: #D800-DBFF  }\n    at ../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js:58:5\n","path":"../../test262/test/built-ins/encodeURI/S15.1.3.3_A1.3_T1.js","memory_kb":87540,"duration":23352049}

@@ -1,1 +1,1 @@
-{"cpu_time":2419000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-initialize.js","memory_kb":86756,"duration":2575423}
+{"cpu_time":2018000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-initialize.js","memory_kb":85892,"duration":2126473}
