@@ -1,1 +1,1 @@
-{"cpu_time":1990000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-star-equality.js","memory_kb":85892,"duration":2100749}
+{"cpu_time":2471000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-star-equality.js","memory_kb":85740,"duration":2600784}

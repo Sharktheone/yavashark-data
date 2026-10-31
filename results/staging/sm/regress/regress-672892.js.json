@@ -1,1 +1,1 @@
-{"cpu_time":1980000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/regress/regress-672892.js:13:1\n","path":"../../test262/test/staging/sm/regress/regress-672892.js","memory_kb":85888,"duration":2094534}
+{"cpu_time":2442000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/regress/regress-672892.js:13:1\n","path":"../../test262/test/staging/sm/regress/regress-672892.js","memory_kb":85740,"duration":2571469}

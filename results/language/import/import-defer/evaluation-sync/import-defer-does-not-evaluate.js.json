@@ -1,1 +1,1 @@
-{"cpu_time":2196000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/import-defer-does-not-evaluate.js","memory_kb":84356,"duration":2310771}
+{"cpu_time":2715000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/evaluation-sync/import-defer-does-not-evaluate.js","memory_kb":84844,"duration":2844657}

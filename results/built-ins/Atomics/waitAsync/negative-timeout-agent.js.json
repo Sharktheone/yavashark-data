@@ -1,1 +1,1 @@
-{"cpu_time":2179000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29:3\n","path":"../../test262/test/built-ins/Atomics/waitAsync/negative-timeout-agent.js","memory_kb":84356,"duration":2276219}
+{"cpu_time":2832000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'getReport' of undefined\n    at ../../test262/harness/atomicsHelper.js:29:3\n","path":"../../test262/test/built-ins/Atomics/waitAsync/negative-timeout-agent.js","memory_kb":84716,"duration":2972995}

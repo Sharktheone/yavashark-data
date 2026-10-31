@@ -1,1 +1,1 @@
-{"cpu_time":2109000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/member-expression-async-literal.js","memory_kb":84740,"duration":2219794}
+{"cpu_time":2847000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/member-expression-async-literal.js","memory_kb":84716,"duration":3022100}

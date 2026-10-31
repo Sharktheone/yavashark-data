@@ -1,1 +1,1 @@
-{"cpu_time":2346000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/thisarg-primitive-strict.js","memory_kb":83492,"duration":2459566}
+{"cpu_time":2934000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/thisarg-primitive-strict.js","memory_kb":83440,"duration":3086210}

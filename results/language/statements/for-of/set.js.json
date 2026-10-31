@@ -1,1 +1,1 @@
-{"cpu_time":2039000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set.js:33:1\n","path":"../../test262/test/language/statements/for-of/set.js","memory_kb":84868,"duration":2173694}
+{"cpu_time":2726000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set.js:33:1\n","path":"../../test262/test/language/statements/for-of/set.js","memory_kb":85100,"duration":2920668}

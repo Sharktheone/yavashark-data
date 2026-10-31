@@ -1,1 +1,1 @@
-{"cpu_time":1483000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (564..565, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-outer-inner-using-bindings.js","memory_kb":87412,"duration":1593921}
+{"cpu_time":1927000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (564..565, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-outer-inner-using-bindings.js","memory_kb":87272,"duration":2069572}
