@@ -1,1 +1,1 @@
-{"cpu_time":2501000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-value-number.js","memory_kb":86100,"duration":2661094}
+{"cpu_time":2653000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-value-number.js","memory_kb":86184,"duration":2809455}

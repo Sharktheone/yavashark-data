@@ -1,1 +1,1 @@
-{"cpu_time":2800000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/optional-chain-async-optional-chain-square-brackets.js","memory_kb":85080,"duration":2968173}
+{"cpu_time":2943000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/optional-chain-async-optional-chain-square-brackets.js","memory_kb":85804,"duration":3085037}

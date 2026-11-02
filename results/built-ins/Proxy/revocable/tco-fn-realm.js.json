@@ -1,1 +1,1 @@
-{"cpu_time":2668000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Proxy/revocable/tco-fn-realm.js","memory_kb":85076,"duration":2833112}
+{"cpu_time":3712000,"status":"FAIL","msg":"FAIL:\n Strict: Uncaught: { message: Expected a TypeError but got a different error constructor with the same name }\n    at ../../test262/harness/assert.js:138:7\n    at ../../test262/test/built-ins/Proxy/revocable/tco-fn-realm.js:23:15\n","path":"../../test262/test/built-ins/Proxy/revocable/tco-fn-realm.js","memory_kb":85804,"duration":3858042}

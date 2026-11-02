@@ -1,1 +1,1 @@
-{"cpu_time":3684000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/staging/sm/TypedArray/iterator.js","memory_kb":81904,"duration":3800113}
+{"cpu_time":4245000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected an object of type \"yavashark_env::object::Object\", found \"yavashark_env::object::array::Array\"\n    at [Symbol.iterator] (../../test262/test/staging/sm/TypedArray/iterator.js:46:17)\n","path":"../../test262/test/staging/sm/TypedArray/iterator.js","memory_kb":82124,"duration":4408616}

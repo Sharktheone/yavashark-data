@@ -1,1 +1,1 @@
-{"cpu_time":4903000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: TypedArray detached\n    at ../../test262/test/built-ins/TypedArray/out-of-bounds-get-and-set.js:36:5\n","path":"../../test262/test/built-ins/TypedArray/out-of-bounds-get-and-set.js","memory_kb":82032,"duration":5137353}
+{"cpu_time":3489000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: TypedArray detached\n    at ../../test262/test/built-ins/TypedArray/out-of-bounds-get-and-set.js:36:5\n","path":"../../test262/test/built-ins/TypedArray/out-of-bounds-get-and-set.js","memory_kb":82124,"duration":3627153}

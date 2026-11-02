@@ -1,1 +1,1 @@
-{"cpu_time":2767000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: trap getOwnPropertyDescriptor did not throw an error }\n    at assertTrapThrows (../../test262/test/harness/proxytrapshelper-default.js:23:9)\n    at ../../test262/test/harness/proxytrapshelper-default.js:31:1\n","path":"../../test262/test/harness/proxytrapshelper-default.js","memory_kb":84192,"duration":2889558}
+{"cpu_time":3649000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/harness/proxytrapshelper-default.js","memory_kb":84788,"duration":3783572}
