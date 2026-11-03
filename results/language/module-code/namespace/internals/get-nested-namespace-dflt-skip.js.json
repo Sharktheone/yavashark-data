@@ -1,1 +1,1 @@
-{"cpu_time":2679000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/get-nested-namespace-dflt-skip.js","memory_kb":85804,"duration":2816956}
+{"cpu_time":2052000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/get-nested-namespace-dflt-skip.js","memory_kb":85456,"duration":2165348}

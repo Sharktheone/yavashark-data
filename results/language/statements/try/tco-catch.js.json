@@ -1,1 +1,1 @@
-{"cpu_time":34239000,"status":"CRASH","msg":"\nthread 'main' (6753) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/try/tco-catch.js","memory_kb":75132,"duration":1485966228}
+{"cpu_time":27049000,"status":"CRASH","msg":"\nthread 'main' (6550) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/language/statements/try/tco-catch.js","memory_kb":74880,"duration":1143969247}

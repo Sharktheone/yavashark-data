@@ -1,1 +1,1 @@
-{"cpu_time":3738000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/staging/sm/Proxy/regress-bug1062349.js:31:1\n","path":"../../test262/test/staging/sm/Proxy/regress-bug1062349.js","memory_kb":82012,"duration":3894642}
+{"cpu_time":3839000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/staging/sm/Proxy/regress-bug1062349.js:31:1\n","path":"../../test262/test/staging/sm/Proxy/regress-bug1062349.js","memory_kb":82048,"duration":4620448}
