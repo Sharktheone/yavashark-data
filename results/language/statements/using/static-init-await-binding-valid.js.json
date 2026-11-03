@@ -1,1 +1,1 @@
-{"cpu_time":1394000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (550..555, ExpectedSemiForExprStmt { expr: 544..549 }) }\n","path":"../../test262/test/language/statements/using/static-init-await-binding-valid.js","memory_kb":86864,"duration":1483167}
+{"cpu_time":1812000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (550..555, ExpectedSemiForExprStmt { expr: 544..549 }) }\n","path":"../../test262/test/language/statements/using/static-init-await-binding-valid.js","memory_kb":86752,"duration":1961084}
