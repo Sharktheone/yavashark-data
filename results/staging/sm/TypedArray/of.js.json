@@ -1,1 +1,1 @@
-{"cpu_time":9498000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid TypedArray constructor\n    at call (../../test262/test/staging/sm/TypedArray/of.js:35:22)\n","path":"../../test262/test/staging/sm/TypedArray/of.js","memory_kb":81024,"duration":10422237}
+{"cpu_time":9149000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid TypedArray constructor\n    at call (../../test262/test/staging/sm/TypedArray/of.js:35:22)\n","path":"../../test262/test/staging/sm/TypedArray/of.js","memory_kb":79552,"duration":9766093}

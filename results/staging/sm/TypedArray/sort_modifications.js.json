@@ -1,1 +1,1 @@
-{"cpu_time":3901000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/sort_modifications.js:51:7\n","path":"../../test262/test/staging/sm/TypedArray/sort_modifications.js","memory_kb":81536,"duration":4022440}
+{"cpu_time":4261000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Failed to convert to value\n    at ../../test262/test/staging/sm/TypedArray/sort_modifications.js:51:7\n","path":"../../test262/test/staging/sm/TypedArray/sort_modifications.js","memory_kb":81344,"duration":4385446}

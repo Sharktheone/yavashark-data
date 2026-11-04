@@ -1,1 +1,1 @@
-{"cpu_time":2529000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: test262 is not defined\n    at ../../test262/test/language/module-code/instn-local-bndng-var.js:25:1\n","path":"../../test262/test/language/module-code/instn-local-bndng-var.js","memory_kb":84196,"duration":2643603}
+{"cpu_time":3076000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: test262 is not defined\n    at ../../test262/test/language/module-code/instn-local-bndng-var.js:25:1\n","path":"../../test262/test/language/module-code/instn-local-bndng-var.js","memory_kb":84500,"duration":3346571}
