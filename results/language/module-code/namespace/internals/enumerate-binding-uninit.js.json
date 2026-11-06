@@ -1,1 +1,1 @@
-{"cpu_time":2824000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/enumerate-binding-uninit.js","memory_kb":85520,"duration":2977934}
+{"cpu_time":2010000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/enumerate-binding-uninit.js","memory_kb":86348,"duration":2103806}
