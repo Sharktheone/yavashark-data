@@ -1,1 +1,1 @@
-{"cpu_time":1935000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/prevent-extensions.js","memory_kb":86344,"duration":2031500}
+{"cpu_time":2434000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/prevent-extensions.js","memory_kb":86228,"duration":2559526}

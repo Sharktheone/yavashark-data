@@ -1,1 +1,1 @@
-{"cpu_time":2052000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/language/statements/for-of/dstr/obj-rest-number.js:32:1\n","path":"../../test262/test/language/statements/for-of/dstr/obj-rest-number.js","memory_kb":86092,"duration":2150221}
+{"cpu_time":3322000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/language/statements/for-of/dstr/obj-rest-number.js:32:1\n","path":"../../test262/test/language/statements/for-of/dstr/obj-rest-number.js","memory_kb":85204,"duration":8169448}
