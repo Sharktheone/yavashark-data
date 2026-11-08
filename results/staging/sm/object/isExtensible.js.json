@@ -1,1 +1,1 @@
-{"cpu_time":2552000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/staging/sm/object/isExtensible.js:14:18)\n","path":"../../test262/test/staging/sm/object/isExtensible.js","memory_kb":85844,"duration":2699897}
+{"cpu_time":3280000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Undefined\n    at isExtensible (../../test262/test/staging/sm/object/isExtensible.js:14:18)\n","path":"../../test262/test/staging/sm/object/isExtensible.js","memory_kb":85424,"duration":3437109}

@@ -1,1 +1,1 @@
-{"cpu_time":2862000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/reexport-deferred-ns-evaluation.js","memory_kb":84692,"duration":3011259}
+{"cpu_time":2782000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/reexport-deferred-ns-evaluation.js","memory_kb":84784,"duration":2934360}

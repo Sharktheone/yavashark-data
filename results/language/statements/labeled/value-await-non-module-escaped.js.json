@@ -1,1 +1,1 @@
-{"cpu_time":1810000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Strict\nError { error: (500..510, EscapeInReservedWord { word: \"await\" }) }\n","path":"../../test262/test/language/statements/labeled/value-await-non-module-escaped.js","memory_kb":86868,"duration":1926214}
+{"cpu_time":2145000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Strict\nError { error: (500..510, EscapeInReservedWord { word: \"await\" }) }\n","path":"../../test262/test/language/statements/labeled/value-await-non-module-escaped.js","memory_kb":86948,"duration":2464230}

@@ -1,1 +1,1 @@
-{"cpu_time":2196000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (545..546, Expected(\"(\", \"=\")) }\n","path":"../../test262/test/language/expressions/class/elements/escaped-get-field-asi-before-computed-field.js","memory_kb":87252,"duration":2365792}
+{"cpu_time":2008000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (545..546, Expected(\"(\", \"=\")) }\n","path":"../../test262/test/language/expressions/class/elements/escaped-get-field-asi-before-computed-field.js","memory_kb":86948,"duration":2145252}
