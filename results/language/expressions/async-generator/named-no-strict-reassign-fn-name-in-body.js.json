@@ -1,1 +1,1 @@
-{"cpu_time":2953000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Assignment to constant variable\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-no-strict-reassign-fn-name-in-body.js","memory_kb":83640,"duration":3106162}
+{"cpu_time":2848000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Assignment to constant variable\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-generator/named-no-strict-reassign-fn-name-in-body.js","memory_kb":83588,"duration":2990529}

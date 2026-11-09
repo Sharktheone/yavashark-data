@@ -1,1 +1,1 @@
-{"cpu_time":3574000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/iteration-statement-for-await-of.js","memory_kb":84528,"duration":6109469}
+{"cpu_time":2664000,"status":"FAIL","msg":"FAIL:\n Sloppy: SyntaxError: Failed to compile: Unsupported expression\n","path":"../../test262/test/language/expressions/optional-chaining/iteration-statement-for-await-of.js","memory_kb":84988,"duration":2814269}

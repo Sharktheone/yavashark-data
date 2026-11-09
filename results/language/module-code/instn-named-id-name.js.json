@@ -1,1 +1,1 @@
-{"cpu_time":3364000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-named-id-name.js","memory_kb":85424,"duration":3542836}
+{"cpu_time":2439000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-named-id-name.js","memory_kb":86520,"duration":2557911}

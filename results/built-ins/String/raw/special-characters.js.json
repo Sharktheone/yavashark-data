@@ -1,1 +1,1 @@
-{"cpu_time":2654000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/special-characters.js:11:3)\n","path":"../../test262/test/built-ins/String/raw/special-characters.js","memory_kb":85168,"duration":2828299}
+{"cpu_time":2512000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at raw (../../test262/test/built-ins/String/raw/special-characters.js:11:3)\n","path":"../../test262/test/built-ins/String/raw/special-characters.js","memory_kb":85624,"duration":2661982}

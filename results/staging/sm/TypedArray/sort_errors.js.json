@@ -1,1 +1,1 @@
-{"cpu_time":3054000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: ArrayBuffer is detached\n    at sort (../../test262/test/staging/sm/TypedArray/sort_errors.js:23:5)\n","path":"../../test262/test/staging/sm/TypedArray/sort_errors.js","memory_kb":84400,"duration":3198935}
+{"cpu_time":2818000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: ArrayBuffer is detached\n    at sort (../../test262/test/staging/sm/TypedArray/sort_errors.js:23:5)\n","path":"../../test262/test/staging/sm/TypedArray/sort_errors.js","memory_kb":84604,"duration":2976546}
