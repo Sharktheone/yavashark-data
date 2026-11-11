@@ -1,1 +1,1 @@
-{"cpu_time":2761000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakMap/get-set-method-failure.js:26:1\n","path":"../../test262/test/built-ins/WeakMap/get-set-method-failure.js","memory_kb":85624,"duration":2886654}
+{"cpu_time":2538000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/WeakMap/get-set-method-failure.js:26:1\n","path":"../../test262/test/built-ins/WeakMap/get-set-method-failure.js","memory_kb":84888,"duration":2695381}

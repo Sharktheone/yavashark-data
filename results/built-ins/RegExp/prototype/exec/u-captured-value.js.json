@@ -1,1 +1,1 @@
-{"cpu_time":2749000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: Expected SameValue(«\"ð\"», «\"�\"») to be true }\n    at ../../test262/harness/assert.js:92:3\n    at ../../test262/test/built-ins/RegExp/prototype/exec/u-captured-value.js:32:1\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/u-captured-value.js","memory_kb":84604,"duration":2871968}
+{"cpu_time":3162000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/RegExp/prototype/exec/u-captured-value.js","memory_kb":83868,"duration":3303973}

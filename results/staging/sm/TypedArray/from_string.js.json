@@ -1,1 +1,1 @@
-{"cpu_time":2632000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at BoundFunction (../../test262/test/staging/sm/TypedArray/from_string.js:15:21)\n","path":"../../test262/test/staging/sm/TypedArray/from_string.js","memory_kb":85244,"duration":2772207}
+{"cpu_time":2923000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at BoundFunction (../../test262/test/staging/sm/TypedArray/from_string.js:15:21)\n","path":"../../test262/test/staging/sm/TypedArray/from_string.js","memory_kb":84504,"duration":3074915}

@@ -1,1 +1,1 @@
-{"cpu_time":2723000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"[object AsyncGeneratorFunction]\"\n","path":"../../test262/test/language/statements/switch/scope-lex-async-generator.js","memory_kb":85624,"duration":2867677}
+{"cpu_time":2616000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"[object AsyncGeneratorFunction]\"\n","path":"../../test262/test/language/statements/switch/scope-lex-async-generator.js","memory_kb":84888,"duration":2780935}
