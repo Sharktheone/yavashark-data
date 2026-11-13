@@ -1,1 +1,1 @@
-{"cpu_time":2202000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/Map/map-no-iterable.js:24:1\n","path":"../../test262/test/built-ins/Map/map-no-iterable.js","memory_kb":85128,"duration":2339373}
+{"cpu_time":1558000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/built-ins/Map/map-no-iterable.js:24:1\n","path":"../../test262/test/built-ins/Map/map-no-iterable.js","memory_kb":85212,"duration":1665955}

@@ -1,1 +1,1 @@
-{"cpu_time":2489000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at call (../../test262/test/staging/sm/Promise/bug-1288382.js:12:1)\n","path":"../../test262/test/staging/sm/Promise/bug-1288382.js","memory_kb":84488,"duration":2605640}
+{"cpu_time":1609000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at call (../../test262/test/staging/sm/Promise/bug-1288382.js:12:1)\n","path":"../../test262/test/staging/sm/Promise/bug-1288382.js","memory_kb":84576,"duration":1717672}

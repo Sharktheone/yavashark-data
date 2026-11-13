@@ -1,1 +1,1 @@
-{"cpu_time":2616000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/is-extensible.js","memory_kb":86276,"duration":2791711}
+{"cpu_time":1441000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/is-extensible.js","memory_kb":85724,"duration":1561948}

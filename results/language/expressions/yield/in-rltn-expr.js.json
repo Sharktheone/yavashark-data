@@ -1,1 +1,1 @@
-{"cpu_time":2361000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at next (../../test262/test/language/expressions/yield/in-rltn-expr.js:26:14)\n","path":"../../test262/test/language/expressions/yield/in-rltn-expr.js","memory_kb":84360,"duration":2513185}
+{"cpu_time":1694000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at next (../../test262/test/language/expressions/yield/in-rltn-expr.js:26:14)\n","path":"../../test262/test/language/expressions/yield/in-rltn-expr.js","memory_kb":84580,"duration":1826000}

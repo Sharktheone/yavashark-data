@@ -1,1 +1,1 @@
-{"cpu_time":2116000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-iee-trlng-comma.js","memory_kb":85512,"duration":2271159}
+{"cpu_time":1506000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/instn-iee-trlng-comma.js","memory_kb":85596,"duration":1619492}

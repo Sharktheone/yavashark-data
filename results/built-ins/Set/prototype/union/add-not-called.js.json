@@ -1,1 +1,1 @@
-{"cpu_time":2401000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/add-not-called.js:23:1\n","path":"../../test262/test/built-ins/Set/prototype/union/add-not-called.js","memory_kb":84488,"duration":2500586}
+{"cpu_time":1624000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/add-not-called.js:23:1\n","path":"../../test262/test/built-ins/Set/prototype/union/add-not-called.js","memory_kb":84580,"duration":1731076}

@@ -1,1 +1,1 @@
-{"cpu_time":2642000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/next/name.js:22:1\n","path":"../../test262/test/built-ins/SetIteratorPrototype/next/name.js","memory_kb":81444,"duration":2755611}
+{"cpu_time":2149000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/SetIteratorPrototype/next/name.js:22:1\n","path":"../../test262/test/built-ins/SetIteratorPrototype/next/name.js","memory_kb":81068,"duration":2234945}

@@ -1,1 +1,1 @@
-{"cpu_time":2322000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Proxy/proxy-__proto__.js:14:1\n","path":"../../test262/test/staging/sm/Proxy/proxy-__proto__.js","memory_kb":85128,"duration":2452854}
+{"cpu_time":1536000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/Proxy/proxy-__proto__.js:14:1\n","path":"../../test262/test/staging/sm/Proxy/proxy-__proto__.js","memory_kb":85216,"duration":1661862}
