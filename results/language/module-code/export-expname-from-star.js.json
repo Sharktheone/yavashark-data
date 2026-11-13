@@ -1,1 +1,1 @@
-{"cpu_time":2961000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-expname-from-star.js","memory_kb":86296,"duration":3199516}
+{"cpu_time":2506000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-expname-from-star.js","memory_kb":86788,"duration":2715461}

@@ -1,1 +1,1 @@
-{"cpu_time":2620000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js:15:1\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js","memory_kb":86296,"duration":2758503}
+{"cpu_time":2145000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: x is not defined\n    at ../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js:15:1\n","path":"../../test262/test/language/expressions/grouping/S11.1.6_A2_T2.js","memory_kb":86788,"duration":2250959}

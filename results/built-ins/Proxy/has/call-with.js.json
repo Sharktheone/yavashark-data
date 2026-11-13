@@ -1,1 +1,1 @@
-{"cpu_time":2505000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: attr is not defined\n    at ../../test262/test/built-ins/Proxy/has/call-with.js:31:3\n","path":"../../test262/test/built-ins/Proxy/has/call-with.js","memory_kb":84888,"duration":2619121}
+{"cpu_time":2352000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: attr is not defined\n    at ../../test262/test/built-ins/Proxy/has/call-with.js:31:3\n","path":"../../test262/test/built-ins/Proxy/has/call-with.js","memory_kb":85128,"duration":2579910}

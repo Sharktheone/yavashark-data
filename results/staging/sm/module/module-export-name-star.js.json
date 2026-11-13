@@ -1,1 +1,1 @@
-{"cpu_time":2609000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/staging/sm/module/module-export-name-star.js","memory_kb":86424,"duration":2821192}
+{"cpu_time":2319000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/staging/sm/module/module-export-name-star.js","memory_kb":86916,"duration":2443354}
