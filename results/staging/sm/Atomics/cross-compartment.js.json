@@ -1,1 +1,1 @@
-{"cpu_time":3577000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid typed array index\n    at ../../test262/test/staging/sm/Atomics/cross-compartment.js:25:3\n","path":"../../test262/test/staging/sm/Atomics/cross-compartment.js","memory_kb":79400,"duration":3750057}
+{"cpu_time":3942000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Invalid typed array index\n    at ../../test262/test/staging/sm/Atomics/cross-compartment.js:25:3\n","path":"../../test262/test/staging/sm/Atomics/cross-compartment.js","memory_kb":79440,"duration":4130596}

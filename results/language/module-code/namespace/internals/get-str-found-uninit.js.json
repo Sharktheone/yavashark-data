@@ -1,1 +1,1 @@
-{"cpu_time":2101000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-found-uninit.js","memory_kb":85148,"duration":2203028}
+{"cpu_time":2370000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-found-uninit.js","memory_kb":85056,"duration":2542022}

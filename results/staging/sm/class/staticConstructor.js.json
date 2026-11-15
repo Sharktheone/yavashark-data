@@ -1,1 +1,1 @@
-{"cpu_time":2281000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/staticConstructor.js:14:1\n","path":"../../test262/test/staging/sm/class/staticConstructor.js","memory_kb":84252,"duration":2473977}
+{"cpu_time":2764000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/staticConstructor.js:14:1\n","path":"../../test262/test/staging/sm/class/staticConstructor.js","memory_kb":84672,"duration":2883560}
