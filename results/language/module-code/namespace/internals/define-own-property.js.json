@@ -1,1 +1,1 @@
-{"cpu_time":2534000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/define-own-property.js","memory_kb":84288,"duration":2675111}
+{"cpu_time":2683000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/define-own-property.js","memory_kb":84560,"duration":2806606}
