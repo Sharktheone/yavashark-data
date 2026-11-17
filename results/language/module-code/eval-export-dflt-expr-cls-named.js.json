@@ -1,1 +1,1 @@
-{"cpu_time":2482000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/eval-export-dflt-expr-cls-named.js","memory_kb":85704,"duration":2614444}
+{"cpu_time":1562000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/eval-export-dflt-expr-cls-named.js","memory_kb":83832,"duration":1632839}

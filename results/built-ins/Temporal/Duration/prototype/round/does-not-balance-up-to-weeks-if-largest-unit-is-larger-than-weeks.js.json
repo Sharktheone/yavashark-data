@@ -1,1 +1,1 @@
-{"cpu_time":9960000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/does-not-balance-up-to-weeks-if-largest-unit-is-larger-than-weeks.js","memory_kb":74092,"duration":10668923}
+{"cpu_time":5564000,"status":"PASS","msg":"PASS:\n undefined\n","path":"../../test262/test/built-ins/Temporal/Duration/prototype/round/does-not-balance-up-to-weeks-if-largest-unit-is-larger-than-weeks.js","memory_kb":70260,"duration":5820403}

@@ -1,1 +1,1 @@
-{"cpu_time":2878000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-not-found.js","memory_kb":85832,"duration":3078583}
+{"cpu_time":1526000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-str-not-found.js","memory_kb":83832,"duration":1637271}

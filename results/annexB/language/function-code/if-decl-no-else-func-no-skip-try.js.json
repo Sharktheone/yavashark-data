@@ -1,1 +1,1 @@
-{"cpu_time":2055000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1775..1783, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/function-code/if-decl-no-else-func-no-skip-try.js","memory_kb":86980,"duration":2184721}
+{"cpu_time":1160000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1775..1783, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/function-code/if-decl-no-else-func-no-skip-try.js","memory_kb":85616,"duration":1251566}

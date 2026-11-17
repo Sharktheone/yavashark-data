@@ -1,1 +1,1 @@
-{"cpu_time":2691000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/Map/iterable.js:30:1\n","path":"../../test262/test/staging/sm/Map/iterable.js","memory_kb":84436,"duration":2875863}
+{"cpu_time":1653000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/Map/iterable.js:30:1\n","path":"../../test262/test/staging/sm/Map/iterable.js","memory_kb":82564,"duration":1747154}
