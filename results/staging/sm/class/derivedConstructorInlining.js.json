@@ -1,1 +1,1 @@
-{"cpu_time":1532000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorInlining.js:10:1\n","path":"../../test262/test/staging/sm/class/derivedConstructorInlining.js","memory_kb":83832,"duration":1622722}
+{"cpu_time":1932000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at ../../test262/test/staging/sm/class/derivedConstructorInlining.js:10:1\n","path":"../../test262/test/staging/sm/class/derivedConstructorInlining.js","memory_kb":85968,"duration":2071485}

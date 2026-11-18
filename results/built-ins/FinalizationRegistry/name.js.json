@@ -1,1 +1,1 @@
-{"cpu_time":2056000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/name.js:26:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/name.js","memory_kb":79336,"duration":2169530}
+{"cpu_time":2668000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: FinalizationRegistry is not defined\n    at ../../test262/test/built-ins/FinalizationRegistry/name.js:26:1\n","path":"../../test262/test/built-ins/FinalizationRegistry/name.js","memory_kb":79880,"duration":2791653}

@@ -1,1 +1,1 @@
-{"cpu_time":1530000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-star-as-dflt.js","memory_kb":83196,"duration":1616059}
+{"cpu_time":1914000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/export-star-as-dflt.js","memory_kb":85840,"duration":2044379}

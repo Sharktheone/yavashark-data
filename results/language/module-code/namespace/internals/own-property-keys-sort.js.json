@@ -1,1 +1,1 @@
-{"cpu_time":1553000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/own-property-keys-sort.js","memory_kb":83196,"duration":1658025}
+{"cpu_time":1987000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/namespace/internals/own-property-keys-sort.js","memory_kb":85840,"duration":2137261}
