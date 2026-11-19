@@ -1,1 +1,1 @@
-{"cpu_time":2641000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: ArrayBuffer is detached\n    at slice (../../test262/test/staging/sm/TypedArray/slice-detached.js:53:9)\n","path":"../../test262/test/staging/sm/TypedArray/slice-detached.js","memory_kb":79880,"duration":2817043}
+{"cpu_time":2664000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: ArrayBuffer is detached\n    at slice (../../test262/test/staging/sm/TypedArray/slice-detached.js:53:9)\n","path":"../../test262/test/staging/sm/TypedArray/slice-detached.js","memory_kb":80404,"duration":2772994}

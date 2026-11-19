@@ -1,1 +1,1 @@
-{"cpu_time":1930000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: y is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-var.js:39:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-var.js","memory_kb":86092,"duration":2052778}
+{"cpu_time":1968000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: y is not defined\n    at ../../test262/test/language/module-code/instn-named-bndng-var.js:39:1\n","path":"../../test262/test/language/module-code/instn-named-bndng-var.js","memory_kb":85872,"duration":2078247}

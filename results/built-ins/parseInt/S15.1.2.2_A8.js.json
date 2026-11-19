@@ -1,1 +1,1 @@
-{"cpu_time":2492000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: #0001-002F  }\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js:32:13\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js","memory_kb":80644,"duration":2648659}
+{"cpu_time":2538000,"status":"FAIL","msg":"FAIL:\n Sloppy: Uncaught: { message: #0001-002F  }\n    at ../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js:32:13\n","path":"../../test262/test/built-ins/parseInt/S15.1.2.2_A8.js","memory_kb":81172,"duration":2681863}

@@ -1,1 +1,1 @@
-{"cpu_time":2020000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-value-string.js","memory_kb":85964,"duration":2191676}
+{"cpu_time":1920000,"status":"FAIL","msg":"FAIL:\n Module: ReferenceError: Module has no default export\n","path":"../../test262/test/language/import/import-attributes/json-value-string.js","memory_kb":86004,"duration":2056231}
