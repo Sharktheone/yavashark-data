@@ -1,1 +1,1 @@
-{"cpu_time":3040000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/regress/regress-636364.js:16:1\n","path":"../../test262/test/staging/sm/regress/regress-636364.js","memory_kb":83704,"duration":3166959}
+{"cpu_time":3702000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/staging/sm/regress/regress-636364.js:16:1\n","path":"../../test262/test/staging/sm/regress/regress-636364.js","memory_kb":84808,"duration":3829221}

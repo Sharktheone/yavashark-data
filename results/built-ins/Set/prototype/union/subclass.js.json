@@ -1,1 +1,1 @@
-{"cpu_time":2150000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass.js","memory_kb":84212,"duration":2282769}
+{"cpu_time":2720000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/built-ins/Set/prototype/union/subclass.js:17:1\n","path":"../../test262/test/built-ins/Set/prototype/union/subclass.js","memory_kb":85444,"duration":2869803}
