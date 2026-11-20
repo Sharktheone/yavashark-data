@@ -1,1 +1,1 @@
-{"cpu_time":31554000,"status":"CRASH","msg":"\nthread 'main' (6632) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/class/superPropChains.js","memory_kb":65888,"duration":817589329}
+{"cpu_time":26330000,"status":"CRASH","msg":"\nthread 'main' (6433) has overflowed its stack\nfatal runtime error: stack overflow, aborting\n","path":"../../test262/test/staging/sm/class/superPropChains.js","memory_kb":59760,"duration":402828799}

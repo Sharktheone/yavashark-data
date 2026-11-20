@@ -1,1 +1,1 @@
-{"cpu_time":2644000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/staging/sm/Proxy/regress-bug950407.js:11:1\n","path":"../../test262/test/staging/sm/Proxy/regress-bug950407.js","memory_kb":85572,"duration":2791467}
+{"cpu_time":1896000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'set' of undefined\n    at ../../test262/test/staging/sm/Proxy/regress-bug950407.js:11:1\n","path":"../../test262/test/staging/sm/Proxy/regress-bug950407.js","memory_kb":84660,"duration":1980234}

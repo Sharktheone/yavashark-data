@@ -1,1 +1,1 @@
-{"cpu_time":2532000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/language/statements/function/S13.2.2_A3_T2.js:26:1\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T2.js","memory_kb":85572,"duration":2645484}
+{"cpu_time":1952000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at ../../test262/test/language/statements/function/S13.2.2_A3_T2.js:26:1\n","path":"../../test262/test/language/statements/function/S13.2.2_A3_T2.js","memory_kb":85300,"duration":2038853}

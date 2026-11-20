@@ -1,1 +1,1 @@
-{"cpu_time":2570000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/emptyList.js:22:1\n","path":"../../test262/test/built-ins/Map/groupBy/emptyList.js","memory_kb":85572,"duration":2695908}
+{"cpu_time":2004000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/emptyList.js:22:1\n","path":"../../test262/test/built-ins/Map/groupBy/emptyList.js","memory_kb":85300,"duration":2108879}
