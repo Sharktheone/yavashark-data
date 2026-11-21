@@ -1,1 +1,1 @@
-{"cpu_time":1742000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/import/import-attributes/text-self.js","memory_kb":85420,"duration":1824350}
+{"cpu_time":2547000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/import/import-attributes/text-self.js","memory_kb":84668,"duration":2670131}

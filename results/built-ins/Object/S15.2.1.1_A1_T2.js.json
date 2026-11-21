@@ -1,1 +1,1 @@
-{"cpu_time":2116000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/built-ins/Object/S15.2.1.1_A1_T2.js:38:3)\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A1_T2.js","memory_kb":83260,"duration":2222200}
+{"cpu_time":2897000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Not implemented\n    at toLocaleString (../../test262/test/built-ins/Object/S15.2.1.1_A1_T2.js:38:3)\n","path":"../../test262/test/built-ins/Object/S15.2.1.1_A1_T2.js","memory_kb":82756,"duration":3064137}

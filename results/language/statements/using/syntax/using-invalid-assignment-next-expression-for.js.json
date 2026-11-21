@@ -1,1 +1,1 @@
-{"cpu_time":1331000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (479..480, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-invalid-assignment-next-expression-for.js","memory_kb":86568,"duration":1406116}
+{"cpu_time":1858000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (479..480, Expected(\";\", \"ident\")) }\n","path":"../../test262/test/language/statements/using/syntax/using-invalid-assignment-next-expression-for.js","memory_kb":85948,"duration":1977878}
