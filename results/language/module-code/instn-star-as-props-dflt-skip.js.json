@@ -1,1 +1,1 @@
-{"cpu_time":2584000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-as-props-dflt-skip.js","memory_kb":85280,"duration":2709408}
+{"cpu_time":2016000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/instn-star-as-props-dflt-skip.js","memory_kb":85996,"duration":2131630}

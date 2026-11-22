@@ -1,1 +1,1 @@
-{"cpu_time":2611000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"[object GeneratorFunction]\"\n","path":"../../test262/test/language/statements/switch/scope-lex-generator.js","memory_kb":84384,"duration":2729994}
+{"cpu_time":2080000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"[object GeneratorFunction]\"\n","path":"../../test262/test/language/statements/switch/scope-lex-generator.js","memory_kb":85868,"duration":2169772}

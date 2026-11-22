@@ -1,1 +1,1 @@
-{"cpu_time":2506000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: No such file or directory (os error 2)\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-source-and-export.js","memory_kb":84384,"duration":2690811}
+{"cpu_time":2068000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: No such file or directory (os error 2)\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/namespace-unambiguous-if-import-source-and-export.js","memory_kb":85868,"duration":2207995}

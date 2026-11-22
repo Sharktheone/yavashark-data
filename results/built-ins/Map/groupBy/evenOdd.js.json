@@ -1,1 +1,1 @@
-{"cpu_time":2587000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/evenOdd.js:16:1\n","path":"../../test262/test/built-ins/Map/groupBy/evenOdd.js","memory_kb":83872,"duration":2739304}
+{"cpu_time":2103000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Map/groupBy/evenOdd.js:16:1\n","path":"../../test262/test/built-ins/Map/groupBy/evenOdd.js","memory_kb":85612,"duration":2212532}

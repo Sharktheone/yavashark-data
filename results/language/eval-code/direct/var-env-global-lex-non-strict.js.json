@@ -1,1 +1,1 @@
-{"cpu_time":2432000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":85280,"duration":2573994}
+{"cpu_time":2093000,"status":"FAIL","msg":"FAIL:\n Sloppy: RuntimeError: Expected error but got \"undefined\"\n","path":"../../test262/test/language/eval-code/direct/var-env-global-lex-non-strict.js","memory_kb":85996,"duration":2230089}

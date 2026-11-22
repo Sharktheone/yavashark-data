@@ -1,1 +1,1 @@
-{"cpu_time":2594000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/RegExp/getter-name.js:11:1\n","path":"../../test262/test/staging/sm/RegExp/getter-name.js","memory_kb":84384,"duration":2753340}
+{"cpu_time":2140000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Cannot read property 'get' of undefined\n    at ../../test262/test/staging/sm/RegExp/getter-name.js:11:1\n","path":"../../test262/test/staging/sm/RegExp/getter-name.js","memory_kb":85868,"duration":2246137}

@@ -1,1 +1,1 @@
-{"cpu_time":2487000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (2..8, ExpectedSemiForExprStmt { expr: 0..1 }) }\n","path":"../../test262/test/language/import/import-attributes/text-string.js","memory_kb":85280,"duration":2613229}
+{"cpu_time":2102000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (2..8, ExpectedSemiForExprStmt { expr: 0..1 }) }\n","path":"../../test262/test/language/import/import-attributes/text-string.js","memory_kb":85996,"duration":2277871}
