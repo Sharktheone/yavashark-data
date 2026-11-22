@@ -1,1 +1,1 @@
-{"cpu_time":2959000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/thisarg-omitted-sloppy.js","memory_kb":81992,"duration":3263473}
+{"cpu_time":2765000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: undefined is not a function\nPASS:\n undefined\n","path":"../../test262/test/built-ins/Array/fromAsync/thisarg-omitted-sloppy.js","memory_kb":83108,"duration":2920831}

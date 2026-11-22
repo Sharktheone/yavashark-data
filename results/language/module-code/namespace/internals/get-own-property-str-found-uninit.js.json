@@ -1,1 +1,1 @@
-{"cpu_time":2590000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-uninit.js","memory_kb":84412,"duration":2743349}
+{"cpu_time":2503000,"status":"FAIL","msg":"FAIL:\n Module: RuntimeError: TODO: handle circular dependencies\n","path":"../../test262/test/language/module-code/namespace/internals/get-own-property-str-found-uninit.js","memory_kb":85280,"duration":2615373}

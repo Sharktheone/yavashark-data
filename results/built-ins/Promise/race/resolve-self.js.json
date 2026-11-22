@@ -1,1 +1,1 @@
-{"cpu_time":2803000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44:1\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":83004,"duration":2926932}
+{"cpu_time":2763000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: undefined is not a function\n    at ../../test262/test/built-ins/Promise/race/resolve-self.js:44:1\n","path":"../../test262/test/built-ins/Promise/race/resolve-self.js","memory_kb":83744,"duration":2926032}

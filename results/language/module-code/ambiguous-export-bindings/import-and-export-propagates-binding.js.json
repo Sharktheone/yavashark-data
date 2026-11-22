@@ -1,1 +1,1 @@
-{"cpu_time":2646000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/import-and-export-propagates-binding.js","memory_kb":83644,"duration":2806647}
+{"cpu_time":2536000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/module-code/ambiguous-export-bindings/import-and-export-propagates-binding.js","memory_kb":84128,"duration":2676006}
