@@ -1,1 +1,1 @@
-{"cpu_time":2130000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Invalid time value\n    at toTemporalInstant (../../test262/test/staging/sm/Date/to-temporal-instant.js:12:13)\n","path":"../../test262/test/staging/sm/Date/to-temporal-instant.js","memory_kb":84592,"duration":2231043}
+{"cpu_time":2754000,"status":"FAIL","msg":"FAIL:\n Sloppy: RangeError: Invalid time value\n    at toTemporalInstant (../../test262/test/staging/sm/Date/to-temporal-instant.js:12:13)\n","path":"../../test262/test/staging/sm/Date/to-temporal-instant.js","memory_kb":83472,"duration":2889879}

@@ -1,1 +1,1 @@
-{"cpu_time":5139000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not a function\n    at ../../test262/test/staging/sm/destructuring/order-super.js:84:5\n","path":"../../test262/test/staging/sm/destructuring/order-super.js","memory_kb":73772,"duration":5820357}
+{"cpu_time":4650000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not a function\n    at ../../test262/test/staging/sm/destructuring/order-super.js:84:5\n","path":"../../test262/test/staging/sm/destructuring/order-super.js","memory_kb":77996,"duration":4793672}

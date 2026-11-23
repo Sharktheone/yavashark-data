@@ -1,1 +1,1 @@
-{"cpu_time":2098000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-expand.js:21:1\n","path":"../../test262/test/language/statements/for-of/set-expand.js","memory_kb":85868,"duration":2204235}
+{"cpu_time":2557000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/language/statements/for-of/set-expand.js:21:1\n","path":"../../test262/test/language/statements/for-of/set-expand.js","memory_kb":84240,"duration":2690959}

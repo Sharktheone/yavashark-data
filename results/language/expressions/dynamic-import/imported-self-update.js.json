@@ -1,1 +1,1 @@
-{"cpu_time":2394000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/expressions/dynamic-import/imported-self-update.js","memory_kb":85868,"duration":2576785}
+{"cpu_time":2521000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Export source is required\n","path":"../../test262/test/language/expressions/dynamic-import/imported-self-update.js","memory_kb":84368,"duration":2665228}
