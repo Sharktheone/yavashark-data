@@ -1,1 +1,1 @@
-{"cpu_time":2481000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1584..1592, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/function-code/if-decl-no-else-func-block-scoping.js","memory_kb":85520,"duration":2628853}
+{"cpu_time":2070000,"status":"PARSE_ERROR","msg":"PARSE_ERROR: Sloppy\nError { error: (1584..1592, DeclNotAllowed) }\n","path":"../../test262/test/annexB/language/function-code/if-decl-no-else-func-block-scoping.js","memory_kb":84212,"duration":2193986}
