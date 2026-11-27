@@ -1,1 +1,1 @@
-{"cpu_time":2559000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: public is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-31-s.js:17:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-31-s.js","memory_kb":83956,"duration":2688615}
+{"cpu_time":1873000,"status":"FAIL","msg":"FAIL:\n Sloppy: ReferenceError: public is not defined\n    at ../../test262/test/language/directive-prologue/10.1.1-31-s.js:17:1\n","path":"../../test262/test/language/directive-prologue/10.1.1-31-s.js","memory_kb":84336,"duration":1972510}

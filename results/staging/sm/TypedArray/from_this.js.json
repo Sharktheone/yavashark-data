@@ -1,1 +1,1 @@
-{"cpu_time":4313000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at from (../../test262/test/staging/sm/TypedArray/from_this.js:30:5)\n","path":"../../test262/test/staging/sm/TypedArray/from_this.js","memory_kb":76552,"duration":4459021}
+{"cpu_time":3752000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Value is not an object\n    at from (../../test262/test/staging/sm/TypedArray/from_this.js:30:5)\n","path":"../../test262/test/staging/sm/TypedArray/from_this.js","memory_kb":77356,"duration":3976377}

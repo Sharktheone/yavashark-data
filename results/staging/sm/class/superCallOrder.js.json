@@ -1,1 +1,1 @@
-{"cpu_time":2581000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/class/superCallOrder.js:13:15)\n","path":"../../test262/test/staging/sm/class/superCallOrder.js","memory_kb":83060,"duration":2742225}
+{"cpu_time":1903000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Expected object, found Null\n    at setPrototypeOf (../../test262/test/staging/sm/class/superCallOrder.js:13:15)\n","path":"../../test262/test/staging/sm/class/superCallOrder.js","memory_kb":83700,"duration":2052128}

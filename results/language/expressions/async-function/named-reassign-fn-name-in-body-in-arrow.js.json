@@ -1,1 +1,1 @@
-{"cpu_time":2923000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot read property 'then' of undefined\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-function/named-reassign-fn-name-in-body-in-arrow.js","memory_kb":80252,"duration":3061777}
+{"cpu_time":2138000,"status":"FAIL","msg":"Test262:AsyncTestFailure:TypeError: Cannot read property 'then' of undefined\nPASS:\n undefined\n","path":"../../test262/test/language/expressions/async-function/named-reassign-fn-name-in-body-in-arrow.js","memory_kb":81032,"duration":2225197}

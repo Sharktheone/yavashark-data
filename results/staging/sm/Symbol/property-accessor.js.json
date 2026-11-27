@@ -1,1 +1,1 @@
-{"cpu_time":3548000,"status":"FAIL","msg":"FAIL:\n Strict: TypeError: Cannot assign to read only property\n    at ../../test262/test/staging/sm/Symbol/property-accessor.js:43:15\n","path":"../../test262/test/staging/sm/Symbol/property-accessor.js","memory_kb":77828,"duration":3673658}
+{"cpu_time":2970000,"status":"FAIL","msg":"FAIL:\n Strict: TypeError: Cannot assign to read only property\n    at ../../test262/test/staging/sm/Symbol/property-accessor.js:43:15\n","path":"../../test262/test/staging/sm/Symbol/property-accessor.js","memory_kb":79780,"duration":3126355}

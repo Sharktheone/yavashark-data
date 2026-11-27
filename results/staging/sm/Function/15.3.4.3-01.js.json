@@ -1,1 +1,1 @@
-{"cpu_time":3050000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at apply (../../test262/test/staging/sm/Function/15.3.4.3-01.js:53:1)\n","path":"../../test262/test/staging/sm/Function/15.3.4.3-01.js","memory_kb":79360,"duration":3194295}
+{"cpu_time":2278000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: expected object\n    at apply (../../test262/test/staging/sm/Function/15.3.4.3-01.js:53:1)\n","path":"../../test262/test/staging/sm/Function/15.3.4.3-01.js","memory_kb":80272,"duration":2367168}

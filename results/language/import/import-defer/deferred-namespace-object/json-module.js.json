@@ -1,1 +1,1 @@
-{"cpu_time":3858000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (13..14, ExpectedSemiForExprStmt { expr: 4..13 }) }\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/json-module.js","memory_kb":77956,"duration":4019414}
+{"cpu_time":2476000,"status":"FAIL","msg":"FAIL:\n Module: SyntaxError: Error { error: (13..14, ExpectedSemiForExprStmt { expr: 4..13 }) }\n","path":"../../test262/test/language/import/import-defer/deferred-namespace-object/json-module.js","memory_kb":79772,"duration":2578153}

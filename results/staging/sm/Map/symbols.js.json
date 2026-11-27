@@ -1,1 +1,1 @@
-{"cpu_time":3550000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/staging/sm/Map/symbols.js:21:1\n","path":"../../test262/test/staging/sm/Map/symbols.js","memory_kb":77188,"duration":3691262}
+{"cpu_time":3315000,"status":"FAIL","msg":"FAIL:\n Sloppy: TypeError: Object is not iterable\n    at ../../test262/test/staging/sm/Map/symbols.js:21:1\n","path":"../../test262/test/staging/sm/Map/symbols.js","memory_kb":78892,"duration":3608698}
